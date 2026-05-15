@@ -1,0 +1,11 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+warrant,warrant,,n.|v.,영장 / 근거,The police had a search warrant.,경찰은 수색 영장이 있었어요.,polysemy_split,(영장),warrant,FALSE
+warrant,warrant,,n.|v.,정당화하다,His action does not warrant this.,그의 행동은 이것을 정당화하지 않아요.,polysemy_split,(정당화하다),warrant,FALSE
+weave,weave,,n.|v.,짜다 / 엮다,She weaves baskets by hand.,그녀는 손으로 바구니를 짜요.,normal,,,FALSE
+weed,weed,,n.|v.,잡초 / 잡초를 뽑다,She weeds the garden every morning.,그녀는 매일 아침 정원의 잡초를 뽑아요.,normal,,,FALSE
+wheat,wheat,,n.,밀,Bread is made from wheat.,빵은 밀로 만들어요.,normal,,,FALSE
+whip,whip,,n.|v.,채찍 / 빠르게 젓다,She whips cream for the cake.,그녀는 케이크를 위해 크림을 저어요.,normal,,,FALSE
+wicked,wicked,,adj.,나쁜 / 사악한,The wicked witch cast a spell.,사악한 마녀가 마법을 걸었어요.,normal,,,FALSE
+wit,wit,,n.,재치,He always speaks with great wit.,그는 항상 재치 있게 말해요.,normal,,,FALSE
+worship,worship,,n.|v.,숭배하다 / 예배하다,They worship at the temple.,그들은 사원에서 예배해요.,normal,,,FALSE
+wreck,wreck,,n.|v.,망가뜨리다 / 잔해,The storm wrecked our boat.,폭풍이 우리 배를 망가뜨렸어요.,normal,,,FALSE
