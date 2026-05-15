@@ -2,7 +2,7 @@ import csv
 import os
 import math
 
-INPUT_FILE = "data/input/master_vocab.csv"
+INPUT_FILE = "data/master_vocab_beginner_adjacent_merged.csv"
 OUTPUT_DIR = "data/batches"
 BATCH_SIZE = 60  # 조절 가능
 
