@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+no,no,,det.|exclam.,아니요 / 없는,"No, I don't want coffee.","아니요, 저는 커피를 원하지 않아요.",function_word,,,FALSE
+well,well,,adj.|adv.|exclam.,잘 / 건강한,She sings very well.,그녀는 노래를 매우 잘해요.,normal,,,FALSE
+because,because,,conj.,왜냐하면 / ~때문에,I stayed home because it rained.,비가 왔기 때문에 집에 있었어요.,function_word,,,FALSE
+very,very,,adv.,매우 / 아주,The soup is very hot.,수프가 매우 뜨거워요.,function_word,,,FALSE
+just,just,,adv.,방금 / 그냥,I just ate dinner.,저는 방금 저녁을 먹었어요.,function_word,,,FALSE
+come,come,,v.,오다,Please come to my house.,우리 집으로 오세요.,normal,,,FALSE
+could,could,,modal v.,~할 수 있었다 / ~해도 될까요,"Could you help me, please?",저를 도와주실 수 있나요?,function_word,,,FALSE
+work,work,,n.|v.,일 / 일하다,She works at a school.,그녀는 학교에서 일해요.,normal,,,FALSE
+use,use,,v.,사용하다,I use a spoon to eat soup.,저는 수프를 먹을 때 숟가락을 사용해요.,normal,,,FALSE
+than,than,,conj.,~보다,She is taller than her sister.,그녀는 언니보다 키가 커요.,function_word,,,FALSE
+now,now,,adv.,지금 / 이제,We can eat now.,이제 우리는 먹을 수 있어요.,function_word,,,FALSE
+then,then,,adv.,그때 / 그러면,We ate lunch and then walked home.,우리는 점심을 먹고 그다음 집까지 걸어갔어요.,function_word,,,FALSE
+also,also,,adv.,또한 / ~도,I like tea. I also like coffee.,저는 차를 좋아해요. 커피도 좋아해요.,function_word,,,FALSE
+into,into,,prep.,~안으로 / ~속으로,She put the bread into the bag.,그녀는 빵을 가방 안에 넣었어요.,function_word,,,FALSE
+only,only,,adj.|adv.,오직 / 단지,I have only one sister.,저는 언니가 한 명뿐이에요.,normal,,,FALSE
+look,look,,v.,보다 / ~처럼 보이다,She looks happy today.,그녀는 오늘 행복해 보여요.,normal,,,FALSE
+want,want,,v.,원하다 / ~하고 싶다,I want a cup of tea.,저는 차 한 잔을 원해요.,normal,,,FALSE
+give,give,,v.,주다,He gave flowers to his mother.,그는 어머니께 꽃을 드렸어요.,normal,,,FALSE
+first,first,,adv.|det.|number,첫 번째 / 먼저,She was the first to arrive.,그녀가 가장 먼저 도착했어요.,normal,,,FALSE
+new,new,,adj.,새로운,I bought a new bag.,저는 새 가방을 샀어요.,normal,,,FALSE
+way,way,,n.,방법 / 길,This is a good way to learn English.,이것은 영어를 배우는 좋은 방법이에요.,normal,,,FALSE
+find,find,,v.,찾다 / 발견하다,I found my keys on the table.,저는 테이블 위에서 열쇠를 찾았어요.,normal,,,FALSE
+over,over,,adv.|prep.,~위에 / 넘어서,The cat jumped over the fence.,고양이가 울타리를 뛰어넘었어요.,function_word,,,FALSE
+any,any,,det.|pron.,어떤 / 조금도,Do you have any questions?,질문이 있으신가요?,function_word,,,FALSE
+after,after,,prep.,~후에 / ~다음에,We walked after dinner.,우리는 저녁 식사 후에 산책했어요.,function_word,,,FALSE
+day,day,,n.,날 / 하루,Today is a sunny day.,오늘은 맑은 날이에요.,normal,,,FALSE
+where,where,,adv.|conj.,어디에 / 어디,Where is my bag?,제 가방이 어디에 있나요?,function_word,,,FALSE
+thing,thing,,n.,것 / 물건,I need a few things at the store.,저는 가게에서 몇 가지 물건이 필요해요.,normal,,,FALSE
+most,most,,adv.|det.|pron.,가장 / 대부분,She eats most of the rice.,그녀는 밥을 대부분 먹어요.,function_word,,,FALSE
+should,should,,modal v.,~해야 한다 / ~하는 게 좋다,You should drink more water.,물을 더 많이 마셔야 해요.,function_word,,,FALSE
+need,need,,v.,필요하다 / ~해야 하다,I need some help.,저는 도움이 좀 필요해요.,normal,,,FALSE
+much,much,,adv.|det.|pron.,많이 / 많은,I don't eat much sugar.,저는 설탕을 많이 먹지 않아요.,function_word,,,FALSE
+right,right,,adj.,올바른 / 맞는,That is the right answer.,그것이 정답이에요.,polysemy_split,(올바른),right,FALSE
+right,right,,adv.,바로 / 오른쪽으로,Turn right at the corner.,모퉁이에서 오른쪽으로 도세요.,polysemy_split,(방향),right,FALSE
+right,right,,n.,권리 / 오른쪽,Everyone has the right to rest.,모든 사람은 쉴 권리가 있어요.,polysemy_split,(권리),right,FALSE
+how,how,,adv.,어떻게 / 얼마나,How are you today?,오늘 어떻게 지내세요?,function_word,,,FALSE
+back,back,,adv.|n.,등 / 뒤로,My back hurts today.,오늘 등이 아파요.,normal,,,FALSE
+mean,mean,,v.,의미하다,What does this word mean?,이 단어는 무슨 뜻인가요?,normal,,,FALSE
+even,even,,adv.,심지어 / ~조차,Even my child can cook rice.,심지어 제 아이도 밥을 지을 수 있어요.,function_word,,,FALSE
+may,May,,n.,5월,Her birthday is in May.,그녀의 생일은 5월이에요.,normal,,,FALSE
+here,here,,adv.,여기에 / 이리로,Please sit here.,여기에 앉으세요.,function_word,,,FALSE
+many,many,,det.|pron.,많은 / 많이,She has many friends.,그녀는 친구가 많아요.,function_word,,,FALSE
+last,last,,det.,지난 / 마지막의,I visited her last week.,저는 지난주에 그녀를 방문했어요.,normal,,,FALSE
+child,child,,n.,아이 / 어린이,The child is eating lunch.,아이가 점심을 먹고 있어요.,normal,,,FALSE
+tell,tell,,v.,말하다 / 알려주다,Please tell me your name.,이름을 알려주세요.,normal,,,FALSE
+really,really,,adv.,정말로 / 매우,This cake is really delicious.,이 케이크는 정말 맛있어요.,normal,,,FALSE
+call,call,,n.|v.,전화 / 전화하다,She got a call from her daughter.,그녀는 딸에게서 전화를 받았어요.,normal,,,FALSE
+before,before,,prep.,~전에,Wash your hands before eating.,먹기 전에 손을 씻으세요.,function_word,,,FALSE
+company,company,,n.,회사 / 함께함,She works at a big company.,그녀는 큰 회사에서 일해요.,normal,,,FALSE
+through,through,,adv.|prep.,~을 통해 / 지나서,We walked through the park.,우리는 공원을 통해 걸어갔어요.,function_word,,,FALSE
+down,down,,adv.|prep.,아래로 / 내려서,She walked down the stairs.,그녀는 계단을 내려갔어요.,function_word,,,FALSE
+show,show,,n.|v.,쇼 / 보여주다,She showed me her new dress.,그녀는 저에게 새 드레스를 보여줬어요.,normal,,,FALSE
+life,life,,n.,삶 / 생명,She lives a happy life.,그녀는 행복한 삶을 살아요.,normal,,,FALSE
+man,man,,n.,남자 / 사람,The man is reading a book.,그 남자는 책을 읽고 있어요.,normal,,,FALSE
+change,change,,n.|v.,변화 / 바꾸다,She changed her dress.,그녀는 옷을 갈아입었어요.,normal,,,FALSE
+place,place,,n.,장소 / 곳,This is a good place to rest.,여기는 쉬기 좋은 장소예요.,normal,,,FALSE
+long,long,,adj.|adv.,긴 / 오래,She has long hair.,그녀는 머리카락이 길어요.,normal,,,FALSE
+between,between,,prep.,~사이에,The cat sat between two chairs.,고양이가 두 의자 사이에 앉았어요.,function_word,,,FALSE
+feel,feel,,v.,느끼다 / ~한 기분이다,I feel happy today.,오늘 기분이 행복해요.,normal,,,FALSE
+too,too,,adv.,너무 / ~도,This bag is too heavy.,이 가방은 너무 무거워요.,function_word,,,FALSE
