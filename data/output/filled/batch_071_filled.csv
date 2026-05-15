@@ -1,0 +1,65 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+fiber,fiber,fibre,n.,섬유 / 식이섬유,Vegetables have a lot of fiber.,채소에는 식이섬유가 많이 들어 있어요.,normal,,,FALSE
+fierce,fierce,,adj.,사나운 / 격렬한,The fierce dog scared the girl.,그 사나운 개가 소녀를 겁먹게 했어요.,normal,,,FALSE
+finite,finite,,adj.,유한한 / 한정된,"Our time is finite, so let's hurry.",우리 시간은 한정되어 있으니 서두릅시다.,normal,,,FALSE
+flavor,flavor,flavour,n.|v.,맛 / 풍미,This soup has a rich flavor.,이 수프는 풍미가 진해요.,normal,,,FALSE
+flaw,flaw,,n.,결점 / 흠,She found a flaw in the cup.,그녀는 컵에서 흠을 발견했어요.,normal,,,FALSE
+flee,flee,,v.,도망치다 / 피하다,The cat fled from the dog.,고양이가 개를 피해 도망쳤어요.,normal,,,FALSE
+flesh,flesh,,n.|v.,살 / 과육,The flesh of this fruit is sweet.,이 과일의 과육은 달콤해요.,normal,,,FALSE
+flip,flip,,adj.|n.|v.,뒤집다 / 홱 넘기다,She flipped the pancake in the pan.,그녀는 팬에서 팬케이크를 뒤집었어요.,normal,,,FALSE
+flock,flock,,n.|v.,(새·양의) 떼 / 떼 지어 모이다,A flock of birds flew over the house.,새 떼가 집 위를 날아갔어요.,normal,,,FALSE
+flourish,flourish,,n.|v.,번성하다 / 잘 자라다,The flowers flourish in spring.,꽃들은 봄에 잘 자라요.,normal,,,FALSE
+flush,flush,,adj.|adv.|n.|v.,얼굴이 붉어지다 / 물을 내리다,She flushed when he looked at her.,그가 쳐다보자 그녀의 얼굴이 붉어졌어요.,polysemy_split,(얼굴 붉어지다),flush,FALSE
+flush,flush,,adj.|adv.|n.|v.,물을 내리다 / 씻어내다,Please flush the toilet after use.,사용 후 변기 물을 내려주세요.,polysemy_split,(물 내리다),flush,FALSE
+fond,fond,,adj.,좋아하는 / 애정 어린,She is fond of her grandchildren.,그녀는 손자들을 매우 좋아해요.,normal,,,FALSE
+forbid,forbid,,v.,금지하다 / 허락하지 않다,The teacher forbids running in the hall.,선생님은 복도에서 뛰는 것을 금지해요.,normal,,,FALSE
+forehead,forehead,,n.,이마,She touched the boy's forehead gently.,그녀는 소년의 이마를 부드럽게 만졌어요.,normal,,,FALSE
+foster,foster,,adj.|v.,위탁 양육하다 / 키우다,They foster two children at home.,그들은 집에서 두 아이를 위탁 양육해요.,normal,,,FALSE
+fountain,fountain,,n.,분수 / 샘,The children played near the fountain.,아이들이 분수 근처에서 놀았어요.,normal,,,FALSE
+fraction,fraction,,n.,일부 / 분수,She ate only a fraction of the cake.,그녀는 케이크의 일부만 먹었어요.,normal,,,FALSE
+frost,frost,,n.|v.,서리 / 서리가 내리다,There was frost on the grass this morning.,오늘 아침 잔디 위에 서리가 내렸어요.,normal,,,FALSE
+frown,frown,,n.|v.,눈살을 찌푸리다 / 찡그린 표정,He frowned when he heard the news.,그는 그 소식을 듣고 눈살을 찌푸렸어요.,normal,,,FALSE
+fulfil,fulfil,,v.,이루다 / 충족시키다,She fulfilled her dream of singing.,그녀는 노래하는 꿈을 이루었어요.,normal,,,FALSE
+funeral,funeral,,n.,장례식,The family gathered for the funeral.,가족들이 장례식을 위해 모였어요.,normal,,,FALSE
+furious,furious,,adj.,몹시 화가 난 / 격렬한,She was furious when he broke her cup.,그가 컵을 깼을 때 그녀는 몹시 화가 났어요.,normal,,,FALSE
+furnish,furnish,,v.,가구를 들여놓다 / 제공하다,They furnished the new room nicely.,그들은 새 방에 가구를 예쁘게 들여놓았어요.,normal,,,FALSE
+fury,fury,,n.,분노 / 격노,He left the room in fury.,그는 분노하며 방을 나갔어요.,normal,,,FALSE
+fuse,fuse,,n.|v.,퓨즈 / 합치다,The fuse burned out last night.,어젯밤에 퓨즈가 끊어졌어요.,polysemy_split,(퓨즈),fuse,FALSE
+fuse,fuse,,n.|v.,합치다 / 녹여 붙이다,The two groups fused into one team.,두 그룹이 하나의 팀으로 합쳐졌어요.,polysemy_split,(합치다),fuse,FALSE
+gamble,gamble,,n.|v.,도박하다 / 모험을 걸다,He gambled all his money away.,그는 돈을 전부 도박으로 날렸어요.,normal,,,FALSE
+gasoline,gasoline,,n.,휘발유 / 가솔린,The car needs more gasoline.,차에 휘발유가 더 필요해요.,normal,,,FALSE
+genius,genius,,n.,천재 / 뛰어난 재능,The boy is a genius at math.,그 소년은 수학에 천재예요.,normal,,,FALSE
+geology,geology,,n.,지질학,She studies geology at school.,그녀는 학교에서 지질학을 공부해요.,normal,,,FALSE
+glare,glare,,n.|v.,노려보다 / 눈부신 빛,She glared at him in anger.,그녀는 화가 나서 그를 노려봤어요.,normal,,,FALSE
+globe,globe,,n.,지구 / 지구본,The girl spun the globe slowly.,소녀가 지구본을 천천히 돌렸어요.,normal,,,FALSE
+glow,glow,,n.|v.,빛나다 / 은은한 빛,The candle glowed in the dark room.,어두운 방에서 촛불이 빛났어요.,normal,,,FALSE
+goat,goat,,n.,염소,The goat ate the grass in the yard.,염소가 마당의 풀을 먹었어요.,normal,,,FALSE
+gradual,gradual,,adj.,점진적인 / 서서히 일어나는,There was a gradual change in the weather.,날씨가 서서히 변했어요.,normal,,,FALSE
+graphic,graphic,,adj.|n.,그래픽의 / 생생한,She is good at graphic design.,그녀는 그래픽 디자인을 잘해요.,normal,,,FALSE
+grasp,grasp,,n.|v.,꽉 잡다 / 이해하다,She grasped her bag tightly.,그녀는 가방을 꽉 잡았어요.,normal,,,FALSE
+grave,grave,,adj.|n.,무덤 / 심각한,She put flowers on his grave.,그녀는 그의 무덤에 꽃을 놓았어요.,polysemy_split,(무덤),grave,FALSE
+grave,grave,,adj.|n.,심각한 / 중대한,The doctor had a grave look on his face.,의사의 표정이 심각했어요.,polysemy_split,(심각한),grave,FALSE
+greed,greed,,n.,탐욕 / 욕심,His greed for money made him unhappy.,돈에 대한 탐욕이 그를 불행하게 만들었어요.,normal,,,FALSE
+grief,grief,,n.,슬픔 / 비통함,She felt deep grief after her loss.,그녀는 상실 후 깊은 슬픔을 느꼈어요.,normal,,,FALSE
+grip,grip,,n.|v.,꽉 잡다 / 장악,He gripped the handle with both hands.,그는 두 손으로 손잡이를 꽉 잡았어요.,normal,,,FALSE
+gross,gross,,adj.|n.|v.,역겨운 / 총계의,Her gross income is quite high.,그녀의 총수입은 꽤 높아요.,polysemy_split,(총계의),gross,FALSE
+gross,gross,,adj.|n.|v.,역겨운 / 심한,That smell is really gross.,그 냄새는 정말 역겨워요.,polysemy_split,(역겨운),gross,FALSE
+guardian,guardian,,n.,보호자 / 후견인,Her guardian signed the school form.,그녀의 보호자가 학교 서류에 서명했어요.,normal,,,FALSE
+gulf,gulf,,n.,만(灣) / 큰 차이,The ship sailed across the gulf.,배가 만을 가로질러 항해했어요.,normal,,,FALSE
+gymnasium,gymnasium,,n.,체육관,The children play in the gymnasium.,아이들이 체육관에서 놀아요.,normal,,,FALSE
+habitat,habitat,,n.,서식지 / 생활 환경,The forest is the bear's natural habitat.,숲은 곰의 자연 서식지예요.,normal,,,FALSE
+half moon,half moon,,n.,반달,We saw a half moon in the sky.,하늘에서 반달을 보았어요.,normal,,,FALSE
+halt,halt,,n.|v.,멈추다 / 정지,The bus came to a halt at the stop.,버스가 정류장에서 멈췄어요.,normal,,,FALSE
+hammer,hammer,,n.|v.,망치 / 망치로 치다,He hammered the nail into the wall.,그는 망치로 벽에 못을 박았어요.,normal,,,FALSE
+handicap,handicap,,n.|v.,장애 / 불리하게 만들다,His handicap did not stop his dreams.,장애가 그의 꿈을 막지 못했어요.,normal,,,FALSE
+harmonious,harmonious,,adj.,조화로운 / 사이좋은,They have a harmonious family life.,그들은 조화로운 가정생활을 해요.,normal,,,FALSE
+harmony,harmony,,n.,조화 / 화합,We live in harmony with our neighbors.,우리는 이웃들과 화합하며 살아요.,normal,,,FALSE
+harsh,harsh,,adj.,가혹한 / 거친,The winter wind is harsh and cold.,겨울바람은 거칠고 차가워요.,normal,,,FALSE
+harvest,harvest,,n.|v.,수확 / 수확하다,The farmers harvested rice in autumn.,농부들이 가을에 쌀을 수확했어요.,normal,,,FALSE
+haunt,haunt,,n.|v.,(귀신이) 출몰하다 / 계속 떠오르다,That sad memory haunts her every night.,그 슬픈 기억이 매일 밤 그녀를 따라다녀요.,normal,,,FALSE
+hazard,hazard,,n.|v.,위험 / 위험을 초래하다,Ice on the road is a hazard.,도로 위의 얼음은 위험해요.,normal,,,FALSE
+headquarters,headquarters,,n.,본부 / 본사,The company's headquarters is in Seoul.,그 회사의 본사는 서울에 있어요.,normal,,,FALSE
+heal,heal,,v.,치유하다 / 낫다,The cut on her hand healed quickly.,손에 난 상처가 빨리 나았어요.,normal,,,FALSE
+heir,heir,,n.,상속인 / 후계자,The boy is the heir to the family home.,그 소년은 가족 집의 상속인이에요.,normal,,,FALSE
+heritage,heritage,,n.,유산 / 전통,We should protect our cultural heritage.,우리는 문화유산을 보호해야 해요.,normal,,,FALSE
+hierarchy,hierarchy,,n.,계층 구조 / 위계질서,There is a clear hierarchy in the office.,사무실에는 명확한 위계질서가 있어요.,normal,,,FALSE

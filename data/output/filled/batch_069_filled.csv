@@ -1,0 +1,63 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+copyright,copyright,,n.|v.,저작권 / 저작권을 보호하다,She owns the copyright to her songs.,그녀는 자신의 노래에 대한 저작권을 가지고 있어요.,normal,,,FALSE
+cord,cord,,n.,줄 / 전선,The cord of the lamp is too short.,램프 전선이 너무 짧아요.,normal,,,FALSE
+corridor,corridor,,n.,복도,The children ran down the corridor.,아이들이 복도를 달려 내려갔어요.,normal,,,FALSE
+corrupt,corrupt,,adj.|v.,부패한 / 부패시키다,The corrupt official took money from people.,그 부패한 공무원은 사람들에게서 돈을 받았어요.,normal,,,FALSE
+counterpart,counterpart,,n.,대응하는 상대 / 짝,She met her counterpart from the other school.,그녀는 다른 학교의 대응하는 상대를 만났어요.,normal,,,FALSE
+coupon,coupon,,n.,쿠폰 / 할인권,She used a coupon to buy bread cheaply.,그녀는 쿠폰을 사용해서 빵을 싸게 샀어요.,normal,,,FALSE
+craze,craze,,n.,열풍 / 유행,There is a craze for yoga in our town.,우리 마을에 요가 열풍이 불고 있어요.,normal,,,FALSE
+credible,credible,,adj.,믿을 수 있는 / 신뢰할 만한,She gave a credible answer to the question.,그녀는 그 질문에 믿을 수 있는 답을 했어요.,normal,,,FALSE
+creep,creep,,n.|v.,살금살금 기다 / 천천히 움직이다,The cat crept slowly across the floor.,고양이가 바닥을 가로질러 살금살금 걸었어요.,normal,,,FALSE
+cruise,cruise,,n.|v.,유람선 여행 / 유람하다,We went on a cruise last summer.,우리는 지난 여름에 유람선 여행을 다녀왔어요.,normal,,,FALSE
+crush,crush,,n.|v.,짝사랑 / 으깨다,She has a crush on the boy next door.,그녀는 옆집 남자아이를 짝사랑하고 있어요.,polysemy_split,(짝사랑),crush,FALSE
+crush,crush,,n.|v.,으깨다 / 눌러 부수다,He crushed the empty can with his hand.,그는 손으로 빈 캔을 으깼어요.,polysemy_split,(으깨다),crush,FALSE
+crystal,crystal,,adj.|n.,수정 / 수정처럼 맑은,The water in the lake is crystal clear.,호수의 물이 수정처럼 맑아요.,normal,,,FALSE
+cultivate,cultivate,,v.,재배하다 / 가꾸다,She cultivates vegetables in her garden.,그녀는 정원에서 채소를 재배해요.,normal,,,FALSE
+curiosity,curiosity,,n.,호기심,The girl looked at the box with curiosity.,그 여자아이는 호기심을 가지고 상자를 바라봤어요.,normal,,,FALSE
+curriculum,curriculum,,n.,교육 과정 / 커리큘럼,English is part of the school curriculum.,영어는 학교 교육 과정의 일부예요.,normal,,,FALSE
+curry,curry,,n.|v.,카레,She cooked curry for dinner tonight.,그녀는 오늘 저녁 식사로 카레를 요리했어요.,normal,,,FALSE
+curse,curse,,n.|v.,저주 / 욕하다,He cursed loudly when he hurt his foot.,그는 발을 다쳤을 때 크게 욕을 했어요.,normal,,,FALSE
+custody,custody,,n.,양육권 / 보호,The mother got custody of her children.,그 어머니는 자녀들의 양육권을 얻었어요.,normal,,,FALSE
+cyclist,cyclist,,n.,자전거 타는 사람,The cyclist stopped at the red light.,자전거 타는 사람이 빨간불에 멈췄어요.,normal,,,FALSE
+cynical,cynical,,adj.,냉소적인,He gave a cynical smile and walked away.,그는 냉소적인 미소를 짓고 걸어갔어요.,normal,,,FALSE
+daddy,daddy,,n.,아빠,"Daddy, can you read me a story?","아빠, 나한테 이야기 읽어줄 수 있어요?",normal,,,FALSE
+dairy,dairy,,adj.|n.,유제품의 / 유제품,She buys dairy products at the market.,그녀는 시장에서 유제품을 사요.,normal,,,FALSE
+damp,damp,,adj.|n.|v.,축축한 / 습기,The clothes are still damp after washing.,세탁 후에도 옷이 아직 축축해요.,normal,,,FALSE
+dash,dash,,n.|v.,달리다 / 돌진하다,She dashed to the door when the bell rang.,벨이 울리자 그녀는 문 쪽으로 달려갔어요.,normal,,,FALSE
+datum,datum,,n.,자료 / 데이터,Each datum in the table is important.,표에 있는 각각의 자료가 중요해요.,normal,,,FALSE
+decay,decay,,n.|v.,썩다 / 부패,The old fruit began to decay quickly.,오래된 과일이 빠르게 썩기 시작했어요.,normal,,,FALSE
+declension,declension,,n.,어형 변화 / 격변화,She studied noun declension in her class.,그녀는 수업에서 명사 어형 변화를 공부했어요.,normal,,,TRUE
+defendant,defendant,,n.,피고 / 피고인,The defendant stood up in the court.,피고인이 법정에서 일어났어요.,normal,,,FALSE
+deficiency,deficiency,,n.,결핍 / 부족,She has a vitamin deficiency and feels tired.,그녀는 비타민이 결핍되어 피로함을 느껴요.,normal,,,FALSE
+delegate,delegate,,n.|v.,대표자 / 위임하다,She was chosen as a delegate for the meeting.,그녀는 회의의 대표자로 선발되었어요.,polysemy_split,(대표자),delegate,FALSE
+delegate,delegate,,n.|v.,위임하다 / 맡기다,He delegated the task to his assistant.,그는 그 일을 조수에게 위임했어요.,polysemy_split,(위임하다),delegate,FALSE
+delete,delete,,v.,삭제하다,She deleted the old photos from her phone.,그녀는 휴대폰에서 오래된 사진들을 삭제했어요.,normal,,,FALSE
+delicate,delicate,,adj.,섬세한 / 연약한,The baby has very delicate skin.,그 아기는 피부가 매우 연약해요.,normal,,,FALSE
+democrat,democrat,,n.,민주주의자 / 민주당원,He is a strong democrat who values freedom.,그는 자유를 소중히 여기는 강한 민주주의자예요.,normal,,,FALSE
+demon,demon,,n.,악마 / 귀신,The boy was scared of the demon in the story.,그 남자아이는 이야기 속의 악마가 무서웠어요.,normal,,,FALSE
+dense,dense,,adj.,빽빽한 / 짙은,There is a dense forest near our house.,우리 집 근처에 빽빽한 숲이 있어요.,normal,,,FALSE
+dependence,dependence,,n.,의존 / 의지,His dependence on coffee is too strong.,그의 커피에 대한 의존도가 너무 강해요.,normal,,,FALSE
+depict,depict,,v.,묘사하다 / 나타내다,The painting depicts a woman in a garden.,그 그림은 정원에 있는 여성을 묘사하고 있어요.,normal,,,FALSE
+deprive,deprive,,v.,빼앗다 / 박탈하다,Loud noise deprived her of sleep at night.,시끄러운 소음이 밤에 그녀의 잠을 빼앗았어요.,normal,,,FALSE
+descend,descend,,v.,내려가다 / 하강하다,She slowly descended the stairs to the kitchen.,그녀는 천천히 계단을 내려가 부엌으로 갔어요.,normal,,,FALSE
+designate,designate,,adj.|v.,지정하다 / 임명하다,This area is designated as a no-smoking zone.,이 구역은 금연 구역으로 지정되어 있어요.,normal,,,FALSE
+despair,despair,,n.|v.,절망 / 절망하다,She felt deep despair after losing her job.,그녀는 일을 잃고 깊은 절망감을 느꼈어요.,normal,,,FALSE
+destine,destine,,v.,운명 지어지다 / 정해지다,She felt destined to become a teacher.,그녀는 선생님이 될 운명이라고 느꼈어요.,normal,,,FALSE
+destiny,destiny,,n.,운명,She believed that meeting him was her destiny.,그녀는 그를 만난 것이 자신의 운명이라고 믿었어요.,normal,,,FALSE
+detach,detach,,v.,분리하다 / 떼어내다,She detached the key from the key ring.,그녀는 열쇠고리에서 열쇠를 떼어냈어요.,normal,,,FALSE
+devil,devil,,n.,악마 / 마귀,The story is about a boy who tricks the devil.,그 이야기는 악마를 속이는 남자아이에 관한 거예요.,normal,,,FALSE
+devise,devise,,v.,고안하다 / 계획하다,She devised a plan to save more money.,그녀는 돈을 더 많이 모을 계획을 고안했어요.,normal,,,FALSE
+diabetes,diabetes,,n.,당뇨병,Her father manages his diabetes with diet.,그녀의 아버지는 식단으로 당뇨병을 관리해요.,normal,,,FALSE
+dictate,dictate,,n.|v.,받아쓰게 하다 / 명령하다,The teacher dictated sentences to the class.,선생님이 학생들에게 받아쓰기를 시켰어요.,normal,,,FALSE
+dignity,dignity,,n.,품위 / 존엄,She spoke with great dignity at the event.,그녀는 행사에서 큰 품위를 갖추고 말했어요.,normal,,,FALSE
+diminish,diminish,,v.,줄어들다 / 약해지다,The pain slowly diminished after she rested.,그녀가 쉬고 나서 통증이 천천히 줄어들었어요.,normal,,,FALSE
+dine,dine,,v.,식사하다,We dined together at a nice restaurant.,우리는 좋은 식당에서 함께 식사했어요.,normal,,,FALSE
+dip,dip,,n.|v.,담그다 / 살짝 넣다,She dipped her bread into the soup.,그녀는 빵을 수프에 살짝 담갔어요.,normal,,,FALSE
+diplomat,diplomat,,n.,외교관,The diplomat visited our country last week.,그 외교관이 지난주에 우리나라를 방문했어요.,normal,,,FALSE
+disabled,disabled,,adj.|n.,장애가 있는 / 장애인,The building has a lift for disabled people.,그 건물에는 장애인을 위한 엘리베이터가 있어요.,normal,,,FALSE
+discharge,discharge,,n.|v.,퇴원시키다 / 방출하다,The doctor discharged her from the hospital.,의사가 그녀를 병원에서 퇴원시켰어요.,normal,,,FALSE
+disclose,disclose,,v.,공개하다 / 밝히다,She disclosed the secret to her best friend.,그녀는 가장 친한 친구에게 비밀을 공개했어요.,normal,,,FALSE
+discourage,discourage,,v.,낙담시키다 / 말리다,His words discouraged her from trying again.,그의 말이 그녀가 다시 도전하는 것을 막았어요.,normal,,,FALSE
+discourse,discourse,,n.|v.,담화 / 논의,The teacher led a discourse on family values.,선생님이 가족 가치관에 대한 담화를 이끌었어요.,normal,,,FALSE
+discriminate,discriminate,,v.,차별하다 / 구별하다,It is wrong to discriminate against others.,다른 사람을 차별하는 것은 잘못된 일이에요.,normal,,,FALSE
+displace,displace,,v.,쫓아내다 / 대체하다,Many families were displaced by the flood.,많은 가족들이 홍수로 집을 잃고 쫓겨났어요.,normal,,,FALSE

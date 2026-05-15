@@ -1,0 +1,65 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+addict,addict,,n.|v.,중독자,He is a sugar addict.,그는 설탕 중독자예요.,normal,(중독자),,FALSE
+addict,addict,,n.|v.,중독되게 하다,She got addicted to coffee.,그녀는 커피에 중독됐어요.,polysemy_split,(중독되게 하다),addict,FALSE
+administer,administer,,v.,관리하다 / 투여하다,The nurse administered the medicine.,간호사가 약을 투여했어요.,normal,,,FALSE
+admission,admission,,n.,입장 / 입학,She got admission to the school.,그녀는 학교에 입학했어요.,normal,,,FALSE
+adolescent,adolescent,,adj.|n.,청소년의 / 청소년,My adolescent son loves music.,제 청소년 아들은 음악을 좋아해요.,normal,,,FALSE
+adverse,adverse,,adj.,불리한 / 나쁜,The adverse weather stopped our trip.,나쁜 날씨가 여행을 막았어요.,normal,,,FALSE
+aesthetic,aesthetic,,adj.|n.,미적인 / 미감,She has a beautiful aesthetic sense.,그녀는 아름다운 미적 감각이 있어요.,normal,,,FALSE
+affection,affection,,n.,애정 / 사랑,She showed affection to her child.,그녀는 아이에게 애정을 보였어요.,normal,,,FALSE
+agriculture,agriculture,,n.,농업,My grandfather worked in agriculture.,할아버지는 농업에 종사하셨어요.,normal,,,FALSE
+alert,alert,,adj.|n.|v.,주의하는 / 경보,The dog is always alert.,그 개는 항상 주의를 기울여요.,normal,(주의하는/경보),,FALSE
+alert,alert,,adj.|n.|v.,알리다 / 경고하다,He alerted us to the danger.,그는 우리에게 위험을 알려줬어요.,polysemy_split,(알리다),alert,FALSE
+alien,alien,,adj.|n.,외국인 / 낯선,The alien food tasted strange to her.,낯선 음식이 그녀에게 이상하게 느껴졌어요.,normal,,,FALSE
+alike,alike,,adj.|adv.,비슷한 / 똑같이,The two sisters look alike.,두 자매는 똑같이 생겼어요.,normal,,,FALSE
+allocate,allocate,,v.,배분하다 / 할당하다,She allocated time for each task.,그녀는 각 일에 시간을 배분했어요.,normal,,,FALSE
+alternate,alternate,,adj.|n.|v.,번갈아 하다 / 교대의,We alternate cooking each day.,우리는 매일 번갈아 요리해요.,normal,,,FALSE
+ambassador,ambassador,,n.,대사 / 사절,She met the ambassador at dinner.,그녀는 저녁 식사에서 대사를 만났어요.,normal,,,FALSE
+ambitious,ambitious,,adj.,야망 있는 / 의욕적인,The girl is very ambitious.,그 소녀는 매우 야망이 있어요.,normal,,,FALSE
+analyse,analyse,,v.,분석하다,She analysed the test results carefully.,그녀는 검사 결과를 주의 깊게 분석했어요.,normal,,,FALSE
+anchor,anchor,,n.|v.,닻 / 닻을 내리다,The boat dropped its anchor.,배가 닻을 내렸어요.,normal,,,FALSE
+apology,apology,,n.,사과,He gave a sincere apology.,그는 진심으로 사과했어요.,normal,,,FALSE
+applicant,applicant,,n.,지원자 / 신청자,She is an applicant for the job.,그녀는 그 일자리의 지원자예요.,normal,,,FALSE
+approximate,approximate,,adj.|v.,대략적인 / 근접하다,"The approximate cost is 10,000 won.",대략적인 비용은 만 원이에요.,normal,,,FALSE
+arrow,arrow,,n.,화살 / 화살표,Follow the arrow on the sign.,표지판의 화살표를 따라가세요.,normal,,,FALSE
+artifice,artifice,,n.,교묘한 속임수 / 술책,He used artifice to win the game.,그는 술책을 써서 게임에 이겼어요.,normal,,,FALSE
+aspire,aspire,,v.,열망하다 / 꿈꾸다,She aspires to be a doctor.,그녀는 의사가 되기를 열망해요.,normal,,,FALSE
+assault,assault,,n.|v.,폭행 / 폭행하다,The police stopped the assault.,경찰이 폭행을 막았어요.,normal,,,FALSE
+assemble,assemble,,v.,모이다 / 조립하다,The family assembled in the living room.,가족이 거실에 모였어요.,normal,,,FALSE
+assert,assert,,v.,주장하다 / 단언하다,She asserted that she was right.,그녀는 자신이 옳다고 주장했어요.,normal,,,FALSE
+astonish,astonish,,v.,깜짝 놀라게 하다,The magic trick astonished the children.,마술이 아이들을 깜짝 놀라게 했어요.,normal,,,FALSE
+atom,atom,,n.,원자,Everything is made of atoms.,모든 것은 원자로 이루어져 있어요.,normal,,,FALSE
+auction,auction,,n.|v.,경매 / 경매하다,She bought a vase at the auction.,그녀는 경매에서 꽃병을 샀어요.,normal,,,FALSE
+authentic,authentic,,adj.,진짜의 / 진품의,This is an authentic Korean dish.,이것은 진짜 한국 음식이에요.,normal,,,FALSE
+avail,avail,,n.|v.,도움이 되다 / 소용,Her effort was of no avail.,그녀의 노력은 아무 소용이 없었어요.,normal,,,FALSE
+await,await,,v.,기다리다,We await your reply.,우리는 당신의 답장을 기다려요.,normal,,,FALSE
+awe,awe,,n.|v.,경외감 / 경외하게 하다,The big mountain filled her with awe.,큰 산이 그녀에게 경외감을 줬어요.,normal,,,FALSE
+bankrupt,bankrupt,,adj.|n.|v.,파산한 / 파산자,The small shop went bankrupt.,작은 가게가 파산했어요.,normal,(파산한/파산자),,FALSE
+bankrupt,bankrupt,,adj.|n.|v.,파산시키다,The debt bankrupted his family.,빚이 그의 가족을 파산시켰어요.,polysemy_split,(파산시키다),bankrupt,FALSE
+bargain,bargain,,n.|v.,싸게 산 물건 / 흥정하다,She found a great bargain at the market.,그녀는 시장에서 싸게 산 물건을 발견했어요.,normal,,,FALSE
+beam,beam,,n.|v.,빛줄기 / 활짝 웃다,A beam of sunlight came through the window.,햇빛 줄기가 창문으로 들어왔어요.,normal,(빛줄기),,FALSE
+beam,beam,,n.|v.,활짝 웃다,She beamed when she saw her gift.,그녀는 선물을 보고 활짝 웃었어요.,polysemy_split,(활짝 웃다),beam,FALSE
+beard,beard,,n.,수염,My grandfather has a long beard.,우리 할아버지는 긴 수염이 있어요.,normal,,,FALSE
+beast,beast,,n.,짐승 / 야수,The beast ran into the forest.,짐승이 숲 속으로 달려갔어요.,normal,,,FALSE
+behalf,behalf,,n.,대신 / 편,She spoke on behalf of her mother.,그녀는 어머니를 대신해서 말했어요.,normal,,,FALSE
+betray,betray,,v.,배신하다 / 드러내다,He betrayed his best friend.,그는 가장 친한 친구를 배신했어요.,normal,,,FALSE
+biography,biography,,n.,전기 / 일대기,She read a biography of the queen.,그녀는 여왕의 전기를 읽었어요.,normal,,,FALSE
+blast,blast,,n.|v.,폭발 / 세게 불다,We heard a loud blast outside.,우리는 밖에서 큰 폭발 소리를 들었어요.,normal,,,FALSE
+blend,blend,,n.|v.,혼합 / 섞다,She blended fruit for a smoothie.,그녀는 스무디를 위해 과일을 섞었어요.,normal,,,FALSE
+blink,blink,,n.|v.,눈을 깜빡이다 / 깜빡임,The baby blinked in the bright light.,아기가 밝은 빛에 눈을 깜빡였어요.,normal,,,FALSE
+blossom,blossom,,n.|v.,꽃 / 꽃이 피다,The cherry trees blossom in spring.,벚꽃 나무는 봄에 꽃이 피어요.,normal,,,FALSE
+bold,bold,,adj.|n.,대담한 / 굵은 글씨,The bold girl spoke first.,대담한 소녀가 먼저 말했어요.,normal,,,FALSE
+breeze,breeze,,n.|v.,산들바람 / 쉽게 해내다,A cool breeze came through the window.,시원한 산들바람이 창문으로 들어왔어요.,normal,,,FALSE
+brutal,brutal,,adj.,잔인한 / 가혹한,The brutal cold made us stay inside.,가혹한 추위에 우리는 안에 있었어요.,normal,,,FALSE
+brute,brute,,adj.|n.,짐승 / 무식한,He acted like a brute at dinner.,그는 저녁 식사에서 짐승처럼 행동했어요.,normal,,,FALSE
+bulk,bulk,,n.|v.,대부분 / 큰 덩어리,The bulk of the food was rice.,음식의 대부분은 쌀이었어요.,normal,,,FALSE
+bull,bull,,n.,황소,The bull ran across the field.,황소가 들판을 가로질러 달렸어요.,normal,,,FALSE
+bully,bully,,n.|v.,괴롭히다 / 불량배,The boy was bullied at school.,그 남자아이는 학교에서 괴롭힘을 당했어요.,normal,,,FALSE
+bundle,bundle,,n.|v.,묶음 / 묶다,She carried a bundle of clothes.,그녀는 옷 묶음을 들고 갔어요.,normal,,,FALSE
+butcher,butcher,,n.|v.,정육점 주인 / 도살하다,The butcher cut the meat for us.,정육점 주인이 우리를 위해 고기를 잘라줬어요.,normal,,,FALSE
+buzz,buzz,,n.|v.,윙윙거리다 / 웅성거림,A bee buzzed near my ear.,벌이 내 귀 근처에서 윙윙거렸어요.,normal,,,FALSE
+calculator,calculator,,n.,계산기,She used a calculator for the math.,그녀는 수학에 계산기를 사용했어요.,normal,,,FALSE
+canvas,canvas,,n.|v.,캔버스 / 천,She painted flowers on the canvas.,그녀는 캔버스에 꽃을 그렸어요.,normal,,,FALSE
+carve,carve,,v.,조각하다 / 새기다,He carved a bird from wood.,그는 나무로 새를 조각했어요.,normal,,,FALSE
+casual,casual,,adj.|n.,평상시의 / 편안한,She wore casual clothes at home.,그녀는 집에서 편안한 옷을 입었어요.,normal,,,FALSE
+cater,cater,,v.,음식을 공급하다 / 욕구를 채워주다,She catered food for the party.,그녀는 파티를 위해 음식을 공급했어요.,normal,,,FALSE

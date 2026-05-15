@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+cattle,cattle,,n.,소 / 가축,The cattle eat grass in the field.,소들이 들판에서 풀을 먹는다.,normal,,,FALSE
+causal,causal,,adj.,원인의 / 인과관계의,There is a causal link between the two.,그 둘 사이에는 인과관계가 있다.,normal,,,FALSE
+caution,caution,,n.|v.,조심 / 경고하다,She walked with caution on the ice.,그녀는 얼음 위를 조심스럽게 걸었다.,normal,,,FALSE
+cave,cave,,n.|v.,동굴 / 무너지다,The children played near the cave.,아이들이 동굴 근처에서 놀았다.,normal,,,FALSE
+cease,cease,,n.|v.,멈추다 / 중단,The rain ceased in the morning.,아침에 비가 그쳤다.,normal,,,FALSE
+censor,censor,,n.|v.,검열관 / 검열하다,They censored the news report.,그들은 뉴스 보도를 검열했다.,normal,,,FALSE
+certificate,certificate,,n.|v.,증명서 / 자격증,She got a certificate from her school.,그녀는 학교에서 수료증을 받았다.,normal,,,FALSE
+chaos,chaos,,n.,혼란 / 무질서,There was chaos in the classroom.,교실이 혼란스러웠다.,normal,,,FALSE
+chill,chill,,adj.|n.|v.,차가운 / 냉기,I felt a chill in the morning air.,아침 공기에서 냉기를 느꼈다.,normal,,,FALSE
+chin,chin,,n.,턱,She rested her chin on her hand.,그녀는 손에 턱을 괴었다.,normal,,,FALSE
+choir,choir,,n.,합창단 / 성가대,She sings in the school choir.,그녀는 학교 합창단에서 노래한다.,normal,,,FALSE
+chorus,chorus,,n.|v.,합창 / 후렴구,We all sang the chorus together.,우리 모두 후렴구를 함께 불렀다.,normal,,,FALSE
+chronic,chronic,,adj.,만성적인 / 오래된,He has chronic back pain.,그는 만성 허리 통증이 있다.,normal,,,FALSE
+circulate,circulate,,v.,순환하다 / 퍼뜨리다,Blood circulates through the body.,혈액이 몸 전체를 순환한다.,normal,,,FALSE
+clap,clap,,n.|v.,박수 / 박수치다,We clapped after the show.,우리는 공연이 끝난 후 박수쳤다.,normal,,,FALSE
+clarify,clarify,,v.,명확히 하다 / 설명하다,She clarified her answer for us.,그녀는 우리에게 자신의 답을 명확히 설명했다.,normal,,,FALSE
+clash,clash,,n.|v.,충돌 / 충돌하다,The two boys clashed on the street.,두 소년이 길에서 충돌했다.,normal,,,FALSE
+classify,classify,,v.,분류하다,She classified the books by color.,그녀는 책을 색깔별로 분류했다.,normal,,,FALSE
+clay,clay,,n.,점토 / 찰흙,The girl made a pot from clay.,그 소녀는 찰흙으로 그릇을 만들었다.,normal,,,FALSE
+cling,cling,,v.,매달리다 / 달라붙다,The child clung to her mother.,아이가 엄마에게 매달렸다.,normal,,,FALSE
+clinic,clinic,,n.,병원 / 진료소,She went to the clinic for a check.,그녀는 검진을 받으러 진료소에 갔다.,normal,,,FALSE
+coincide,coincide,,v.,동시에 일어나다 / 일치하다,Our holidays coincide this year.,우리의 휴가가 올해 겹친다.,normal,,,FALSE
+collaborate,collaborate,,v.,협력하다 / 함께 작업하다,We collaborated on the school project.,우리는 학교 프로젝트에서 협력했다.,normal,,,FALSE
+collar,collar,,n.|v.,칼라 / 목 부분,He fixed his shirt collar in the mirror.,그는 거울 앞에서 셔츠 칼라를 고쳤다.,normal,,,FALSE
+colony,colony,,n.,식민지 / 집단 거주지,The country was once a colony.,그 나라는 한때 식민지였다.,normal,,,FALSE
+combat,combat,,n.|v.,전투 / 싸우다,The soldiers trained for combat.,병사들이 전투를 위해 훈련했다.,normal,,,FALSE
+commodity,commodity,,n.,상품 / 물자,Rice is an important commodity here.,쌀은 여기서 중요한 상품이다.,normal,,,FALSE
+communist,communist,,adj.|n.,공산주의의 / 공산주의자,He studied communist history in school.,그는 학교에서 공산주의 역사를 공부했다.,normal,,,FALSE
+companion,companion,,n.,동반자 / 친구,She is my travel companion.,그녀는 나의 여행 동반자이다.,normal,,,FALSE
+compatible,compatible,,adj.,잘 맞는 / 호환되는,We are very compatible as friends.,우리는 친구로서 잘 맞는다.,normal,,,FALSE
+compel,compel,,v.,강요하다 / 억지로 시키다,She was compelled to tell the truth.,그녀는 진실을 말하도록 강요받았다.,normal,,,FALSE
+compensate,compensate,,v.,보상하다 / 보충하다,He compensated her for the lost bag.,그는 그녀의 잃어버린 가방에 대해 보상했다.,normal,,,FALSE
+competent,competent,,adj.,능력 있는 / 유능한,She is a very competent teacher.,그녀는 매우 유능한 선생님이다.,normal,,,FALSE
+compile,compile,,v.,편집하다 / 모아서 정리하다,She compiled a list of good recipes.,그녀는 좋은 요리법 목록을 정리했다.,normal,,,FALSE
+complement,complement,,n.|v.,보완하다 / 잘 어울리다,The sauce complements the dish well.,그 소스는 요리와 잘 어울린다.,normal,,,FALSE
+comprehend,comprehend,,v.,이해하다,I could not comprehend the long text.,나는 긴 글을 이해할 수 없었다.,normal,,,FALSE
+conceal,conceal,,v.,숨기다 / 감추다,She concealed the gift behind her back.,그녀는 등 뒤에 선물을 숨겼다.,normal,,,FALSE
+conceive,conceive,,v.,생각해 내다 / 임신하다,She conceived a great idea at home.,그녀는 집에서 좋은 아이디어를 생각해 냈다.,polysemy_split,(생각하다),conceive,FALSE
+conceive,conceive,,v.,임신하다,She was happy when she conceived.,그녀는 임신했을 때 행복했다.,polysemy_split,(임신하다),conceive,FALSE
+condemn,condemn,,v.,비난하다 / 유죄 판결을 내리다,People condemned his bad behavior.,사람들은 그의 나쁜 행동을 비난했다.,normal,,,FALSE
+confer,confer,,v.,상의하다 / 수여하다,They conferred before making a decision.,그들은 결정을 내리기 전에 상의했다.,normal,,,FALSE
+confess,confess,,v.,고백하다 / 자백하다,He confessed that he ate the cake.,그는 케이크를 먹었다고 고백했다.,normal,,,FALSE
+confide,confide,,v.,털어놓다 / 비밀을 말하다,She confided in her best friend.,그녀는 가장 친한 친구에게 속마음을 털어놓았다.,normal,,,FALSE
+confine,confine,,n.|v.,가두다 / 제한하다,The dog was confined to the yard.,개는 마당에 갇혀 있었다.,normal,,,FALSE
+conform,conform,,v.,따르다 / 순응하다,She conformed to the school rules.,그녀는 학교 규칙을 따랐다.,normal,,,FALSE
+confront,confront,,v.,맞서다 / 직면하다,She confronted her fear of the dark.,그녀는 어둠에 대한 두려움과 맞섰다.,normal,,,FALSE
+conscience,conscience,,n.,양심,He felt bad in his conscience.,그는 양심에 가책을 느꼈다.,normal,,,FALSE
+consent,consent,,n.|v.,동의 / 동의하다,She gave her consent to the plan.,그녀는 그 계획에 동의했다.,normal,,,FALSE
+conserve,conserve,,v.,보존하다 / 아껴 쓰다,We should conserve water at home.,우리는 집에서 물을 아껴 써야 한다.,normal,,,FALSE
+constitution,constitution,,n.,헌법 / 체질,The country has a strong constitution.,그 나라는 강력한 헌법을 가지고 있다.,normal,,,FALSE
+constrain,constrain,,v.,제한하다 / 억제하다,She felt constrained by the rules.,그녀는 규칙에 의해 제한받는 느낌이었다.,normal,,,FALSE
+consumption,consumption,,n.,소비 / 소비량,Our water consumption is too high.,우리의 물 소비량이 너무 많다.,normal,,,FALSE
+contend,contend,,v.,주장하다 / 싸우다,She contended that she was right.,그녀는 자신이 옳다고 주장했다.,normal,,,FALSE
+contradict,contradict,,v.,반박하다 / 모순되다,He contradicted what she said.,그는 그녀가 말한 것을 반박했다.,normal,,,FALSE
+contrary,contrary,,adj.|adv.|n.,반대의 / 반대로,"Contrary to my plan, it rained.",내 계획과 반대로 비가 내렸다.,normal,,,FALSE
+controversy,controversy,,n.,논란 / 논쟁,The news caused a lot of controversy.,그 뉴스는 많은 논란을 일으켰다.,normal,,,FALSE
+convene,convene,,v.,소집하다 / 모이다,They convened a meeting on Monday.,그들은 월요일에 회의를 소집했다.,normal,,,FALSE
+convey,convey,,v.,전달하다 / 나르다,She conveyed the message to her mother.,그녀는 엄마에게 메시지를 전달했다.,normal,,,FALSE
+convict,convict,,n.|v.,유죄 판결을 받은 사람 / 유죄로 판결하다,He was convicted of stealing food.,그는 음식을 훔친 것으로 유죄 판결을 받았다.,normal,,,FALSE
+cooperate,cooperate,,v.,협력하다 / 협조하다,We cooperated to clean the house.,우리는 집을 청소하기 위해 협력했다.,normal,,,FALSE
+coordinate,coordinate,,adj.|n.|v.,조율하다 / 조정하다,She coordinated the family trip plans.,그녀는 가족 여행 계획을 조율했다.,normal,,,FALSE
