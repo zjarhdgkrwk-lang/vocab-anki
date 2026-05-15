@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+the,the,,definite article,"그, 그 ~",The dog is cute.,그 개는 귀여워요.,function_word,,,FALSE
+be,be,,auxiliary v.|v.,~이다 / ~있다,I am happy.,저는 행복해요.,function_word,,,FALSE
+and,and,,conj.,그리고,I like cats and dogs.,저는 고양이와 개를 좋아해요.,normal,,,FALSE
+of,of,,prep.,~의,She drinks a glass of water.,그녀는 물 한 잔을 마셔요.,function_word,,,FALSE
+to,to,,infinitive marker|prep.,~에 / ~하기 위해,I want to eat.,저는 먹고 싶어요.,function_word,,,FALSE
+a,a,an,indefinite article,하나의 / 어떤 ~,I have a dog.,저는 개 한 마리가 있어요.,function_word,,,FALSE
+in,in,,adv.|prep.,~안에 / ~에서,She is in the kitchen.,그녀는 부엌에 있어요.,function_word,,,FALSE
+have,have,,v.,가지다 / 먹다(식사),I have a cat.,저는 고양이가 있어요.,function_word,,,FALSE
+it,IT,,pron.,그것 / (날씨·시간 주어),It is cold today.,오늘은 추워요.,function_word,,,FALSE
+you,you,,pron.,당신 / 너,You are my friend.,당신은 제 친구예요.,normal,,,FALSE
+he,he,,pron.,그 (남자),He is my brother.,그는 제 오빠예요.,normal,,,FALSE
+for,for,,prep.,~을 위해 / ~동안,This is for you.,이건 당신을 위한 거예요.,function_word,,,FALSE
+they,they,,pron.,그들,They are my friends.,그들은 제 친구예요.,normal,,,FALSE
+not,not,,adv.,~않다 / ~아니다,I am not tired.,저는 피곤하지 않아요.,normal,,,FALSE
+that,that,,conj.|det.|pron.,저 ~ / 그것,That is my book.,저건 제 책이에요.,function_word,,,FALSE
+we,we,,pron.,우리,We eat together.,우리는 함께 먹어요.,normal,,,FALSE
+on,on,,adv.|prep.,~위에 / ~에(날짜·요일),The book is on the table.,책이 탁자 위에 있어요.,function_word,,,FALSE
+with,with,,prep.,~와 함께 / ~로,I eat with my family.,저는 가족과 함께 먹어요.,function_word,,,FALSE
+this,this,,det.|pron.,이것 / 이 ~,This is my bag.,이건 제 가방이에요.,function_word,,,FALSE
+i,I,,pron.,나 / 저,I love my family.,저는 가족을 사랑해요.,normal,,,FALSE
+do,do,,auxiliary v.|v.,~하다 / (의문·부정 조동사),Do you like fish?,생선 좋아해요?,function_word,,,FALSE
+as,as,,prep.,~로서 / ~처럼,She works as a teacher.,그녀는 선생님으로 일해요.,function_word,,,FALSE
+at,at,,prep.,~에(장소·시간),She is at home.,그녀는 집에 있어요.,function_word,,,FALSE
+she,she,,pron.,그녀,She is my sister.,그녀는 제 언니예요.,normal,,,FALSE
+but,but,,conj.,하지만 / 그런데,"I like cats, but he likes dogs.","저는 고양이를 좋아하지만, 그는 개를 좋아해요.",normal,,,FALSE
+from,from,,prep.,~에서 / ~부터,He is from Korea.,그는 한국에서 왔어요.,function_word,,,FALSE
+by,by,,prep.,~옆에 / ~에 의해,Sit by me.,제 옆에 앉아요.,function_word,,,FALSE
+will,will,,modal v.,~할 거예요,I will go home.,저는 집에 갈 거예요.,function_word,,,FALSE
+or,or,,conj.,또는 / 아니면,Tea or coffee?,"차요, 아니면 커피요?",normal,,,FALSE
+say,say,,v.,말하다,She says hello.,그녀는 안녕이라고 말해요.,normal,,,FALSE
+go,go,,v.,가다,I go to school.,저는 학교에 가요.,normal,,,FALSE
+so,so,,adv.|conj.,그래서 / 매우,"I am tired, so I sleep.",피곤해서 자요.,normal,,,FALSE
+all,all,,det.|pron.,모든 / 전부,All students are here.,모든 학생이 여기 있어요.,function_word,,,FALSE
+if,if,,conj.,만약 ~라면,"If it rains, we stay home.",비가 오면 집에 있어요.,normal,,,FALSE
+one,one,,det.|number|pron.,하나의 / 한 명,I have one sister.,저는 언니가 한 명 있어요.,function_word,,,FALSE
+would,would,,modal v.,~하겠어요 / ~하고 싶어요,I would like some tea.,차를 마시고 싶어요.,function_word,,,FALSE
+about,about,,adv.|prep.,~에 대해 / 약,Tell me about your family.,가족에 대해 말해줘요.,normal,,,FALSE
+can,can,,modal v.,~할 수 있다,She can swim.,그녀는 수영할 수 있어요.,function_word,,,FALSE
+which,which,,det.|pron.,어느 / 어떤 것,Which bag is yours?,어느 가방이 당신 거예요?,function_word,,,FALSE
+there,there,,adv.,거기에 / ~이 있다,There is a cat.,고양이 한 마리가 있어요.,function_word,,,FALSE
+know,know,,v.,알다,I know her name.,저는 그녀의 이름을 알아요.,normal,,,FALSE
+more,more,,adv.|det.|pron.,더 / 더 많은,I want more rice.,밥을 더 먹고 싶어요.,normal,,,FALSE
+get,get,,v.,얻다 / 받다,I got a gift.,저는 선물을 받았어요.,normal,,,FALSE
+who,who,,pron.,누가 / 누구,Who is she?,그녀는 누구예요?,function_word,,,FALSE
+like,like,,prep.,~처럼,She sings like a bird.,그녀는 새처럼 노래해요.,polysemy_split,(~처럼),like,FALSE
+like,like,,v.,좋아하다,I like apples.,저는 사과를 좋아해요.,polysemy_split,(좋아하다),like,FALSE
+when,when,,adv.|conj.|pron.,언제 / ~할 때,When do you eat?,언제 밥 먹어요?,function_word,,,FALSE
+think,think,,v.,생각하다,I think she is kind.,그녀가 친절하다고 생각해요.,normal,,,FALSE
+make,make,,v.,만들다,She makes dinner.,그녀는 저녁을 만들어요.,normal,,,FALSE
+time,time,,n.,시간 / 번,What time is it?,지금 몇 시예요?,normal,,,FALSE
+see,see,,v.,보다,I see a bird.,저는 새를 봐요.,normal,,,FALSE
+what,what,,det.|pron.,무엇 / 어떤,What do you want?,무엇을 원해요?,function_word,,,FALSE
+up,up,,adv.|prep.,위로 / 위에,She looks up at the sky.,그녀는 하늘을 올려다봐요.,normal,,,FALSE
+some,some,,det.|pron.,몇몇 / 약간의,I want some water.,물을 좀 원해요.,function_word,,,FALSE
+other,other,,adj.|pron.,다른 / 나머지,I like other foods too.,저는 다른 음식도 좋아해요.,function_word,,,FALSE
+out,out,,adv.|prep.,밖으로 / 밖에,He goes out.,그는 밖에 나가요.,normal,,,FALSE
+good,good,,adj.,좋은,She is a good cook.,그녀는 요리를 잘해요.,normal,,,FALSE
+people,people,,n.,사람들,Many people eat here.,많은 사람들이 여기서 먹어요.,normal,,,FALSE
+year,year,,n.,해 / 년,I am ten years old.,저는 열 살이에요.,normal,,,FALSE
+take,take,,v.,가져가다 / 타다,Take this bag.,이 가방을 가져가요.,normal,,,FALSE
