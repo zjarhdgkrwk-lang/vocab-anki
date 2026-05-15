@@ -1,0 +1,67 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+horizon,horizon,,n.,지평선 / 수평선,The sun sets below the horizon.,태양이 지평선 아래로 집니다.,normal,,,FALSE
+hostile,hostile,,adj.,적대적인 / 냉랭한,He gave me a hostile look.,그는 나에게 적대적인 눈빛을 보냈습니다.,normal,,,FALSE
+hut,hut,,n.,오두막 / 작은 집,They slept in a small hut.,그들은 작은 오두막에서 잠을 잤습니다.,normal,,,FALSE
+identical,identical,,adj.,똑같은 / 동일한,The twins wore identical dresses.,쌍둥이가 똑같은 드레스를 입었습니다.,normal,,,FALSE
+ideology,ideology,,n.,이념 / 사상,They share the same ideology.,그들은 같은 이념을 공유합니다.,normal,,,FALSE
+illusion,illusion,,n.,착각 / 환상,The mirror created an illusion of space.,거울이 공간의 착각을 만들어냈습니다.,normal,,,FALSE
+imitate,imitate,,v.,흉내 내다 / 모방하다,The boy imitated his father's walk.,그 소년은 아버지의 걸음걸이를 흉내 냈습니다.,normal,,,FALSE
+immense,immense,,adj.,엄청난 / 거대한,She felt immense joy at the news.,그녀는 그 소식에 엄청난 기쁨을 느꼈습니다.,normal,,,FALSE
+immigrate,immigrate,,v.,이민 오다,Her family immigrated to Canada.,그녀의 가족은 캐나다로 이민을 왔습니다.,normal,,,FALSE
+immune,immune,,adj.,면역이 있는 / 영향을 받지 않는,She is immune to that disease.,그녀는 그 병에 면역이 있습니다.,normal,,,FALSE
+imperial,imperial,,adj.,제국의 / 황제의,We visited the imperial palace.,우리는 황제의 궁전을 방문했습니다.,normal,,,FALSE
+incline,incline,,n.|v.,경사면,The road has a steep incline.,그 도로는 경사가 가파릅니다.,polysemy_split,(경사면),incline,FALSE
+incline,incline,,n.|v.,마음이 기울다 / ~하고 싶어지다,I incline to agree with her.,나는 그녀의 말에 동의하고 싶어집니다.,polysemy_split,(마음이 기울다),incline,FALSE
+induce,induce,,v.,유도하다 / 유발하다,The doctor induced sleep with medicine.,의사가 약으로 수면을 유도했습니다.,normal,,,FALSE
+inevitable,inevitable,,adj.,피할 수 없는 / 불가피한,Change is inevitable in life.,삶에서 변화는 피할 수 없습니다.,normal,,,FALSE
+infect,infect,,v.,감염시키다,The cold infected the whole family.,감기가 온 가족을 감염시켰습니다.,normal,,,FALSE
+infer,infer,,v.,추론하다 / 추측하다,She inferred that he was tired.,그녀는 그가 피곤하다고 추론했습니다.,normal,,,FALSE
+inference,inference,,n.,추론 / 결론,His inference was correct.,그의 추론은 맞았습니다.,normal,,,FALSE
+inflate,inflate,,v.,부풀리다 / 팽창시키다,He inflated the balloon for the party.,그는 파티를 위해 풍선을 부풀렸습니다.,normal,,,FALSE
+inhabit,inhabit,,v.,살다 / 거주하다,Many birds inhabit this forest.,많은 새들이 이 숲에 살고 있습니다.,normal,,,FALSE
+inherent,inherent,,adj.,타고난 / 본래 갖춘,She has an inherent talent for music.,그녀는 음악에 타고난 재능이 있습니다.,normal,,,FALSE
+inhibit,inhibit,,v.,억제하다 / 방해하다,Fear inhibited her from speaking.,두려움이 그녀가 말하는 것을 억제했습니다.,normal,,,FALSE
+inject,inject,,v.,주사하다 / 주입하다,The nurse injected medicine into his arm.,간호사가 그의 팔에 약을 주사했습니다.,normal,,,FALSE
+inn,inn,,n.,여관 / 작은 호텔,We stayed at a small inn.,우리는 작은 여관에 묵었습니다.,normal,,,FALSE
+innovate,innovate,,v.,혁신하다 / 새로운 것을 만들다,The company always tries to innovate.,그 회사는 항상 혁신하려고 노력합니다.,normal,,,FALSE
+inquire,inquire,enquire,v.,묻다 / 문의하다,She inquired about the bus schedule.,그녀는 버스 시간표에 대해 문의했습니다.,normal,,,FALSE
+insert,insert,,n.|v.,끼워 넣다 / 삽입하다,Please insert the card here.,여기에 카드를 끼워 넣으세요.,normal,,,FALSE
+instinct,instinct,,n.,본능,Mothers have a strong protective instinct.,엄마들은 강한 보호 본능이 있습니다.,normal,,,FALSE
+insult,insult,,n.|v.,모욕 / 무례한 말,That remark was a real insult.,그 말은 정말 모욕적이었습니다.,polysemy_split,"(모욕, 명사)",insult,FALSE
+insult,insult,,n.|v.,모욕하다 / 무례하게 대하다,He insulted her in front of everyone.,그는 모든 사람 앞에서 그녀를 모욕했습니다.,polysemy_split,"(모욕하다, 동사)",insult,FALSE
+intellect,intellect,,n.,지성 / 지적 능력,She is a person of great intellect.,그녀는 대단한 지성을 가진 사람입니다.,normal,,,FALSE
+interact,interact,,v.,교류하다 / 상호작용하다,The children interact well with each other.,아이들이 서로 잘 교류합니다.,normal,,,FALSE
+interfere,interfere,,v.,간섭하다 / 방해하다,Please do not interfere in my work.,내 일에 간섭하지 마세요.,normal,,,FALSE
+intermediate,intermediate,,adj.|n.,중간의 / 중급의,She is in the intermediate English class.,그녀는 중급 영어 수업을 듣고 있습니다.,normal,,,FALSE
+interval,interval,,n.,간격 / 사이,There is a short interval between classes.,수업 사이에 짧은 간격이 있습니다.,normal,,,FALSE
+intervene,intervene,,v.,개입하다 / 끼어들다,The teacher intervened in the argument.,선생님이 말다툼에 개입했습니다.,normal,,,FALSE
+intimate,intimate,,adj.|n.|v.,친밀한 / 가까운,She talked with her intimate friend.,그녀는 친밀한 친구와 이야기했습니다.,normal,,,TRUE
+intrigue,intrigue,,n.|v.,흥미를 끌다,The old story intrigued me.,그 오래된 이야기가 내 흥미를 끌었습니다.,polysemy_split,"(흥미를 끌다, 동사)",intrigue,FALSE
+intrigue,intrigue,,n.|v.,음모 / 모략,The palace was full of intrigue.,궁궐은 음모로 가득했습니다.,polysemy_split,"(음모, 명사)",intrigue,FALSE
+invade,invade,,v.,침략하다 / 침범하다,The army invaded the small town.,군대가 작은 마을을 침략했습니다.,normal,,,FALSE
+inventor,inventor,,n.,발명가,He is the inventor of that machine.,그는 그 기계의 발명가입니다.,normal,,,FALSE
+irony,irony,,n.,아이러니 / 반어,The irony is that she arrived late.,아이러니하게도 그녀는 늦게 도착했습니다.,normal,,,FALSE
+irritate,irritate,,v.,짜증나게 하다 / 자극하다,The noise irritated me all day.,그 소음이 하루 종일 나를 짜증나게 했습니다.,normal,,,FALSE
+jar,jar,,n.|v.,유리병,She put jam in a glass jar.,그녀는 유리병에 잼을 담았습니다.,polysemy_split,"(유리병, 명사)",jar,FALSE
+jar,jar,,n.|v.,삐걱거리다 / 충격을 주다,The loud sound jarred my nerves.,큰 소리가 내 신경을 자극했습니다.,polysemy_split,"(충격을 주다, 동사)",jar,FALSE
+jog,jog,,n.|v.,조깅하다 / 천천히 달리다,She jogs in the park every morning.,그녀는 매일 아침 공원에서 조깅합니다.,normal,,,FALSE
+kit,kit,,n.|v.,용품 세트 / 도구 모음,He has a first aid kit at home.,그는 집에 응급 처치 키트가 있습니다.,normal,,,FALSE
+knight,knight,,n.|v.,기사 / 기사 작위를 주다,The king knighted the brave soldier.,왕은 용감한 병사에게 기사 작위를 내렸습니다.,normal,,,FALSE
+knot,knot,,n.|v.,매듭,She tied a knot in the rope.,그녀는 밧줄에 매듭을 지었습니다.,normal,,,FALSE
+ladder,ladder,,n.,사다리,He climbed the ladder to fix the roof.,그는 지붕을 고치러 사다리를 올랐습니다.,normal,,,FALSE
+lap,lap,,n.|v.,무릎 (앉았을 때),The cat sat on her lap.,고양이가 그녀의 무릎 위에 앉았습니다.,polysemy_split,"(무릎, 명사)",lap,FALSE
+lap,lap,,n.|v.,핥다,The dog lapped up the water.,개가 물을 핥아 마셨습니다.,polysemy_split,"(핥다, 동사)",lap,FALSE
+laundry,laundry,,n.,빨래 / 세탁물,She does laundry every Saturday.,그녀는 매주 토요일에 빨래를 합니다.,normal,,,FALSE
+leak,leak,,n.|v.,새다 / 누출되다,The roof leaks when it rains.,비가 오면 지붕이 셉니다.,normal,,,FALSE
+lease,lease,,n.|v.,임대 계약 / 임대하다,She signed a lease for the apartment.,그녀는 아파트 임대 계약서에 서명했습니다.,normal,,,FALSE
+legend,legend,,n.,전설 / 전설적인 인물,He told us an old legend about the mountain.,그는 우리에게 그 산에 관한 오래된 전설을 들려주었습니다.,normal,,,FALSE
+legislate,legislate,,v.,법을 제정하다,The government legislated new safety rules.,정부가 새로운 안전 규칙을 법으로 제정했습니다.,normal,,,FALSE
+legitimate,legitimate,,adj.|v.,합법적인 / 정당한,That is a legitimate request.,그것은 정당한 요청입니다.,normal,,,FALSE
+liberty,liberty,,n.,자유 / 자유권,Everyone has the right to liberty.,모든 사람은 자유를 누릴 권리가 있습니다.,normal,,,FALSE
+likewise,likewise,,adv.,마찬가지로 / 똑같이,"She smiled, and he did likewise.",그녀가 미소 짓자 그도 마찬가지로 미소 지었습니다.,function_word,,,FALSE
+linguistic,linguistic,,adj.,언어의 / 언어학의,She has great linguistic skills.,그녀는 뛰어난 언어 능력을 가지고 있습니다.,normal,,,FALSE
+literal,literal,,adj.,글자 그대로의 / 직역의,Give me the literal meaning of this word.,이 단어의 글자 그대로의 뜻을 알려주세요.,normal,,,FALSE
+lone,lone,,adj.,혼자인 / 외로운,A lone bird sat on the branch.,혼자인 새 한 마리가 나뭇가지에 앉았습니다.,normal,,,FALSE
+loyal,loyal,,adj.,충실한 / 충성스러운,My dog is very loyal to me.,내 개는 나에게 매우 충실합니다.,normal,,,FALSE
+lump,lump,,n.|v.,덩어리,She found a small lump in the dough.,그녀는 반죽에서 작은 덩어리를 발견했습니다.,polysemy_split,"(덩어리, 명사)",lump,FALSE
+lump,lump,,n.|v.,한데 묶다 / 한꺼번에 처리하다,He lumped all the costs together.,그는 모든 비용을 한데 묶었습니다.,polysemy_split,"(한데 묶다, 동사)",lump,FALSE

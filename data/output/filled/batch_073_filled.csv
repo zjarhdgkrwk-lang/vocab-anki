@@ -1,0 +1,65 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+magnet,magnet,,n.,자석,The magnet picked up the pin.,자석이 핀을 집어 올렸다.,normal,,,FALSE
+magnificent,magnificent,,adj.,훌륭한 / 멋진,The view from the hill is magnificent.,언덕에서 보이는 경치가 훌륭하다.,normal,,,FALSE
+manifest,manifest,,adj.|v.,분명한 / 나타내다,She manifested her feelings with a smile.,그녀는 미소로 자신의 감정을 나타냈다.,polysemy_split,(분명한),manifest,FALSE
+manifest,manifest,,adj.|v.,나타내다 / 드러내다,His joy manifested in his laughter.,그의 기쁨이 웃음으로 드러났다.,polysemy_split,(나타내다),manifest,FALSE
+manipulate,manipulate,,v.,조종하다 / 다루다,He manipulated the toy with his hands.,그는 손으로 장난감을 다루었다.,normal,,,FALSE
+marine,marine,,adj.|n.,바다의 / 해병대원,She loves marine animals like fish.,그녀는 물고기 같은 바다 동물을 좋아한다.,polysemy_split,(바다의),marine,FALSE
+marine,marine,,adj.|n.,해병대원,My brother is a marine.,내 남동생은 해병대원이다.,polysemy_split,(해병대원),marine,FALSE
+mechanic,mechanic,,n.,정비사 / 수리공,The mechanic fixed our car quickly.,정비사가 우리 차를 빨리 고쳤다.,normal,,,FALSE
+mediate,mediate,,v.,중재하다,She helped mediate the fight between them.,그녀는 그들 사이의 싸움을 중재하는 것을 도왔다.,normal,,,FALSE
+medieval,medieval,,adj.,중세의,We saw a medieval castle in Europe.,우리는 유럽에서 중세 성을 보았다.,normal,,,FALSE
+merchant,merchant,,adj.|n.,상인 / 무역상,The merchant sold cloth at the market.,상인은 시장에서 천을 팔았다.,normal,,,FALSE
+merge,merge,,v.,합치다 / 합병하다,The two roads merge near the school.,두 도로는 학교 근처에서 합쳐진다.,normal,,,FALSE
+merit,merit,,n.|v.,장점 / 가치가 있다,Her hard work has great merit.,그녀의 노력은 큰 가치가 있다.,normal,,,FALSE
+metropolitan,metropolitan,,adj.,대도시의,She lives in a metropolitan area.,그녀는 대도시 지역에 살고 있다.,normal,,,FALSE
+microphone,microphone,,n.,마이크,She spoke into the microphone clearly.,그녀는 마이크에 대고 명확하게 말했다.,normal,,,FALSE
+migrant,migrant,,n.,이주자 / 이민자,The migrant found work in the city.,이주자는 도시에서 일자리를 찾았다.,normal,,,FALSE
+migrate,migrate,,v.,이주하다 / 이동하다,Birds migrate south in winter.,새들은 겨울에 남쪽으로 이동한다.,normal,,,FALSE
+miner,miner,,n.,광부,The miner worked deep underground.,광부는 땅속 깊이서 일했다.,normal,,,FALSE
+minimal,minimal,,adj.,최소한의 / 아주 적은,She uses minimal salt in her cooking.,그녀는 요리에 소금을 아주 적게 사용한다.,normal,,,FALSE
+ministry,ministry,,n.,부처 / 성직,He works at the Ministry of Education.,그는 교육부에서 일한다.,normal,,,FALSE
+miracle,miracle,,n.,기적,The baby's recovery was a miracle.,아기의 회복은 기적이었다.,normal,,,FALSE
+missile,missile,,n.,미사일,The soldier launched a missile.,군인이 미사일을 발사했다.,normal,,,FALSE
+mock,mock,,adj.|n.|v.,흉내 내다 / 가짜의,The boys mocked him in the playground.,남자아이들이 운동장에서 그를 흉내 내며 놀렸다.,polysemy_split,(놀리다),mock,FALSE
+mock,mock,,adj.|n.|v.,모의의 / 가짜의,We did a mock test before the exam.,우리는 시험 전에 모의시험을 봤다.,polysemy_split,(모의의),mock,FALSE
+modest,modest,,adj.,겸손한 / 수수한,She is modest about her success.,그녀는 자신의 성공에 대해 겸손하다.,normal,,,FALSE
+moist,moist,,adj.,촉촉한 / 습기 있는,The cake is soft and moist.,케이크가 부드럽고 촉촉하다.,normal,,,FALSE
+moisture,moisture,,n.,수분 / 습기,The plant needs moisture to grow.,식물은 자라기 위해 수분이 필요하다.,normal,,,FALSE
+molecule,molecule,,n.,분자,Water is made of tiny molecules.,물은 작은 분자로 이루어져 있다.,normal,,,FALSE
+mommy,mommy,,n.,엄마,The girl called out for her mommy.,여자아이가 엄마를 불렀다.,normal,,,FALSE
+monster,monster,,n.,괴물,The boy dreamed of a big monster.,남자아이는 커다란 괴물 꿈을 꿨다.,normal,,,FALSE
+monument,monument,,n.,기념비 / 기념물,We visited a war monument in the park.,우리는 공원에 있는 전쟁 기념비를 방문했다.,normal,,,FALSE
+mortal,mortal,,adj.|n.,죽을 수밖에 없는 / 치명적인,All people are mortal.,모든 사람은 죽을 수밖에 없다.,normal,,,FALSE
+motive,motive,,n.,동기 / 이유,His motive for studying hard is clear.,그가 열심히 공부하는 동기는 분명하다.,normal,,,FALSE
+myth,myth,,n.,신화 / 근거 없는 믿음,She read a Greek myth to her children.,그녀는 아이들에게 그리스 신화를 읽어 주었다.,normal,,,FALSE
+naive,naive,,adj.,순진한,She was naive and trusted everyone.,그녀는 순진해서 모든 사람을 믿었다.,normal,,,FALSE
+naked,naked,,adj.,벌거벗은 / 맨눈의,The baby was naked after the bath.,아기는 목욕 후 벌거벗은 상태였다.,normal,,,FALSE
+narrate,narrate,,v.,이야기하다 / 해설하다,He narrated the story to the class.,그는 반 아이들에게 이야기를 들려주었다.,normal,,,FALSE
+nasty,nasty,,adj.,불쾌한 / 나쁜,The medicine had a nasty taste.,그 약은 불쾌한 맛이 났다.,normal,,,FALSE
+negate,negate,,v.,부정하다 / 무효로 하다,His bad behavior negated all his effort.,그의 나쁜 행동이 모든 노력을 무효로 만들었다.,normal,,,FALSE
+nephew,nephew,,n.,조카 (남자),My nephew is six years old.,내 조카는 여섯 살이다.,normal,,,FALSE
+neutral,neutral,,adj.|n.,중립적인 / 중립,She stayed neutral during their argument.,그녀는 그들의 말다툼 동안 중립을 지켰다.,normal,,,FALSE
+noble,noble,,adj.|n.,고귀한 / 귀족,He has a noble heart.,그는 고귀한 마음을 가지고 있다.,normal,,,FALSE
+nod,nod,,n.|v.,끄덕이다 / 고개 끄덕임,She nodded her head to say yes.,그녀는 고개를 끄덕여 동의를 표했다.,normal,,,FALSE
+nominate,nominate,,v.,추천하다 / 지명하다,They nominated her for the award.,그들은 그녀를 상에 추천했다.,normal,,,FALSE
+nonetheless,nonetheless,,adv.,그럼에도 불구하고,"It was cold; nonetheless, she went out.","추웠지만, 그럼에도 불구하고 그녀는 나갔다.",function_word,,,FALSE
+norm,norm,,n.,규범 / 기준,Being kind is the norm in our family.,친절함이 우리 가족의 규범이다.,normal,,,FALSE
+oblige,oblige,,v.,의무를 지우다 / 돕다,He was obliged to clean his room.,그는 자기 방을 청소해야 할 의무가 있었다.,normal,,,FALSE
+obsess,obsess,,v.,집착하다 / 사로잡히다,She is obsessed with keeping the house clean.,그녀는 집을 깨끗이 유지하는 것에 집착한다.,normal,,,FALSE
+occupation,occupation,,n.,직업 / 점령,Her occupation is nursing.,그녀의 직업은 간호사이다.,normal,,,FALSE
+occurrence,occurrence,,n.,발생 / 일어나는 일,Rain is a common occurrence here.,비는 이곳에서 흔히 발생하는 일이다.,normal,,,FALSE
+opportune,opportune,,adj.,적절한 / 때맞춘,She called at an opportune moment.,그녀는 적절한 순간에 전화를 했다.,normal,,,FALSE
+opt,opt,,v.,선택하다,She opted for the smaller bag.,그녀는 더 작은 가방을 선택했다.,normal,,,FALSE
+optimist,optimist,,n.,낙관주의자,My mom is always an optimist.,우리 엄마는 항상 낙관주의자다.,normal,,,FALSE
+oral,oral,,adj.|n.,구두의 / 입으로 하는,She passed her oral exam.,그녀는 구두 시험을 통과했다.,normal,,,FALSE
+orbit,orbit,,n.|v.,궤도 / 궤도를 돌다,The moon orbits the Earth.,달은 지구 궤도를 돈다.,normal,,,FALSE
+orchestra,orchestra,,n.,오케스트라 / 관현악단,She plays violin in the orchestra.,그녀는 오케스트라에서 바이올린을 연주한다.,normal,,,FALSE
+orient,orient,,n.|v.,동양 / 방향을 잡다,He tried to orient himself in the new city.,그는 새로운 도시에서 방향을 잡으려 했다.,polysemy_split,(방향을 잡다),orient,FALSE
+orient,orient,,n.|v.,동양,She is interested in the Orient.,그녀는 동양에 관심이 있다.,polysemy_split,(동양),orient,FALSE
+orientation,orientation,,n.,방향 / 오리엔테이션,We had an orientation on the first day.,우리는 첫날 오리엔테이션을 받았다.,normal,,,FALSE
+outrage,outrage,,n.|v.,분노 / 분노하게 하다,The news filled her with outrage.,그 소식이 그녀를 분노로 가득 채웠다.,normal,,,FALSE
+outstanding,outstanding,,adj.,뛰어난 / 미결인,She is an outstanding student.,그녀는 뛰어난 학생이다.,normal,,,FALSE
+overhead,overhead,,adj.|adv.|n.,머리 위의 / 머리 위에,A bird flew overhead.,새 한 마리가 머리 위로 날아갔다.,normal,,,FALSE
+overlap,overlap,,n.|v.,겹치다 / 겹침,Our work schedules overlap on Tuesday.,우리의 근무 일정이 화요일에 겹친다.,normal,,,FALSE
+overlook,overlook,,v.,간과하다 / 내려다보다,She overlooked the mistake in the letter.,그녀는 편지의 실수를 간과했다.,normal,,,FALSE
