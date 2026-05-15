@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+drag,drag,,v.,끌다 / 질질 끌다,He dragged the heavy box to the door.,그는 무거운 상자를 문 쪽으로 끌었습니다.,normal,,,FALSE
+mount,mount,,v.,올라가다 / 오르다,She mounted the stairs slowly.,그녀는 천천히 계단을 올라갔습니다.,normal,,,FALSE
+wrap,wrap,,v.,싸다 / 포장하다,She wrapped the gift in paper.,그녀는 선물을 종이로 쌌습니다.,normal,,,FALSE
+angle,angle,,n.,각도 / 방향,The photo was taken from a good angle.,그 사진은 좋은 각도에서 찍혔습니다.,normal,,,FALSE
+offense,offense,,n.,위반 / 기분 상하게 함,He said sorry for causing offense.,그는 기분을 상하게 해서 미안하다고 말했습니다.,normal,,,FALSE
+detect,detect,,v.,발견하다 / 감지하다,The doctor detected a problem early.,의사가 문제를 일찍 발견했습니다.,normal,,,FALSE
+surgery,surgery,,n.,수술,She had surgery on her knee.,그녀는 무릎 수술을 받았습니다.,normal,,,FALSE
+visual,visual,,adj.,시각적인,The book has many visual aids.,그 책에는 시각적인 자료가 많습니다.,normal,,,FALSE
+adapt,adapt,,v.,적응하다 / 맞추다,She adapted to her new school quickly.,그녀는 새 학교에 빠르게 적응했습니다.,normal,,,FALSE
+rescue,rescue,,n.|v.,구조 / 구하다,He rescued the child from the water.,그는 아이를 물에서 구했습니다.,normal,,,FALSE
+league,league,,n.,리그 / 연맹,Her son plays in a soccer league.,그녀의 아들은 축구 리그에서 뜁니다.,normal,,,FALSE
+rapid,rapid,,adj.,빠른 / 신속한,She made rapid progress in English.,그녀는 영어 실력이 빠르게 늘었습니다.,normal,,,FALSE
+cancel,cancel,,v.,취소하다,She canceled the doctor's appointment.,그녀는 병원 예약을 취소했습니다.,normal,,,FALSE
+regret,regret,,n.|v.,후회 / 후회하다,He regrets not calling his mother.,그는 어머니에게 전화하지 않은 것을 후회합니다.,normal,,,FALSE
+dismiss,dismiss,,v.,무시하다 / 해고하다,He dismissed her idea without listening.,그는 그녀의 생각을 듣지도 않고 무시했습니다.,normal,,,FALSE
+opponent,opponent,,n.,상대방 / 반대자,Her opponent played very well.,그녀의 상대방은 매우 잘 했습니다.,normal,,,FALSE
+resist,resist,,v.,참다 / 저항하다,She could not resist eating the cake.,그녀는 케이크 먹는 것을 참을 수 없었습니다.,normal,,,FALSE
+absolute,absolute,,adj.,완전한 / 절대적인,She has absolute trust in her doctor.,그녀는 자신의 의사를 완전히 신뢰합니다.,normal,,,FALSE
+barrier,barrier,,n.,장벽 / 장애물,Language can be a barrier to learning.,언어는 학습의 장벽이 될 수 있습니다.,normal,,,FALSE
+rid,rid,,v.,없애다 / 제거하다,She got rid of old clothes.,그녀는 낡은 옷을 없앴습니다.,normal,,,FALSE
+motor,motor,,adj.|n.,모터 / 자동차의,The motor of the fan stopped working.,선풍기 모터가 작동을 멈췄습니다.,normal,,,FALSE
+possess,possess,,v.,가지다 / 소유하다,She possesses great cooking skills.,그녀는 훌륭한 요리 실력을 가지고 있습니다.,normal,,,FALSE
+float,float,,v.,떠다니다 / 뜨다,The leaves float on the water.,나뭇잎들이 물 위에 떠다닙니다.,normal,,,FALSE
+wealthy,wealthy,,adj.,부유한 / 돈이 많은,She lives in a wealthy neighborhood.,그녀는 부유한 동네에 삽니다.,normal,,,FALSE
+acceptable,acceptable,,adj.,받아들일 수 있는 / 괜찮은,Her answer was acceptable to everyone.,그녀의 대답은 모두에게 괜찮았습니다.,normal,,,FALSE
+measurement,measurement,,n.,측정 / 치수,He took the measurement of the window.,그는 창문의 치수를 쟀습니다.,normal,,,FALSE
+illustration,illustration,,n.,삽화 / 예시,The book has beautiful illustrations.,그 책에는 아름다운 삽화가 있습니다.,normal,,,FALSE
+weakness,weakness,,n.,약점 / 약함,Her weakness is eating too much sugar.,그녀의 약점은 설탕을 너무 많이 먹는 것입니다.,normal,,,FALSE
+contest,contest,,n.,대회 / 경연,She won first place in the cooking contest.,그녀는 요리 대회에서 1등을 했습니다.,polysemy_split,(대회),contest,FALSE
+contest,contest,,v.,이의를 제기하다 / 겨루다,He contested the result of the game.,그는 경기 결과에 이의를 제기했습니다.,polysemy_split,(이의 제기하다),contest,FALSE
+aggressive,aggressive,,adj.,공격적인 / 적극적인,The dog became aggressive near strangers.,그 개는 낯선 사람 근처에서 공격적이 되었습니다.,normal,,,FALSE
+govern,govern,,v.,다스리다 / 통치하다,The mayor governs the city well.,시장은 도시를 잘 다스립니다.,normal,,,FALSE
+praise,praise,,n.|v.,칭찬 / 칭찬하다,The teacher praised her good work.,선생님이 그녀의 좋은 작업을 칭찬했습니다.,normal,,,FALSE
+modify,modify,,v.,수정하다 / 바꾸다,She modified the recipe a little.,그녀는 레시피를 조금 수정했습니다.,normal,,,FALSE
+flash,flash,,n.|v.,번쩍임 / 번쩍이다,A flash of light woke her up.,번쩍이는 빛이 그녀를 깨웠습니다.,normal,,,FALSE
+therapy,therapy,,n.,치료 / 요법,She goes to therapy every week.,그녀는 매주 치료를 받으러 갑니다.,normal,,,FALSE
+imagination,imagination,,n.,상상력 / 상상,The girl has a great imagination.,그 소녀는 상상력이 풍부합니다.,normal,,,FALSE
+insight,insight,,n.,통찰력 / 깨달음,She has great insight into people.,그녀는 사람을 보는 통찰력이 뛰어납니다.,normal,,,FALSE
+joy,joy,,n.,기쁨 / 즐거움,The baby brings her so much joy.,아기가 그녀에게 큰 기쁨을 줍니다.,normal,,,FALSE
+pregnant,pregnant,,adj.,임신한,She is pregnant with her first child.,그녀는 첫 아이를 임신 중입니다.,normal,,,FALSE
+fortune,fortune,,n.,재산 / 행운,She made a fortune selling her house.,그녀는 집을 팔아 큰 재산을 얻었습니다.,normal,,,FALSE
+pile,pile,,n.|v.,더미 / 쌓다,There is a pile of clothes on the bed.,침대 위에 옷 더미가 있습니다.,normal,,,FALSE
+creature,creature,,n.,생물 / 동물,A small creature hid under the leaf.,작은 생물이 나뭇잎 아래에 숨었습니다.,normal,,,FALSE
+tale,tale,,n.,이야기 / 동화,Grandma told us a fairy tale.,할머니가 우리에게 동화를 들려주셨습니다.,normal,,,FALSE
+fold,fold,,n.,접힌 부분 / 주름,She pressed the fold in the paper flat.,그녀는 종이의 접힌 부분을 평평하게 눌렀습니다.,normal,,,FALSE
+intense,intense,,adj.,강렬한 / 극심한,The heat was intense this summer.,이번 여름 더위는 극심했습니다.,normal,,,FALSE
+inquiry,inquiry,,n.,문의 / 조사,She made an inquiry about the class.,그녀는 수업에 대해 문의했습니다.,normal,,,FALSE
+strict,strict,,adj.,엄격한 / 엄한,Her mother is very strict about bedtime.,그녀의 어머니는 잠자리 시간에 매우 엄격합니다.,normal,,,FALSE
+humor,humor,humour,n.,유머 / 웃음,He has a great sense of humor.,그는 유머 감각이 뛰어납니다.,normal,,,FALSE
+wise,wise,,adj.,현명한 / 지혜로운,She made a wise decision.,그녀는 현명한 결정을 내렸습니다.,normal,,,FALSE
+shelter,shelter,,n.|v.,피난처 / 보호하다,They found shelter from the rain.,그들은 비를 피할 피난처를 찾았습니다.,normal,,,FALSE
+whisper,whisper,,n.|v.,속삭임 / 속삭이다,She whispered in the baby's ear.,그녀는 아기의 귀에 속삭였습니다.,normal,,,FALSE
+species,species,,n.,종 / 종류,This species of bird lives in warm places.,이 종의 새는 따뜻한 곳에 삽니다.,normal,,,FALSE
+bunch,bunch,,n.,묶음 / 무리,She bought a bunch of bananas.,그녀는 바나나 한 묶음을 샀습니다.,normal,,,FALSE
+hesitate,hesitate,,v.,망설이다 / 주저하다,She hesitated before opening the door.,그녀는 문을 열기 전에 망설였습니다.,normal,,,FALSE
+wherever,wherever,,conj.,어디에서든 / 어디를 가든,She takes her bag wherever she goes.,그녀는 어디를 가든 가방을 들고 갑니다.,function_word,,,FALSE
+anxious,anxious,,adj.,불안한 / 걱정하는,She felt anxious before the test.,그녀는 시험 전에 불안함을 느꼈습니다.,normal,,,FALSE
+nerve,nerve,,n.,신경 / 용기,She had the nerve to speak in front of everyone.,그녀는 모든 사람 앞에서 말할 용기가 있었습니다.,normal,,,FALSE
+raw,raw,,adj.,날것의 / 익히지 않은,She eats raw carrots as a snack.,그녀는 간식으로 날당근을 먹습니다.,normal,,,FALSE
+slope,slope,,n.|v.,경사 / 비탈,The children ran down the grassy slope.,아이들이 풀이 덮인 경사를 뛰어 내려갔습니다.,normal,,,FALSE

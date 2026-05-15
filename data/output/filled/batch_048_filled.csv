@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+deny,deny,,v.,부정하다 / 거부하다,He denied eating the cake.,그는 케이크를 먹었다는 것을 부정했어요.,normal,,,FALSE
+basically,basically,,adv.,기본적으로 / 사실상,She basically cooks every day.,그녀는 기본적으로 매일 요리해요.,normal,,,FALSE
+violence,violence,,n.,폭력,Violence is never the answer.,폭력은 절대 답이 아니에요.,normal,,,FALSE
+minister,minister,,n.,장관 / 목사,The minister spoke to the people.,장관이 국민들에게 연설했어요.,normal,,,FALSE
+affair,affair,,n.,일 / 사건,It is a family affair.,그것은 가족 간의 일이에요.,normal,,,FALSE
+civil,civil,,adj.,시민의 / 예의 바른,They have civil rights.,그들은 시민권을 가지고 있어요.,normal,,,FALSE
+citizen,citizen,,n.,시민,She is a proud citizen of Korea.,그녀는 자랑스러운 한국 시민이에요.,normal,,,FALSE
+domestic,domestic,,adj.,국내의 / 가정의,She does domestic work at home.,그녀는 집에서 가사 일을 해요.,normal,,,FALSE
+load,load,,n.|v.,짐 / 짐을 싣다,He loaded the bags into the car.,그는 가방들을 차에 실었어요.,normal,,,FALSE
+switch,switch,,n.,스위치 / 전환,She turned on the light switch.,그녀는 전등 스위치를 켰어요.,normal,,,FALSE
+acquire,acquire,,v.,얻다 / 습득하다,She acquired new cooking skills.,그녀는 새로운 요리 기술을 습득했어요.,normal,,,FALSE
+corporate,corporate,,adj.,기업의,He works at a corporate office.,그는 기업 사무실에서 일해요.,normal,,,FALSE
+tough,tough,,adj.,힘든 / 단단한,The meat was very tough.,고기가 매우 질겼어요.,normal,,,FALSE
+tear,tear,,n.,눈물,A tear fell down her cheek.,눈물 한 방울이 그녀의 뺨을 타고 흘렀어요.,polysemy_split,(눈물),tear,FALSE
+tear,tear,,v.,찢다,He tore the paper in half.,그는 종이를 반으로 찢었어요.,polysemy_split,(찢다),tear,FALSE
+representative,representative,,adj.|n.,대표자 / 대표하는,She is our class representative.,그녀는 우리 반 대표예요.,normal,,,FALSE
+capacity,capacity,,n.,수용 능력 / 역량,The bus is full to capacity.,버스가 꽉 찼어요.,normal,,,FALSE
+border,border,,v.,접하다 / 경계를 이루다,Our garden borders the park.,우리 정원은 공원과 맞닿아 있어요.,normal,,,FALSE
+assessment,assessment,,n.,평가,The teacher gave a fair assessment.,선생님이 공정하게 평가를 했어요.,normal,,,FALSE
+fee,fee,,n.,요금 / 수수료,She paid the school fee today.,그녀는 오늘 학교 수업료를 냈어요.,normal,,,FALSE
+regulation,regulation,,n.,규정 / 규제,We must follow the safety regulations.,우리는 안전 규정을 따라야 해요.,normal,,,FALSE
+component,component,,n.,구성 요소 / 부품,Salt is a key component of food.,소금은 음식의 핵심 구성 요소예요.,normal,,,FALSE
+suspect,suspect,,n.|v.,용의자 / 의심하다,The police found the suspect.,경찰이 용의자를 찾았어요.,polysemy_split,(용의자),suspect,FALSE
+suspect,suspect,,n.|v.,의심하다,She suspects he is hiding something.,그녀는 그가 뭔가를 숨기고 있다고 의심해요.,polysemy_split,(의심하다),suspect,FALSE
+confidence,confidence,,n.,자신감 / 신뢰,She spoke with great confidence.,그녀는 아주 자신 있게 말했어요.,normal,,,FALSE
+industrial,industrial,,adj.,산업의,He works in an industrial area.,그는 산업 지역에서 일해요.,normal,,,FALSE
+perspective,perspective,,n.,관점 / 시각,Try to see it from her perspective.,그녀의 관점에서 바라보려고 해보세요.,normal,,,FALSE
+assess,assess,,v.,평가하다,The teacher assessed each student's work.,선생님은 각 학생의 과제를 평가했어요.,normal,,,FALSE
+register,register,,n.|v.,등록하다 / 명부,She registered for the cooking class.,그녀는 요리 수업에 등록했어요.,normal,,,FALSE
+relevant,relevant,,adj.,관련 있는,Please share relevant information only.,관련 있는 정보만 알려주세요.,normal,,,FALSE
+leadership,leadership,,n.,리더십 / 지도력,She showed great leadership at work.,그녀는 직장에서 훌륭한 리더십을 보여줬어요.,normal,,,FALSE
+commitment,commitment,,n.,헌신 / 약속,He showed strong commitment to his family.,그는 가족에 대한 강한 헌신을 보여줬어요.,normal,,,FALSE
+bond,bond,,n.,유대 / 결속,They have a strong bond as sisters.,그들은 자매로서 강한 유대를 가지고 있어요.,normal,,,FALSE
+hire,hire,,n.,고용 / 임대,The shop has bikes for hire.,그 가게에는 대여용 자전거가 있어요.,normal,,,FALSE
+internal,internal,,adj.,내부의,There is an internal problem in the office.,사무실 내부에 문제가 있어요.,normal,,,FALSE
+chain,chain,,v.,쇠사슬로 묶다,He chained his bike to the fence.,그는 자전거를 울타리에 쇠사슬로 묶었어요.,normal,,,FALSE
+threaten,threaten,,v.,위협하다,The dark clouds threaten rain.,먹구름이 비를 예고하고 있어요.,normal,,,FALSE
+division,division,,n.,분할 / 나눗셈,The class learned division today.,수업에서 오늘 나눗셈을 배웠어요.,normal,,,FALSE
+secure,secure,,adj.|v.,안전한 / 확보하다,She feels secure at home.,그녀는 집에서 안전함을 느껴요.,normal,,,FALSE
+root,root,,n.,뿌리 / 근원,The tree has deep roots.,그 나무는 뿌리가 깊어요.,normal,,,FALSE
+expense,expense,,n.,비용 / 지출,Food is our biggest expense.,식비가 우리의 가장 큰 지출이에요.,normal,,,FALSE
+rank,rank,,n.|v.,순위 / 순위를 매기다,She ranked first in her class.,그녀는 반에서 1등을 했어요.,normal,,,FALSE
+resident,resident,,adj.|n.,거주자 / 거주하는,He is a resident of this town.,그는 이 마을의 거주자예요.,normal,,,FALSE
+entirely,entirely,,adv.,완전히 / 전적으로,She is entirely right about this.,그녀가 이것에 대해 완전히 맞아요.,normal,,,FALSE
+moral,moral,,adj.|n.,도덕적인 / 교훈,The story has a good moral.,그 이야기는 좋은 교훈이 있어요.,normal,,,FALSE
+insist,insist,,v.,주장하다 / 고집하다,She insisted on paying the bill.,그녀는 계산을 하겠다고 고집했어요.,normal,,,FALSE
+combination,combination,,n.,조합 / 결합,Salt and pepper are a good combination.,소금과 후추는 좋은 조합이에요.,normal,,,FALSE
+principal,principal,,adj.,주요한 / 주된,Rice is the principal food in Korea.,쌀은 한국의 주요 음식이에요.,normal,,,FALSE
+master,master,,n.|v.,달인 / 완전히 익히다,She mastered cooking over the years.,그녀는 수년에 걸쳐 요리를 완전히 익혔어요.,normal,,,FALSE
+session,session,,n.,시간 / 수업,The morning session starts at nine.,오전 수업은 9시에 시작해요.,normal,,,FALSE
+grade,grade,,v.,등급을 매기다 / 채점하다,The teacher graded our homework.,선생님이 우리 숙제를 채점했어요.,normal,,,FALSE
+nevertheless,nevertheless,,adv.,그럼에도 불구하고,"It rained. Nevertheless, we went out.",비가 왔어요. 그럼에도 불구하고 우리는 나갔어요.,normal,,,FALSE
+protection,protection,,n.,보호,She wore a hat for sun protection.,그녀는 햇빛 보호를 위해 모자를 썼어요.,normal,,,FALSE
+largely,largely,,adv.,대부분 / 주로,The meal was largely rice and vegetables.,그 식사는 주로 밥과 채소였어요.,normal,,,FALSE
+shot,shot,,n.,사진 / 주사,The doctor gave her a shot.,의사가 그녀에게 주사를 놓았어요.,normal,,,FALSE
+reasonable,reasonable,,adj.,합리적인 / 적당한,The price is very reasonable.,가격이 아주 적당해요.,normal,,,FALSE
+guarantee,guarantee,,n.|v.,보장하다 / 보증,I guarantee this recipe is delicious.,이 레시피가 맛있다고 보장해요.,normal,,,FALSE
+judgment,judgment,,n.,판단 / 판결,She has good judgment about people.,그녀는 사람을 보는 판단력이 좋아요.,normal,,,FALSE
+approve,approve,,v.,승인하다 / 찬성하다,The boss approved her plan.,상사가 그녀의 계획을 승인했어요.,normal,,,FALSE
+loan,loan,,n.,대출 / 빌려줌,She got a loan from the bank.,그녀는 은행에서 대출을 받았어요.,normal,,,FALSE
+elect,elect,,v.,선출하다,They elected a new leader today.,그들은 오늘 새 지도자를 선출했어요.,normal,,,FALSE

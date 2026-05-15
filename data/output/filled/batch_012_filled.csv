@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+friendly,friendly,,adj.,친절한 / 다정한,She is very friendly to everyone.,그녀는 모든 사람에게 매우 친절해요.,normal,,,FALSE
+ice,ice,,n.,얼음,I put ice in my drink.,나는 음료에 얼음을 넣었어요.,normal,,,FALSE
+farmer,farmer,,n.,농부,The farmer grows vegetables every year.,그 농부는 매년 채소를 재배해요.,normal,,,FALSE
+desk,desk,,n.,책상,She put her book on the desk.,그녀는 책상 위에 책을 놓았어요.,normal,,,FALSE
+tea,tea,,n.,차 (음료),She drinks tea every morning.,그녀는 매일 아침 차를 마셔요.,normal,,,FALSE
+bottle,bottle,,n.,병,He drank a bottle of water.,그는 물 한 병을 마셨어요.,normal,,,FALSE
+dad,dad,,n.,아빠,My dad cooks dinner on Sundays.,우리 아빠는 일요일에 저녁을 요리해요.,normal,,,FALSE
+fruit,fruit,,n.,과일,We eat fresh fruit every day.,우리는 매일 신선한 과일을 먹어요.,normal,,,FALSE
+terrible,terrible,,adj.,끔찍한 / 형편없는,The weather was terrible today.,오늘 날씨가 끔찍했어요.,normal,,,FALSE
+fat,fat,,adj.,뚱뚱한 / 살찐,The cat is fat and lazy.,그 고양이는 뚱뚱하고 게을러요.,normal,,,FALSE
+ear,ear,,n.,귀,She whispered in my ear.,그녀는 내 귀에 속삭였어요.,normal,,,FALSE
+yard,yard,,n.,마당 / 야드(길이 단위),The children played in the yard.,아이들이 마당에서 놀았어요.,normal,,,FALSE
+cat,cat,,n.,고양이,My cat sleeps all day.,내 고양이는 하루 종일 자요.,normal,,,FALSE
+neighborhood,neighborhood,,n.,동네 / 이웃 지역,We have a park in our neighborhood.,우리 동네에는 공원이 있어요.,normal,,,FALSE
+sad,sad,,adj.,슬픈,She felt sad after the movie.,그녀는 영화를 보고 나서 슬펐어요.,normal,,,FALSE
+sick,sick,,adj.,아픈 / 병든,The boy stayed home because he was sick.,그 소년은 아파서 집에 있었어요.,normal,,,FALSE
+chart,chart,,n.,도표 / 차트,The teacher showed a chart to the class.,선생님이 반 학생들에게 도표를 보여줬어요.,normal,,,FALSE
+east,east,,adj.|adv.|n.,동쪽 / 동쪽으로,The sun rises in the east.,태양은 동쪽에서 떠요.,normal,,,FALSE
+hat,hat,,n.,모자,She wore a yellow hat outside.,그녀는 밖에서 노란 모자를 썼어요.,normal,,,FALSE
+tall,tall,,adj.,키가 큰,He is very tall for his age.,그는 나이에 비해 키가 매우 커요.,normal,,,FALSE
+milk,milk,,n.,우유,I drink a glass of milk every morning.,나는 매일 아침 우유 한 잔을 마셔요.,normal,,,FALSE
+online,online,,adj.|adv.,온라인의 / 온라인으로,She buys clothes online.,그녀는 옷을 온라인으로 사요.,normal,,,FALSE
+phrase,phrase,,n.,구절 / 표현,She learned a new English phrase today.,그녀는 오늘 새로운 영어 표현을 배웠어요.,normal,,,FALSE
+angry,angry,,adj.,화난 / 성난,Dad was angry when I came home late.,내가 늦게 귀가하자 아빠가 화를 냈어요.,normal,,,FALSE
+breakfast,breakfast,,n.,아침 식사,We had eggs for breakfast.,우리는 아침 식사로 달걀을 먹었어요.,normal,,,FALSE
+hi,hi,,exclam.,안녕 (인사말),Hi! How are you today?,안녕! 오늘 어떻게 지내요?,function_word,,,FALSE
+yellow,yellow,,adj.|n.,노란색의 / 노란색,She wore a yellow dress.,그녀는 노란색 원피스를 입었어요.,normal,,,FALSE
+diet,diet,,n.,식단 / 다이어트,She is on a healthy diet.,그녀는 건강한 식단을 유지하고 있어요.,normal,,,FALSE
+gray,gray,grey,adj.|n.,회색의 / 회색,He has gray hair now.,그는 지금 머리가 회색이에요.,normal,,,FALSE
+coat,coat,,n.,코트 / 외투,She put on her coat before going out.,그녀는 외출 전에 코트를 입었어요.,normal,,,FALSE
+meat,meat,,n.,고기,He grilled meat for dinner.,그는 저녁 식사로 고기를 구웠어요.,normal,,,FALSE
+dish,dish,,n.,그릇 / 요리,This is my favorite dish.,이것은 내가 가장 좋아하는 요리예요.,normal,,,FALSE
+shirt,shirt,,n.,셔츠,He wore a white shirt to work.,그는 직장에 흰 셔츠를 입고 갔어요.,normal,,,FALSE
+brown,brown,,adj.|n.,갈색의 / 갈색,The dog has brown eyes.,그 개는 눈이 갈색이에요.,normal,,,FALSE
+tennis,tennis,,n.,테니스,We play tennis on weekends.,우리는 주말에 테니스를 쳐요.,normal,,,FALSE
+mouse,mouse,,n.,쥐 / (컴퓨터) 마우스,The cat caught a mouse.,고양이가 쥐를 잡았어요.,normal,,,FALSE
+snow,snow,,n.|v.,눈 / 눈이 오다,It snowed a lot last night.,어젯밤에 눈이 많이 왔어요.,normal,,,FALSE
+spell,spell,,v.,철자를 말하다 / 쓰다,Can you spell your name for me?,이름 철자를 말해 줄 수 있어요?,normal,,,FALSE
+bike,bike,,n.,자전거,She rides her bike to school.,그녀는 자전거를 타고 학교에 가요.,normal,,,FALSE
+smart,smart,,adj.,똑똑한 / 영리한,The girl is very smart.,그 소녀는 매우 똑똑해요.,normal,,,FALSE
+tooth,tooth,,n.,이 / 치아,She brushes her teeth twice a day.,그녀는 하루에 두 번 이를 닦아요.,normal,,,FALSE
+beer,beer,,n.,맥주,He drinks beer with his friends.,그는 친구들과 맥주를 마셔요.,normal,,,FALSE
+FALSE,FALSE,,adj.,거짓의 / 틀린,That information is false.,그 정보는 틀린 것이에요.,normal,,,TRUE
+routine,routine,,n.,일상적인 순서 / 루틴,She has a morning routine every day.,그녀는 매일 아침 루틴이 있어요.,normal,,,FALSE
+meter,meter,,n.,미터 (길이 단위),The room is five meters wide.,그 방은 너비가 5미터예요.,normal,,,FALSE
+truck,truck,,n.,트럭,The farmer drove his truck to the market.,농부가 시장까지 트럭을 몰았어요.,normal,,,FALSE
+nose,nose,,n.,코,My nose is cold in winter.,겨울에는 코가 차가워요.,normal,,,FALSE
+mom,mom,,n.,엄마,My mom makes great soup.,우리 엄마는 국을 정말 맛있게 끓여요.,normal,,,FALSE
+apartment,apartment,,n.,아파트,We live in a small apartment.,우리는 작은 아파트에 살아요.,normal,,,FALSE
+cake,cake,,n.,케이크,She made a cake for my birthday.,그녀는 내 생일을 위해 케이크를 만들었어요.,normal,,,FALSE
+singer,singer,,n.,가수,She is a famous singer.,그녀는 유명한 가수예요.,normal,,,FALSE
+festival,festival,,n.,축제,We went to a food festival last week.,우리는 지난주에 음식 축제에 갔어요.,normal,,,FALSE
+vegetable,vegetable,,n.,채소 / 야채,She buys fresh vegetables at the market.,그녀는 시장에서 신선한 채소를 사요.,normal,,,FALSE
+sugar,sugar,,n.,설탕,She put sugar in her tea.,그녀는 차에 설탕을 넣었어요.,normal,,,FALSE
+pink,pink,,adj.|n.,분홍색의 / 분홍색,She wore a pink jacket today.,그녀는 오늘 분홍색 재킷을 입었어요.,normal,,,FALSE
+exam,exam,,n.,시험,She studied hard for the exam.,그녀는 시험을 위해 열심히 공부했어요.,normal,,,FALSE
+jacket,jacket,,n.,재킷 / 자켓,He put on his jacket before going out.,그는 외출 전에 재킷을 입었어요.,normal,,,FALSE
+dirty,dirty,,adj.,더러운 / 지저분한,His hands were dirty after gardening.,정원 일을 한 후 그의 손이 더러웠어요.,normal,,,FALSE
+bread,bread,,n.,빵,She bought fresh bread from the bakery.,그녀는 빵집에서 신선한 빵을 샀어요.,normal,,,FALSE
+boot,boot,,n.,부츠 / 장화,She wore boots in the rain.,그녀는 비 오는 날 장화를 신었어요.,normal,,,FALSE

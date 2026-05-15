@@ -1,0 +1,63 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+street,street,,n.,거리 / 길,She walks down the street every morning.,그녀는 매일 아침 거리를 걷는다.,normal,,,FALSE
+wife,wife,,n.,아내,His wife cooks dinner every evening.,그의 아내는 매일 저녁 저녁밥을 요리한다.,normal,,,FALSE
+sport,sport,,n.,스포츠 / 운동,My son loves sport.,내 아들은 운동을 좋아한다.,normal,,,FALSE
+prepare,prepare,,v.,준비하다,She prepared dinner for her family.,그녀는 가족을 위해 저녁을 준비했다.,normal,,,FALSE
+discuss,discuss,,v.,이야기하다 / 토의하다,We discussed our plans at dinner.,우리는 저녁 식사 때 계획을 이야기했다.,normal,,,FALSE
+piece,piece,,n.,조각,She ate a piece of cake.,그녀는 케이크 한 조각을 먹었다.,normal,,,FALSE
+finish,finish,,v.,끝내다 / 마치다,He finished his homework quickly.,그는 숙제를 빨리 끝냈다.,normal,,,FALSE
+fire,fire,,n.,불 / 화재,The fire in the fireplace is warm.,난로의 불이 따뜻하다.,normal,,,FALSE
+compare,compare,,v.,비교하다,She compared the two dresses.,그녀는 두 드레스를 비교했다.,normal,,,FALSE
+police,police,,n.,경찰,The police helped the lost child.,경찰이 길 잃은 아이를 도왔다.,normal,,,FALSE
+store,store,,n.,가게 / 상점,She went to the store to buy milk.,그녀는 우유를 사러 가게에 갔다.,normal,,,FALSE
+poor,poor,,adj.,가난한 / 불쌍한,The poor family had little food.,그 가난한 가족은 음식이 거의 없었다.,normal,,,FALSE
+laugh,laugh,,n.|v.,웃다 / 웃음,The children laughed at the funny story.,아이들은 재미있는 이야기에 웃었다.,normal,,,FALSE
+arm,arm,,n.,팔,She hurt her arm at the park.,그녀는 공원에서 팔을 다쳤다.,normal,,,FALSE
+bank,bank,,n.,은행,She went to the bank this morning.,그녀는 오늘 아침 은행에 갔다.,normal,(금융),,FALSE
+bank,bank,,n.,둑 / 강가,We sat on the bank of the river.,우리는 강둑에 앉았다.,polysemy_split,(강가),bank,FALSE
+article,article,,n.,기사 / 글,She read an article in the newspaper.,그녀는 신문에서 기사를 읽었다.,normal,,,FALSE
+fast,fast,,adj.|adv.,빠른 / 빠르게,He runs very fast.,그는 매우 빠르게 달린다.,normal,,,FALSE
+pretty,pretty,,adj.|adv.,예쁜 / 꽤,She has a pretty smile.,그녀는 예쁜 미소를 가지고 있다.,normal,,,FALSE
+miss,miss,,v.,그리워하다 / 놓치다,She misses her mother every day.,그녀는 매일 엄마가 그립다.,normal,,,FALSE
+art,art,,n.,미술 / 예술,She loves art and visits museums.,그녀는 미술을 좋아해서 박물관을 방문한다.,normal,,,FALSE
+everyone,everyone,,pron.,모든 사람 / 다들,Everyone in the family loves soup.,가족 모두가 국을 좋아한다.,normal,,,FALSE
+forget,forget,,v.,잊다 / 잊어버리다,He forgot his bag at home.,그는 집에 가방을 두고 왔다.,normal,,,FALSE
+page,page,,n.,페이지 / 쪽,Please open your book to page ten.,책 10쪽을 펴 보세요.,normal,,,FALSE
+summer,summer,,n.,여름,We went to the beach last summer.,우리는 지난 여름에 바다에 갔다.,normal,,,FALSE
+drink,drink,,n.|v.,마시다 / 음료,She drinks a glass of water every morning.,그녀는 매일 아침 물 한 잔을 마신다.,normal,,,FALSE
+opinion,opinion,,n.,의견 / 생각,What is your opinion about this food?,이 음식에 대해 어떻게 생각하세요?,normal,,,FALSE
+park,park,,n.|v.,공원,The children play in the park.,아이들이 공원에서 논다.,normal,(공원),,FALSE
+park,park,,n.|v.,주차하다,He parked his car in front of the store.,그는 가게 앞에 차를 주차했다.,polysemy_split,(주차하다),park,FALSE
+key,key,,adj.|n.,열쇠 / 중요한,She lost her house key.,그녀는 집 열쇠를 잃어버렸다.,normal,,,FALSE
+section,section,,n.,부분 / 구역,The vegetable section is near the door.,채소 구역은 문 근처에 있다.,normal,,,FALSE
+plant,plant,,n.,식물,She waters her plants every day.,그녀는 매일 식물에 물을 준다.,normal,,,FALSE
+paint,paint,,n.|v.,페인트 / 칠하다,She painted the wall white.,그녀는 벽을 하얗게 칠했다.,normal,,,FALSE
+worker,worker,,n.,노동자 / 일하는 사람,The workers finished the job early.,노동자들이 일을 일찍 끝냈다.,normal,,,FALSE
+evening,evening,,n.,저녁 / 저녁 시간,We had tea together in the evening.,우리는 저녁에 함께 차를 마셨다.,normal,,,FALSE
+skill,skill,,n.,기술 / 능력,Cooking is a useful skill.,요리는 유용한 기술이다.,normal,,,FALSE
+son,son,,n.,아들,Her son goes to school every day.,그녀의 아들은 매일 학교에 간다.,normal,,,FALSE
+bed,bed,,n.,침대,She made her bed in the morning.,그녀는 아침에 침대를 정리했다.,normal,,,FALSE
+final,final,,adj.,마지막의 / 최종의,Today is the final day of school.,오늘이 학교의 마지막 날이다.,normal,,,FALSE
+yesterday,yesterday,,adv.|n.,어제,She visited her mother yesterday.,그녀는 어제 어머니를 방문했다.,normal,,,FALSE
+station,station,,n.,역 / 정류장,We met at the train station.,우리는 기차역에서 만났다.,normal,,,FALSE
+player,player,,n.,선수 / 연주자,She is a great piano player.,그녀는 훌륭한 피아노 연주자이다.,normal,,,FALSE
+wall,wall,,n.,벽,There is a picture on the wall.,벽에 사진이 걸려 있다.,normal,,,FALSE
+success,success,,n.,성공,Her hard work led to great success.,그녀의 노력이 큰 성공으로 이어졌다.,normal,,,FALSE
+tomorrow,tomorrow,,adv.|n.,내일,She will cook dinner tomorrow.,그녀는 내일 저녁을 요리할 것이다.,normal,,,FALSE
+window,window,,n.,창문,She opened the window in the morning.,그녀는 아침에 창문을 열었다.,normal,,,FALSE
+tree,tree,,n.,나무,There is a big tree in our garden.,우리 정원에 큰 나무가 있다.,normal,,,FALSE
+college,college,,n.,대학 / 대학교,Her son went to college last year.,그녀의 아들은 작년에 대학에 갔다.,normal,,,FALSE
+machine,machine,,n.,기계,The washing machine is broken.,세탁기가 고장났다.,normal,,,FALSE
+cent,cent,,n.,센트 (화폐 단위),It costs fifty cents.,그것은 50센트이다.,normal,,,FALSE
+floor,floor,,n.,바닥 / 층,She mopped the kitchen floor.,그녀는 부엌 바닥을 걸레질했다.,normal,,,FALSE
+anyone,anyone,,pron.,누구 / 아무도,Is anyone home?,집에 누구 있어요?,normal,,,FALSE
+hotel,hotel,,n.,호텔,We stayed at a nice hotel.,우리는 좋은 호텔에 묵었다.,normal,,,FALSE
+club,club,,n.,동호회 / 클럽,She joined a book club.,그녀는 독서 모임에 가입했다.,normal,,,FALSE
+below,below,,adv.|prep.,아래에 / 밑에,The shop is below our apartment.,가게는 우리 아파트 아래에 있다.,function_word,,,FALSE
+movie,movie,,n.,영화,She watched a movie last night.,그녀는 어젯밤에 영화를 봤다.,normal,,,FALSE
+doctor,doctor,,n.,의사 / 박사,She went to see the doctor today.,그녀는 오늘 의사를 만나러 갔다.,normal,,,FALSE
+sorry,sorry,,adj.|exclam.,미안한 / 죄송합니다,She said sorry to her friend.,그녀는 친구에게 미안하다고 했다.,normal,,,FALSE
+statement,statement,,n.,말 / 진술,He made a short statement to the police.,그는 경찰에게 짧게 진술했다.,normal,,,FALSE
+introduce,introduce,,v.,소개하다,She introduced her friend to her mother.,그녀는 어머니에게 친구를 소개했다.,normal,,,FALSE
+ready,ready,,adj.,준비된,Dinner is ready. Come and eat!,저녁 준비됐어요. 어서 드세요!,normal,,,FALSE
+mile,mile,,n.,마일 (거리 단위),The school is one mile from home.,학교는 집에서 1마일 떨어져 있다.,normal,,,FALSE

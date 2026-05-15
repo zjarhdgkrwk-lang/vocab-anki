@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+bath,bath,,n.,목욕 / 욕조,She takes a bath every evening.,그녀는 매일 저녁 목욕을 해요.,normal,,,FALSE
+pen,pen,,n.,펜 / 볼펜,I write with a blue pen.,나는 파란 펜으로 글을 써요.,normal,,,FALSE
+chicken,chicken,,n.,닭 / 닭고기,She cooked chicken for dinner.,그녀는 저녁으로 닭고기를 요리했어요.,normal,,,FALSE
+teenager,teenager,,n.,십 대 청소년,The teenager goes to school by bus.,그 십 대 청소년은 버스로 학교에 가요.,normal,,,FALSE
+shower,shower,,n.,샤워 / 샤워기,He takes a shower every morning.,그는 매일 아침 샤워를 해요.,normal,,,FALSE
+cousin,cousin,,n.,사촌,My cousin lives in Busan.,내 사촌은 부산에 살아요.,normal,,,FALSE
+dialogue,dialogue,dialog,n.,대화 / 대화문,We read a dialogue in class.,우리는 수업에서 대화문을 읽었어요.,normal,,,FALSE
+cream,cream,,n.,크림 / 크림색,She puts cream on her face.,그녀는 얼굴에 크림을 발라요.,normal,,,FALSE
+skirt,skirt,,n.,치마,The girl wears a red skirt.,그 소녀는 빨간 치마를 입어요.,normal,,,FALSE
+march,March,,n.,3월,My birthday is in March.,내 생일은 3월이에요.,normal,,,FALSE
+salt,salt,,n.,소금,She adds salt to the soup.,그녀는 국에 소금을 넣어요.,normal,,,FALSE
+fantastic,fantastic,,adj.,훌륭한 / 멋진,The food here is fantastic!,여기 음식은 정말 훌륭해요!,normal,,,FALSE
+orange,orange,,adj.|n.,오렌지 / 주황색,She eats an orange every day.,그녀는 매일 오렌지를 먹어요.,normal,,,FALSE
+pig,pig,,n.,돼지,The pig is on the farm.,그 돼지는 농장에 있어요.,normal,,,FALSE
+cow,cow,,n.,소 / 암소,The cow is in the field.,그 소는 들판에 있어요.,normal,,,FALSE
+cheese,cheese,,n.,치즈,He puts cheese on his bread.,그는 빵에 치즈를 올려요.,normal,,,FALSE
+guitar,guitar,,n.,기타,He plays the guitar at home.,그는 집에서 기타를 연주해요.,normal,,,FALSE
+piano,piano,,n.,피아노,The girl plays the piano well.,그 소녀는 피아노를 잘 쳐요.,normal,,,FALSE
+menu,menu,,n.,메뉴 / 식단표,She looks at the menu carefully.,그녀는 메뉴를 꼼꼼히 살펴봐요.,normal,,,FALSE
+grandmother,grandmother,,n.,할머니,My grandmother makes great soup.,우리 할머니는 국을 정말 잘 끓여요.,normal,,,FALSE
+paragraph,paragraph,,n.,단락 / 문단,Read the first paragraph again.,첫 번째 단락을 다시 읽으세요.,normal,,,FALSE
+chocolate,chocolate,,n.,초콜릿,She gave me a piece of chocolate.,그녀가 나에게 초콜릿 한 조각을 줬어요.,normal,,,FALSE
+potato,potato,,n.,감자,We had potato soup for lunch.,우리는 점심으로 감자 수프를 먹었어요.,normal,,,FALSE
+ocean,ocean,,n.,바다 / 대양,We swam in the ocean.,우리는 바다에서 수영했어요.,normal,,,FALSE
+uncle,uncle,,n.,삼촌 / 외삼촌,My uncle lives in Seoul.,우리 삼촌은 서울에 살아요.,normal,,,FALSE
+rice,rice,,n.,쌀 / 밥,We eat rice every day.,우리는 매일 밥을 먹어요.,normal,,,FALSE
+sheep,sheep,,n.,양,There are many sheep on the hill.,언덕에 양이 많이 있어요.,normal,,,FALSE
+website,website,,n.,웹사이트,I found it on a website.,나는 웹사이트에서 그것을 찾았어요.,normal,,,FALSE
+aunt,aunt,,n.,고모 / 이모,My aunt cooks very well.,우리 이모는 요리를 정말 잘해요.,normal,,,FALSE
+hello,hello,,exclam.|n.,안녕하세요 / 여보세요,She said hello to her teacher.,그녀는 선생님께 인사를 했어요.,function_word,,,FALSE
+blog,blog,,n.,블로그,She writes a blog every week.,그녀는 매주 블로그를 써요.,normal,,,FALSE
+airport,airport,,n.,공항,We arrived at the airport early.,우리는 공항에 일찍 도착했어요.,normal,,,FALSE
+toilet,toilet,,n.,화장실 / 변기,"Where is the toilet, please?",화장실이 어디에 있나요?,normal,,,FALSE
+apple,apple,,n.,사과,She eats an apple for breakfast.,그녀는 아침으로 사과를 먹어요.,normal,,,FALSE
+banana,banana,,n.,바나나,The boy eats a banana every day.,그 소년은 매일 바나나를 먹어요.,normal,,,FALSE
+baseball,baseball,,n.,야구,The boys play baseball after school.,그 소년들은 방과 후에 야구를 해요.,normal,,,FALSE
+basketball,basketball,,n.,농구,He plays basketball with his friends.,그는 친구들과 농구를 해요.,normal,,,FALSE
+butter,butter,,n.,버터,She puts butter on the bread.,그녀는 빵에 버터를 발라요.,normal,,,FALSE
+carrot,carrot,,n.,당근,She puts carrots in the soup.,그녀는 국에 당근을 넣어요.,normal,,,FALSE
+delicious,delicious,,adj.,맛있는,This cake is really delicious!,이 케이크는 정말 맛있어요!,normal,,,FALSE
+eight,eight,,number,8 / 여덟,I have eight books on my desk.,내 책상 위에 책이 여덟 권 있어요.,normal,,,FALSE
+elephant,elephant,,n.,코끼리,The elephant is very big.,그 코끼리는 정말 커요.,normal,,,FALSE
+eleven,eleven,,number,11 / 열하나,She wakes up at eleven on weekends.,그녀는 주말에 열한 시에 일어나요.,normal,,,FALSE
+five,five,,number,5 / 다섯,I have five apples in my bag.,내 가방에 사과가 다섯 개 있어요.,normal,,,FALSE
+four,four,,number,4 / 넷,We have four cats at home.,우리 집에는 고양이가 네 마리 있어요.,normal,,,FALSE
+goodbye,goodbye,,exclam.|n.,안녕히 가세요 / 작별 인사,She said goodbye to her friend.,그녀는 친구에게 작별 인사를 했어요.,function_word,,,FALSE
+grandfather,grandfather,,n.,할아버지,My grandfather drinks tea every morning.,우리 할아버지는 매일 아침 차를 마셔요.,normal,,,FALSE
+hey,hey,,exclam.,이봐 / 야,"Hey, come and eat dinner!","이봐, 와서 저녁 먹어요!",function_word,,,FALSE
+hobby,hobby,,n.,취미,My hobby is reading books.,내 취미는 책 읽기예요.,normal,,,FALSE
+homework,homework,,n.,숙제,The girl does her homework after school.,그 소녀는 방과 후에 숙제를 해요.,normal,,,FALSE
+hundred,hundred,,number,100 / 백,There are one hundred students here.,여기에 학생이 백 명 있어요.,normal,,,FALSE
+internet,internet,,n.,인터넷,She reads news on the internet.,그녀는 인터넷으로 뉴스를 읽어요.,normal,,,FALSE
+juice,juice,,n.,주스 / 과일즙,He drinks orange juice every morning.,그는 매일 아침 오렌지 주스를 마셔요.,normal,,,FALSE
+lion,lion,,n.,사자,The lion is sleeping in the sun.,사자가 햇볕 아래에서 자고 있어요.,normal,,,FALSE
+nine,nine,,number,9 / 아홉,She goes to bed at nine.,그녀는 아홉 시에 잠자리에 들어요.,normal,,,FALSE
+pants,pants,,n.,바지,He wears black pants to work.,그는 출근할 때 검은 바지를 입어요.,normal,,,FALSE
+pencil,pencil,,n.,연필,The boy draws with a pencil.,그 소년은 연필로 그림을 그려요.,normal,,,FALSE
+salad,salad,,n.,샐러드,She makes a salad for lunch.,그녀는 점심으로 샐러드를 만들어요.,normal,,,FALSE
+sandwich,sandwich,,n.,샌드위치,I eat a sandwich for breakfast.,나는 아침으로 샌드위치를 먹어요.,normal,,,FALSE
+seven,seven,,number,7 / 일곱,We eat dinner at seven.,우리는 일곱 시에 저녁을 먹어요.,normal,,,FALSE

@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+best,best,,adv.|n.,가장 잘 / 최고,She sings best in the morning.,그녀는 아침에 가장 노래를 잘해요.,normal,,,FALSE
+better,better,,adv.,더 잘 / 더 낫게,He speaks English better now.,그는 이제 영어를 더 잘해요.,normal,,,FALSE
+downstairs,downstairs,,adj.,아래층의,The downstairs bathroom is clean.,아래층 화장실은 깨끗해요.,normal,,,FALSE
+his,his,,pron.,그의 / 그의 것,This is his bag.,이것은 그의 가방이에요.,function_word,,,FALSE
+later,later,,adj.,나중의 / 더 늦은,We can talk at a later time.,나중에 이야기할 수 있어요.,normal,,,FALSE
+upstairs,upstairs,,adj.,위층의,My bedroom is the upstairs room.,내 침실은 위층 방이에요.,normal,,,FALSE
+underground,underground,,adj.|adv.,지하의 / 지하에,The train runs underground.,기차는 지하로 달려요.,normal,,,FALSE
+according to,according to,,prep.,~에 따르면 / ~에 의하면,"According to my mom, dinner is ready.",엄마 말에 따르면 저녁이 준비됐대요.,normal,,,FALSE
+advertising,advertising,,n.,광고 / 광고업,She works in advertising.,그녀는 광고업에서 일해요.,normal,,,FALSE
+ah,ah,,exclam.,아 / 오,"Ah, I understand now!","아, 이제 이해했어요!",normal,,,FALSE
+all right,all right,,adj.|adv.,괜찮은 / 좋아요,Are you all right?,괜찮아요?,normal,,,FALSE
+ankle,ankle,,n.,발목,She hurt her ankle playing soccer.,그녀는 축구를 하다가 발목을 다쳤어요.,normal,,,FALSE
+app,app,,n.,앱 / 응용 프로그램,I use a weather app every day.,저는 매일 날씨 앱을 사용해요.,normal,,,FALSE
+based,based,,adj.,~에 기반한 / ~을 바탕으로 한,This movie is based on a true story.,이 영화는 실화를 바탕으로 해요.,normal,,,FALSE
+broken,broken,,adj.,고장난 / 부러진,The chair is broken.,그 의자는 부러졌어요.,normal,,,FALSE
+businessman,businessman,,n.,사업가 / 비즈니스맨,He is a busy businessman.,그는 바쁜 사업가예요.,normal,,,FALSE
+camping,camping,,n.,캠핑 / 야영,We go camping every summer.,우리는 매년 여름에 캠핑을 가요.,normal,,,FALSE
+campus,campus,,n.,캠퍼스 / 학교 구내,The students eat lunch on campus.,학생들은 캠퍼스에서 점심을 먹어요.,normal,,,FALSE
+cartoon,cartoon,,n.,만화 / 만화 영화,The girl watches cartoons on TV.,그 소녀는 TV에서 만화를 봐요.,normal,,,FALSE
+chemistry,chemistry,,n.,화학,She studies chemistry at school.,그녀는 학교에서 화학을 공부해요.,normal,,,FALSE
+closed,closed,,adj.,닫힌 / 문을 닫은,The store is closed today.,그 가게는 오늘 문을 닫았어요.,normal,,,FALSE
+closet,closet,,n.,옷장 / 벽장,Her coats are in the closet.,그녀의 코트들은 옷장 안에 있어요.,normal,,,FALSE
+connected,connected,,adj.,연결된 / 접속된,My phone is connected to the internet.,내 전화기가 인터넷에 연결되어 있어요.,normal,,,FALSE
+correctly,correctly,,adv.,올바르게 / 정확하게,She answered the question correctly.,그녀는 질문에 올바르게 대답했어요.,normal,,,FALSE
+crowded,crowded,,adj.,붐비는 / 사람이 많은,The bus is very crowded.,버스가 매우 붐벼요.,normal,,,FALSE
+curly,curly,,adj.,곱슬곱슬한,The girl has curly hair.,그 소녀는 곱슬머리예요.,normal,,,FALSE
+dessert,dessert,,n.,디저트 / 후식,We had cake for dessert.,우리는 디저트로 케이크를 먹었어요.,normal,,,FALSE
+detective,detective,,n.,형사 / 탐정,The detective found the missing bag.,그 형사는 잃어버린 가방을 찾았어요.,normal,,,FALSE
+divorced,divorced,,adj.,이혼한,Her parents are divorced.,그녀의 부모님은 이혼했어요.,normal,,,FALSE
+download,download,,n.|v.,다운로드하다 / 내려받다,I downloaded a new app today.,저는 오늘 새 앱을 다운로드했어요.,normal,,,FALSE
+downtown,downtown,,adj.|adv.|n.,시내 / 도심지,We walked downtown after lunch.,우리는 점심 후에 시내를 걸었어요.,normal,,,FALSE
+drawing,drawing,,n.,그림 / 그림 그리기,The boy showed me his drawing.,그 남자아이가 자신의 그림을 보여줬어요.,normal,,,FALSE
+driving,driving,,n.,운전 / 드라이브,She enjoys driving on weekends.,그녀는 주말에 드라이브를 즐겨요.,normal,,,FALSE
+electrical,electrical,,adj.,전기의 / 전기 관련의,There is an electrical problem at home.,집에 전기 문제가 있어요.,normal,,,FALSE
+ending,ending,,n.,결말 / 끝,The movie has a happy ending.,그 영화는 해피엔딩이에요.,normal,,,FALSE
+farming,farming,,n.,농사 / 농업,His grandfather did farming all his life.,그의 할아버지는 평생 농사를 지었어요.,normal,,,FALSE
+fishing,fishing,,n.,낚시 / 낚시하기,We went fishing by the river.,우리는 강가에 낚시하러 갔어요.,normal,,,FALSE
+flu,flu,,n.,독감 / 인플루엔자,She stayed home because of the flu.,그녀는 독감 때문에 집에 있었어요.,normal,,,FALSE
+flying,flying,,adj.|n.,나는 / 비행,He is afraid of flying.,그는 비행을 무서워해요.,normal,,,FALSE
+following,following,,adj.,다음의 / 그 다음에 오는,Please read the following sentences.,다음 문장들을 읽어 보세요.,normal,,,FALSE
+fortunately,fortunately,,adv.,다행히도 / 운 좋게도,"Fortunately, she found her keys.",다행히도 그녀는 열쇠를 찾았어요.,normal,,,FALSE
+garbage,garbage,,n.,쓰레기,Please take out the garbage.,쓰레기 좀 내다 버려 주세요.,normal,,,FALSE
+happily,happily,,adv.,행복하게 / 즐겁게,The children played happily outside.,아이들은 밖에서 행복하게 놀았어요.,normal,,,FALSE
+hers,hers,,pron.,그녀의 것,That red bag is hers.,저 빨간 가방은 그녀의 것이에요.,function_word,,,FALSE
+hockey,hockey,,n.,하키,He plays hockey every winter.,그는 매년 겨울에 하키를 해요.,normal,,,FALSE
+included,included,,adj.,포함된,Breakfast is included in the price.,가격에 아침 식사가 포함되어 있어요.,normal,,,FALSE
+including,including,,prep.,~을 포함하여,"Everyone, including me, was happy.",나를 포함해서 모두가 행복했어요.,normal,,,FALSE
+instructor,instructor,,n.,강사 / 교사,Our yoga instructor is very kind.,우리 요가 강사는 매우 친절해요.,normal,,,FALSE
+invention,invention,,n.,발명 / 발명품,The phone is a great invention.,전화기는 훌륭한 발명품이에요.,normal,,,FALSE
+jazz,jazz,,n.,재즈,She loves listening to jazz music.,그녀는 재즈 음악 듣는 것을 좋아해요.,normal,,,FALSE
+jewelry,jewelry,,n.,보석류 / 장신구,She wears beautiful jewelry every day.,그녀는 매일 아름다운 장신구를 해요.,normal,,,FALSE
+kilometer,kilometer,,n.,킬로미터,The school is two kilometers away.,학교까지 2킬로미터예요.,normal,,,FALSE
+laptop,laptop,,n.,노트북 컴퓨터,She works on her laptop at home.,그녀는 집에서 노트북으로 일해요.,normal,,,FALSE
+learning,learning,,n.,학습 / 배움,Learning English is fun for me.,저에게 영어 배우기는 즐거워요.,normal,,,FALSE
+lifestyle,lifestyle,,n.,생활 방식 / 라이프스타일,She has a healthy lifestyle.,그녀는 건강한 생활 방식을 가지고 있어요.,normal,,,FALSE
+lost,lost,,adj.,길을 잃은 / 잃어버린,The boy was lost in the park.,그 남자아이는 공원에서 길을 잃었어요.,normal,,,FALSE
+loudly,loudly,,adv.,크게 / 시끄럽게,He laughed very loudly.,그는 매우 크게 웃었어요.,normal,,,FALSE
+missing,missing,,adj.,없어진 / 행방불명의,My cat is missing since yesterday.,내 고양이가 어제부터 없어졌어요.,normal,,,FALSE
+motorcycle,motorcycle,,n.,오토바이,He rides a motorcycle to work.,그는 오토바이를 타고 출근해요.,normal,,,FALSE
+noisy,noisy,,adj.,시끄러운 / 소란스러운,The street outside is very noisy.,밖의 거리가 매우 시끄러워요.,normal,,,FALSE

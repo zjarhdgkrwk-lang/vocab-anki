@@ -1,0 +1,66 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+resolution,resolution,,n.,결심 / 해결,She made a resolution to exercise daily.,그녀는 매일 운동하겠다고 결심했습니다.,normal,,,FALSE
+liberal,liberal,,adj.|n.,자유로운 / 개방적인,She has liberal ideas about education.,그녀는 교육에 대해 개방적인 생각을 가지고 있습니다.,normal,,,FALSE
+motion,motion,,n.|v.,움직임 / 손짓하다,He motioned to her to come in.,그는 그녀에게 들어오라고 손짓했습니다.,polysemy_split,(움직임),motion,FALSE
+motion,motion,,n.|v.,손짓하다 / 몸짓으로 알리다,She motioned for him to sit down.,그녀는 그에게 앉으라고 손짓했습니다.,polysemy_split,(손짓하다),motion,FALSE
+complicate,complicate,,v.,복잡하게 만들다,Rain complicated our picnic plans.,비가 우리의 소풍 계획을 복잡하게 만들었습니다.,normal,,,FALSE
+disappoint,disappoint,,v.,실망시키다,He disappointed his mother with bad grades.,그는 나쁜 성적으로 어머니를 실망시켰습니다.,normal,,,FALSE
+assumption,assumption,,n.,추측 / 가정,She made a wrong assumption about him.,그녀는 그에 대해 잘못된 추측을 했습니다.,normal,,,FALSE
+forth,forth,,adv.,앞으로 / 밖으로,She walked forth into the garden.,그녀는 정원으로 앞으로 걸어 나갔습니다.,function_word,,,FALSE
+negotiation,negotiation,,n.,협상 / 교섭,The price negotiation took a long time.,가격 협상은 오랜 시간이 걸렸습니다.,normal,,,FALSE
+mechanism,mechanism,,n.,방법 / 구조,The body has a mechanism to fight illness.,우리 몸은 병과 싸우는 구조를 가지고 있습니다.,normal,,,FALSE
+democracy,democracy,,n.,민주주의,We live in a democracy.,우리는 민주주의 사회에서 살고 있습니다.,normal,,,FALSE
+implication,implication,,n.,영향 / 암시,Her words had a serious implication.,그녀의 말은 심각한 암시를 담고 있었습니다.,normal,,,FALSE
+interaction,interaction,,n.,상호작용 / 교류,Children need interaction with other kids.,아이들은 다른 아이들과의 교류가 필요합니다.,normal,,,FALSE
+presidential,presidential,,adj.,대통령의,The presidential election was on TV.,대통령 선거가 TV에 나왔습니다.,normal,,,FALSE
+distinguish,distinguish,,v.,구별하다 / 구분하다,She can distinguish red from green.,그녀는 빨간색과 초록색을 구별할 수 있습니다.,normal,,,FALSE
+substantial,substantial,,adj.,상당한 / 실질적인,She earned a substantial amount of money.,그녀는 상당한 금액을 벌었습니다.,normal,,,FALSE
+nearby,nearby,,adj.|adv.,근처의 / 가까이에,There is a nearby park we visit often.,우리가 자주 가는 근처 공원이 있습니다.,normal,,,FALSE
+manufacturer,manufacturer,,n.,제조업체 / 생산자,The manufacturer makes shoes in this town.,그 제조업체는 이 마을에서 신발을 만듭니다.,normal,,,FALSE
+cope,cope,,v.,대처하다 / 감당하다,She coped well with the stressful day.,그녀는 힘든 하루를 잘 대처했습니다.,normal,,,FALSE
+accommodation,accommodation,,n.,숙소 / 숙박시설,We found cheap accommodation near the beach.,우리는 해변 근처에서 저렴한 숙소를 찾았습니다.,normal,,,FALSE
+exception,exception,,n.,예외,Everyone came except one exception.,한 명의 예외를 제외하고 모두 왔습니다.,normal,,,FALSE
+corporation,corporation,,n.,기업 / 회사,She works for a large corporation.,그녀는 대기업에서 일합니다.,normal,,,FALSE
+output,output,,n.|v.,생산량 / 결과물,The factory increased its output this year.,그 공장은 올해 생산량을 늘렸습니다.,normal,,,FALSE
+occupy,occupy,,v.,차지하다 / 사용하다,The sofa occupies a lot of space.,그 소파는 많은 공간을 차지합니다.,normal,,,FALSE
+sufficient,sufficient,,adj.,충분한,We have sufficient food for everyone.,우리는 모두를 위한 충분한 음식이 있습니다.,normal,,,FALSE
+swing,swing,,n.|v.,그네 / 흔들다,The girl played on the swing.,그 소녀는 그네를 타며 놀았습니다.,polysemy_split,(그네),swing,FALSE
+swing,swing,,n.|v.,흔들다 / 휘두르다,He swung his arms while walking.,그는 걸으면서 팔을 흔들었습니다.,polysemy_split,(흔들다),swing,FALSE
+secondly,secondly,,adv.,둘째로 / 두 번째로,"Secondly, we need to buy some vegetables.","둘째로, 우리는 채소를 좀 사야 합니다.",function_word,,,FALSE
+gene,gene,,n.,유전자,She got her blue eyes from her mother's gene.,그녀는 어머니의 유전자로부터 파란 눈을 받았습니다.,normal,,,FALSE
+criteria,criteria,,n.,기준 / 조건,The school has strict criteria for entry.,그 학교는 입학에 엄격한 기준이 있습니다.,normal,,,FALSE
+primarily,primarily,,adv.,주로 / 주된 이유로,She eats primarily vegetables and fruit.,그녀는 주로 채소와 과일을 먹습니다.,function_word,,,FALSE
+integrate,integrate,,v.,통합하다 / 합치다,The teacher integrated games into the lesson.,선생님은 수업에 게임을 통합했습니다.,normal,,,FALSE
+convention,convention,,n.,관습 / 대회,It is a convention to shake hands here.,여기서는 악수하는 것이 관습입니다.,normal,,,FALSE
+delight,delight,,n.|v.,기쁨 / 기쁘게 하다,The gift delighted the little girl.,그 선물은 어린 소녀를 기쁘게 했습니다.,normal,,,FALSE
+premise,premise,,n.|v.,전제 / 가정,Her plan was based on a false premise.,그녀의 계획은 잘못된 전제에 바탕을 두고 있었습니다.,normal,,,FALSE
+differ,differ,,v.,다르다 / 차이가 있다,Our opinions differ on this topic.,이 주제에 대해 우리의 의견이 다릅니다.,normal,,,FALSE
+protein,protein,,n.,단백질,Eggs are a good source of protein.,달걀은 단백질의 좋은 공급원입니다.,normal,,,FALSE
+intellectual,intellectual,,adj.|n.,지적인 / 지식인,She enjoys intellectual conversations.,그녀는 지적인 대화를 즐깁니다.,normal,,,FALSE
+derive,derive,,v.,얻다 / ~에서 비롯되다,She derives joy from cooking for family.,그녀는 가족을 위해 요리하는 것에서 기쁨을 얻습니다.,normal,,,FALSE
+interpretation,interpretation,,n.,해석 / 이해,His interpretation of the story was different.,그의 이야기 해석은 달랐습니다.,normal,,,FALSE
+negotiate,negotiate,,v.,협상하다,They negotiated a lower price for the house.,그들은 그 집의 가격을 낮추기 위해 협상했습니다.,normal,,,FALSE
+supplier,supplier,,n.,공급업체 / 납품업자,The supplier sent fresh vegetables every day.,그 공급업체는 매일 신선한 채소를 보냈습니다.,normal,,,FALSE
+peer,peer,,n.|v.,또래 / 동료,She is respected by her peers at school.,그녀는 학교에서 또래 친구들에게 존경받습니다.,polysemy_split,(또래),peer,FALSE
+peer,peer,,n.|v.,유심히 보다 / 들여다보다,She peered through the small window.,그녀는 작은 창문을 통해 유심히 들여다봤습니다.,polysemy_split,(들여다보다),peer,FALSE
+pension,pension,,n.|v.,연금 / 퇴직금,She receives a pension every month.,그녀는 매달 연금을 받습니다.,normal,,,FALSE
+acquisition,acquisition,,n.,습득 / 취득,Language acquisition is faster in children.,언어 습득은 아이들에게서 더 빠릅니다.,normal,,,FALSE
+recognition,recognition,,n.,인정 / 인식,She got recognition for her hard work.,그녀는 열심히 한 노력에 대해 인정을 받았습니다.,normal,,,FALSE
+assistance,assistance,,n.,도움 / 지원,He asked for assistance with his bags.,그는 가방을 드는 것을 도와달라고 요청했습니다.,normal,,,FALSE
+retirement,retirement,,n.,은퇴 / 퇴직,She enjoys gardening after her retirement.,그녀는 은퇴 후 정원 가꾸기를 즐깁니다.,normal,,,FALSE
+respectively,respectively,,adv.,각각 / 순서대로,The girls are 10 and 12 years old respectively.,그 소녀들은 각각 10살과 12살입니다.,function_word,,,FALSE
+variation,variation,,n.,변화 / 차이,There is a variation in price at each store.,각 가게마다 가격의 차이가 있습니다.,normal,,,FALSE
+representation,representation,,n.,대표 / 표현,She wants fair representation in the group.,그녀는 그룹에서 공정한 대표성을 원합니다.,normal,,,FALSE
+dispute,dispute,,n.|v.,분쟁 / 다투다,The neighbors had a dispute about the fence.,이웃들은 울타리 문제로 분쟁을 벌였습니다.,normal,,,FALSE
+undertake,undertake,,v.,맡다 / 시작하다,She undertook the task without any help.,그녀는 아무런 도움 없이 그 일을 맡았습니다.,normal,,,FALSE
+retail,retail,,adv.|n.|v.,소매 / 소매로 팔다,She works in retail at a clothing store.,그녀는 의류 매장에서 소매업에 종사합니다.,normal,,,FALSE
+gay,gay,,adj.|n.,동성애자의 / 즐거운,He is a gay man who lives nearby.,그는 근처에 사는 동성애자 남성입니다.,normal,,,TRUE
+framework,framework,,n.,틀 / 기본 구조,We need a clear framework for this plan.,우리는 이 계획을 위한 명확한 틀이 필요합니다.,normal,,,FALSE
+restrict,restrict,,v.,제한하다 / 금지하다,The doctor restricted her sugar intake.,의사는 그녀의 설탕 섭취를 제한했습니다.,normal,,,FALSE
+trace,trace,,n.|v.,흔적 / 추적하다,The police found a trace of the thief.,경찰은 도둑의 흔적을 발견했습니다.,polysemy_split,(흔적),trace,FALSE
+trace,trace,,n.|v.,추적하다 / 찾아내다,She traced her family history to Korea.,그녀는 자신의 가족 역사를 한국까지 추적했습니다.,polysemy_split,(추적하다),trace,FALSE
+equivalent,equivalent,,adj.|n.,동등한 / 동등한 것,One cup is equivalent to 250 milliliters.,한 컵은 250밀리리터와 동등합니다.,normal,,,FALSE
+enterprise,enterprise,,n.,기업 / 사업,She started a small enterprise selling food.,그녀는 음식을 파는 작은 사업을 시작했습니다.,normal,,,FALSE
+ease,ease,,n.|v.,편안함 / 완화하다,The medicine eased her headache quickly.,그 약은 그녀의 두통을 빠르게 완화해 주었습니다.,polysemy_split,(완화하다),ease,FALSE
+ease,ease,,n.|v.,편안함 / 쉬움,She did the work with great ease.,그녀는 아주 쉽게 그 일을 해냈습니다.,polysemy_split,(편안함),ease,FALSE
+assure,assure,,v.,확신시키다 / 안심시키다,He assured her that everything was fine.,그는 그녀에게 모든 것이 괜찮다고 안심시켰습니다.,normal,,,FALSE

@@ -1,0 +1,64 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+stir,stir,,n.|v.,젓다 / 소동,She stirred the soup slowly.,그녀는 천천히 수프를 저었어요.,polysemy_split,(젓다),,FALSE
+stir,stir,,n.|v.,소동 / 흥분,The news caused a big stir.,그 소식은 큰 소동을 일으켰어요.,polysemy_split,(소동),stir,FALSE
+sigh,sigh,,n.|v.,한숨 쉬다 / 한숨,She sighed and closed the book.,그녀는 한숨을 쉬고 책을 닫았어요.,normal,,,FALSE
+pregnancy,pregnancy,,n.,임신,Her pregnancy was going well.,그녀의 임신은 잘 진행되고 있었어요.,normal,,,FALSE
+experimental,experimental,,adj.,실험적인,The doctor tried an experimental treatment.,의사는 실험적인 치료를 시도했어요.,normal,,,FALSE
+institutional,institutional,,adj.,기관의 / 제도적인,She works in an institutional setting.,그녀는 기관 환경에서 일해요.,normal,,,FALSE
+wander,wander,,n.|v.,돌아다니다 / 거닐다,She wandered around the market alone.,그녀는 혼자 시장을 돌아다녔어요.,normal,,,FALSE
+empire,empire,,n.,제국,The Roman Empire was very large.,로마 제국은 매우 컸어요.,normal,,,FALSE
+subsequently,subsequently,,adv.,그 후에 / 나중에,He left and subsequently moved to Seoul.,그는 떠났고 나중에 서울로 이사했어요.,normal,,,FALSE
+attendance,attendance,,n.,출석 / 참석,Her attendance at school was good.,그녀의 학교 출석률은 좋았어요.,normal,,,FALSE
+ownership,ownership,,n.,소유 / 소유권,She has ownership of this house.,그녀는 이 집의 소유권을 가지고 있어요.,normal,,,FALSE
+suspend,suspend,,v.,중단하다 / 정직시키다,The game was suspended due to rain.,경기는 비 때문에 중단되었어요.,normal,,,FALSE
+functional,functional,,adj.,기능적인 / 실용적인,The new kitchen is very functional.,새 주방은 매우 기능적이에요.,normal,,,FALSE
+voluntary,voluntary,,adj.,자발적인 / 자원봉사의,She does voluntary work at the hospital.,그녀는 병원에서 자원봉사를 해요.,normal,,,FALSE
+stain,stain,,n.|v.,얼룩 / 얼룩지게 하다,There is a coffee stain on her shirt.,그녀의 셔츠에 커피 얼룩이 있어요.,normal,,,FALSE
+organic,organic,,adj.,유기농의 / 천연의,She buys organic vegetables every week.,그녀는 매주 유기농 채소를 사요.,normal,,,FALSE
+server,server,,n.,서버 / 종업원,The server brought our food quickly.,종업원이 빠르게 음식을 가져다줬어요.,normal,,,FALSE
+structural,structural,,adj.,구조적인,There is a structural problem in the building.,건물에 구조적인 문제가 있어요.,normal,,,FALSE
+fool,fool,,n.|v.,바보 / 속이다,He tried to fool his sister.,그는 누나를 속이려 했어요.,polysemy_split,(속이다),,FALSE
+fool,fool,,n.|v.,바보 / 어리석은 사람,Don't be a fool! Think carefully.,바보같이 굴지 마세요! 잘 생각해요.,polysemy_split,(바보),fool,FALSE
+alongside,alongside,,adv.|prep.,나란히 / 옆에,She walked alongside her mother.,그녀는 어머니와 나란히 걸었어요.,normal,,,FALSE
+unite,unite,,v.,하나로 합치다 / 단결하다,The family united to help their mother.,가족은 어머니를 돕기 위해 단결했어요.,normal,,,FALSE
+gently,gently,,adv.,부드럽게 / 살며시,She gently held the baby's hand.,그녀는 아기의 손을 부드럽게 잡았어요.,normal,,,FALSE
+compute,compute,,v.,계산하다,He computed the total cost quickly.,그는 빠르게 총 비용을 계산했어요.,normal,,,FALSE
+wipe,wipe,,n.|v.,닦다 / 닦기,She wiped the table with a cloth.,그녀는 천으로 식탁을 닦았어요.,normal,,,FALSE
+weird,weird,,adj.,이상한 / 기묘한,That sound is really weird.,저 소리는 정말 이상해요.,normal,,,FALSE
+gaze,gaze,,n.|v.,바라보다 / 시선,She gazed at the stars all night.,그녀는 밤새 별을 바라봤어요.,normal,,,FALSE
+fade,fade,,v.,희미해지다 / 바래다,The color of her dress has faded.,그녀의 드레스 색이 바랬어요.,normal,,,FALSE
+cough,cough,,n.|v.,기침하다 / 기침,The boy coughed all night.,그 남자아이는 밤새 기침했어요.,normal,,,FALSE
+hypothesis,hypothesis,,n.,가설,The scientist tested her hypothesis.,그 과학자는 자신의 가설을 검증했어요.,normal,,,FALSE
+theoretical,theoretical,,adj.,이론적인,This is a theoretical explanation only.,이것은 이론적인 설명일 뿐이에요.,normal,,,FALSE
+darkness,darkness,,n.,어둠,The child was afraid of the darkness.,그 아이는 어둠을 무서워했어요.,normal,,,FALSE
+tournament,tournament,,n.,토너먼트 / 대회,She won the tennis tournament last week.,그녀는 지난주 테니스 대회에서 우승했어요.,normal,,,FALSE
+registration,registration,,n.,등록 / 등록 절차,She completed her registration online.,그녀는 온라인으로 등록을 마쳤어요.,normal,,,FALSE
+fragment,fragment,,n.|v.,조각 / 부서지다,She found a fragment of old glass.,그녀는 낡은 유리 조각을 발견했어요.,normal,,,FALSE
+immigration,immigration,,n.,이민 / 입국 심사,She waited at immigration for a long time.,그녀는 입국 심사대에서 오래 기다렸어요.,normal,,,FALSE
+tender,tender,,adj.|n.|v.,부드러운 / 다정한,The meat was very tender and soft.,고기가 매우 부드러웠어요.,normal,,,TRUE
+density,density,,n.,밀도 / 밀집도,The city has a high population density.,그 도시는 인구 밀도가 높아요.,normal,,,FALSE
+module,module,,n.,모듈 / 단원,She finished the first module of the course.,그녀는 강좌의 첫 번째 단원을 마쳤어요.,normal,,,FALSE
+faithfully,faithfully,,adv.,충실히 / 성실하게,He faithfully helped his family every day.,그는 매일 가족을 성실하게 도왔어요.,normal,,,FALSE
+autumn,autumn,,n.,가을,The leaves turn red in autumn.,가을에는 나뭇잎이 빨갛게 변해요.,normal,,,FALSE
+cheek,cheek,,n.,뺨 / 볼,She kissed the baby's soft cheek.,그녀는 아기의 부드러운 볼에 뽀뽀했어요.,normal,,,FALSE
+attachment,attachment,,n.,애착 / 첨부 파일,She has a strong attachment to her home.,그녀는 자신의 집에 강한 애착이 있어요.,normal,,,FALSE
+holder,holder,,n.,보유자 / 거치대,She is the holder of a gold medal.,그녀는 금메달 보유자예요.,normal,,,FALSE
+grin,grin,,n.|v.,활짝 웃다 / 활짝 웃음,The boy grinned when he got a gift.,그 남자아이는 선물을 받고 활짝 웃었어요.,normal,,,FALSE
+rose,rose,,n.,장미,She got a red rose from her daughter.,그녀는 딸에게 빨간 장미를 받았어요.,normal,,,FALSE
+noun,noun,,n.,명사,'Dog' is a noun in English.,'Dog'은 영어에서 명사예요.,normal,,,FALSE
+fortunate,fortunate,,adj.,운이 좋은 / 다행스러운,She was fortunate to find a good doctor.,그녀는 좋은 의사를 만나 운이 좋았어요.,normal,,,FALSE
+alright,alright,,adj.|adv.,괜찮은 / 좋아요,Are you alright? You look tired.,괜찮아요? 피곤해 보여요.,normal,,,FALSE
+hunger,hunger,,n.|v.,배고픔 / 굶주림,The child cried from hunger.,그 아이는 배고파서 울었어요.,normal,,,FALSE
+insure,insure,,v.,보험에 들다 / 보험을 들어 두다,She insured her car last month.,그녀는 지난달에 차 보험을 들었어요.,normal,,,FALSE
+thirst,thirst,,n.|v.,갈증 / 목마름,She drank water to stop her thirst.,그녀는 갈증을 해소하려고 물을 마셨어요.,normal,,,FALSE
+airplane,airplane,aeroplane,n.,비행기,She took an airplane to visit her son.,그녀는 아들을 만나러 비행기를 탔어요.,normal,,,FALSE
+restroom,restroom,,n.,화장실,She asked where the restroom was.,그녀는 화장실이 어디 있는지 물었어요.,normal,,,FALSE
+badminton,badminton,,n.,배드민턴,We played badminton in the park.,우리는 공원에서 배드민턴을 쳤어요.,normal,,,FALSE
+basket,basket,,n.,바구니,She put the fruit in a basket.,그녀는 과일을 바구니에 담았어요.,normal,,,FALSE
+bat,bat,,n.|v.,방망이 / 박쥐,The boy hit the ball with a bat.,그 남자아이는 방망이로 공을 쳤어요.,polysemy_split,(방망이),,FALSE
+bat,bat,,n.|v.,박쥐,A bat flew out of the old house.,낡은 집에서 박쥐 한 마리가 날아나왔어요.,polysemy_split,(박쥐),bat,FALSE
+biscuit,biscuit,,n.,비스킷 / 과자,She ate a biscuit with her tea.,그녀는 차와 함께 비스킷을 먹었어요.,normal,,,FALSE
+comic,comic,,adj.|n.,만화책 / 우스운,The boy read a comic book after school.,그 남자아이는 학교 후에 만화책을 읽었어요.,normal,,,FALSE
+congratulate,congratulate,,v.,축하하다,She congratulated her friend on the new job.,그녀는 새 직장을 얻은 친구를 축하했어요.,normal,,,FALSE
+crayon,crayon,,n.,크레용,The girl drew a flower with a red crayon.,그 여자아이는 빨간 크레용으로 꽃을 그렸어요.,normal,,,FALSE
+doll,doll,,n.,인형,She gave her daughter a pretty doll.,그녀는 딸에게 예쁜 인형을 줬어요.,normal,,,FALSE

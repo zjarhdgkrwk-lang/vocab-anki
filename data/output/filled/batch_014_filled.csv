@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+six,six,,number,숫자 6,She has six cats.,그녀는 고양이가 여섯 마리 있어요.,normal,,,FALSE
+soup,soup,,n.,수프 / 국,She made hot soup for dinner.,그녀는 저녁으로 따뜻한 수프를 만들었어요.,normal,,,FALSE
+ten,ten,,number,숫자 10,I have ten fingers.,나는 손가락이 열 개 있어요.,normal,,,FALSE
+third,third,,number,세 번째 / 3분의 1,She is the third child in her family.,그녀는 가족 중 세 번째 아이예요.,normal,,,FALSE
+thirteen,thirteen,,number,숫자 13,He is thirteen years old.,그는 열세 살이에요.,normal,,,FALSE
+thirty,thirty,,number,숫자 30,She is thirty years old.,그녀는 서른 살이에요.,normal,,,FALSE
+three,three,,number,숫자 3,We have three dogs.,우리는 개가 세 마리 있어요.,normal,,,FALSE
+tomato,tomato,,n.,토마토,She put a tomato in the salad.,그녀는 샐러드에 토마토를 넣었어요.,normal,,,FALSE
+twelve,twelve,,number,숫자 12,There are twelve months in a year.,1년은 열두 달이에요.,normal,,,FALSE
+twenty,twenty,,number,숫자 20,He has twenty books.,그는 책이 스무 권 있어요.,normal,,,FALSE
+two,two,,number,숫자 2,I have two sisters.,나는 자매가 둘 있어요.,normal,,,FALSE
+umbrella,umbrella,,n.,우산,She took an umbrella because it was raining.,비가 와서 그녀는 우산을 가져갔어요.,normal,,,FALSE
+dictionary,dictionary,,n.,사전,He looked up the word in a dictionary.,그는 사전에서 그 단어를 찾았어요.,normal,,,FALSE
+jeans,jeans,,n.,청바지,She wore jeans and a white shirt.,그녀는 청바지와 흰 셔츠를 입었어요.,normal,,,FALSE
+passport,passport,,n.,여권,I need my passport to travel abroad.,해외여행을 하려면 여권이 필요해요.,normal,,,FALSE
+pepper,pepper,,n.,후추 / 고추,She added pepper to the soup.,그녀는 수프에 후추를 넣었어요.,normal,,,FALSE
+purple,purple,,adj.|n.,보라색 / 보라색의,She wore a purple dress.,그녀는 보라색 드레스를 입었어요.,normal,,,FALSE
+snake,snake,,n.,뱀,The boy saw a snake in the garden.,그 소년은 정원에서 뱀을 보았어요.,normal,,,FALSE
+sweater,sweater,,n.,스웨터,She wore a warm sweater in winter.,그녀는 겨울에 따뜻한 스웨터를 입었어요.,normal,,,FALSE
+thousand,thousand,,number,숫자 1000 / 천,There are a thousand people in the town.,그 마을에는 천 명이 살아요.,normal,,,FALSE
+vacation,vacation,,n.,휴가 / 방학,We went to the beach for vacation.,우리는 휴가로 해변에 갔어요.,normal,,,FALSE
+bye,bye,,exclam.,안녕 (작별 인사),She said bye to her friend.,그녀는 친구에게 안녕이라고 말했어요.,normal,,,FALSE
+geography,geography,,n.,지리 / 지리학,We study geography at school.,우리는 학교에서 지리를 공부해요.,normal,,,FALSE
+gym,gym,,n.,체육관 / 헬스장,He goes to the gym every morning.,그는 매일 아침 헬스장에 가요.,normal,,,FALSE
+hungry,hungry,,adj.,배가 고픈,The girl was hungry after school.,그 소녀는 학교가 끝난 후 배가 고팠어요.,normal,,,FALSE
+million,million,,number,백만,There are ten million people in the city.,그 도시에는 천만 명이 살아요.,normal,,,FALSE
+tired,tired,,adj.,피곤한,She was very tired after work.,그녀는 일이 끝난 후 매우 피곤했어요.,normal,,,FALSE
+bathroom,bathroom,,n.,욕실 / 화장실,She cleaned the bathroom today.,그녀는 오늘 욕실을 청소했어요.,normal,,,FALSE
+cafe,cafe,,n.,카페,We had coffee at the cafe.,우리는 카페에서 커피를 마셨어요.,normal,,,FALSE
+actress,actress,,n.,여배우,She is a famous actress.,그녀는 유명한 여배우예요.,normal,,,FALSE
+amazing,amazing,,adj.,놀라운 / 멋진,The view from the mountain was amazing.,산에서 본 경치가 정말 놀라웠어요.,normal,,,FALSE
+april,April,,n.,4월,Her birthday is in April.,그녀의 생일은 4월이에요.,normal,,,FALSE
+august,August,,n.,8월,We go to the beach in August.,우리는 8월에 해변에 가요.,normal,,,FALSE
+awesome,awesome,,adj.,굉장한 / 대단한,The concert was awesome!,그 콘서트는 정말 굉장했어요!,normal,,,FALSE
+beginning,beginning,,n.,시작 / 처음,She was nervous at the beginning.,그녀는 처음에 긴장했어요.,normal,,,FALSE
+best,best,,adj.,가장 좋은 / 최고의,She is my best friend.,그녀는 나의 가장 친한 친구예요.,normal,,,FALSE
+better,better,,adj.,더 좋은 / 더 나은,This book is better than that one.,이 책이 저 책보다 더 좋아요.,normal,,,FALSE
+bicycle,bicycle,,n.,자전거,He rides his bicycle to school.,그는 자전거를 타고 학교에 가요.,normal,,,FALSE
+birthday,birthday,,n.,생일,Today is my birthday.,오늘은 내 생일이에요.,normal,,,FALSE
+blond,blond,,adj.,금발의,The girl has blond hair.,그 소녀는 금발 머리예요.,normal,,,FALSE
+bored,bored,,adj.,지루한 / 따분한,He was bored at home all day.,그는 하루 종일 집에 있어서 지루했어요.,normal,,,FALSE
+boring,boring,,adj.,재미없는 / 지루하게 하는,The movie was boring.,그 영화는 지루했어요.,normal,,,FALSE
+born,born,,v.,태어나다,She was born in Seoul.,그녀는 서울에서 태어났어요.,normal,,,FALSE
+boyfriend,boyfriend,,n.,남자친구,Her boyfriend brought her flowers.,그녀의 남자친구가 꽃을 가져다 주었어요.,normal,,,FALSE
+building,building,,n.,건물,There is a tall building near our school.,우리 학교 근처에 높은 건물이 있어요.,normal,,,FALSE
+cannot,cannot,,modal v.,~할 수 없다,I cannot swim.,나는 수영을 할 수 없어요.,function_word,,,FALSE
+cd,CD,,n.,시디 / 음반,She bought a CD of her favorite singer.,그녀는 좋아하는 가수의 CD를 샀어요.,normal,,,FALSE
+classroom,classroom,,n.,교실,The students sat in the classroom.,학생들이 교실에 앉아 있었어요.,normal,,,FALSE
+cooking,cooking,,n.,요리,She enjoys cooking for her family.,그녀는 가족을 위해 요리하는 것을 즐겨요.,normal,,,FALSE
+dancer,dancer,,n.,댄서 / 춤추는 사람,She is a beautiful dancer.,그녀는 아름다운 댄서예요.,normal,,,FALSE
+dancing,dancing,,n.,춤 / 댄스,She loves dancing with her friends.,그녀는 친구들과 춤추는 것을 좋아해요.,normal,,,FALSE
+december,December,,n.,12월,Christmas is in December.,크리스마스는 12월에 있어요.,normal,,,FALSE
+downstairs,downstairs,,adv.,아래층으로 / 아래층에,She went downstairs to eat breakfast.,그녀는 아침을 먹으러 아래층으로 내려갔어요.,normal,,,FALSE
+dvd,DVD,,n.,디브이디,He watched a DVD with his family.,그는 가족과 함께 DVD를 봤어요.,normal,,,FALSE
+eighteen,eighteen,,number,숫자 18,She is eighteen years old.,그녀는 열여덟 살이에요.,normal,,,FALSE
+eighty,eighty,,number,숫자 80,My grandmother is eighty years old.,우리 할머니는 여든 살이에요.,normal,,,FALSE
+euro,euro,,n.,유로 (유럽 화폐 단위),This bag costs fifty euros.,이 가방은 50유로예요.,normal,,,FALSE
+excited,excited,,adj.,신나는 / 흥분한,The girl was excited about her birthday.,그 소녀는 자신의 생일에 신이 났어요.,normal,,,FALSE
+exciting,exciting,,adj.,흥미진진한 / 신나게 하는,The game was very exciting.,그 게임은 매우 흥미진진했어요.,normal,,,FALSE
+february,February,,n.,2월,My birthday is in February.,내 생일은 2월이에요.,normal,,,FALSE

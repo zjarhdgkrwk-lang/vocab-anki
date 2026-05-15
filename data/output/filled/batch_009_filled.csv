@@ -1,0 +1,65 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+card,card,,n.,카드 / 명함,She gave me a birthday card.,그녀가 나에게 생일 카드를 줬어요.,normal,,,FALSE
+hospital,hospital,,n.,병원,She went to the hospital yesterday.,그녀는 어제 병원에 갔어요.,normal,,,FALSE
+quickly,quickly,,adv.,빨리 / 빠르게,He quickly ate his lunch.,그는 점심을 빨리 먹었어요.,normal,,,FALSE
+interview,interview,,n.|v.,면접 / 인터뷰,She has a job interview today.,그녀는 오늘 취업 면접이 있어요.,polysemy_split,"(면접, 인터뷰)",,FALSE
+interview,interview,,n.|v.,인터뷰하다 / 면접을 보다,He interviewed her for the job.,그는 그녀를 취업 면접했어요.,polysemy_split,(인터뷰하다),interview,FALSE
+capital,capital,,adj.|n.,수도 / 대문자,Seoul is the capital of Korea.,서울은 한국의 수도예요.,normal,,,FALSE
+popular,popular,,adj.,인기 있는,This song is very popular.,이 노래는 매우 인기 있어요.,normal,,,FALSE
+beautiful,beautiful,,adj.,아름다운,She has a beautiful garden.,그녀는 아름다운 정원을 갖고 있어요.,normal,,,FALSE
+television,television,,n.,텔레비전 / TV,We watch television every evening.,우리는 매일 저녁 TV를 봐요.,normal,,,FALSE
+red,red,,adj.|n.,빨간 / 빨간색,She wore a red dress.,그녀는 빨간 드레스를 입었어요.,normal,,,FALSE
+husband,husband,,n.,남편,Her husband cooks dinner.,그녀의 남편이 저녁을 요리해요.,normal,,,FALSE
+modern,modern,,adj.,현대의 / 최신의,They live in a modern house.,그들은 현대식 집에 살아요.,normal,,,FALSE
+bus,bus,,n.,버스,I take the bus every morning.,나는 매일 아침 버스를 타요.,normal,,,FALSE
+yourself,yourself,,pron.,당신 자신 / 스스로,You should do it yourself.,당신이 스스로 해야 해요.,function_word,,,FALSE
+natural,natural,,adj.,자연스러운 / 천연의,She has natural beauty.,그녀는 자연스러운 아름다움을 갖고 있어요.,normal,,,FALSE
+brother,brother,,n.,"남자 형제 / 오빠, 남동생",My brother likes soccer.,나의 남동생은 축구를 좋아해요.,normal,,,FALSE
+trip,trip,,n.,여행,We had a fun family trip.,우리는 즐거운 가족 여행을 했어요.,normal,,,FALSE
+sleep,sleep,,v.,자다 / 잠자다,The baby sleeps eight hours.,아기는 여덟 시간 자요.,normal,,,FALSE
+fish,fish,,n.,물고기 / 생선,She cooked fish for dinner.,그녀는 저녁으로 생선을 요리했어요.,normal,,,FALSE
+bar,bar,,n.,술집 / 막대기,He had a drink at the bar.,그는 술집에서 음료를 마셨어요.,normal,,,TRUE
+clean,clean,,adj.|v.,깨끗한 / 청소하다,She cleans the kitchen every day.,그녀는 매일 부엌을 청소해요.,normal,,,FALSE
+fill,fill,,v.,채우다,He filled the glass with water.,그는 컵을 물로 채웠어요.,normal,,,FALSE
+star,star,,n.,별 / 스타,We saw many stars last night.,우리는 어젯밤에 별을 많이 봤어요.,normal,,,FALSE
+match,match,,n.,경기 / 성냥,We watched a soccer match.,우리는 축구 경기를 봤어요.,polysemy_split,"(경기, 성냥)",,FALSE
+match,match,,v.,어울리다 / 맞추다,Her bag matches her shoes.,그녀의 가방이 신발과 어울려요.,polysemy_split,(어울리다),match,FALSE
+blue,blue,,adj.|n.,파란 / 파란색,He has a blue jacket.,그는 파란 재킷을 갖고 있어요.,normal,,,FALSE
+positive,positive,,adj.,긍정적인 / 확실한,She always has a positive attitude.,그녀는 항상 긍정적인 태도를 가져요.,normal,,,FALSE
+box,box,,n.,상자 / 박스,She put the gift in a box.,그녀는 선물을 상자에 넣었어요.,normal,,,FALSE
+message,message,,n.,메시지 / 문자,I got a message from my daughter.,나는 딸에게서 메시지를 받았어요.,normal,,,FALSE
+style,style,,n.,스타일 / 방식,She has a great sense of style.,그녀는 훌륭한 스타일 감각이 있어요.,normal,,,FALSE
+cold,cold,,adj.|n.,차가운 / 감기,She has a bad cold.,그녀는 심한 감기에 걸렸어요.,polysemy_split,(감기),,FALSE
+cold,cold,,adj.|n.,차가운 / 추운,The water is very cold.,물이 매우 차가워요.,polysemy_split,"(차가운, 추운)",cold,FALSE
+quarter,quarter,,n.,4분의 1 / 15분,It is a quarter past three.,3시 15분이에요.,normal,,,FALSE
+baby,baby,,n.,아기,The baby is sleeping now.,아기가 지금 자고 있어요.,normal,,,FALSE
+sing,sing,,v.,노래하다,She sings a song every morning.,그녀는 매일 아침 노래를 불러요.,normal,,,FALSE
+adult,adult,,n.,어른 / 성인,This movie is for adults only.,이 영화는 성인 전용이에요.,normal,,,FALSE
+fly,fly,,v.,날다 / 비행기를 타다,We fly to Jeju tomorrow.,우리는 내일 제주도에 비행기로 가요.,normal,,,FALSE
+hot,hot,,adj.,뜨거운 / 더운,This soup is very hot.,이 수프는 매우 뜨거워요.,normal,,,FALSE
+bill,bill,,n.,청구서 / 지폐,He paid the bill at the restaurant.,그는 식당에서 계산서를 냈어요.,normal,,,FALSE
+career,career,,n.,직업 / 경력,She had a long teaching career.,그녀는 오랜 교직 경력이 있어요.,normal,,,FALSE
+dog,dog,,n.,개,My dog loves to run outside.,우리 강아지는 밖에서 뛰는 걸 좋아해요.,normal,,,FALSE
+dress,dress,,n.|v.,원피스 / 드레스,She wore a white dress.,그녀는 흰 드레스를 입었어요.,polysemy_split,"(원피스, 드레스)",,FALSE
+dress,dress,,n.|v.,옷을 입다 / 차려입다,He dressed quickly this morning.,그는 오늘 아침에 빨리 옷을 입었어요.,polysemy_split,(옷을 입다),dress,FALSE
+guess,guess,,n.|v.,추측하다 / 맞혀보다,Can you guess my age?,제 나이를 맞혀볼 수 있어요?,normal,,,FALSE
+fun,fun,,n.,즐거움 / 재미,We had a lot of fun today.,우리는 오늘 정말 즐거웠어요.,normal,,,FALSE
+science,science,,n.,과학,The girl loves science class.,그 소녀는 과학 수업을 좋아해요.,normal,,,FALSE
+hair,hair,,n.,머리카락 / 머리,She has long black hair.,그녀는 긴 검은 머리카락을 갖고 있어요.,normal,,,FALSE
+exercise,exercise,,n.|v.,운동 / 운동하다,She exercises every morning.,그녀는 매일 아침 운동해요.,normal,,,FALSE
+useful,useful,,adj.,유용한 / 쓸모 있는,This book is very useful.,이 책은 매우 유용해요.,normal,,,FALSE
+restaurant,restaurant,,n.,식당 / 음식점,We had dinner at a restaurant.,우리는 식당에서 저녁을 먹었어요.,normal,,,FALSE
+dark,dark,,adj.,어두운 / 짙은,The room is very dark at night.,방이 밤에 매우 어두워요.,normal,,,FALSE
+imagine,imagine,,v.,상상하다,I can't imagine life without family.,가족 없는 삶은 상상할 수 없어요.,normal,,,FALSE
+okay,okay,,adj.|adv.|exclam.,괜찮은 / 좋아요,Are you okay?,괜찮아요?,function_word,,,FALSE
+daughter,daughter,,n.,딸,Her daughter is in high school.,그녀의 딸은 고등학교에 다녀요.,normal,,,FALSE
+post,post,,n.|v.,게시물 / 올리다,She posted a photo online.,그녀는 온라인에 사진을 올렸어요.,polysemy_split,(온라인 게시물),,FALSE
+post,post,,n.|v.,우편 / 우편물,I got a letter in the post.,우편으로 편지를 받았어요.,polysemy_split,(우편),post,FALSE
+newspaper,newspaper,,n.,신문,He reads the newspaper every morning.,그는 매일 아침 신문을 읽어요.,normal,,,FALSE
+clock,clock,,n.,시계 (벽시계),The clock on the wall says nine.,벽에 걸린 시계가 9시를 가리켜요.,normal,,,FALSE
+everybody,everybody,,pron.,모두 / 모든 사람,Everybody likes her cooking.,모든 사람이 그녀의 요리를 좋아해요.,function_word,,,FALSE
+weekend,weekend,,n.,주말,We go hiking on weekends.,우리는 주말에 하이킹을 가요.,normal,,,FALSE
+green,green,,adj.|n.,초록색의 / 초록색,She planted green vegetables.,그녀는 초록 채소를 심었어요.,normal,,,FALSE
+song,song,,n.,노래,She sang a beautiful song.,그녀는 아름다운 노래를 불렀어요.,normal,,,FALSE
+object,object,,n.,물건 / 물체,There is a small object on the table.,탁자 위에 작은 물건이 있어요.,normal,,,FALSE
+afternoon,afternoon,,n.,오후,We had tea in the afternoon.,우리는 오후에 차를 마셨어요.,normal,,,FALSE

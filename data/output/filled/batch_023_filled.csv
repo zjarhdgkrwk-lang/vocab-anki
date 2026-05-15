@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+crime,crime,,n.,범죄,He saw a crime on the street.,그는 길에서 범죄를 목격했다.,normal,,,FALSE
+dry,dry,,adj.|v.,마른 / 말리다,She dried her hair with a towel.,그녀는 수건으로 머리를 말렸다.,normal,,,FALSE
+heat,heat,,n.|v.,열 / 데우다,She heated the soup on the stove.,그녀는 가스레인지에서 수프를 데웠다.,normal,,,FALSE
+distance,distance,,n.,거리,The school is a short distance away.,학교는 가까운 거리에 있다.,normal,,,FALSE
+guide,guide,,n.|v.,안내자 / 안내하다,He guided us to the market.,그는 우리를 시장으로 안내했다.,normal,,,FALSE
+feed,feed,,v.,먹이를 주다,She feeds her cat every morning.,그녀는 매일 아침 고양이에게 먹이를 준다.,normal,,,FALSE
+pain,pain,,n.,고통 / 아픔,She felt pain in her back.,그녀는 등에 통증을 느꼈다.,normal,,,FALSE
+expert,expert,,adj.|n.,전문가 / 전문적인,She is an expert in cooking.,그녀는 요리 전문가다.,normal,,,FALSE
+wave,wave,,n.,파도 / (손을) 흔들기,The big wave hit the beach.,큰 파도가 해변을 덮쳤다.,normal,,,FALSE
+excellent,excellent,,adj.,훌륭한 / 뛰어난,She got an excellent score on the test.,그녀는 시험에서 훌륭한 점수를 받았다.,normal,,,FALSE
+camp,camp,,n.|v.,캠프 / 캠핑하다,We camped by the river last summer.,우리는 지난 여름 강가에서 캠핑했다.,normal,,,FALSE
+audience,audience,,n.,관객 / 청중,The audience clapped after the show.,공연이 끝난 후 관객들이 박수를 쳤다.,normal,,,FALSE
+lift,lift,,v.,들어 올리다,He lifted the heavy box off the floor.,그는 바닥에서 무거운 상자를 들어 올렸다.,normal,,,FALSE
+advertise,advertise,advertize,v.,광고하다,They advertised the new shop on TV.,그들은 TV에서 새 가게를 광고했다.,normal,,,FALSE
+photograph,photograph,photo,v.,사진을 찍다,She photographed the flowers in the garden.,그녀는 정원의 꽃들을 사진으로 찍었다.,normal,,,FALSE
+crowd,crowd,,n.,군중 / 사람들,A big crowd waited at the bus stop.,버스 정류장에 많은 사람들이 기다리고 있었다.,normal,,,FALSE
+corner,corner,,n.,모퉁이 / 구석,The shop is on the corner of the street.,그 가게는 길 모퉁이에 있다.,normal,,,FALSE
+gas,gas,,n.,가스 / 기체,She cooks with gas every day.,그녀는 매일 가스로 요리한다.,normal,,,FALSE
+secretary,secretary,,n.,비서 / 서기,The secretary answered the phone.,비서가 전화를 받았다.,normal,,,FALSE
+cook,cook,,n.,요리사,The cook made a delicious soup.,요리사가 맛있는 수프를 만들었다.,normal,,,FALSE
+cry,cry,,v.,울다,The girl cried when she lost her toy.,그 소녀는 장난감을 잃어버렸을 때 울었다.,normal,,,FALSE
+introduction,introduction,,n.,소개 / 도입,She gave a short introduction before class.,그녀는 수업 전에 간단한 소개를 했다.,normal,,,FALSE
+refuse,refuse,,v.,거절하다,He refused to eat the vegetables.,그는 채소 먹기를 거절했다.,normal,,,FALSE
+neither,neither,,det.|pron.,둘 다 아닌,Neither child wanted to sleep.,두 아이 모두 자고 싶어하지 않았다.,function_word,,,FALSE
+solve,solve,,v.,풀다 / 해결하다,The boy solved the math problem quickly.,그 소년은 수학 문제를 빨리 풀었다.,normal,,,FALSE
+background,background,,n.,배경,The photo has a blue sky in the background.,사진 배경에 파란 하늘이 있다.,normal,,,FALSE
+tool,tool,,n.,도구,He used a tool to fix the chair.,그는 의자를 고치기 위해 도구를 사용했다.,normal,,,FALSE
+smoke,smoke,,n.|v.,연기 / 담배를 피우다,She saw smoke coming from the kitchen.,그녀는 부엌에서 연기가 나오는 것을 보았다.,polysemy_split,(연기),,FALSE
+smoke,smoke,,n.|v.,담배를 피우다,He does not smoke at home.,그는 집에서 담배를 피우지 않는다.,polysemy_split,(담배),smoke,FALSE
+brain,brain,,n.,뇌 / 두뇌,Our brain needs food and rest.,우리의 뇌는 음식과 휴식이 필요하다.,normal,,,FALSE
+schedule,schedule,,n.,일정 / 스케줄,She checked her schedule for tomorrow.,그녀는 내일 일정을 확인했다.,normal,,,FALSE
+speaker,speaker,,n.,발표자 / 스피커,The speaker talked about health.,발표자가 건강에 대해 이야기했다.,normal,,,FALSE
+bottom,bottom,,adj.|n.,맨 아래 / 바닥,The cup is on the bottom shelf.,컵이 맨 아래 선반에 있다.,normal,,,FALSE
+hide,hide,,v.,숨다 / 숨기다,The girl hid behind the door.,소녀는 문 뒤에 숨었다.,normal,,,FALSE
+colleague,colleague,,n.,동료,She had lunch with her colleague.,그녀는 동료와 점심을 먹었다.,normal,,,FALSE
+expression,expression,,n.,표현 / 표정,She had a happy expression on her face.,그녀의 얼굴에 행복한 표정이 있었다.,normal,,,FALSE
+extremely,extremely,,adv.,매우 / 극도로,It was extremely hot yesterday.,어제는 매우 더웠다.,normal,,,FALSE
+owner,owner,,n.,주인,The owner of the shop was very kind.,가게 주인은 매우 친절했다.,normal,,,FALSE
+lady,lady,,n.,여성 / 부인,The lady smiled at the little boy.,그 여성은 어린 소년에게 미소를 지었다.,normal,,,FALSE
+connect,connect,,v.,연결하다,She connected her phone to the Wi-Fi.,그녀는 휴대폰을 와이파이에 연결했다.,normal,,,FALSE
+arrange,arrange,,v.,정리하다 / 준비하다,She arranged the flowers in a vase.,그녀는 꽃병에 꽃을 정리했다.,normal,,,FALSE
+unfortunately,unfortunately,,adv.,안타깝게도 / 불행히도,"Unfortunately, she missed the bus.",안타깝게도 그녀는 버스를 놓쳤다.,normal,,,FALSE
+secret,secret,,adj.|n.,비밀 / 비밀의,She told her friend a secret.,그녀는 친구에게 비밀을 말했다.,normal,,,FALSE
+novel,novel,,n.,소설,She read a novel before bed.,그녀는 자기 전에 소설을 읽었다.,normal,,,FALSE
+burn,burn,,v.,타다 / 태우다,He burned the paper in the fire.,그는 불에 종이를 태웠다.,normal,,,FALSE
+suggestion,suggestion,,n.,제안,She made a good suggestion at the meeting.,그녀는 회의에서 좋은 제안을 했다.,normal,,,FALSE
+mostly,mostly,,adv.,대부분 / 주로,We mostly eat rice at home.,우리는 집에서 주로 밥을 먹는다.,normal,,,FALSE
+earth,earth,,n.,지구 / 땅,The earth moves around the sun.,지구는 태양 주위를 돈다.,normal,,,FALSE
+pop,pop,,adj.|n.,팝(음악) / 대중적인,She loves listening to pop music.,그녀는 팝 음악 듣는 것을 좋아한다.,normal,,,FALSE
+employ,employ,,v.,고용하다,The shop employed two new workers.,가게는 새 직원 두 명을 고용했다.,normal,,,FALSE
+fan,fan,,n.,팬 / 선풍기,She turned on the fan because it was hot.,더워서 그녀는 선풍기를 켰다.,normal,,,FALSE
+fresh,fresh,,adj.,신선한,She bought fresh vegetables at the market.,그녀는 시장에서 신선한 채소를 샀다.,normal,,,FALSE
+engineer,engineer,,n.,엔지니어 / 기술자,He works as an engineer in the city.,그는 도시에서 엔지니어로 일한다.,normal,,,FALSE
+somewhere,somewhere,,adv.|pron.,어딘가에,She left her bag somewhere in the house.,그녀는 집 어딘가에 가방을 두었다.,function_word,,,FALSE
+jump,jump,,n.|v.,점프하다 / 뛰어오르다,The boy jumped over the puddle.,그 소년은 웅덩이를 뛰어넘었다.,normal,,,FALSE
+tradition,tradition,,n.,전통,Our family has a tradition of eating together.,우리 가족은 함께 식사하는 전통이 있다.,normal,,,FALSE
+cash,cash,,n.,현금,She paid for the food with cash.,그녀는 현금으로 음식 값을 냈다.,normal,,,FALSE
+award,award,,n.,상 / 수상,She won an award for her work.,그녀는 자신의 작품으로 상을 받았다.,normal,,,FALSE
+coach,coach,,n.,코치 / 감독,The coach trained the team every day.,코치는 매일 팀을 훈련시켰다.,normal,,,FALSE
+experiment,experiment,,n.,실험,The students did an experiment in class.,학생들은 수업 시간에 실험을 했다.,normal,,,FALSE
+strange,strange,,adj.,이상한 / 낯선,She heard a strange noise at night.,그녀는 밤에 이상한 소리를 들었다.,normal,,,FALSE

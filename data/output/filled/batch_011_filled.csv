@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+map,map,,n.,지도,She opened the map to find the road.,그녀는 길을 찾으려고 지도를 펼쳤다.,normal,,,FALSE
+island,island,,n.,섬,We spent a week on a small island.,우리는 작은 섬에서 일주일을 보냈다.,normal,,,FALSE
+football,football,,n.,축구 / 풋볼,The boys play football every Saturday.,남자아이들은 매주 토요일 축구를 한다.,normal,,,FALSE
+flight,flight,,n.,비행 / 항공편,Our flight to Jeju was very short.,제주도로 가는 우리 항공편은 매우 짧았다.,normal,,,FALSE
+left,left,,adj.|adv.|n.,왼쪽의 / 왼쪽으로,Turn left at the corner.,모퉁이에서 왼쪽으로 도세요.,normal,,,FALSE
+neighbor,neighbor,neighbour,n.,이웃 / 이웃 사람,My neighbor gave me some fresh vegetables.,이웃이 신선한 채소를 좀 주었다.,normal,,,FALSE
+traffic,traffic,,n.,교통 / 차량 흐름,There is a lot of traffic in the morning.,아침에는 교통량이 매우 많다.,normal,,,FALSE
+rain,rain,,n.|v.,비 / 비가 오다,It rains a lot in summer here.,이곳은 여름에 비가 많이 온다.,normal,,,FALSE
+busy,busy,,adj.,바쁜,She is very busy at work today.,그녀는 오늘 직장에서 매우 바쁘다.,normal,,,FALSE
+lesson,lesson,,n.,수업 / 교훈,We have an English lesson every Monday.,우리는 매주 월요일 영어 수업이 있다.,normal,,,FALSE
+funny,funny,,adj.,재미있는 / 웃긴,He told a very funny story at dinner.,그는 저녁 식사 때 매우 웃긴 이야기를 했다.,normal,,,FALSE
+mountain,mountain,,n.,산,We climbed the mountain last weekend.,우리는 지난 주말에 산을 올랐다.,normal,,,FALSE
+ticket,ticket,,n.,표 / 티켓,I bought two tickets for the concert.,나는 콘서트 표를 두 장 샀다.,normal,,,FALSE
+meal,meal,,n.,식사,We had a big meal with the family.,우리는 가족과 함께 푸짐한 식사를 했다.,normal,,,FALSE
+bag,bag,,n.,가방 / 봉지,She put her lunch in a small bag.,그녀는 점심을 작은 봉지에 넣었다.,normal,,,FALSE
+repeat,repeat,,v.,반복하다 / 다시 말하다,Please repeat the word after me.,저를 따라 단어를 다시 말해 보세요.,normal,,,FALSE
+plane,plane,,n.,비행기,The plane landed safely at the airport.,비행기가 공항에 안전하게 착륙했다.,normal,,,FALSE
+bird,bird,,n.,새,A small bird sat on the window.,작은 새 한 마리가 창문에 앉았다.,normal,,,FALSE
+topic,topic,,n.,주제 / 화제,The topic of today's lesson is family.,오늘 수업의 주제는 가족이다.,normal,,,FALSE
+beach,beach,,n.,해변 / 바닷가,We walked along the beach at sunset.,우리는 해질 무렵 해변을 따라 걸었다.,normal,,,FALSE
+flower,flower,,n.,꽃,She planted flowers in the garden.,그녀는 정원에 꽃을 심었다.,normal,,,FALSE
+boat,boat,,n.,배 / 보트,We took a small boat to the island.,우리는 작은 배를 타고 섬으로 갔다.,normal,,,FALSE
+kitchen,kitchen,,n.,부엌 / 주방,She is cooking dinner in the kitchen.,그녀는 부엌에서 저녁을 요리하고 있다.,normal,,,FALSE
+twice,twice,,adv.,두 번 / 두 배로,I go to the market twice a week.,나는 일주일에 두 번 시장에 간다.,normal,,,FALSE
+quiet,quiet,,adj.,조용한,The house is very quiet at night.,밤에는 집이 매우 조용하다.,normal,,,FALSE
+nurse,nurse,,n.,간호사,The nurse checked my blood pressure.,간호사가 내 혈압을 확인했다.,normal,,,FALSE
+winter,winter,,n.,겨울,It snows a lot here in winter.,이곳은 겨울에 눈이 많이 온다.,normal,,,FALSE
+spring,spring,,n.,봄,Flowers bloom in spring.,봄에는 꽃이 핀다.,normal,,,FALSE
+lunch,lunch,,n.,점심 / 점심 식사,We had rice and soup for lunch.,우리는 점심으로 밥과 국을 먹었다.,normal,,,FALSE
+pool,pool,,n.,수영장 / 웅덩이,The children swam in the pool.,아이들이 수영장에서 수영했다.,normal,,,FALSE
+afraid,afraid,,adj.,두려운 / 무서운,The girl is afraid of the dark.,그 여자아이는 어둠을 무서워한다.,normal,,,FALSE
+sun,sun,,n.,태양 / 햇빛,The sun is very bright today.,오늘은 햇빛이 매우 밝다.,normal,,,FALSE
+healthy,healthy,,adj.,건강한 / 건강에 좋은,She eats healthy food every day.,그녀는 매일 건강에 좋은 음식을 먹는다.,normal,,,FALSE
+wash,wash,,v.,씻다 / 세탁하다,He washed his hands before the meal.,그는 식사 전에 손을 씻었다.,normal,,,FALSE
+actor,actor,,n.,배우,He is a famous actor on TV.,그는 TV에 나오는 유명한 배우이다.,normal,,,FALSE
+opposite,opposite,,adj.|adv.|n.|prep.,반대쪽의 / 반대,The school is on the opposite side of the road.,학교는 길 반대편에 있다.,normal,,,TRUE
+hate,hate,,v.,싫어하다 / 증오하다,She hates cold weather in winter.,그녀는 겨울의 추운 날씨를 싫어한다.,normal,,,FALSE
+egg,egg,,n.,달걀 / 알,She boiled two eggs for breakfast.,그녀는 아침으로 달걀 두 개를 삶았다.,normal,,,FALSE
+concert,concert,,n.,콘서트 / 음악회,We went to a concert last night.,우리는 어젯밤 콘서트에 갔다.,normal,,,FALSE
+wine,wine,,n.,와인 / 포도주,She had a glass of wine after dinner.,그녀는 저녁 식사 후 와인 한 잔을 마셨다.,normal,,,FALSE
+camera,camera,,n.,카메라 / 사진기,He took photos with his new camera.,그는 새 카메라로 사진을 찍었다.,normal,,,FALSE
+swim,swim,,v.,수영하다,The children swim in the pool every day.,아이들은 매일 수영장에서 수영한다.,normal,,,FALSE
+theater,theater,theatre,n.,극장 / 공연장,We saw a play at the theater.,우리는 극장에서 연극을 관람했다.,normal,,,FALSE
+coffee,coffee,,n.,커피,She drinks coffee every morning.,그녀는 매일 아침 커피를 마신다.,normal,,,FALSE
+museum,museum,,n.,박물관,We visited a big museum in Seoul.,우리는 서울에 있는 큰 박물관을 방문했다.,normal,,,FALSE
+visitor,visitor,,n.,방문객 / 손님,We had a visitor from Japan today.,오늘 일본에서 온 방문객이 있었다.,normal,,,FALSE
+dear,dear,,adj.,사랑하는 / 친애하는,She wrote a letter to her dear friend.,그녀는 사랑하는 친구에게 편지를 썼다.,normal,,,FALSE
+scientist,scientist,,n.,과학자,The scientist studied plants in her lab.,그 과학자는 실험실에서 식물을 연구했다.,normal,,,FALSE
+tonight,tonight,,adv.|n.,오늘 밤 / 오늘 저녁,We are having dinner together tonight.,우리는 오늘 밤 함께 저녁을 먹을 것이다.,normal,,,FALSE
+dangerous,dangerous,,adj.,위험한,That road is very dangerous at night.,그 길은 밤에 매우 위험하다.,normal,,,FALSE
+bedroom,bedroom,,n.,침실,The children sleep in the same bedroom.,아이들은 같은 침실에서 잔다.,normal,,,FALSE
+climb,climb,,v.,오르다 / 올라가다,We climbed the stairs to the top floor.,우리는 계단을 올라 꼭대기 층에 갔다.,normal,,,FALSE
+mouth,mouth,,n.,입,"Open your mouth and say ""ah.""",입을 벌리고 '아'라고 하세요.,normal,,,FALSE
+shoe,shoe,,n.,신발,She bought a new pair of shoes.,그녀는 새 신발 한 켤레를 샀다.,normal,,,FALSE
+relax,relax,,v.,쉬다 / 긴장을 풀다,She relaxed on the sofa after work.,그녀는 퇴근 후 소파에서 쉬었다.,normal,,,FALSE
+tourist,tourist,,n.,관광객,Many tourists visit this beach in summer.,여름에 많은 관광객이 이 해변을 방문한다.,normal,,,FALSE
+cup,cup,,n.,컵 / 잔,She made a cup of tea for her mother.,그녀는 어머니를 위해 차 한 잔을 만들었다.,normal,,,FALSE
+description,description,,n.,묘사 / 설명,She gave a clear description of the bag.,그녀는 가방에 대해 명확하게 설명했다.,normal,,,FALSE
+wake,wake,,v.,(잠에서) 깨다 / 깨우다,I wake up at seven every morning.,나는 매일 아침 일곱 시에 잠에서 깬다.,normal,,,FALSE
+west,west,,adj.|adv.|n.,서쪽 / 서쪽의,The sun sets in the west.,태양은 서쪽으로 진다.,normal,,,FALSE

@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+experience,experience,,n.,경험 / 체험,She has a lot of cooking experience.,그녀는 요리 경험이 많아요.,normal,,,FALSE
+able,able,,adj.,할 수 있는,She is able to swim well.,그녀는 수영을 잘 할 수 있어요.,normal,,,FALSE
+support,support,,n.|v.,도움 / 돕다,He supports his family every day.,그는 매일 가족을 돕습니다.,normal,,,FALSE
+present,present,,v.,발표하다 / 선물하다,She presented a gift to her mother.,그녀는 어머니께 선물을 드렸어요.,normal,,,FALSE
+side,side,,n.,옆 / 쪽,She sat on the right side of me.,그녀는 내 오른쪽에 앉았어요.,normal,,,FALSE
+although,although,,conj.,비록 ~이지만,"Although it rained, we went out.",비가 왔지만 우리는 나갔어요.,function_word,,,FALSE
+sure,sure,,adv.,확실히 / 물론,"Sure, I can help you.","물론이죠, 제가 도와드릴게요.",function_word,,,FALSE
+term,term,,n.,기간 / 학기,The school term starts next week.,학기가 다음 주에 시작해요.,normal,,,FALSE
+least,least,,adv.|det.|pron.,가장 적게 / 적어도,She drinks at least one cup of water.,그녀는 적어도 물 한 잔은 마셔요.,function_word,,,FALSE
+low,low,,adj.|adv.,낮은 / 낮게,The price is very low today.,오늘 가격이 매우 낮아요.,normal,,,FALSE
+process,process,,n.,과정 / 절차,The cooking process is very simple.,요리 과정이 매우 간단해요.,normal,,,FALSE
+public,public,,adj.|n.,공공의 / 대중,We took the public bus home.,우리는 시내버스를 타고 집에 갔어요.,normal,,,FALSE
+train,train,,v.,훈련하다 / 가르치다,She trains her dog every morning.,그녀는 매일 아침 개를 훈련시켜요.,normal,,,FALSE
+actually,actually,,adv.,실제로 / 사실은,I actually like spicy food.,사실 저는 매운 음식을 좋아해요.,normal,,,FALSE
+rather,rather,,adv.,오히려 / 꽤,It is rather cold outside today.,오늘 바깥이 꽤 추워요.,function_word,,,FALSE
+view,view,,n.,경치 / 의견,The view from the window is beautiful.,창문에서 보이는 경치가 아름다워요.,normal,,,FALSE
+consider,consider,,v.,생각하다 / 고려하다,She is considering a new job.,그녀는 새 직장을 고려하고 있어요.,normal,,,FALSE
+control,control,,n.|v.,통제 / 조절하다,He controls the TV with a remote.,그는 리모컨으로 TV를 조절해요.,normal,,,FALSE
+already,already,,adv.,이미 / 벌써,She has already eaten breakfast.,그녀는 이미 아침을 먹었어요.,function_word,,,FALSE
+almost,almost,,adv.,거의,I almost missed the bus.,저는 버스를 거의 놓칠 뻔했어요.,function_word,,,FALSE
+continue,continue,,v.,계속하다,She continues to walk every day.,그녀는 매일 계속 걸어요.,normal,,,FALSE
+whole,whole,,adj.,전체의 / 온,He ate the whole pizza alone.,그는 피자 전체를 혼자 먹었어요.,normal,,,FALSE
+yet,yet,,adv.,아직 / 그러나,She has not eaten dinner yet.,그녀는 아직 저녁을 못 먹었어요.,function_word,,,FALSE
+rate,rate,,n.,비율 / 속도,The bus moves at a slow rate.,버스가 느린 속도로 움직여요.,normal,,,FALSE
+care,care,,n.|v.,돌봄 / 돌보다,She cares for her old mother.,그녀는 나이 든 어머니를 돌봐요.,normal,,,FALSE
+expect,expect,,v.,기대하다 / 예상하다,I expect a call from my daughter.,저는 딸에게서 전화가 올 것을 기대해요.,normal,,,FALSE
+effect,effect,,n.,효과 / 영향,This medicine has a good effect.,이 약은 좋은 효과가 있어요.,normal,,,FALSE
+sort,sort,,n.,종류 / 유형,What sort of food do you like?,어떤 종류의 음식을 좋아하세요?,normal,,,FALSE
+cause,cause,,n.|v.,원인 / 일으키다,Rain can cause wet roads.,비가 오면 도로가 젖을 수 있어요.,normal,,,FALSE
+deal,deal,,v.,다루다 / 처리하다,She deals with problems calmly.,그녀는 문제를 차분하게 처리해요.,normal,,,FALSE
+allow,allow,,v.,허락하다 / 허용하다,She allows her kids to watch TV.,그녀는 아이들이 TV를 보도록 허락해요.,normal,,,FALSE
+suggest,suggest,,v.,제안하다 / 추천하다,He suggested a nice restaurant.,그는 좋은 식당을 추천했어요.,normal,,,FALSE
+past,past,,adv.,지나서 / 지나가서,The bus drove past our house.,버스가 우리 집 앞을 지나갔어요.,normal,,,FALSE
+power,power,,n.,힘 / 전력,The storm cut the power last night.,폭풍으로 어젯밤 전기가 끊겼어요.,normal,,,FALSE
+matter,matter,,n.|v.,문제 / 중요하다,Your health matters a lot.,당신의 건강이 매우 중요해요.,normal,,,FALSE
+mind,mind,,n.|v.,마음 / 신경 쓰다,She has a kind and warm mind.,그녀는 따뜻하고 친절한 마음을 가졌어요.,polysemy_split,(마음),mind,FALSE
+mind,mind,,n.|v.,신경 쓰다 / 꺼리다,Do you mind if I open the window?,창문을 열어도 될까요?,polysemy_split,(신경 쓰다),mind,FALSE
+record,record,,n.,기록 / 성적,She broke the school running record.,그녀는 학교 달리기 기록을 깼어요.,normal,,,FALSE
+record,record,,v.,녹화하다 / 기록하다,He recorded the TV show for me.,그가 나를 위해 TV 프로그램을 녹화했어요.,normal,,,FALSE
+stay,stay,,n.,머무름 / 체류,We had a great stay at the hotel.,우리는 호텔에서 즐거운 시간을 보냈어요.,normal,,,FALSE
+several,several,,det.|pron.,여러 / 몇 가지,She bought several bags of rice.,그녀는 쌀 여러 포대를 샀어요.,function_word,,,FALSE
+light,light,,v.,불을 켜다 / 불을 붙이다,She lit the candles on the table.,그녀는 탁자 위의 촛불을 켰어요.,normal,,,FALSE
+develop,develop,,v.,발전하다 / 개발하다,She is developing her cooking skills.,그녀는 요리 실력을 키우고 있어요.,normal,,,FALSE
+bit,bit,,n.,조금 / 약간,Can I have a bit of your cake?,케이크 조금 먹어도 될까요?,normal,,,FALSE
+figure,figure,,n.,숫자 / 인물,She wrote a big figure on the board.,그녀는 칠판에 큰 숫자를 썼어요.,normal,,,FALSE
+half,half,,adv.,반쯤 / 절반으로,The glass is half full of water.,컵에 물이 반쯤 차 있어요.,normal,,,FALSE
+clear,clear,,adj.,맑은 / 명확한,The sky is clear and blue today.,오늘 하늘이 맑고 파래요.,normal,,,FALSE
+future,future,,adj.,미래의 / 앞으로의,She has big future plans.,그녀는 큰 미래 계획이 있어요.,normal,,,FALSE
+either,either,,adv.|det.|pron.,어느 쪽이든 / 역시 (~않다),I don't like coffee either.,저도 커피를 좋아하지 않아요.,function_word,,,FALSE
+per,per,,prep.,~마다 / ~당,She drinks two cups per day.,그녀는 하루에 두 잔을 마셔요.,function_word,,,FALSE
+top,top,,adj.|n.,최고의 / 꼭대기,She put the pot on the top shelf.,그녀는 냄비를 맨 위 선반에 올렸어요.,normal,,,FALSE
+among,among,,prep.,~중에서 / ~사이에서,She was among the first to arrive.,그녀는 제일 먼저 도착한 사람들 중 하나였어요.,function_word,,,FALSE
+involve,involve,,v.,포함하다 / 관련되다,The job involves a lot of cooking.,그 일은 요리를 많이 해야 해요.,normal,,,FALSE
+reach,reach,,v.,도착하다 / 닿다,We reached the park after lunch.,우리는 점심 후에 공원에 도착했어요.,normal,,,FALSE
+social,social,,adj.,사회적인 / 사교적인,She is a very social person.,그녀는 매우 사교적인 사람이에요.,normal,,,FALSE
+drive,drive,,n.,드라이브 / 운전,We went for a drive on Sunday.,우리는 일요일에 드라이브하러 갔어요.,normal,,,FALSE
+along,along,,adv.|prep.,~을 따라 / 함께,She walked along the river.,그녀는 강을 따라 걸었어요.,function_word,,,FALSE
+free,free,,adv.,무료로 / 자유롭게,Children can enter the park free.,어린이는 공원에 무료로 입장할 수 있어요.,normal,,,FALSE
+receive,receive,,v.,받다,She received a letter from her son.,그녀는 아들에게서 편지를 받았어요.,normal,,,FALSE
+sale,sale,,n.,판매 / 할인 행사,The store has a big sale today.,오늘 그 가게에서 큰 할인 행사를 해요.,normal,,,FALSE
+further,further,,adj.,더 먼 / 추가적인,Do you have any further questions?,추가적인 질문이 있으신가요?,normal,,,FALSE

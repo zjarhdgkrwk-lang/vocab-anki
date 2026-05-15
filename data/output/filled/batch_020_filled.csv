@@ -1,0 +1,64 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+necessary,necessary,,adj.,필요한 / 필수적인,Water is necessary for life.,물은 생명에 필수적이에요.,normal,,,FALSE
+region,region,,n.,지역 / 지방,She lives in a cold region.,그녀는 추운 지역에 살아요.,normal,,,FALSE
+catch,catch,,v.,잡다 / 받다,The boy caught the ball.,그 남자아이가 공을 잡았어요.,normal,,,FALSE
+simple,simple,,adj.,간단한 / 단순한,The recipe is very simple.,그 요리법은 매우 간단해요.,normal,,,FALSE
+average,average,,adj.|n.,평균의 / 보통의,She gets average scores at school.,그녀는 학교에서 평균 점수를 받아요.,normal,,,FALSE
+character,character,,n.,성격 / (이야기 속) 인물,She has a very kind character.,그녀는 매우 친절한 성격을 가졌어요.,polysemy_split,(성격),character,FALSE
+character,character,,n.,(이야기 속) 인물 / 캐릭터,My favorite character is in this book.,내가 가장 좋아하는 인물이 이 책에 있어요.,polysemy_split,(인물),character,FALSE
+hit,hit,,n.|v.,치다 / 때리다,The boy hit the ball hard.,그 남자아이가 공을 세게 쳤어요.,polysemy_split,(치다),hit,FALSE
+hit,hit,,n.|v.,인기 있는 것 / 히트작,That song was a big hit.,그 노래는 큰 히트작이었어요.,polysemy_split,(히트작),hit,FALSE
+final,final,,n.,결승전 / 기말시험,She passed her final exam.,그녀는 기말시험을 통과했어요.,normal,,,FALSE
+fit,fit,,adj.|v.,맞다 / 건강한,These shoes fit me well.,이 신발은 나에게 잘 맞아요.,normal,,,FALSE
+guy,guy,,n.,남자 / 사람,He is a nice guy.,그는 좋은 사람이에요.,normal,,,FALSE
+image,image,,n.,이미지 / 사진,She saved the image on her phone.,그녀는 휴대폰에 사진을 저장했어요.,normal,,,FALSE
+size,size,,n.,크기 / 사이즈,What size shoes do you wear?,신발 사이즈가 어떻게 되세요?,normal,,,FALSE
+behavior,behavior,behaviour,n.,행동 / 행실,The boy's behavior was very good.,그 남자아이의 행동은 매우 좋았어요.,normal,,,FALSE
+population,population,,n.,인구,Our city has a large population.,우리 도시는 인구가 많아요.,normal,,,FALSE
+fail,fail,,v.,실패하다 / 떨어지다,He failed the test last week.,그는 지난주 시험에서 떨어졌어요.,normal,,,FALSE
+environment,environment,,n.,환경,We must protect our environment.,우리는 환경을 보호해야 해요.,normal,,,FALSE
+comment,comment,,n.,의견 / 댓글,She left a kind comment online.,그녀는 온라인에 친절한 댓글을 남겼어요.,normal,,,FALSE
+enter,enter,,v.,들어가다 / 입력하다,She entered the room quietly.,그녀는 조용히 방에 들어갔어요.,normal,,,FALSE
+alone,alone,,adj.|adv.,혼자인 / 혼자서,She lives alone in a small house.,그녀는 작은 집에 혼자 살아요.,normal,,,FALSE
+drug,drug,,n.,약 / 마약,The doctor gave her a new drug.,의사가 그녀에게 새 약을 주었어요.,normal,,,FALSE
+series,series,,n.,시리즈 / 연속물,I watched a new TV series last night.,나는 어젯밤에 새 TV 시리즈를 봤어요.,normal,,,FALSE
+direct,direct,,adj.,직접적인 / 곧장 가는,Take the direct road to the school.,학교로 가는 직행 길을 이용하세요.,normal,,,FALSE
+director,director,,n.,감독 / 이사,She is the director of the school.,그녀는 그 학교의 이사예요.,normal,,,FALSE
+clearly,clearly,,adv.,분명히 / 명확하게,She spoke clearly and slowly.,그녀는 명확하고 천천히 말했어요.,normal,,,FALSE
+review,review,,n.|v.,후기 / 검토하다,She wrote a good review of the book.,그녀는 그 책에 대한 좋은 후기를 썼어요.,normal,,,FALSE
+depend,depend,,v.,의지하다 / ~에 달려 있다,She depends on her family a lot.,그녀는 가족에게 많이 의지해요.,normal,,,FALSE
+race,race,,n.,경주 / 인종,The children ran a race in the park.,아이들이 공원에서 경주를 했어요.,polysemy_split,(경주),race,FALSE
+race,race,,v.,경주하다 / 달리다,The boys raced to the finish line.,남자아이들이 결승선까지 달렸어요.,polysemy_split,(경주하다),race,FALSE
+recognize,recognize,,v.,알아보다 / 인정하다,I recognized her face at once.,나는 그녀의 얼굴을 바로 알아봤어요.,normal,,,FALSE
+purpose,purpose,,n.,목적 / 이유,What is the purpose of this meeting?,이 모임의 목적이 무엇인가요?,normal,,,FALSE
+department,department,,n.,부서 / 학과,She works in the sales department.,그녀는 영업 부서에서 일해요.,normal,,,FALSE
+argue,argue,,v.,다투다 / 주장하다,They argued about the TV channel.,그들은 TV 채널을 두고 다퉜어요.,normal,,,FALSE
+board,board,,n.,판 / 게시판,She wrote her name on the board.,그녀는 게시판에 자신의 이름을 썼어요.,normal,,,FALSE
+holiday,holiday,,n.,휴일 / 방학,We went to the beach on holiday.,우리는 휴일에 해변에 갔어요.,normal,,,FALSE
+mark,mark,,n.|v.,표시 / 점수,The teacher marked our homework.,선생님이 우리 숙제를 채점했어요.,normal,,,FALSE
+church,church,,n.,교회,She goes to church every Sunday.,그녀는 매주 일요일에 교회에 가요.,normal,,,FALSE
+achieve,achieve,,v.,이루다 / 달성하다,She achieved her dream at last.,그녀는 마침내 꿈을 이루었어요.,normal,,,FALSE
+item,item,,n.,물건 / 항목,She bought every item on the list.,그녀는 목록에 있는 물건을 모두 샀어요.,normal,,,FALSE
+season,season,,n.,계절 / 시즌,My favorite season is spring.,내가 가장 좋아하는 계절은 봄이에요.,normal,,,FALSE
+wide,wide,,adj.,넓은 / 폭이 넓은,The river is very wide here.,강이 여기서 매우 넓어요.,normal,,,FALSE
+method,method,,n.,방법 / 방식,She used a new cooking method.,그녀는 새로운 요리 방법을 사용했어요.,normal,,,FALSE
+discussion,discussion,,n.,토론 / 이야기,We had a long discussion about food.,우리는 음식에 대해 오랫동안 이야기했어요.,normal,,,FALSE
+nearly,nearly,,adv.,거의,She is nearly seventy years old.,그녀는 거의 70세예요.,normal,,,FALSE
+link,link,,n.|v.,연결 / 연결하다,She sent me a link to the video.,그녀가 나에게 동영상 링크를 보냈어요.,normal,,,FALSE
+advantage,advantage,,n.,장점 / 이점,Being tall is an advantage in sports.,키가 큰 것은 운동에서 장점이에요.,normal,,,FALSE
+marry,marry,,v.,결혼하다,She married her friend last year.,그녀는 작년에 친구와 결혼했어요.,normal,,,FALSE
+ability,ability,,n.,능력 / 재능,She has a great ability to cook.,그녀는 요리하는 능력이 뛰어나요.,normal,,,FALSE
+unit,unit,,n.,단위 / 단원,We finished the first unit today.,우리는 오늘 첫 번째 단원을 끝냈어요.,normal,,,FALSE
+solution,solution,,n.,해결책 / 답,She found a solution to the problem.,그녀는 문제에 대한 해결책을 찾았어요.,normal,,,FALSE
+specific,specific,,adj.,구체적인 / 특정한,Please give me a specific example.,구체적인 예를 들어 주세요.,normal,,,FALSE
+fear,fear,,n.,두려움 / 공포,She felt a great fear in the dark.,그녀는 어둠 속에서 큰 두려움을 느꼈어요.,normal,,,FALSE
+serious,serious,,adj.,심각한 / 진지한,She has a serious health problem.,그녀는 심각한 건강 문제가 있어요.,normal,,,FALSE
+target,target,,n.,목표 / 대상,She reached her weight loss target.,그녀는 체중 감량 목표를 달성했어요.,normal,,,FALSE
+degree,degree,,n.,도 / 학위,It is thirty degrees outside today.,오늘 밖의 기온은 30도예요.,polysemy_split,(온도 단위),degree,FALSE
+degree,degree,,n.,학위,She got her degree last summer.,그녀는 지난 여름에 학위를 받았어요.,polysemy_split,(학위),degree,FALSE
+pull,pull,,v.,당기다 / 끌다,She pulled the door open slowly.,그녀는 문을 천천히 당겨서 열었어요.,normal,,,FALSE
+movement,movement,,n.,움직임 / 운동,The baby's small movements are so cute.,아기의 작은 움직임이 너무 귀여워요.,normal,,,FALSE
+identify,identify,,v.,확인하다 / 알아보다,She identified the bird in the tree.,그녀는 나무에 있는 새를 알아봤어요.,normal,,,FALSE
+conference,conference,,n.,회의 / 학회,She attended a big conference today.,그녀는 오늘 큰 회의에 참석했어요.,normal,,,FALSE
+village,village,,n.,마을,She grew up in a small village.,그녀는 작은 마을에서 자랐어요.,normal,,,FALSE
+express,express,,v.,표현하다 / 나타내다,She expressed her feelings in a letter.,그녀는 편지로 자신의 감정을 표현했어요.,normal,,,FALSE

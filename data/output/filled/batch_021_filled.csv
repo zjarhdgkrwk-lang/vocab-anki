@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+attend,attend,,v.,참석하다 / 다니다,She attends English class every day.,그녀는 매일 영어 수업에 참석해요.,normal,,,FALSE
+score,score,,n.|v.,점수,She got a high score on the test.,그녀는 시험에서 높은 점수를 받았어요.,normal,,,FALSE
+organize,organize,organise,v.,정리하다 / 준비하다,She organized her room very well.,그녀는 방을 아주 잘 정리했어요.,normal,,,FALSE
+sleep,sleep,,n.,잠 / 수면,She needs more sleep every night.,그녀는 매일 밤 더 많은 잠이 필요해요.,normal,,,FALSE
+fish,fish,,v.,낚시하다,He fishes at the river every morning.,그는 매일 아침 강에서 낚시해요.,normal,,,FALSE
+promise,promise,,n.|v.,약속 / 약속하다,She promised to call me later.,그녀는 나중에 전화하겠다고 약속했어요.,normal,,,FALSE
+energy,energy,,n.,에너지 / 기운,The children have so much energy.,아이들은 기운이 정말 넘쳐요.,normal,,,FALSE
+trouble,trouble,,n.,문제 / 어려움,He had trouble finding the place.,그는 그 장소를 찾는 데 어려움을 겪었어요.,normal,,,FALSE
+touch,touch,,v.,만지다 / 건드리다,She touched the soft cat gently.,그녀는 부드러운 고양이를 살며시 만졌어요.,normal,,,FALSE
+middle,middle,,adj.|n.,중간의 / 중간,She sat in the middle of the room.,그녀는 방 한가운데에 앉았어요.,normal,,,FALSE
+strategy,strategy,,n.,전략 / 방법,We need a good strategy to win.,우리는 이기기 위한 좋은 전략이 필요해요.,normal,,,FALSE
+deep,deep,,adj.,깊은,The lake is very deep and cold.,그 호수는 아주 깊고 차가워요.,normal,,,FALSE
+except,except,,prep.,~을 제외하고,Everyone came except my sister.,내 여동생을 제외하고 모두 왔어요.,function_word,,,FALSE
+star,star,,v.,주연을 맡다,She starred in a popular drama.,그녀는 인기 드라마에서 주연을 맡았어요.,normal,,,FALSE
+network,network,,n.,네트워크 / 인맥,She has a wide network of friends.,그녀는 넓은 친구 인맥을 갖고 있어요.,normal,,,FALSE
+avoid,avoid,,v.,피하다 / 삼가다,She avoids eating too much sugar.,그녀는 설탕을 너무 많이 먹는 것을 피해요.,normal,,,FALSE
+seat,seat,,n.,자리 / 좌석,Please take a seat here.,여기 자리에 앉으세요.,normal,,,FALSE
+throw,throw,,v.,던지다,The boy threw the ball to me.,그 남자아이가 나에게 공을 던졌어요.,normal,,,FALSE
+task,task,,n.,과제 / 일,She finished her task before lunch.,그녀는 점심 전에 과제를 끝냈어요.,normal,,,FALSE
+normal,normal,,adj.,보통의 / 평범한,Today was a normal day for her.,오늘은 그녀에게 평범한 하루였어요.,normal,,,FALSE
+goal,goal,,n.,목표 / 골,Her goal is to learn English well.,그녀의 목표는 영어를 잘 배우는 것이에요.,normal,,,FALSE
+option,option,,n.,선택 / 선택권,We have two options for dinner.,저녁 식사로 두 가지 선택이 있어요.,normal,,,FALSE
+huge,huge,,adj.,거대한 / 엄청난,There was a huge tree in the garden.,정원에 거대한 나무가 있었어요.,normal,,,FALSE
+refer,refer,,v.,참고하다 / 언급하다,She referred to her notes during class.,그녀는 수업 중에 노트를 참고했어요.,normal,,,FALSE
+push,push,,v.,밀다 / 누르다,He pushed the door open slowly.,그는 문을 천천히 밀어서 열었어요.,normal,,,FALSE
+successful,successful,,adj.,성공적인 / 성공한,She is a very successful cook.,그녀는 아주 성공한 요리사예요.,normal,,,FALSE
+competition,competition,,n.,대회 / 경쟁,She won first place in the competition.,그녀는 대회에서 1등을 했어요.,normal,,,FALSE
+argument,argument,,n.,말다툼 / 주장,They had an argument about the food.,그들은 음식에 대해 말다툼을 했어요.,normal,,,FALSE
+adult,adult,,adj.,어른의 / 성인의,This movie is for adult viewers only.,이 영화는 성인 시청자를 위한 것이에요.,normal,,,FALSE
+fly,fly,,n.,파리,A fly landed on the food.,파리 한 마리가 음식 위에 앉았어요.,normal,,,FALSE
+document,document,,n.,서류 / 문서,She signed the important document.,그녀는 중요한 서류에 서명했어요.,normal,,,FALSE
+pattern,pattern,,n.,패턴 / 무늬,She likes the flower pattern on her dress.,그녀는 자신의 드레스에 있는 꽃 무늬를 좋아해요.,normal,,,FALSE
+search,search,,n.|v.,찾다 / 검색하다,She searched for her keys everywhere.,그녀는 어디서나 열쇠를 찾았어요.,normal,,,FALSE
+separate,separate,,adj.,따로 된 / 별도의,They sleep in separate rooms.,그들은 별도의 방에서 자요.,normal,,,FALSE
+anyway,anyway,,adv.,어쨌든 / 그래도,"It was cold, but she went out anyway.",추웠지만 그녀는 어쨌든 나갔어요.,normal,,,FALSE
+speech,speech,,n.,연설 / 말하기,He gave a short speech at the party.,그는 파티에서 짧은 연설을 했어요.,normal,,,FALSE
+officer,officer,,n.,경찰관 / 장교,The officer helped the lost child.,경찰관이 길을 잃은 아이를 도와줬어요.,normal,,,FALSE
+oil,oil,,n.,기름 / 오일,She cooked the fish in hot oil.,그녀는 뜨거운 기름에 생선을 요리했어요.,normal,,,FALSE
+fun,fun,,adj.,재미있는,The game was really fun for us.,그 게임은 우리에게 정말 재미있었어요.,normal,,,FALSE
+protect,protect,,v.,보호하다,She protects her skin from the sun.,그녀는 햇빛으로부터 피부를 보호해요.,normal,,,FALSE
+disease,disease,,n.,병 / 질병,The doctor helped her fight the disease.,의사가 그녀가 질병과 싸우도록 도와줬어요.,normal,,,FALSE
+author,author,,n.,작가 / 저자,She is the author of this book.,그녀는 이 책의 작가예요.,normal,,,FALSE
+male,male,,adj.|n.,남성의 / 남성,The male doctor spoke kindly.,그 남성 의사는 친절하게 말했어요.,normal,,,FALSE
+dark,dark,,n.,어둠,The child is afraid of the dark.,그 아이는 어둠을 무서워해요.,normal,,,FALSE
+earn,earn,,v.,벌다 / 얻다,She earns money by selling food.,그녀는 음식을 팔아서 돈을 벌어요.,normal,,,FALSE
+perform,perform,,v.,공연하다 / 수행하다,She performed a song at school.,그녀는 학교에서 노래를 공연했어요.,normal,,,FALSE
+professional,professional,,adj.,전문적인 / 직업적인,She got professional cooking lessons.,그녀는 전문적인 요리 수업을 받았어요.,normal,,,FALSE
+mine,mine,,pron.,내 것,"This bag is mine, not yours.","이 가방은 내 것이에요, 당신 것이 아니에요.",function_word,,,FALSE
+memory,memory,,n.,기억 / 추억,She has a good memory for names.,그녀는 이름을 잘 기억해요.,normal,,,FALSE
+credit,credit,,n.,신용 / 공로,She paid for it by credit card.,그녀는 신용카드로 계산했어요.,normal,,,FALSE
+ring,ring,,n.,반지,She wears a gold ring on her finger.,그녀는 손가락에 금반지를 끼고 있어요.,polysemy_split,(반지),ring,FALSE
+ring,ring,,v.,전화하다 / 울리다,The phone rang while she was eating.,그녀가 밥을 먹는 동안 전화가 울렸어요.,polysemy_split,(울리다),ring,FALSE
+discover,discover,,v.,발견하다,She discovered a new coffee shop nearby.,그녀는 근처에서 새로운 커피숍을 발견했어요.,normal,,,FALSE
+dead,dead,,adj.,죽은,The plant is dead because of no water.,그 식물은 물이 없어서 죽었어요.,normal,,,FALSE
+possibility,possibility,,n.,가능성,There is a possibility of rain today.,오늘 비가 올 가능성이 있어요.,normal,,,FALSE
+direction,direction,,n.,방향 / 길 안내,She asked for directions to the station.,그녀는 역까지 가는 길을 물었어요.,normal,,,FALSE
+variety,variety,,n.,다양함 / 여러 종류,The market sells a variety of fruits.,그 시장은 다양한 과일을 팔아요.,normal,,,FALSE
+daily,daily,,adj.,매일의 / 일상적인,Walking is part of her daily routine.,걷기는 그녀의 일상 생활의 일부예요.,normal,,,FALSE
+screen,screen,,n.,화면 / 스크린,She looked at the phone screen carefully.,그녀는 휴대폰 화면을 주의 깊게 봤어요.,normal,,,FALSE
+track,track,,n.,길 / 트랙,She walked along the forest track.,그녀는 숲속 길을 따라 걸었어요.,normal,,,FALSE

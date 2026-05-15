@@ -1,1 +1,16 @@
 lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+past,past,,adj.|n.|prep.,과거의 / 지나서,"In the past, she lived in Busan.",과거에 그녀는 부산에 살았어요.,normal,,,TRUE
+lie,lie,,v.,눕다 / 거짓말하다,He lay on the bed and rested.,그는 침대에 누워서 쉬었어요.,normal,,,TRUE
+bar,bar,,n.,술집 / 막대기,He had a drink at the bar.,그는 술집에서 음료를 마셨어요.,normal,,,TRUE
+opposite,opposite,,adj.|adv.|n.|prep.,반대쪽의 / 반대,The school is on the opposite side of the road.,학교는 길 반대편에 있다.,normal,,,TRUE
+FALSE,FALSE,,adj.,거짓의 / 틀린,That information is false.,그 정보는 틀린 것이에요.,normal,,,TRUE
+o?™clock,o?™clock,,adv.,~시 (정각),We eat lunch at twelve o'clock.,우리는 12시 정각에 점심을 먹어요.,normal,,,TRUE
+double,double,,adj.|det.|pron.|v.,두 배의 / 두 배가 되다,The price was double last year.,가격이 작년의 두 배였어요.,normal,,,TRUE
+pitch,pitch,,n.,음높이 / 경기장,Her voice has a high pitch when she sings.,그녀가 노래할 때 목소리의 음높이가 높다.,normal,,,TRUE
+peak,peak,,adj.|n.|v.,정점 / 절정,The mountain peak was covered in snow.,산 정상은 눈으로 덮여 있었어요.,normal,,,TRUE
+gay,gay,,adj.|n.,동성애자의 / 즐거운,He is a gay man who lives nearby.,그는 근처에 사는 동성애자 남성입니다.,normal,,,TRUE
+parallel,parallel,,adj.|adv.|n.|v.,평행한 / 유사한,Draw two parallel lines on the paper.,종이에 평행선 두 개를 그으세요.,normal,,,TRUE
+moderate,moderate,,adj.|n.|v.,적당한 / 온건한,She exercises at a moderate pace daily.,그녀는 매일 적당한 속도로 운동합니다.,normal,,,TRUE
+damn,damn,,adj.|adv.|exclam.|n.|v.,빌어먹을 / 저주하다,He said damn when he dropped his cup.,"그는 컵을 떨어뜨렸을 때 ""빌어먹을""이라고 말했다.",normal,,,TRUE
+tender,tender,,adj.|n.|v.,부드러운 / 다정한,The meat was very tender and soft.,고기가 매우 부드러웠어요.,normal,,,TRUE
+bang,bang,,adv.|exclam.|n.|v.,쾅 / 쾅 소리 나다,The door shut with a loud bang.,문이 쾅 하는 큰 소리와 함께 닫혔다.,normal,,,TRUE

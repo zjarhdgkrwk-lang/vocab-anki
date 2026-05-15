@@ -1,0 +1,77 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+consult,consult,,v.,상담하다 / 참고하다,She consulted a doctor about her cold.,그녀는 감기 때문에 의사와 상담했습니다.,normal,,,FALSE
+strip,strip,,n.|v.,띠 / 벗기다,She tore a strip of paper.,그녀는 종이를 한 줄 찢었습니다.,polysemy_split,(띠),strip,FALSE
+strip,strip,,n.|v.,벗기다 / 제거하다,He stripped the old paint off the wall.,그는 벽에서 낡은 페인트를 벗겨냈습니다.,polysemy_split,(벗기다),strip,FALSE
+intervention,intervention,,n.,개입 / 중재,The teacher's intervention stopped the fight.,선생님의 개입으로 싸움이 멈췄습니다.,normal,,,FALSE
+vice,vice,,n.,악습 / 나쁜 버릇,Smoking is a vice he wants to stop.,흡연은 그가 그만두고 싶은 나쁜 버릇입니다.,normal,,,FALSE
+radical,radical,,adj.|n.,급진적인 / 근본적인,She made a radical change to her diet.,그녀는 식단을 근본적으로 바꿨습니다.,normal,,,FALSE
+dimension,dimension,,n.,차원 / 크기,We measured the dimensions of the room.,우리는 방의 크기를 측정했습니다.,normal,,,FALSE
+subsequent,subsequent,,adj.,그 이후의 / 다음의,Subsequent tests showed she was healthy.,그 이후의 검사 결과 그녀는 건강했습니다.,normal,,,FALSE
+efficiency,efficiency,,n.,효율 / 능률,The new machine improved work efficiency.,새 기계가 작업 효율을 높였습니다.,normal,,,FALSE
+membership,membership,,n.,회원 자격 / 회원권,She bought a gym membership last month.,그녀는 지난달에 헬스장 회원권을 샀습니다.,normal,,,FALSE
+bloody,bloody,,adj.|adv.|v.,피투성이의 / 피가 나는,He had a bloody cut on his hand.,그의 손에 피가 나는 상처가 있었습니다.,normal,,,FALSE
+ally,ally,,n.|v.,동맹국 / 편,She is a close ally of my family.,그녀는 우리 가족의 가까운 편입니다.,polysemy_split,(동맹·편),ally,FALSE
+ally,ally,,n.|v.,동맹을 맺다 / 협력하다,The two groups allied to help each other.,두 그룹은 서로 돕기 위해 협력했습니다.,polysemy_split,(협력하다),ally,FALSE
+mature,mature,,adj.|v.,성숙한 / 어른스러운,She is very mature for her age.,그녀는 나이에 비해 매우 성숙합니다.,polysemy_split,(성숙한),mature,FALSE
+mature,mature,,adj.|v.,성숙해지다 / 익다,The fruit matures in summer.,그 과일은 여름에 익습니다.,polysemy_split,(익다·성숙해지다),mature,FALSE
+briefly,briefly,,adv.,잠깐 / 간단히,She briefly explained the plan to us.,그녀는 우리에게 계획을 간단히 설명했습니다.,normal,,,FALSE
+disturb,disturb,,v.,방해하다 / 불안하게 하다,Please do not disturb her while she sleeps.,그녀가 자는 동안 방해하지 마세요.,normal,,,FALSE
+sustain,sustain,,v.,유지하다 / 지속하다,She sustained her effort every day.,그녀는 매일 노력을 지속했습니다.,normal,,,FALSE
+newly,newly,,adv.,새로 / 최근에,They moved into a newly built house.,그들은 새로 지어진 집으로 이사했습니다.,normal,,,FALSE
+parallel,parallel,,adj.|adv.|n.|v.,평행한 / 유사한,Draw two parallel lines on the paper.,종이에 평행선 두 개를 그으세요.,normal,,,TRUE
+gender,gender,,n.,성별,The form asks for your name and gender.,그 양식에는 이름과 성별을 적어야 합니다.,normal,,,FALSE
+dealer,dealer,,n.,판매상 / 딜러,He bought his car from a local dealer.,그는 동네 판매상에서 차를 샀습니다.,normal,,,FALSE
+burden,burden,,n.|v.,짐 / 부담,The heavy bag was a burden for the girl.,무거운 가방은 그 여자아이에게 부담이었습니다.,polysemy_split,(짐·부담),burden,FALSE
+burden,burden,,n.|v.,부담을 주다 / 짐을 지우다,Don't burden her with too many tasks.,그녀에게 너무 많은 일을 부담 지우지 마세요.,polysemy_split,(부담을 주다),burden,FALSE
+mate,mate,,n.|v.,친구 / 짝,He had lunch with his mate at school.,그는 학교에서 친구와 점심을 먹었습니다.,polysemy_split,(친구·짝),mate,FALSE
+mate,mate,,n.|v.,짝짓기하다,Birds mate in the spring season.,새들은 봄에 짝짓기를 합니다.,polysemy_split,(짝짓기하다),mate,FALSE
+shareholder,shareholder,,n.,주주 / 주식 보유자,She is a shareholder of that big company.,그녀는 그 큰 회사의 주주입니다.,normal,,,FALSE
+resistance,resistance,,n.,저항 / 반발,The boy showed resistance to the new rule.,그 남자아이는 새로운 규칙에 반발했습니다.,normal,,,FALSE
+tap,tap,,n.|v.,수도꼭지 / 가볍게 두드리다,She turned on the tap to wash her hands.,그녀는 손을 씻으려고 수도꼭지를 틀었습니다.,polysemy_split,(수도꼭지),tap,FALSE
+tap,tap,,n.|v.,가볍게 두드리다,He tapped her on the shoulder gently.,그는 그녀의 어깨를 가볍게 두드렸습니다.,polysemy_split,(두드리다),tap,FALSE
+attribute,attribute,,n.|v.,특성 / 속성,Kindness is a good attribute to have.,친절함은 갖기 좋은 특성입니다.,polysemy_split,(특성),attribute,FALSE
+attribute,attribute,,n.|v.,~의 덕분으로 돌리다 / ~때문이라고 하다,She attributed her success to hard work.,그녀는 성공이 노력 덕분이라고 했습니다.,polysemy_split,(덕분으로 돌리다),attribute,FALSE
+entitle,entitle,,v.,자격을 주다 / 제목을 붙이다,This card entitles you to a free meal.,이 카드는 무료 식사를 받을 자격을 줍니다.,normal,,,FALSE
+involvement,involvement,,n.,참여 / 관여,Her involvement in the event was great.,그 행사에 대한 그녀의 참여는 훌륭했습니다.,normal,,,FALSE
+exposure,exposure,,n.,노출 / 접촉,Too much exposure to the sun is bad.,햇빛에 너무 많이 노출되는 것은 좋지 않습니다.,normal,,,FALSE
+conventional,conventional,,adj.,전통적인 / 일반적인,She cooked a conventional Korean meal.,그녀는 전통적인 한국 음식을 만들었습니다.,normal,,,FALSE
+formation,formation,,n.,형성 / 구성,We watched the cloud formation in the sky.,우리는 하늘의 구름이 형성되는 것을 바라봤습니다.,normal,,,FALSE
+deposit,deposit,,n.|v.,보증금 / 예금,She paid a deposit for the new apartment.,그녀는 새 아파트에 보증금을 냈습니다.,polysemy_split,(보증금·예금),deposit,FALSE
+deposit,deposit,,n.|v.,입금하다 / 맡기다,He deposited money in the bank today.,그는 오늘 은행에 돈을 입금했습니다.,polysemy_split,(입금하다),deposit,FALSE
+advocate,advocate,,n.|v.,지지자 / 옹호자,She is an advocate for healthy eating.,그녀는 건강한 식습관의 지지자입니다.,polysemy_split,(지지자),advocate,FALSE
+advocate,advocate,,n.|v.,지지하다 / 옹호하다,He advocates walking every morning.,그는 매일 아침 걷기를 지지합니다.,polysemy_split,(지지하다),advocate,FALSE
+establishment,establishment,,n.,설립 / 기관,The establishment of the school took years.,그 학교의 설립은 몇 년이 걸렸습니다.,normal,,,FALSE
+recovery,recovery,,n.,회복 / 되찾기,Her recovery from the illness was fast.,그녀의 병 회복은 빨랐습니다.,normal,,,FALSE
+seal,seal,,n.|v.,물개,The girl saw a seal at the zoo.,그 여자아이는 동물원에서 물개를 봤습니다.,polysemy_split,(동물 물개),seal,FALSE
+seal,seal,,n.|v.,봉인하다 / 밀봉하다,She sealed the envelope before sending it.,그녀는 편지를 보내기 전에 봉투를 봉했습니다.,polysemy_split,(봉인하다),seal,FALSE
+characterize,characterize,,v.,특징짓다 / 묘사하다,Kindness characterizes her personality.,친절함이 그녀의 성격을 잘 나타냅니다.,normal,,,FALSE
+specify,specify,,v.,명시하다 / 구체적으로 말하다,Please specify which size you need.,어떤 사이즈가 필요한지 구체적으로 말해 주세요.,normal,,,FALSE
+spin,spin,,n.|v.,돌다 / 회전하다,The girl spun around in the garden.,그 여자아이는 정원에서 빙글빙글 돌았습니다.,polysemy_split,(회전하다),spin,FALSE
+spin,spin,,n.|v.,회전 / 한 바퀴,The ball made a fast spin in the air.,공이 공중에서 빠르게 회전했습니다.,polysemy_split,(회전·명사),spin,FALSE
+operator,operator,,n.,운영자 / 교환원,She called the operator for help.,그녀는 도움을 받으려고 교환원에게 전화했습니다.,normal,,,FALSE
+infant,infant,,n.,유아 / 아기,The infant smiled at her mother.,아기는 엄마를 보고 방긋 웃었습니다.,normal,,,FALSE
+anticipate,anticipate,,v.,예상하다 / 기대하다,We anticipate a lot of rain this week.,우리는 이번 주에 비가 많이 올 것으로 예상합니다.,normal,,,FALSE
+dependent,dependent,,adj.|n.,의존하는 / 부양가족,The child is dependent on her parents.,그 아이는 부모님께 의존합니다.,polysemy_split,(의존하는),dependent,FALSE
+dependent,dependent,,adj.|n.,부양가족,She listed her children as dependents.,그녀는 자녀들을 부양가족으로 기재했습니다.,polysemy_split,(부양가족),dependent,FALSE
+specialize,specialize,,v.,전문으로 하다 / 특화하다,She specializes in making traditional food.,그녀는 전통 음식 만들기를 전문으로 합니다.,normal,,,FALSE
+anxiety,anxiety,,n.,불안 / 걱정,She felt anxiety before the big test.,그녀는 중요한 시험 전에 불안을 느꼈습니다.,normal,,,FALSE
+precisely,precisely,,adv.,정확히 / 딱,She arrived at precisely nine o'clock.,그녀는 정확히 9시에 도착했습니다.,normal,,,FALSE
+rival,rival,,adj.|n.|v.,경쟁자 / 라이벌,The two girls are rivals in the class.,두 여자아이는 반에서 경쟁자입니다.,normal,,,FALSE
+moderate,moderate,,adj.|n.|v.,적당한 / 온건한,She exercises at a moderate pace daily.,그녀는 매일 적당한 속도로 운동합니다.,normal,,,TRUE
+significance,significance,,n.,중요성 / 의미,She understood the significance of the day.,그녀는 그날의 중요성을 이해했습니다.,normal,,,FALSE
+universal,universal,,adj.|n.,보편적인 / 모든 사람에 해당하는,A smile is a universal sign of happiness.,미소는 행복의 보편적인 표시입니다.,normal,,,FALSE
+constitute,constitute,,v.,구성하다 / ~에 해당하다,Three meals constitute a full day of eating.,세 끼 식사가 하루 식사를 구성합니다.,normal,,,FALSE
+adequate,adequate,,adj.,충분한 / 적절한,Make sure you get adequate sleep each night.,매일 밤 충분한 수면을 취하도록 하세요.,normal,,,FALSE
+consultant,consultant,,n.,상담가 / 전문 컨설턴트,She hired a health consultant last year.,그녀는 작년에 건강 상담가를 고용했습니다.,normal,,,FALSE
+historian,historian,,n.,역사학자,The historian wrote a book about Korea.,그 역사학자는 한국에 관한 책을 썼습니다.,normal,,,FALSE
+keen,keen,,adj.,열심인 / 열렬한,She is keen on learning new recipes.,그녀는 새로운 요리법을 배우는 데 열심입니다.,normal,,,FALSE
+ethnic,ethnic,,adj.,민족의 / 민족적인,She loves trying different ethnic foods.,그녀는 다양한 민족 음식 먹어보기를 좋아합니다.,normal,,,FALSE
+clinical,clinical,,adj.,임상의 / 병원의,The doctor did a clinical test on her.,의사는 그녀에게 임상 검사를 실시했습니다.,normal,,,FALSE
+forecast,forecast,,n.|v.,예보 / 예측,The weather forecast says it will rain.,날씨 예보에서 비가 온다고 합니다.,polysemy_split,(예보·명사),forecast,FALSE
+forecast,forecast,,n.|v.,예보하다 / 예측하다,They forecast heavy snow for tomorrow.,그들은 내일 폭설을 예보했습니다.,polysemy_split,(예보하다),forecast,FALSE
+segment,segment,,n.|v.,부분 / 조각,She ate one segment of the orange.,그녀는 오렌지 한 조각을 먹었습니다.,polysemy_split,(조각·명사),segment,FALSE
+segment,segment,,n.|v.,나누다 / 분류하다,We segmented the class into small groups.,우리는 반을 작은 그룹으로 나눴습니다.,polysemy_split,(나누다),segment,FALSE
+prompt,prompt,,adj.|n.|v.,즉각적인 / 빠른,She gave a prompt reply to my message.,그녀는 내 메시지에 즉각적으로 답했습니다.,polysemy_split,(즉각적인),prompt,FALSE
+prompt,prompt,,adj.|n.|v.,유발하다 / 촉구하다,The cold weather prompted her to wear a coat.,추운 날씨 때문에 그녀는 코트를 입었습니다.,polysemy_split,(유발하다),prompt,FALSE
+charm,charm,,n.|v.,매력 / 부적,The boy has a lot of charm and kindness.,그 남자아이는 매력과 친절함이 넘칩니다.,polysemy_split,(매력),charm,FALSE
+charm,charm,,n.|v.,매혹하다 / 매료시키다,Her smile charmed everyone in the room.,그녀의 미소는 방 안의 모든 사람을 매료시켰습니다.,polysemy_split,(매혹하다),charm,FALSE

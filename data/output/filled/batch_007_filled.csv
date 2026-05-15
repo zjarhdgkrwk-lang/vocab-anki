@@ -1,0 +1,63 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+die,die,,v.,죽다,The old cat died yesterday.,늙은 고양이가 어제 죽었어요.,normal,,,FALSE
+cut,cut,,v.,자르다,She cut the bread for lunch.,그녀는 점심을 위해 빵을 잘랐어요.,normal,,,FALSE
+describe,describe,,v.,설명하다 / 묘사하다,She described her new house.,그녀는 자신의 새 집을 묘사했어요.,normal,,,FALSE
+strong,strong,,adj.,강한 / 튼튼한,He is a strong man.,그는 튼튼한 남자예요.,normal,,,FALSE
+girl,girl,,n.,소녀 / 여자아이,The girl likes reading books.,그 소녀는 책 읽기를 좋아해요.,normal,,,FALSE
+maybe,maybe,,adv.,아마도 / 어쩌면,Maybe she is at home now.,아마 그녀는 지금 집에 있을 거예요.,normal,,,FALSE
+else,else,,adv.,그 밖에 / 다른,Do you want anything else?,다른 것이 필요하세요?,function_word,,,FALSE
+join,join,,v.,참여하다 / 함께하다,She joined a cooking class.,그녀는 요리 수업에 참여했어요.,normal,,,FALSE
+difficult,difficult,,adj.,어려운,The test was very difficult.,그 시험은 매우 어려웠어요.,normal,,,FALSE
+please,please,,exclam.,제발 / 부탁드려요,Please sit down here.,여기 앉아 주세요.,normal,,,FALSE
+detail,detail,,n.,세부 사항 / 자세한 내용,She told me every detail.,그녀는 모든 세부 사항을 말해줬어요.,normal,,,FALSE
+difference,difference,,n.,차이 / 다른 점,There is a big difference.,큰 차이가 있어요.,normal,,,FALSE
+action,action,,n.,행동 / 행위,"We need action, not words.",우리는 말이 아니라 행동이 필요해요.,normal,,,FALSE
+health,health,,n.,건강,Her health is very good.,그녀의 건강은 매우 좋아요.,normal,,,FALSE
+eat,eat,,v.,먹다,We eat breakfast together.,우리는 함께 아침을 먹어요.,normal,,,FALSE
+TRUE,TRUE,,adj.,사실인 / 진짜의,The story is true.,그 이야기는 사실이에요.,normal,,,FALSE
+phone,phone,,n.|v.,전화기,She left her phone at home.,그녀는 집에 전화기를 두고 왔어요.,polysemy_split,(전화기),phone,FALSE
+phone,phone,,n.|v.,전화하다,He phoned his mother today.,그는 오늘 어머니에게 전화했어요.,polysemy_split,(전화하다),phone,FALSE
+draw,draw,,v.,그리다,The girl drew a flower.,그 소녀는 꽃을 그렸어요.,normal,,,FALSE
+white,white,,adj.|n.,흰색의 / 흰색,She wore a white dress.,그녀는 흰 드레스를 입었어요.,normal,,,FALSE
+date,date,,n.,날짜 / 데이트,What is today's date?,오늘 날짜가 어떻게 돼요?,normal,,,FALSE
+practice,practice,practise,n.|v.,연습 / 연습하다,She practices piano every day.,그녀는 매일 피아노를 연습해요.,normal,,,FALSE
+model,model,,n.,모델 / 모형,He bought a model car.,그는 모형 자동차를 샀어요.,normal,,,FALSE
+customer,customer,,n.,손님 / 고객,The customer ordered coffee.,그 고객은 커피를 주문했어요.,normal,,,FALSE
+front,front,,adj.|n.,앞 / 앞쪽,She sat in the front row.,그녀는 앞줄에 앉았어요.,normal,,,FALSE
+explain,explain,,v.,설명하다,He explained the problem clearly.,그는 문제를 명확하게 설명했어요.,normal,,,FALSE
+door,door,,n.,문,Please close the door.,문을 닫아 주세요.,normal,,,FALSE
+outside,outside,,adv.,밖에 / 바깥에,The children are playing outside.,아이들이 밖에서 놀고 있어요.,normal,,,FALSE
+behind,behind,,adv.|prep.,뒤에 / 뒤쪽에,She stood behind the door.,그녀는 문 뒤에 서 있었어요.,function_word,,,FALSE
+teacher,teacher,,n.,선생님,My teacher is very kind.,우리 선생님은 매우 친절해요.,normal,,,FALSE
+land,land,,n.,땅 / 육지,The farmers work on the land.,농부들은 땅에서 일해요.,normal,,,FALSE
+travel,travel,,n.|v.,여행 / 여행하다,She loves to travel by train.,그녀는 기차로 여행하는 것을 좋아해요.,normal,,,FALSE
+enjoy,enjoy,,v.,즐기다,We enjoyed the family dinner.,우리는 가족 저녁 식사를 즐겼어요.,normal,,,FALSE
+nice,nice,,adj.,좋은 / 멋진,She has a nice smile.,그녀는 멋진 미소를 갖고 있어요.,normal,,,FALSE
+improve,improve,,v.,나아지다 / 향상시키다,Her health improved quickly.,그녀의 건강이 빠르게 나아졌어요.,normal,,,FALSE
+picture,picture,,n.,사진 / 그림,She showed me a picture.,그녀가 나에게 사진을 보여줬어요.,normal,,,FALSE
+boy,boy,,n.,소년 / 남자아이,The boy likes soccer.,그 소년은 축구를 좋아해요.,normal,,,FALSE
+happy,happy,,adj.,행복한 / 기쁜,She looks very happy today.,그녀는 오늘 매우 행복해 보여요.,normal,,,FALSE
+project,project,,n.,과제 / 프로젝트,We finished our school project.,우리는 학교 과제를 끝냈어요.,normal,,,FALSE
+road,road,,n.,길 / 도로,The road is very long.,그 도로는 매우 길어요.,normal,,,FALSE
+list,list,,n.|v.,목록 / 목록을 만들다,She made a shopping list.,그녀는 쇼핑 목록을 만들었어요.,normal,,,FALSE
+wear,wear,,v.,입다 / 착용하다,She wears a red coat today.,그녀는 오늘 빨간 코트를 입었어요.,normal,,,FALSE
+teach,teach,,v.,가르치다,She teaches math at school.,그녀는 학교에서 수학을 가르쳐요.,normal,,,FALSE
+air,air,,n.,공기 / 하늘,The morning air feels fresh.,아침 공기가 상쾌해요.,normal,,,FALSE
+news,news,,n.,뉴스 / 소식,She watched the news last night.,그녀는 어젯밤 뉴스를 봤어요.,normal,,,FALSE
+space,space,,n.,공간 / 우주,There is no space on the desk.,책상 위에 공간이 없어요.,normal,,,FALSE
+usually,usually,,adv.,보통 / 대개,She usually drinks tea in the morning.,그녀는 보통 아침에 차를 마셔요.,normal,,,FALSE
+address,address,,n.,주소,Please write your address here.,여기에 주소를 써 주세요.,normal,,,FALSE
+common,common,,adj.,흔한 / 공통의,Colds are very common in winter.,감기는 겨울에 매우 흔해요.,normal,,,FALSE
+culture,culture,,n.,문화,I love Korean food and culture.,나는 한국 음식과 문화를 좋아해요.,normal,,,FALSE
+listen,listen,,v.,듣다 / 귀 기울이다,She listened to music all day.,그녀는 하루 종일 음악을 들었어요.,normal,,,FALSE
+wrong,wrong,,adj.,틀린 / 잘못된,I gave the wrong answer.,나는 틀린 답을 말했어요.,normal,,,FALSE
+foot,foot,,n.,발,My foot hurts a little.,발이 조금 아파요.,normal,,,FALSE
+check,check,,v.,확인하다 / 점검하다,She checked her phone again.,그녀는 전화기를 다시 확인했어요.,normal,,,FALSE
+complete,complete,,adj.|v.,완전한,This is a complete set.,이것은 완전한 세트예요.,polysemy_split,(완전한),complete,FALSE
+complete,complete,,adj.|v.,완성하다,She completed her homework.,그녀는 숙제를 완성했어요.,polysemy_split,(완성하다),complete,FALSE
+lie,lie,,v.,눕다 / 거짓말하다,He lay on the bed and rested.,그는 침대에 누워서 쉬었어요.,normal,,,TRUE
+personal,personal,,adj.,개인적인,This is my personal notebook.,이것은 내 개인 노트예요.,normal,,,FALSE
+animal,animal,,n.,동물,She loves all kinds of animals.,그녀는 모든 종류의 동물을 좋아해요.,normal,,,FALSE
+arrive,arrive,,v.,도착하다,She arrived home very late.,그녀는 집에 매우 늦게 도착했어요.,normal,,,FALSE
+similar,similar,,adj.,비슷한,Our bags are very similar.,우리 가방은 매우 비슷해요.,normal,,,FALSE
+fine,fine,,adj.,괜찮은 / 좋은,I feel fine today.,나는 오늘 괜찮아요.,normal,,,FALSE

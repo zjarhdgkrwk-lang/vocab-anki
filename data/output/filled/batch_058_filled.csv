@@ -1,0 +1,65 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+crack,crack,,n.|v.,금 / 갈라지다,There is a crack in the wall.,벽에 금이 있어요.,normal,,,FALSE
+virtually,virtually,,adv.,거의 / 사실상,She eats virtually nothing for lunch.,그녀는 점심을 거의 먹지 않아요.,normal,,,FALSE
+era,era,,n.,시대,We live in a new era.,우리는 새로운 시대에 살고 있어요.,normal,,,FALSE
+coverage,coverage,,n.,보도 / 적용 범위,The news has good coverage of the event.,뉴스가 그 행사를 잘 보도했어요.,normal,,,FALSE
+tension,tension,,n.,긴장 / 갈등,There is tension between the two sisters.,두 자매 사이에 긴장감이 있어요.,normal,,,FALSE
+input,input,,n.|v.,입력 / 의견,She gave useful input at the meeting.,그녀는 회의에서 유용한 의견을 냈어요.,normal,,,FALSE
+isolate,isolate,,v.,격리하다 / 고립시키다,The doctor isolated the sick child.,의사가 아픈 아이를 격리했어요.,normal,,,FALSE
+eliminate,eliminate,,v.,없애다 / 제거하다,She eliminated sugar from her diet.,그녀는 식단에서 설탕을 없앴어요.,normal,,,FALSE
+welfare,welfare,,n.,복지 / 안녕,The school cares about the welfare of children.,학교는 아이들의 복지를 신경 써요.,normal,,,FALSE
+recruit,recruit,,n.|v.,신입 / 모집하다,The company recruited five new workers.,그 회사는 새 직원 다섯 명을 모집했어요.,normal,,,FALSE
+exclude,exclude,,v.,제외하다 / 배제하다,He was excluded from the group.,그는 그룹에서 제외되었어요.,normal,,,FALSE
+hence,hence,,adv.,그러므로 / 따라서,She was tired; hence she went to bed early.,그녀는 피곤했어요. 그러므로 일찍 잠자리에 들었어요.,normal,,,FALSE
+pupil,pupil,,n.,학생 / 눈동자,The pupil read the book aloud.,그 학생은 책을 큰 소리로 읽었어요.,polysemy_split,(학생),,FALSE
+pupil,pupil,,n.,눈동자,The doctor checked her pupils.,의사가 그녀의 눈동자를 확인했어요.,polysemy_split,(눈동자),pupil,FALSE
+restore,restore,,v.,되돌리다 / 복원하다,He restored the old furniture.,그는 오래된 가구를 복원했어요.,normal,,,FALSE
+formula,formula,,n.,공식 / 방법,The teacher wrote the formula on the board.,선생님이 칠판에 공식을 썼어요.,normal,,,FALSE
+perceive,perceive,,v.,인식하다 / 느끼다,She perceived a change in his mood.,그녀는 그의 기분 변화를 느꼈어요.,normal,,,FALSE
+beside,beside,,prep.,옆에,She sat beside her mother.,그녀는 어머니 옆에 앉았어요.,function_word,,,FALSE
+devote,devote,,v.,바치다 / 헌신하다,She devoted her time to her family.,그녀는 가족을 위해 시간을 바쳤어요.,normal,,,FALSE
+terrorist,terrorist,,n.,테러리스트,The police caught the terrorist.,경찰이 테러리스트를 잡았어요.,normal,,,FALSE
+fascinate,fascinate,,v.,매혹하다 / 흥미롭게 하다,The magic show fascinated the children.,마술 공연이 아이들을 매혹했어요.,normal,,,FALSE
+spare,spare,,adj.|n.|v.,여분의 / 아끼다,Do you have a spare pen?,여분의 펜이 있나요?,polysemy_split,(여분의),,FALSE
+spare,spare,,adj.|n.|v.,아끼다 / 용서하다,Please spare me some time.,시간을 좀 내 주세요.,polysemy_split,(시간·돈을 내다),spare,FALSE
+depression,depression,,n.,우울증 / 불경기,She is getting help for her depression.,그녀는 우울증 치료를 받고 있어요.,normal,,,FALSE
+underlie,underlie,,v.,밑바탕이 되다 / 근본이 되다,Love underlies their strong friendship.,사랑이 그들의 깊은 우정의 밑바탕이에요.,normal,,,FALSE
+distinction,distinction,,n.,차이 / 뛰어남,There is a clear distinction between the two.,둘 사이에 분명한 차이가 있어요.,normal,,,FALSE
+satisfaction,satisfaction,,n.,만족 / 기쁨,She felt great satisfaction after cooking.,요리를 하고 나서 큰 만족감을 느꼈어요.,normal,,,FALSE
+incorporate,incorporate,,v.,포함하다 / 통합하다,She incorporated vegetables into every meal.,그녀는 매 식사에 채소를 포함시켰어요.,normal,,,FALSE
+pub,pub,,n.,술집,They met at the pub after work.,그들은 퇴근 후 술집에서 만났어요.,normal,,,FALSE
+perception,perception,,n.,인식 / 느낌,His perception of the situation was wrong.,그의 상황 인식이 틀렸어요.,normal,,,FALSE
+database,database,,n.,데이터베이스,The hospital keeps a patient database.,병원은 환자 데이터베이스를 유지해요.,normal,,,FALSE
+territory,territory,,n.,영토 / 구역,The dog guards its territory.,그 개는 자신의 구역을 지켜요.,normal,,,FALSE
+expansion,expansion,,n.,확장 / 팽창,The expansion of the school took two years.,학교 확장에 2년이 걸렸어요.,normal,,,FALSE
+scare,scare,,n.|v.,겁 / 겁주다,The loud noise scared the girl.,큰 소리가 그 소녀를 겁줬어요.,normal,,,FALSE
+boundary,boundary,,n.,경계 / 한계,The fence marks the boundary of our garden.,울타리가 우리 정원의 경계를 나타내요.,normal,,,FALSE
+ratio,ratio,,n.,비율,The ratio of boys to girls is two to one.,남학생과 여학생의 비율은 2대 1이에요.,normal,,,FALSE
+withdraw,withdraw,,v.,인출하다 / 철수하다,She withdrew money from the bank.,그녀는 은행에서 돈을 인출했어요.,normal,,,FALSE
+disorder,disorder,,n.,장애 / 무질서,He has a sleep disorder.,그는 수면 장애가 있어요.,normal,,,FALSE
+demonstration,demonstration,,n.,시범 / 시위,The teacher gave a demonstration of the recipe.,선생님이 요리법 시범을 보여줬어요.,normal,,,FALSE
+analyst,analyst,,n.,분석가,The analyst studied the data carefully.,분석가는 데이터를 꼼꼼히 살폈어요.,normal,,,FALSE
+restriction,restriction,,n.,제한 / 규제,There are restrictions on parking here.,여기는 주차 제한이 있어요.,normal,,,FALSE
+foundation,foundation,,n.,기초 / 재단,A good diet is the foundation of good health.,좋은 식단은 건강의 기초예요.,normal,,,FALSE
+strain,strain,,n.|v.,부담 / 무리하다,Carrying heavy bags strained her back.,무거운 가방을 들어 허리에 무리가 왔어요.,normal,,,FALSE
+innovation,innovation,,n.,혁신,The new phone is a great innovation.,그 새 전화기는 훌륭한 혁신이에요.,normal,,,FALSE
+trail,trail,,n.|v.,오솔길 / 뒤를 따르다,We walked along the forest trail.,우리는 숲 오솔길을 따라 걸었어요.,normal,,,FALSE
+trap,trap,,n.|v.,덫 / 가두다,The cat was trapped in the room.,고양이가 방에 갇혔어요.,normal,,,FALSE
+extension,extension,,n.,연장 / 확장,She got an extension on her deadline.,그녀는 마감 기한을 연장받았어요.,normal,,,FALSE
+remarkable,remarkable,,adj.,놀라운 / 주목할 만한,She made a remarkable recovery after surgery.,그녀는 수술 후 놀라운 회복을 했어요.,normal,,,FALSE
+bid,bid,,n.|v.,입찰 / 입찰하다,He made a bid for the old house.,그는 오래된 집에 입찰했어요.,normal,,,FALSE
+breed,breed,,n.|v.,품종 / 기르다,What breed is your dog?,당신 강아지는 무슨 품종이에요?,normal,,,FALSE
+adviser,adviser,,n.,조언자 / 상담사,She talked to her adviser about school.,그녀는 학교 문제로 상담사와 이야기했어요.,normal,,,FALSE
+stem,stem,,n.|v.,줄기 / 비롯되다,She cut the stem of the flower.,그녀는 꽃의 줄기를 잘랐어요.,polysemy_split,(줄기),,FALSE
+stem,stem,,n.|v.,비롯되다 / 막다,His problems stem from poor sleep.,그의 문제는 수면 부족에서 비롯돼요.,polysemy_split,(비롯되다),stem,FALSE
+reverse,reverse,,adj.|n.|v.,반대 / 뒤집다,She reversed the car into the garage.,그녀는 차를 차고 안으로 후진시켰어요.,normal,,,FALSE
+mode,mode,,n.,방식 / 모드,The phone is in silent mode.,전화기가 무음 모드예요.,normal,,,FALSE
+adjust,adjust,,v.,조정하다 / 적응하다,She adjusted the chair to her height.,그녀는 자신의 키에 맞게 의자를 조정했어요.,normal,,,FALSE
+nowadays,nowadays,,adv.,요즘,Nowadays many people use smartphones.,요즘 많은 사람들이 스마트폰을 사용해요.,normal,,,FALSE
+agricultural,agricultural,,adj.,농업의,This is a rich agricultural region.,이곳은 농업이 발달한 지역이에요.,normal,,,FALSE
+overcome,overcome,,v.,극복하다,She overcame her fear of water.,그녀는 물에 대한 두려움을 극복했어요.,normal,,,FALSE
+log,log,,n.|v.,통나무 / 기록하다,He put a log on the fire.,그는 불에 통나무를 넣었어요.,polysemy_split,(통나무),,FALSE
+log,log,,n.|v.,기록하다 / 로그인하다,She logged in to check her email.,그녀는 이메일을 확인하려고 로그인했어요.,polysemy_split,(기록·로그인),log,FALSE
+portion,portion,,n.,부분 / 1인분,She ate a large portion of rice.,그녀는 밥을 많이 먹었어요.,normal,,,FALSE
+extensive,extensive,,adj.,광범위한 / 넓은,She has extensive knowledge of cooking.,그녀는 요리에 대해 폭넓은 지식을 갖고 있어요.,normal,,,FALSE
+independence,independence,,n.,독립 / 자립,The girl wanted more independence from her parents.,그 소녀는 부모님으로부터 더 많은 독립을 원했어요.,normal,,,FALSE

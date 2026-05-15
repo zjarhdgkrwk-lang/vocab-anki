@@ -1,0 +1,64 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+venture,venture,,n.|v.,모험적 사업 / 과감히 나서다,She ventured out alone in the rain.,그녀는 빗속에 혼자 나섰다.,normal,,,FALSE
+compound,compound,,adj.|n.|v.,복합의 / 악화시키다,The cold weather compounded her illness.,추운 날씨가 그녀의 병을 악화시켰다.,polysemy_split,(복합의/복합체),compound,FALSE
+compound,compound,,adj.|n.|v.,복합체 / 화합물,Water is a compound of hydrogen and oxygen.,물은 수소와 산소의 화합물이다.,polysemy_split,(화합물/복합체),compound,FALSE
+preference,preference,,n.,선호 / 좋아하는 것,She has a preference for green tea.,그녀는 녹차를 선호한다.,normal,,,FALSE
+comprehensive,comprehensive,,adj.,포괄적인 / 종합적인,She gave a comprehensive answer to the question.,그녀는 질문에 종합적인 답변을 했다.,normal,,,FALSE
+incentive,incentive,,n.,장려책 / 동기,A bonus is a good incentive to work hard.,보너스는 열심히 일하는 좋은 동기가 된다.,normal,,,FALSE
+margin,margin,,n.,여백 / 차이,She wrote notes in the margin of the book.,그녀는 책의 여백에 메모를 적었다.,normal,,,FALSE
+beneath,beneath,,adv.|prep.,아래에 / ~보다 못한,The cat slept beneath the table.,고양이가 탁자 아래에서 잤다.,function_word,,,FALSE
+capability,capability,,n.,능력 / 역량,The boy showed great capability in math.,그 소년은 수학에서 뛰어난 능력을 보였다.,normal,,,FALSE
+correspond,correspond,,v.,일치하다 / 편지를 주고받다,Her words do not correspond with her actions.,그녀의 말은 행동과 일치하지 않는다.,normal,,,FALSE
+stroke,stroke,,n.|v.,쓰다듬다 / 뇌졸중,She stroked the cat gently.,그녀는 고양이를 부드럽게 쓰다듬었다.,polysemy_split,(쓰다듬다),stroke,FALSE
+stroke,stroke,,n.|v.,뇌졸중 / 발작,He had a stroke and went to hospital.,그는 뇌졸중으로 병원에 갔다.,polysemy_split,(뇌졸중),stroke,FALSE
+dare,dare,,modal v.|v.,감히 ~하다 / 도전하다,She did not dare to speak first.,그녀는 감히 먼저 말을 꺼내지 못했다.,function_word,,,FALSE
+divorce,divorce,,n.|v.,이혼 / 이혼하다,They decided to get a divorce last year.,그들은 작년에 이혼하기로 결심했다.,normal,,,FALSE
+ruin,ruin,,n.|v.,망치다 / 폐허,The rain ruined our picnic plans.,비가 우리의 소풍 계획을 망쳤다.,normal,,,FALSE
+counsel,counsel,,n.|v.,조언 / 상담하다,She counseled her friend after the bad news.,그녀는 나쁜 소식 후 친구를 상담해 주었다.,normal,,,FALSE
+tendency,tendency,,n.,경향 / 성향,He has a tendency to eat late at night.,그는 밤늦게 먹는 경향이 있다.,normal,,,FALSE
+frequent,frequent,,adj.|v.,잦은 / 자주 가다,She makes frequent visits to her mother.,그녀는 어머니를 자주 방문한다.,normal,,,FALSE
+survival,survival,,n.,생존 / 살아남음,Water is important for survival.,물은 생존에 중요하다.,normal,,,FALSE
+counter,counter,,adj.|adv.|n.|v.,계산대 / 반박하다,She paid for bread at the counter.,그녀는 계산대에서 빵값을 치렀다.,polysemy_split,(계산대),counter,FALSE
+counter,counter,,adj.|adv.|n.|v.,반박하다 / 맞서다,He countered her argument calmly.,그는 그녀의 주장을 차분하게 반박했다.,polysemy_split,(반박하다),counter,FALSE
+greatly,greatly,,adv.,크게 / 매우,She greatly enjoyed the family dinner.,그녀는 가족 저녁 식사를 매우 즐겼다.,normal,,,FALSE
+visible,visible,,adj.,눈에 보이는 / 뚜렷한,The stars are visible on a clear night.,맑은 밤에는 별이 눈에 보인다.,normal,,,FALSE
+evolution,evolution,,n.,진화 / 발전,The evolution of phones is very fast.,휴대폰의 발전은 매우 빠르다.,normal,,,FALSE
+awareness,awareness,,n.,인식 / 의식,She raised awareness about healthy eating.,그녀는 건강한 식습관에 대한 인식을 높였다.,normal,,,FALSE
+random,random,,adj.,무작위의 / 임의의,She picked a random card from the box.,그녀는 상자에서 임의로 카드를 골랐다.,normal,,,FALSE
+depress,depress,,v.,우울하게 하다 / 침체시키다,Rainy days often depress her.,비 오는 날은 종종 그녀를 우울하게 한다.,normal,,,FALSE
+burst,burst,,n.|v.,터지다 / 갑자기 ~하다,The girl burst into tears suddenly.,그 소녀는 갑자기 눈물을 터뜨렸다.,normal,,,FALSE
+privilege,privilege,,n.|v.,특권 / 영광,It is a privilege to meet you today.,오늘 당신을 만나는 것은 영광입니다.,normal,,,FALSE
+buyer,buyer,,n.,구매자 / 사는 사람,The buyer paid cash for the house.,구매자는 집값을 현금으로 냈다.,normal,,,FALSE
+mutual,mutual,,adj.,서로의 / 상호적인,They have a mutual respect for each other.,그들은 서로를 존중한다.,normal,,,FALSE
+rail,rail,,n.,난간 / 철도,She held the rail going down the stairs.,그녀는 계단을 내려가며 난간을 잡았다.,normal,,,FALSE
+motivate,motivate,,v.,동기를 주다 / 의욕을 불어넣다,Good music motivates her to exercise.,좋은 음악은 그녀가 운동하도록 동기를 준다.,normal,,,FALSE
+mortgage,mortgage,,n.|v.,주택 담보 대출 / 저당 잡히다,They took out a mortgage to buy the house.,그들은 집을 사기 위해 담보 대출을 받았다.,normal,,,FALSE
+promotion,promotion,,n.,승진 / 홍보,She got a promotion at work last month.,그녀는 지난달 직장에서 승진했다.,normal,,,FALSE
+fulfill,fulfill,,v.,이루다 / 충족시키다,She fulfilled her dream of traveling abroad.,그녀는 해외여행의 꿈을 이루었다.,normal,,,FALSE
+dedicate,dedicate,,v.,헌신하다 / 바치다,She dedicated her life to her family.,그녀는 가족을 위해 일생을 바쳤다.,normal,,,FALSE
+roughly,roughly,,adv.,대략 / 거칠게,The walk takes roughly 20 minutes.,그 산책은 대략 20분 걸린다.,normal,,,FALSE
+province,province,,n.,도 / 지방,She grew up in a quiet province.,그녀는 조용한 지방에서 자랐다.,normal,,,FALSE
+evaluation,evaluation,,n.,평가 / 심사,The teacher gave a fair evaluation of the students.,선생님은 학생들을 공정하게 평가했다.,normal,,,FALSE
+compromise,compromise,,n.|v.,타협 / 타협하다,They reached a compromise after long talks.,그들은 긴 대화 끝에 타협에 이르렀다.,normal,,,FALSE
+accomplish,accomplish,,v.,이루다 / 달성하다,She accomplished her goal of losing weight.,그녀는 체중 감량 목표를 달성했다.,normal,,,FALSE
+glance,glance,,n.|v.,흘끗 보다 / 힐끗 봄,She glanced at the clock on the wall.,그녀는 벽시계를 흘끗 보았다.,normal,,,FALSE
+opera,opera,,n.,오페라,She saw an opera with her daughter last week.,그녀는 지난주에 딸과 오페라를 봤다.,normal,,,FALSE
+embarrass,embarrass,,v.,당황하게 하다 / 창피 주다,His question embarrassed her in class.,그의 질문은 수업 중에 그녀를 당황하게 했다.,normal,,,FALSE
+genetic,genetic,,adj.,유전의 / 유전자의,The disease has a genetic cause.,그 병은 유전적인 원인이 있다.,normal,,,FALSE
+format,format,,n.|v.,형식 / 형식을 갖추다,Please use the correct format for the letter.,편지에 올바른 형식을 사용하세요.,normal,,,FALSE
+literary,literary,,adj.,문학의 / 문학적인,She enjoys literary books on weekends.,그녀는 주말에 문학 책을 즐겨 읽는다.,normal,,,FALSE
+embrace,embrace,,n.|v.,껴안다 / 받아들이다,She embraced her daughter at the door.,그녀는 문 앞에서 딸을 껴안았다.,normal,,,FALSE
+pump,pump,,n.|v.,펌프 / 펌프질하다,He pumped water from the well.,그는 우물에서 물을 펌프질했다.,normal,,,FALSE
+publisher,publisher,,n.,출판사 / 출판인,The publisher printed thousands of books.,그 출판사는 수천 권의 책을 인쇄했다.,normal,,,FALSE
+compensation,compensation,,n.,보상 / 배상금,She received compensation for her injury.,그녀는 부상에 대한 보상을 받았다.,normal,,,FALSE
+versus,versus,,prep.,~대 / ~에 맞서,Today's game is Korea versus Japan.,오늘 경기는 한국 대 일본이다.,function_word,,,FALSE
+deficit,deficit,,n.,적자 / 부족,The shop had a big deficit this month.,그 가게는 이번 달 큰 적자를 봤다.,normal,,,FALSE
+literally,literally,,adv.,말 그대로 / 정말로,She was literally shaking with cold.,그녀는 말 그대로 추위에 떨고 있었다.,normal,,,FALSE
+equation,equation,,n.,방정식 / 동등하게 봄,The boy solved the equation in class.,그 소년은 수업 시간에 방정식을 풀었다.,normal,,,FALSE
+gesture,gesture,,n.|v.,몸짓 / 손짓하다,She made a warm gesture to her guest.,그녀는 손님에게 따뜻한 몸짓을 했다.,normal,,,FALSE
+assign,assign,,v.,배정하다 / 할당하다,The teacher assigned homework to the class.,선생님은 반 학생들에게 숙제를 내주었다.,normal,,,FALSE
+inflation,inflation,,n.,물가 상승 / 인플레이션,Inflation made food prices go up this year.,인플레이션으로 올해 식품 가격이 올랐다.,normal,,,FALSE
+twist,twist,,n.|v.,비틀다 / 뜻밖의 반전,She twisted her ankle on the stairs.,그녀는 계단에서 발목을 삐었다.,normal,,,FALSE
+personnel,personnel,,n.,직원 / 인사부,All personnel must wear a name badge.,모든 직원은 이름표를 달아야 한다.,normal,,,FALSE
+tackle,tackle,,n.|v.,다루다 / 해결하다,We need to tackle this problem together.,우리는 이 문제를 함께 해결해야 한다.,normal,,,FALSE
+exceed,exceed,,v.,초과하다 / 넘어서다,Her score exceeded everyone's expectations.,그녀의 점수는 모두의 기대를 넘어섰다.,normal,,,FALSE

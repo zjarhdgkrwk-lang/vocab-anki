@@ -1,0 +1,65 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+doughnut,doughnut,,n.,도넛,She ate a doughnut for breakfast.,그녀는 아침으로 도넛을 먹었다.,normal,,,FALSE
+duck,duck,,n.|v.,오리 / 몸을 숙이다,The duck swam in the pond.,오리가 연못에서 헤엄쳤다.,polysemy_split,(오리),,FALSE
+duck,duck,,n.|v.,몸을 숙이다,She ducked to avoid the ball.,그녀는 공을 피하려고 몸을 숙였다.,polysemy_split,(몸을 숙이다),duck,FALSE
+fox,fox,,n.,여우,The fox ran into the forest.,여우가 숲속으로 달려갔다.,normal,,,FALSE
+grape,grape,,n.,포도,She washed the grapes before eating.,그녀는 먹기 전에 포도를 씻었다.,normal,,,FALSE
+gum,gum,,n.,껌 / 잇몸,He chewed gum after lunch.,그는 점심 후에 껌을 씹었다.,normal,,,FALSE
+hamburger,hamburger,,n.,햄버거,The boy ate a hamburger for lunch.,그 남자아이는 점심으로 햄버거를 먹었다.,normal,,,FALSE
+helmet,helmet,,n.,헬멧,She always wears a helmet when cycling.,그녀는 자전거를 탈 때 항상 헬멧을 쓴다.,normal,,,FALSE
+hike,hike,,n.|v.,하이킹 / 하이킹하다,We went for a hike in the mountains.,우리는 산에 하이킹을 하러 갔다.,normal,,,FALSE
+laser,laser,,n.,레이저,The doctor used a laser to treat her skin.,의사는 그녀의 피부를 치료하기 위해 레이저를 사용했다.,normal,,,FALSE
+marathon,marathon,,n.,마라톤,He ran his first marathon last year.,그는 작년에 처음으로 마라톤을 뛰었다.,normal,,,FALSE
+maths,maths,,n.,수학,She is good at maths.,그녀는 수학을 잘한다.,normal,,,FALSE
+medal,medal,,n.,메달,She won a gold medal at the race.,그녀는 경기에서 금메달을 땄다.,normal,,,FALSE
+nay,nay,,adv.|n.,아니 / 반대표,He said nay to the idea.,그는 그 생각에 반대했다.,normal,,,FALSE
+nope,nope,,exclam.,아니요 (구어체),"""Do you want more cake?"" ""Nope.""","""케이크 더 먹을래요?"" ""아니요.""",normal,,,FALSE
+notebook,notebook,,n.,공책 / 노트북,She wrote in her notebook every day.,그녀는 매일 공책에 글을 썼다.,normal,,,FALSE
+pizza,pizza,,n.,피자,We ordered a pizza for dinner.,우리는 저녁으로 피자를 주문했다.,normal,,,FALSE
+puppy,puppy,,n.,강아지,The girl got a puppy for her birthday.,그 여자아이는 생일 선물로 강아지를 받았다.,normal,,,FALSE
+quiz,quiz,,n.|v.,퀴즈 / 질문하다,The teacher gave a short quiz today.,선생님이 오늘 짧은 퀴즈를 냈다.,normal,,,FALSE
+rabbit,rabbit,,n.,토끼,The rabbit ate a carrot.,토끼가 당근을 먹었다.,normal,,,FALSE
+recreation,recreation,,n.,여가 활동 / 오락,Swimming is her favourite recreation.,수영은 그녀가 가장 좋아하는 여가 활동이다.,normal,,,FALSE
+ribbon,ribbon,,n.,리본,She tied a ribbon in her hair.,그녀는 머리에 리본을 묶었다.,normal,,,FALSE
+scissors,scissors,,n.,가위,She cut the paper with scissors.,그녀는 가위로 종이를 잘랐다.,normal,,,FALSE
+skate,skate,,n.|v.,스케이트 / 스케이트 타다,The boy learned to skate on ice.,그 남자아이는 얼음 위에서 스케이트 타는 법을 배웠다.,normal,,,FALSE
+spaghetti,spaghetti,,n.,스파게티,She cooked spaghetti for dinner.,그녀는 저녁으로 스파게티를 만들었다.,normal,,,FALSE
+steak,steak,,n.,스테이크,He grilled a steak for dinner.,그는 저녁으로 스테이크를 구웠다.,normal,,,FALSE
+textbook,textbook,,n.,교과서,She opened her textbook and started reading.,그녀는 교과서를 펴고 읽기 시작했다.,normal,,,FALSE
+tiger,tiger,,n.,호랑이,The tiger rested under a tree.,호랑이가 나무 아래에서 쉬었다.,normal,,,FALSE
+twenty-first,twenty-first,,number,스물한 번째 / 21일,Her birthday is on the twenty-first.,그녀의 생일은 21일이다.,normal,,,FALSE
+twenty-second,twenty-second,,number,스물두 번째 / 22일,The meeting is on the twenty-second.,회의는 22일에 있다.,normal,,,FALSE
+twenty-third,twenty-third,,number,스물세 번째 / 23일,School starts on the twenty-third.,학교는 23일에 시작한다.,normal,,,FALSE
+violin,violin,,n.,바이올린,She plays the violin every evening.,그녀는 매일 저녁 바이올린을 연주한다.,normal,,,FALSE
+watermelon,watermelon,,n.,수박,We ate cold watermelon in summer.,우리는 여름에 차가운 수박을 먹었다.,normal,,,FALSE
+yep,yep,,exclam.,응 / 네 (구어체),"""Are you ready?"" ""Yep!""","""준비됐어요?"" ""네!""",normal,,,FALSE
+zoo,zoo,,n.,동물원,We saw lions at the zoo.,우리는 동물원에서 사자를 봤다.,normal,,,FALSE
+accent,accent,,n.,억양 / 강세,She speaks English with a French accent.,그녀는 프랑스 억양으로 영어를 한다.,normal,,,FALSE
+aloud,aloud,,adv.,소리 내어,She read the story aloud to her child.,그녀는 아이에게 이야기를 소리 내어 읽어 주었다.,normal,,,FALSE
+ambulance,ambulance,,n.,구급차,The ambulance arrived very quickly.,구급차가 매우 빨리 도착했다.,normal,,,FALSE
+amuse,amuse,,v.,즐겁게 하다 / 웃기다,The clown amused the children.,광대가 아이들을 즐겁게 했다.,normal,,,FALSE
+angel,angel,,n.,천사,The little girl looked like an angel.,그 어린 여자아이는 천사처럼 보였다.,normal,,,FALSE
+ant,ant,,n.,개미,There is an ant on the table.,탁자 위에 개미 한 마리가 있다.,normal,,,FALSE
+awake,awake,,adj.|v.,깨어 있는 / 잠에서 깨다,The baby was still awake at midnight.,아기는 자정에도 여전히 깨어 있었다.,normal,,,FALSE
+awkward,awkward,,adj.,어색한 / 불편한,There was an awkward silence at dinner.,저녁 식사 중에 어색한 침묵이 흘렀다.,normal,,,FALSE
+bacon,bacon,,n.,베이컨,He cooked bacon and eggs for breakfast.,그는 아침으로 베이컨과 달걀을 요리했다.,normal,,,FALSE
+balloon,balloon,,n.,풍선,The child held a red balloon.,아이가 빨간 풍선을 들고 있었다.,normal,,,FALSE
+bang,bang,,adv.|exclam.|n.|v.,쾅 / 쾅 소리 나다,The door shut with a loud bang.,문이 쾅 하는 큰 소리와 함께 닫혔다.,normal,,,TRUE
+bare,bare,,adj.|v.,맨(벌거벗은) / 드러내다,She walked on the bare floor.,그녀는 맨바닥 위를 걸었다.,normal,,,FALSE
+bark,bark,,n.|v.,짖다 / 나무 껍질,The dog barked at the door.,개가 문 앞에서 짖었다.,polysemy_split,(짖다),,FALSE
+bark,bark,,n.|v.,나무 껍질,The bark of the tree was rough.,나무 껍질이 거칠었다.,polysemy_split,(나무 껍질),bark,FALSE
+bay,bay,,n.,만 (바다의 만),The boat sailed into the bay.,배가 만으로 항해해 들어갔다.,normal,,,FALSE
+bench,bench,,n.,벤치 / 긴 의자,She sat on a bench in the park.,그녀는 공원 벤치에 앉았다.,normal,,,FALSE
+blanket,blanket,,adj.|n.|v.,담요 / 덮다,She put a blanket over the sleeping child.,그녀는 잠든 아이에게 담요를 덮어 주었다.,normal,,,FALSE
+blonde,blonde,,adj.|n.,금발의 / 금발인 사람,The girl has long blonde hair.,그 여자아이는 긴 금발 머리를 가지고 있다.,normal,,,FALSE
+bloom,bloom,,n.|v.,꽃 / 꽃이 피다,The roses bloom every spring.,장미는 매년 봄에 꽃이 핀다.,normal,,,FALSE
+bounce,bounce,,n.|v.,튀다 / 튀기다,The ball bounced on the floor.,공이 바닥에서 튀었다.,normal,,,FALSE
+bow,bow,,n.|v.,활 / 인사하다 (고개 숙여),The singer bowed after the show.,가수가 공연 후 인사했다.,polysemy_split,(고개 숙여 인사하다),,FALSE
+bow,bow,,n.|v.,활 / 리본 매듭,She tied her hair with a bow.,그녀는 머리를 리본 매듭으로 묶었다.,polysemy_split,(활/매듭),bow,FALSE
+brake,brake,,n.|v.,브레이크 / 브레이크를 밟다,She pressed the brake to stop the car.,그녀는 차를 세우려고 브레이크를 밟았다.,normal,,,FALSE
+brick,brick,,n.,벽돌,The house was built with red bricks.,그 집은 빨간 벽돌로 지어졌다.,normal,,,FALSE
+bug,bug,,n.|v.,벌레 / 짜증나게 하다,A small bug landed on her arm.,작은 벌레 한 마리가 그녀의 팔에 앉았다.,polysemy_split,(벌레),,FALSE
+bug,bug,,n.|v.,짜증나게 하다,The noise bugs me at night.,밤에 그 소음이 나를 짜증나게 한다.,polysemy_split,(짜증나게 하다),bug,FALSE
+bump,bump,,n.|v.,부딪히다 / 혹,He bumped his head on the shelf.,그는 선반에 머리를 부딪혔다.,normal,,,FALSE
+cage,cage,,n.|v.,우리 / 가두다,The bird lived in a small cage.,새는 작은 우리 안에서 살았다.,normal,,,FALSE
+calendar,calendar,,n.,달력,She checked the calendar for her appointment.,그녀는 약속을 확인하려고 달력을 봤다.,normal,,,FALSE

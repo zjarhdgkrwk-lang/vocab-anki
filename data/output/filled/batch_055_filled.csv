@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+afterward,afterward,,adv.,나중에 / 그 후에,We had dinner and went home afterward.,우리는 저녁을 먹고 나중에 집에 갔어요.,normal,,,FALSE
+armed,armed,,adj.,무장한,The armed man stood at the door.,무장한 남자가 문 앞에 서 있었어요.,normal,,,FALSE
+arms,arms,,n.,무기 / 팔,She held the baby in her arms.,그녀는 팔로 아기를 안았어요.,polysemy_split,(팔),,FALSE
+arms,arms,,n.,무기,The soldiers carried arms.,군인들은 무기를 들었어요.,polysemy_split,(무기),arms,FALSE
+artistic,artistic,,adj.,예술적인,She has a very artistic style.,그녀는 매우 예술적인 스타일을 가지고 있어요.,normal,,,FALSE
+associated,associated,,adj.,관련된,He has problems associated with stress.,그는 스트레스와 관련된 문제가 있어요.,normal,,,FALSE
+attorney,attorney,,n.,변호사,She called her attorney for help.,그녀는 도움을 받으려고 변호사에게 전화했어요.,normal,,,FALSE
+bacteria,bacteria,,n.,세균 / 박테리아,Wash your hands to remove bacteria.,세균을 없애려면 손을 씻으세요.,normal,,,FALSE
+being,being,,n.,존재 / 생명체,A human being needs food and water.,인간은 음식과 물이 필요해요.,normal,,,FALSE
+bent,bent,,adj.,구부러진,The old man walked with bent knees.,노인은 무릎을 구부린 채 걸었어요.,normal,,,FALSE
+bullet,bullet,,n.,총알,The bullet hit the wall.,총알이 벽에 맞았어요.,normal,,,FALSE
+commonly,commonly,,adv.,흔히 / 보통,This bird is commonly seen in the park.,이 새는 공원에서 흔히 볼 수 있어요.,normal,,,FALSE
+complicated,complicated,,adj.,복잡한,This recipe is too complicated for me.,이 요리법은 저에게 너무 복잡해요.,normal,,,FALSE
+concerned,concerned,,adj.,걱정하는 / 관련된,She is concerned about her mother's health.,그녀는 어머니의 건강을 걱정하고 있어요.,normal,,,FALSE
+confusing,confusing,,adj.,혼란스러운,The map was very confusing.,그 지도는 매우 혼란스러웠어요.,normal,,,FALSE
+convinced,convinced,,adj.,확신하는,I am convinced she is right.,나는 그녀가 옳다고 확신해요.,normal,,,FALSE
+curved,curved,,adj.,곡선의 / 구부러진,The road has a curved shape.,그 길은 곡선 모양이에요.,normal,,,FALSE
+decoration,decoration,,n.,장식 / 꾸밈,She put up holiday decorations at home.,그녀는 집에 명절 장식을 달았어요.,normal,,,FALSE
+deliberately,deliberately,,adv.,일부러 / 고의로,He deliberately broke the rule.,그는 일부러 규칙을 어겼어요.,normal,,,FALSE
+depressed,depressed,,adj.,우울한,She felt depressed on rainy days.,그녀는 비 오는 날에 우울함을 느꼈어요.,normal,,,FALSE
+depressing,depressing,,adj.,우울하게 만드는,The news was very depressing.,그 소식은 매우 우울하게 만들었어요.,normal,,,FALSE
+detailed,detailed,,adj.,상세한 / 자세한,She gave a detailed plan for the trip.,그녀는 여행에 대한 자세한 계획을 세웠어요.,normal,,,FALSE
+dishonest,dishonest,,adj.,정직하지 않은 / 거짓말하는,It is wrong to be dishonest.,정직하지 않은 것은 나쁜 일이에요.,normal,,,FALSE
+distribution,distribution,,n.,배분 / 분배,The distribution of food took a long time.,음식 배분에는 시간이 오래 걸렸어요.,normal,,,FALSE
+downward,downward,,adj.|adv.,아래쪽으로 / 내려가는,The ball rolled downward on the hill.,공이 언덕 아래쪽으로 굴렀어요.,normal,,,FALSE
+enthusiasm,enthusiasm,,n.,열정 / 열의,She cooked with great enthusiasm.,그녀는 큰 열정으로 요리했어요.,normal,,,FALSE
+exploration,exploration,,n.,탐험 / 탐구,The children enjoyed the exploration of the forest.,아이들은 숲 탐험을 즐겼어요.,normal,,,FALSE
+feather,feather,,n.,깃털,The bird lost a feather from its wing.,새가 날개에서 깃털 하나를 잃었어요.,normal,,,FALSE
+feedback,feedback,,n.,의견 / 평가,The teacher gave good feedback on my work.,선생님이 내 작업에 좋은 평가를 해 주셨어요.,normal,,,FALSE
+finding,finding,,n.,발견 / 결과,The doctor shared the findings with us.,의사가 우리에게 검사 결과를 알려줬어요.,normal,,,FALSE
+folding,folding,,adj.,접을 수 있는,She bought a folding chair for the garden.,그녀는 정원용 접이식 의자를 샀어요.,normal,,,FALSE
+funding,funding,,n.,자금 / 지원금,The school needs more funding for books.,학교는 책을 위한 더 많은 자금이 필요해요.,normal,,,FALSE
+genre,genre,,n.,장르 / 종류,Her favorite genre is romance.,그녀가 가장 좋아하는 장르는 로맨스예요.,normal,,,FALSE
+harmful,harmful,,adj.,해로운,Too much sugar is harmful to your body.,설탕을 너무 많이 먹으면 몸에 해로워요.,normal,,,FALSE
+hearing,hearing,,n.,청력 / 청각,My grandmother has poor hearing.,우리 할머니는 청력이 좋지 않아요.,normal,,,FALSE
+hollow,hollow,,adj.,속이 빈,The squirrel hid food in a hollow tree.,다람쥐가 속이 빈 나무에 먹이를 숨겼어요.,normal,,,FALSE
+housing,housing,,n.,주택 / 거주시설,Many people need better housing.,많은 사람들이 더 좋은 주택이 필요해요.,normal,,,FALSE
+humorous,humorous,,adj.,재미있는 / 유머러스한,He told a humorous story at dinner.,그는 저녁 식사 자리에서 재미있는 이야기를 했어요.,normal,,,FALSE
+hunting,hunting,,n.,사냥,The men went hunting in the forest.,남자들은 숲으로 사냥을 하러 갔어요.,normal,,,FALSE
+impatient,impatient,,adj.,참을성 없는 / 조급한,The boy was impatient while waiting.,그 소년은 기다리는 동안 조급해했어요.,normal,,,FALSE
+impressed,impressed,,adj.,감동받은,I was impressed by her cooking.,나는 그녀의 요리에 감동받았어요.,normal,,,FALSE
+intended,intended,,adj.,의도된 / 목적한,This gift is intended for you.,이 선물은 당신을 위한 것이에요.,normal,,,FALSE
+limited,limited,,adj.,제한된 / 한정된,There are limited seats on the bus.,버스에 자리가 한정되어 있어요.,normal,,,FALSE
+lively,lively,,adj.,활기찬 / 생기 있는,The market was lively on Sunday morning.,시장은 일요일 아침에 활기찼어요.,normal,,,FALSE
+logical,logical,,adj.,논리적인,She gave a logical answer to the question.,그녀는 질문에 논리적인 답을 했어요.,normal,,,FALSE
+long-term,long-term,,adj.|adv.,장기적인 / 오랫동안,We need a long-term plan for our health.,우리는 건강을 위한 장기적인 계획이 필요해요.,normal,,,FALSE
+lord,lord,,n.,주인 / 영주,The lord lived in a big castle.,영주는 큰 성에 살았어요.,normal,,,FALSE
+lower,lower,,v.,낮추다 / 내리다,Please lower the volume of the TV.,텔레비전 소리를 낮춰 주세요.,normal,,,FALSE
+lung,lung,,n.,폐 / 허파,Smoking is bad for your lungs.,흡연은 폐에 나빠요.,normal,,,FALSE
+matching,matching,,adj.,어울리는 / 짝을 이루는,She wore a matching hat and coat.,그녀는 잘 어울리는 모자와 코트를 입었어요.,normal,,,FALSE
+means,means,,n.,방법 / 수단,Walking is a good means of exercise.,걷기는 좋은 운동 방법이에요.,normal,,,FALSE
+mixed,mixed,,adj.,섞인 / 뒤섞인,She made a mixed salad with vegetables.,그녀는 채소로 섞인 샐러드를 만들었어요.,normal,,,FALSE
+multiply,multiply,,v.,곱하다 / 늘어나다,The teacher asked us to multiply two numbers.,선생님이 두 숫자를 곱하라고 했어요.,normal,,,FALSE
+mysterious,mysterious,,adj.,신비로운 / 불가사의한,There was a mysterious sound at night.,밤에 신비로운 소리가 났어요.,normal,,,FALSE
+offensive,offensive,,adj.,불쾌한 / 기분 나쁜,His words were very offensive.,그의 말은 매우 불쾌했어요.,normal,,,FALSE
+opening,opening,,n.,구멍 / 개막,There is a small opening in the wall.,벽에 작은 구멍이 있어요.,normal,,,FALSE
+opposed,opposed,,adj.,반대하는,She was opposed to the new plan.,그녀는 새 계획에 반대했어요.,normal,,,FALSE
+outer,outer,,adj.,바깥쪽의 / 외부의,The outer wall of the house is white.,집의 바깥쪽 벽은 하얀색이에요.,normal,,,FALSE
+pointed,pointed,,adj.,뾰족한,The cat has pointed ears.,그 고양이는 귀가 뾰족해요.,normal,,,FALSE
+popularity,popularity,,n.,인기,The singer's popularity grew fast.,그 가수의 인기가 빠르게 높아졌어요.,normal,,,FALSE
+psychologist,psychologist,,n.,심리학자,She visited a psychologist for help.,그녀는 도움을 받으러 심리학자를 찾아갔어요.,normal,,,FALSE

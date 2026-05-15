@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+prefer,prefer,,v.,더 좋아하다 / 선호하다,I prefer tea to coffee.,저는 커피보다 차를 더 좋아해요.,normal,,,FALSE
+clothes,clothes,,n.,옷 / 의류,She wears nice clothes every day.,그녀는 매일 예쁜 옷을 입어요.,normal,,,FALSE
+dance,dance,,n.|v.,춤 / 춤추다,She loves to dance at parties.,그녀는 파티에서 춤추는 것을 좋아해요.,normal,,,FALSE
+sister,sister,,n.,언니 / 여동생,My sister cooks very well.,제 언니는 요리를 아주 잘해요.,normal,,,FALSE
+university,university,,n.,대학교,Her son goes to university.,그녀의 아들은 대학교에 다녀요.,normal,,,FALSE
+dollar,dollar,,n.,달러 (미국 화폐 단위),This bag costs ten dollars.,이 가방은 10달러예요.,normal,,,FALSE
+garden,garden,,n.,정원 / 마당,She grows flowers in her garden.,그녀는 정원에서 꽃을 키워요.,normal,,,FALSE
+yeah,yeah,,exclam.,응 / 맞아 (구어체 '예'),"Yeah, I like that idea!","응, 나는 그 생각이 좋아!",normal,,,FALSE
+conversation,conversation,,n.,대화 / 이야기,We had a nice conversation over tea.,우리는 차를 마시며 즐거운 대화를 나눴어요.,normal,,,FALSE
+somebody,somebody,,pron.,누군가 / 어떤 사람,Somebody is at the door.,문 앞에 누군가 있어요.,normal,,,FALSE
+pound,pound,,n.,파운드 (영국 화폐 단위) / 파운드 (무게 단위),This coat costs fifty pounds.,이 코트는 50파운드예요.,normal,,,FALSE
+magazine,magazine,,n.,잡지,She reads a magazine every week.,그녀는 매주 잡지를 읽어요.,normal,,,FALSE
+welcome,welcome,,adj.|exclam.|v.,환영하다 / 환영받는,We welcome you to our home.,우리 집에 오신 것을 환영해요.,normal,,,FALSE
+favorite,favorite,favourite,adj.|n.,가장 좋아하는 / 제일 좋아하는 것,Pizza is my favorite food.,피자는 제가 가장 좋아하는 음식이에요.,normal,,,FALSE
+rich,rich,,adj.,부유한 / 풍부한,He is a very rich man.,그는 매우 부유한 사람이에요.,normal,,,FALSE
+famous,famous,,adj.,유명한,She is a famous singer in Korea.,그녀는 한국에서 유명한 가수예요.,normal,,,FALSE
+warm,warm,,adj.,따뜻한,The soup is warm and nice.,그 수프는 따뜻하고 맛있어요.,normal,,,FALSE
+writer,writer,,n.,작가 / 글쓴이,She is a famous writer of books.,그녀는 유명한 책 작가예요.,normal,,,FALSE
+correct,correct,,adj.|v.,맞다 / 고치다,Your answer is correct.,당신의 답이 맞아요.,polysemy_split,(맞는),,FALSE
+correct,correct,,adj.|v.,고치다 / 수정하다,The teacher corrects our mistakes.,선생님이 우리의 실수를 고쳐줘요.,polysemy_split,(고치다),correct,FALSE
+telephone,telephone,,n.|v.,전화기 / 전화하다,She talked on the telephone for an hour.,그녀는 한 시간 동안 전화기로 통화했어요.,normal,,,FALSE
+advice,advice,,n.,조언 / 충고,She gave me good advice.,그녀가 저에게 좋은 조언을 해줬어요.,normal,,,FALSE
+glass,glass,,n.,유리 / 유리잔,She drinks a glass of water every morning.,그녀는 매일 아침 물 한 잔을 마셔요.,normal,,,FALSE
+radio,radio,,n.,라디오,He listens to the radio every morning.,그는 매일 아침 라디오를 들어요.,normal,,,FALSE
+text,text,,n.,문자 메시지 / 글,She sent a text to her daughter.,그녀는 딸에게 문자를 보냈어요.,normal,,,FALSE
+ride,ride,,v.,타다 / 타고 가다,She rides her bike to school.,그녀는 자전거를 타고 학교에 가요.,normal,,,FALSE
+title,title,,n.,제목 / 직함,What is the title of that book?,그 책의 제목이 뭐예요?,normal,,,FALSE
+extra,extra,,adj.,여분의 / 추가적인,Do you need an extra chair?,의자가 하나 더 필요하세요?,normal,,,FALSE
+chair,chair,,n.,의자,Please sit on this chair.,이 의자에 앉으세요.,normal,,,FALSE
+expensive,expensive,,adj.,비싼,This dress is very expensive.,이 드레스는 매우 비싸요.,normal,,,FALSE
+video,video,,n.,동영상 / 비디오,She watches a video every night.,그녀는 매일 밤 동영상을 봐요.,normal,,,FALSE
+weather,weather,,n.,날씨,The weather today is very warm.,오늘 날씨가 매우 따뜻해요.,normal,,,FALSE
+wonderful,wonderful,,adj.,훌륭한 / 멋진,We had a wonderful time together.,우리는 함께 멋진 시간을 보냈어요.,normal,,,FALSE
+farm,farm,,n.,농장,My grandfather lives on a farm.,할아버지는 농장에 사세요.,normal,,,FALSE
+negative,negative,,adj.,부정적인 / 나쁜,Try not to have negative thoughts.,부정적인 생각은 하지 않으려고 해요.,normal,,,FALSE
+band,band,,n.,밴드 / 악단,The band played at the party.,그 밴드가 파티에서 연주했어요.,normal,,,FALSE
+pair,pair,,n.,한 쌍 / 한 켤레,She bought a new pair of shoes.,그녀는 새 신발 한 켤레를 샀어요.,normal,,,FALSE
+cheap,cheap,,adj.,저렴한 / 값싼,This market has cheap vegetables.,이 시장에는 채소가 저렴해요.,normal,,,FALSE
+leg,leg,,n.,다리,My leg hurts after walking.,걷고 나서 다리가 아파요.,normal,,,FALSE
+sentence,sentence,,n.,문장,Please read this sentence out loud.,이 문장을 큰 소리로 읽어보세요.,normal,,,FALSE
+nobody,nobody,,pron.,아무도 (없다),Nobody is home right now.,지금 집에 아무도 없어요.,normal,,,FALSE
+perfect,perfect,,adj.,완벽한,The weather is perfect for a walk.,산책하기에 날씨가 완벽해요.,normal,,,FALSE
+dinner,dinner,,n.,저녁 식사,We have dinner at seven every evening.,우리는 매일 저녁 7시에 저녁을 먹어요.,normal,,,FALSE
+slow,slow,,adj.,느린 / 천천히 하는,The old bus is very slow.,그 낡은 버스는 매우 느려요.,normal,,,FALSE
+partner,partner,,n.,파트너 / 짝,She is my dance partner.,그녀는 저의 춤 파트너예요.,normal,,,FALSE
+horse,horse,,n.,말 (동물),The girl rides a horse on the farm.,그 소녀는 농장에서 말을 타요.,normal,,,FALSE
+reader,reader,,n.,독자 / 읽는 사람,She is a fast reader.,그녀는 책을 빨리 읽어요.,normal,,,FALSE
+taxi,taxi,,n.,택시,She took a taxi to the hospital.,그녀는 병원까지 택시를 탔어요.,normal,,,FALSE
+mistake,mistake,,n.,실수 / 잘못,I made a mistake in my homework.,저는 숙제에서 실수를 했어요.,normal,,,FALSE
+cool,cool,,adj.,시원한 / 멋진,The wind feels cool today.,오늘 바람이 시원하게 느껴져요.,normal,,,FALSE
+south,south,,adj.|adv.|n.,남쪽 / 남쪽의,They moved to the south of the city.,그들은 도시의 남쪽으로 이사했어요.,normal,,,FALSE
+library,library,,n.,도서관,She goes to the library every week.,그녀는 매주 도서관에 가요.,normal,,,FALSE
+email,email,,n.|v.,이메일 / 이메일을 보내다,She sent an email to her friend.,그녀는 친구에게 이메일을 보냈어요.,normal,,,FALSE
+river,river,,n.,강,We walked along the river.,우리는 강을 따라 걸었어요.,normal,,,FALSE
+photograph,photograph,photo,n.,사진,She took a photograph of her family.,그녀는 가족사진을 찍었어요.,normal,,,FALSE
+artist,artist,,n.,예술가 / 화가,My daughter is a great artist.,제 딸은 훌륭한 예술가예요.,normal,,,FALSE
+quick,quick,,adj.,빠른 / 재빠른,She is a quick learner.,그녀는 빨리 배워요.,normal,,,FALSE
+cook,cook,,v.,요리하다,She cooks dinner for her family.,그녀는 가족을 위해 저녁을 요리해요.,normal,,,FALSE
+driver,driver,,n.,운전사 / 운전하는 사람,The bus driver is very kind.,그 버스 운전사는 매우 친절해요.,normal,,,FALSE
+ball,ball,,n.,공,The boy kicked the ball hard.,그 소년은 공을 세게 찼어요.,normal,,,FALSE
+north,north,,adj.|adv.|n.,북쪽 / 북쪽의,They live in the north of the city.,그들은 도시의 북쪽에 살아요.,normal,,,FALSE

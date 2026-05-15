@@ -1,0 +1,72 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+pack,pack,,n.,묶음 / 가방,She put a pack of cards on the table.,그녀는 카드 한 묶음을 탁자 위에 놓았어요.,normal,,,FALSE
+swim,swim,,n.,수영,She went for a swim in the lake.,그녀는 호수에 수영하러 갔어요.,normal,,,FALSE
+totally,totally,,adv.,완전히 / 전혀,I totally forgot her birthday.,나는 그녀의 생일을 완전히 잊어버렸어요.,normal,,,FALSE
+historical,historical,,adj.,역사적인,We visited a historical building in the city.,우리는 도시의 역사적인 건물을 방문했어요.,normal,,,FALSE
+branch,branch,,n.,나뭇가지 / 지점,The bird sat on a branch of the tree.,새 한 마리가 나뭇가지 위에 앉았어요.,normal,,,FALSE
+bomb,bomb,,n.,폭탄,The soldiers found a bomb near the road.,군인들이 도로 근처에서 폭탄을 발견했어요.,polysemy_split,(폭탄),,FALSE
+bomb,bomb,,v.,폭격하다,The city was bombed during the war.,전쟁 중에 그 도시가 폭격을 당했어요.,polysemy_split,(폭격하다),bomb,FALSE
+editor,editor,,n.,편집자,The editor read every page of the book.,편집자는 책의 모든 페이지를 읽었어요.,normal,,,FALSE
+sight,sight,,n.,시력 / 광경,The sunset was a beautiful sight.,일몰은 아름다운 광경이었어요.,normal,,,FALSE
+quote,quote,,n.,인용문,She wrote a famous quote on the board.,그녀는 칠판에 유명한 인용문을 썼어요.,polysemy_split,(인용문),,FALSE
+quote,quote,,v.,인용하다,He quoted a line from the poem.,그는 시에서 한 구절을 인용했어요.,polysemy_split,(인용하다),quote,FALSE
+climb,climb,,n.,오르기 / 등반,The climb up the hill was hard.,언덕을 오르는 것은 힘들었어요.,normal,,,FALSE
+mainly,mainly,,adv.,주로,She mainly eats vegetables and fruit.,그녀는 주로 채소와 과일을 먹어요.,normal,,,FALSE
+occasion,occasion,,n.,때 / 특별한 행사,Her birthday is a special occasion.,그녀의 생일은 특별한 행사예요.,normal,,,FALSE
+familiar,familiar,,adj.,익숙한 / 잘 아는,This song sounds familiar to me.,이 노래는 나에게 익숙하게 들려요.,normal,,,FALSE
+ignore,ignore,,v.,무시하다,She ignored his call all day.,그녀는 하루 종일 그의 전화를 무시했어요.,normal,,,FALSE
+locate,locate,,v.,위치를 찾다 / 두다,Can you locate the school on the map?,지도에서 학교 위치를 찾을 수 있나요?,normal,,,FALSE
+belief,belief,,n.,믿음 / 신념,She has a strong belief in hard work.,그녀는 열심히 일하는 것에 강한 신념을 갖고 있어요.,normal,,,FALSE
+technical,technical,,adj.,기술적인,This book has many technical words.,이 책에는 기술적인 단어가 많아요.,normal,,,FALSE
+remind,remind,,v.,상기시키다,Please remind me to call her tonight.,오늘 밤 그녀에게 전화하라고 상기시켜 주세요.,normal,,,FALSE
+switch,switch,,v.,바꾸다 / 전환하다,He switched the TV to another channel.,그는 TV를 다른 채널로 바꿨어요.,normal,,,FALSE
+fairly,fairly,,adv.,꽤 / 공정하게,The weather is fairly warm today.,오늘 날씨는 꽤 따뜻해요.,normal,,,FALSE
+participate,participate,,v.,참여하다,She participated in the school event.,그녀는 학교 행사에 참여했어요.,normal,,,FALSE
+border,border,,n.,국경 / 경계,They crossed the border by bus.,그들은 버스를 타고 국경을 넘었어요.,normal,,,FALSE
+shake,shake,,n.,흔들기 / 악수,He gave a shake of his head.,그는 고개를 흔들었어요.,normal,,,FALSE
+ought,ought,,modal v.,~해야 한다,You ought to eat more vegetables.,당신은 채소를 더 먹어야 해요.,function_word,,,FALSE
+ad,ad,,n.,광고,I saw an ad for that shop on TV.,TV에서 그 가게 광고를 봤어요.,normal,,,FALSE
+escape,escape,,n.,탈출,The cat made an escape from the room.,고양이가 방에서 탈출했어요.,polysemy_split,(탈출),,FALSE
+escape,escape,,v.,탈출하다 / 벗어나다,The dog escaped from the garden.,개가 정원에서 탈출했어요.,polysemy_split,(탈출하다),escape,FALSE
+studio,studio,,n.,스튜디오 / 작업실,The singer recorded a song in the studio.,가수가 스튜디오에서 노래를 녹음했어요.,normal,,,FALSE
+proper,proper,,adj.,적절한 / 올바른,Wear proper shoes for the walk.,걸을 때는 적절한 신발을 신으세요.,normal,,,FALSE
+afford,afford,,v.,여유가 있다 / 살 수 있다,We cannot afford a new car now.,우리는 지금 새 차를 살 여유가 없어요.,normal,,,FALSE
+arrest,arrest,,n.,체포,The police made an arrest this morning.,경찰이 오늘 아침에 체포를 했어요.,polysemy_split,(체포),,FALSE
+arrest,arrest,,v.,체포하다,The police arrested the man yesterday.,경찰이 어제 그 남자를 체포했어요.,polysemy_split,(체포하다),arrest,FALSE
+signal,signal,,n.,신호,The green light is a signal to go.,초록불은 출발 신호예요.,polysemy_split,(신호),,FALSE
+signal,signal,,v.,신호를 보내다,She signaled to the waiter for help.,그녀는 웨이터에게 도움을 요청하는 신호를 보냈어요.,polysemy_split,(신호를 보내다),signal,FALSE
+explore,explore,,v.,탐험하다 / 살펴보다,The children explored the forest together.,아이들이 함께 숲을 탐험했어요.,normal,,,FALSE
+necessarily,necessarily,,adv.,반드시 / 꼭,More food is not necessarily better.,음식이 많다고 반드시 좋은 건 아니에요.,normal,,,FALSE
+frame,frame,,n.,액자 / 틀,She put the photo in a wooden frame.,그녀는 사진을 나무 액자에 넣었어요.,polysemy_split,(액자),,FALSE
+frame,frame,,v.,액자에 넣다 / 구성하다,He framed the drawing for his mother.,그는 어머니를 위해 그림을 액자에 넣었어요.,polysemy_split,(액자에 넣다),frame,FALSE
+hire,hire,,v.,고용하다,The shop hired two new workers.,그 가게는 새 직원 두 명을 고용했어요.,normal,,,FALSE
+chain,chain,,n.,사슬 / 체인,The dog is tied with a chain.,개가 사슬로 묶여 있어요.,normal,,,FALSE
+literature,literature,,n.,문학,She loves reading Korean literature.,그녀는 한국 문학 읽는 것을 좋아해요.,normal,,,FALSE
+victim,victim,,n.,피해자,The victim got help from the police.,피해자는 경찰로부터 도움을 받았어요.,normal,,,FALSE
+label,label,,n.,라벨 / 표시,Read the label on the bottle carefully.,병에 붙은 라벨을 잘 읽어 보세요.,polysemy_split,(라벨),,FALSE
+label,label,,v.,표시를 붙이다,She labeled all the boxes in the kitchen.,그녀는 부엌의 모든 상자에 표시를 붙였어요.,polysemy_split,(표시를 붙이다),label,FALSE
+channel,channel,,n.,채널 / 방송,He watched a cooking show on this channel.,그는 이 채널에서 요리 프로그램을 봤어요.,normal,,,FALSE
+investigate,investigate,,v.,조사하다,The police investigated the accident.,경찰이 그 사고를 조사했어요.,normal,,,FALSE
+recommendation,recommendation,,n.,추천,Do you have a restaurant recommendation?,추천하는 식당이 있나요?,normal,,,FALSE
+concentrate,concentrate,,v.,집중하다,She concentrated on her homework quietly.,그녀는 조용히 숙제에 집중했어요.,normal,,,FALSE
+plenty,plenty,,pron.,많음 / 충분함,There is plenty of food on the table.,탁자 위에 음식이 충분히 있어요.,normal,,,FALSE
+export,export,,n.,수출품,Rice is an important export of this country.,쌀은 이 나라의 중요한 수출품이에요.,polysemy_split,(수출품),,FALSE
+export,export,,v.,수출하다,Korea exports many cars every year.,한국은 매년 많은 자동차를 수출해요.,polysemy_split,(수출하다),export,FALSE
+strongly,strongly,,adv.,강하게 / 강력히,She strongly believes in her children.,그녀는 자녀들을 강하게 믿어요.,normal,,,FALSE
+consist,consist,,v.,이루어지다 / 구성되다,The meal consists of soup and bread.,그 식사는 수프와 빵으로 이루어져요.,normal,,,FALSE
+graduate,graduate,,n.,졸업생,She is a graduate of that university.,그녀는 그 대학교의 졸업생이에요.,polysemy_split,(졸업생),,FALSE
+graduate,graduate,,v.,졸업하다,He graduated from high school last year.,그는 작년에 고등학교를 졸업했어요.,polysemy_split,(졸업하다),graduate,FALSE
+brand,brand,,n.,브랜드 / 상표,What brand of milk do you usually buy?,어떤 브랜드의 우유를 주로 사세요?,polysemy_split,(브랜드),,FALSE
+brand,brand,,v.,낙인찍다,He was branded as a liar by others.,그는 다른 사람들에게 거짓말쟁이로 낙인찍혔어요.,polysemy_split,(낙인찍다),brand,FALSE
+principal,principal,,n.,교장 / 학교장,The principal spoke to all the students.,교장 선생님이 모든 학생들에게 말씀하셨어요.,normal,,,FALSE
+grade,grade,,n.,학년 / 성적,She got a good grade on her test.,그녀는 시험에서 좋은 성적을 받았어요.,normal,,,FALSE
+previously,previously,,adv.,이전에,She had previously lived in Busan.,그녀는 이전에 부산에 살았어요.,normal,,,FALSE
+rent,rent,,n.,집세 / 임대료,The rent for this room is very high.,이 방의 집세가 매우 비싸요.,polysemy_split,(집세),,FALSE
+rent,rent,,v.,빌리다 / 임대하다,They rented a small house near school.,그들은 학교 근처에 작은 집을 빌렸어요.,polysemy_split,(빌리다),rent,FALSE
+till,till,,conj.|prep.,~까지,She waited till he came home.,그녀는 그가 집에 올 때까지 기다렸어요.,function_word,,,FALSE
+theme,theme,,n.,주제,The theme of the party is flowers.,파티의 주제는 꽃이에요.,normal,,,FALSE
+odd,odd,,adj.,이상한 / 홀수의,She has an odd habit of singing alone.,그녀는 혼자 노래하는 이상한 습관이 있어요.,normal,,,FALSE
+definition,definition,,n.,정의 / 뜻,Look up the definition of this word.,이 단어의 뜻을 찾아보세요.,normal,,,FALSE
+atmosphere,atmosphere,,n.,분위기 / 대기,The restaurant has a warm atmosphere.,그 식당은 따뜻한 분위기예요.,normal,,,FALSE
+comparison,comparison,,n.,비교,"In comparison, this bag is much cheaper.","비교해 보면, 이 가방이 훨씬 저렴해요.",normal,,,FALSE
+identity,identity,,n.,신원 / 정체성,She showed her identity card at the door.,그녀는 문에서 신분증을 보여 줬어요.,normal,,,FALSE

@@ -1,0 +1,70 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+state,state,,adj.|v.,말하다 / 진술하다,She stated her name clearly.,그녀는 자신의 이름을 분명히 말했다.,normal,,,FALSE
+move,move,,n.,이동 / 행동,That was a good move.,그것은 좋은 행동이었다.,normal,,,FALSE
+issue,issue,,n.,문제 / 사안,This is an important issue.,이것은 중요한 문제이다.,normal,,,FALSE
+market,market,,v.,판매하다 / 홍보하다,She markets her cookies online.,그녀는 쿠키를 온라인으로 판매한다.,normal,,,FALSE
+though,though,,adv.|conj.,그래도 / ~이지만,"She was tired, though she smiled.",그녀는 피곤했지만 미소를 지었다.,function_word,,,FALSE
+result,result,,v.,생기다 / 결과가 되다,Hard work results in success.,열심히 하면 성공으로 이어진다.,normal,,,FALSE
+young,young,,n.,젊은 사람들,The young need good teachers.,젊은 사람들에게는 좋은 선생님이 필요하다.,normal,,,FALSE
+close,close,,adv.,가까이,She sat close to her mother.,그녀는 어머니 가까이 앉았다.,normal,,,FALSE
+program,program,,v.,프로그래밍하다 / 계획하다,He programs the computer every day.,그는 매일 컴퓨터를 프로그래밍한다.,normal,,,FALSE
+lead,lead,,n.,선두 / 주도권,She took the lead in the race.,그녀는 경주에서 선두를 차지했다.,normal,,,FALSE
+far,far,,adj.,먼,The school is far from here.,학교는 여기서 멀다.,normal,,,FALSE
+face,face,,v.,직면하다 / 마주하다,She faces a big problem today.,그녀는 오늘 큰 문제에 직면했다.,normal,,,FALSE
+head,head,,v.,향하다 / 이끌다,We headed home after dinner.,우리는 저녁 식사 후 집으로 향했다.,normal,,,FALSE
+level,level,,adj.,평평한 / 수평의,The table is level and flat.,그 테이블은 평평하다.,normal,,,FALSE
+experience,experience,,v.,경험하다,She experienced snow for the first time.,그녀는 처음으로 눈을 경험했다.,normal,,,FALSE
+once,once,,conj.,~하자마자 / ~하면,"Once she eats, she feels happy.",그녀는 밥을 먹자마자 기분이 좋아진다.,function_word,,,FALSE
+whether,whether,,conj.,~인지 아닌지,I don't know whether she is home.,나는 그녀가 집에 있는지 모른다.,function_word,,,FALSE
+age,age,,v.,나이 들다,He has aged a lot this year.,그는 올해 많이 나이가 들었다.,normal,,,FALSE
+within,within,,prep.,~이내에 / ~안에,She arrived within ten minutes.,그녀는 10분 이내에 도착했다.,function_word,,,FALSE
+view,view,,v.,보다 / 여기다,She viewed the photos on her phone.,그녀는 휴대폰으로 사진을 봤다.,normal,,,FALSE
+local,local,,n.,지역 주민,The locals know this place well.,지역 주민들은 이 곳을 잘 안다.,normal,,,FALSE
+whole,whole,,n.,전체,She ate the whole cake.,그녀는 케이크 전체를 먹었다.,normal,,,FALSE
+sort,sort,,v.,분류하다 / 정리하다,She sorted her clothes by color.,그녀는 옷을 색깔별로 분류했다.,normal,,,FALSE
+deal,deal,,n.,거래 / 합의,They made a good deal.,그들은 좋은 거래를 했다.,normal,,,FALSE
+water,water,,v.,물을 주다,She waters her plants every morning.,그녀는 매일 아침 식물에 물을 준다.,normal,,,FALSE
+base,base,,n.,기초 / 바닥,The base of the cup is broken.,컵의 바닥이 깨졌다.,polysemy_split,(기초),base,FALSE
+base,base,,v.,~에 근거하다,She based her choice on price.,그녀는 가격을 기준으로 선택했다.,polysemy_split,(근거하다),base,FALSE
+center,center,,v.,중심에 두다 / 집중하다,He centered the picture on the wall.,그는 그림을 벽 중앙에 두었다.,normal,,,FALSE
+value,value,,n.,가치 / 값어치,This bag has great value.,이 가방은 가치가 높다.,normal,,,FALSE
+force,force,,n.,힘 / 세력,The wind had great force today.,오늘 바람이 매우 강했다.,polysemy_split,(힘),force,FALSE
+force,force,,v.,강요하다,He forced the door open.,그는 억지로 문을 열었다.,polysemy_split,(강요하다),force,FALSE
+share,share,,n.,몫 / 주식,She got her share of the food.,그녀는 음식에서 자기 몫을 받았다.,normal,,,FALSE
+development,development,,n.,발전 / 개발,The town saw great development.,그 마을은 큰 발전을 이루었다.,normal,,,FALSE
+clear,clear,,v.,치우다 / 맑아지다,She cleared the table after lunch.,그녀는 점심 후 테이블을 치웠다.,normal,,,FALSE
+remain,remain,,v.,남다 / 그대로 있다,He remained at home all day.,그는 하루 종일 집에 있었다.,normal,,,FALSE
+win,win,,n.,승리,The team had a big win today.,그 팀은 오늘 큰 승리를 거두었다.,normal,,,FALSE
+note,note,,v.,주목하다 / 적다,She noted the address in her book.,그녀는 주소를 수첩에 적었다.,normal,,,FALSE
+type,type,,v.,타이핑하다,She types very fast.,그녀는 타이핑을 매우 빠르게 한다.,normal,,,FALSE
+political,political,,adj.,정치적인,He watches political news every night.,그는 매일 밤 정치 뉴스를 본다.,normal,,,FALSE
+policy,policy,,n.,정책 / 방침,The school has a new policy.,그 학교에는 새로운 정책이 있다.,normal,,,FALSE
+further,further,,adv.,더 멀리 / 더욱,She walked further down the road.,그녀는 길을 따라 더 멀리 걸었다.,function_word,,,FALSE
+require,require,,v.,필요로 하다 / 요구하다,This job requires a lot of time.,이 일은 많은 시간이 필요하다.,normal,,,FALSE
+rule,rule,,v.,통치하다 / 지배하다,The queen ruled for many years.,그 여왕은 오랫동안 통치했다.,normal,,,FALSE
+pass,pass,,n.,통행증 / 합격,She got a pass for the concert.,그녀는 콘서트 입장권을 받았다.,normal,,,FALSE
+cover,cover,,n.,덮개 / 표지,The book has a pretty cover.,그 책은 예쁜 표지가 있다.,normal,,,FALSE
+staff,staff,,n.,직원 / 스태프,The staff is very kind here.,여기 직원들은 매우 친절하다.,normal,,,FALSE
+account,account,,n.,계좌 / 설명,She opened a new bank account.,그녀는 새 은행 계좌를 열었다.,normal,,,FALSE
+cut,cut,,n.,상처 / 삭감,He has a small cut on his hand.,그는 손에 작은 상처가 있다.,normal,,,FALSE
+raise,raise,,n.,임금 인상,She got a raise at work.,그녀는 직장에서 임금 인상을 받았다.,normal,,,FALSE
+economic,economic,,adj.,경제적인,The family faces economic problems.,그 가족은 경제적 문제에 직면해 있다.,normal,,,FALSE
+charge,charge,,n.,요금 / 책임,There is no charge for water.,물은 요금이 없다.,polysemy_split,(요금),charge,FALSE
+charge,charge,,v.,청구하다 / 충전하다,She charged her phone before bed.,그녀는 자기 전에 휴대폰을 충전했다.,polysemy_split,(충전하다),charge,FALSE
+claim,claim,,n.,주장 / 청구,His claim was not true.,그의 주장은 사실이 아니었다.,polysemy_split,(주장),claim,FALSE
+claim,claim,,v.,주장하다,She claimed she was right.,그녀는 자신이 옳다고 주장했다.,polysemy_split,(주장하다),claim,FALSE
+act,act,,n.,행동 / 법안,That was a kind act.,그것은 친절한 행동이었다.,normal,,,FALSE
+range,range,,n.,범위 / 종류,The store has a wide range of food.,그 가게는 다양한 종류의 음식이 있다.,normal,,,FALSE
+therefore,therefore,,adv.,그러므로 / 따라서,She was tired; therefore she slept.,그녀는 피곤했다. 그러므로 잠을 잤다.,function_word,,,FALSE
+measure,measure,,n.,조치 / 측정,We need a safety measure at home.,우리는 집에서 안전 조치가 필요하다.,polysemy_split,(조치),measure,FALSE
+measure,measure,,v.,재다 / 측정하다,She measured the room carefully.,그녀는 방을 꼼꼼하게 쟀다.,polysemy_split,(재다),measure,FALSE
+security,security,,n.,안전 / 보안,The door has good security.,그 문은 보안이 잘 되어 있다.,normal,,,FALSE
+benefit,benefit,,v.,이득을 얻다 / 도움이 되다,Exercise benefits your health.,운동은 건강에 도움이 된다.,normal,,,FALSE
+trade,trade,,n.,무역 / 거래,The two shops made a trade.,두 가게는 거래를 했다.,polysemy_split,(거래),trade,FALSE
+trade,trade,,v.,거래하다 / 교환하다,They traded food at the market.,그들은 시장에서 음식을 교환했다.,polysemy_split,(교환하다),trade,FALSE
+risk,risk,,n.,위험 / 위험성,There is a risk of rain today.,오늘 비가 올 위험이 있다.,polysemy_split,(위험),risk,FALSE
+risk,risk,,v.,위험을 감수하다,She risked her money on the shop.,그녀는 가게에 돈을 걸었다.,polysemy_split,(감수하다),risk,FALSE
+standard,standard,,adj.,표준적인 / 일반적인,This is a standard school bag.,이것은 일반적인 학교 가방이다.,polysemy_split,(표준적인),standard,FALSE
+standard,standard,,n.,기준 / 수준,Her cooking has a high standard.,그녀의 요리는 수준이 높다.,polysemy_split,(기준),standard,FALSE
+vote,vote,,n.,투표 / 표,She got many votes in the election.,그녀는 선거에서 많은 표를 얻었다.,polysemy_split,(투표),vote,FALSE
+vote,vote,,v.,투표하다,He voted for a new leader.,그는 새 지도자에게 투표했다.,polysemy_split,(투표하다),vote,FALSE

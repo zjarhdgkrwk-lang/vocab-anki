@@ -1,0 +1,63 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+cape,cape,,n.,망토 / 곶(바다로 뻗은 육지),She wore a red cape.,그녀는 빨간 망토를 입었다.,normal,,,FALSE
+cart,cart,,n.|v.,수레 / 나르다,She pushed the cart to the store.,그녀는 수레를 밀어 가게로 갔다.,normal,,,FALSE
+cheer,cheer,,exclam.|n.|v.,응원하다 / 환호,We cheered for our team.,우리는 우리 팀을 응원했다.,normal,,,FALSE
+chew,chew,,n.|v.,씹다,He chewed his food slowly.,그는 음식을 천천히 씹었다.,normal,,,FALSE
+chop,chop,,n.|v.,자르다 / 토막,She chopped the vegetables.,그녀는 채소를 잘랐다.,normal,,,FALSE
+cinema,cinema,,n.,영화관 / 영화,We went to the cinema.,우리는 영화관에 갔다.,normal,,,FALSE
+cliff,cliff,,n.,절벽,The girl stood near the cliff.,그 소녀는 절벽 근처에 서 있었다.,normal,,,FALSE
+clip,clip,,n.|v.,클립 / 자르다,She clipped the paper with a clip.,그녀는 클립으로 종이를 고정했다.,normal,,,FALSE
+commerce,commerce,,n.,상업 / 무역,She works in commerce.,그녀는 상업 분야에서 일한다.,normal,,,FALSE
+converse,converse,,v.,대화하다,They conversed in the garden.,그들은 정원에서 대화를 나눴다.,normal,,,FALSE
+cop,cop,,n.,경찰관,The cop helped the lost boy.,그 경찰관이 길 잃은 소년을 도와줬다.,normal,,,FALSE
+cottage,cottage,,n.,작은 시골집,They stayed in a small cottage.,그들은 작은 시골집에 머물렀다.,normal,,,FALSE
+crawl,crawl,,n.|v.,기어가다,The baby crawled on the floor.,아기가 바닥을 기어다녔다.,normal,,,FALSE
+crisp,crisp,,adj.|n.|v.,바삭한,The bread was crisp and warm.,빵이 바삭하고 따뜻했다.,polysemy_split,(바삭한),crisp,FALSE
+crisp,crisp,,adj.|n.|v.,감자칩,She ate a bag of crisps.,그녀는 감자칩 한 봉지를 먹었다.,polysemy_split,(감자칩),crisp,FALSE
+crown,crown,,n.|v.,왕관 / 왕관을 씌우다,The queen wore a gold crown.,여왕은 금 왕관을 썼다.,normal,,,FALSE
+curl,curl,,n.|v.,곱슬머리 / 동그랗게 말리다,Her hair has a nice curl.,그녀의 머리카락이 예쁘게 곱슬거린다.,normal,,,FALSE
+cute,cute,,adj.,귀여운,The baby is very cute.,그 아기는 매우 귀엽다.,normal,,,FALSE
+darling,darling,,adj.|n.,사랑스러운 / 자기,She called him darling.,그녀는 그를 '자기'라고 불렀다.,normal,,,FALSE
+dawn,dawn,,n.|v.,새벽 / 날이 밝다,She woke up at dawn.,그녀는 새벽에 일어났다.,normal,,,FALSE
+deck,deck,,n.|v.,갑판 / (배의) 층,We sat on the deck of the ship.,우리는 배의 갑판 위에 앉았다.,normal,,,FALSE
+depart,depart,,v.,떠나다 / 출발하다,The train departs at nine.,기차는 9시에 출발한다.,normal,,,FALSE
+disc,disc,,n.,원반 / 디스크,He put the disc in the player.,그는 플레이어에 디스크를 넣었다.,normal,,,FALSE
+disgust,disgust,,n.|v.,역겨움 / 역겹게 하다,The smell filled her with disgust.,그 냄새가 그녀를 역겹게 했다.,normal,,,FALSE
+dive,dive,,n.|v.,뛰어들다 / 잠수하다,He dived into the pool.,그는 수영장으로 뛰어들었다.,normal,,,FALSE
+dolphin,dolphin,,n.,돌고래,She saw a dolphin in the sea.,그녀는 바다에서 돌고래를 봤다.,normal,,,FALSE
+dump,dump,,n.|v.,버리다 / 쓰레기장,He dumped the old boxes outside.,그는 낡은 상자들을 밖에 버렸다.,normal,,,FALSE
+faint,faint,,adj.|n.|v.,희미한,There was a faint sound outside.,밖에서 희미한 소리가 들렸다.,polysemy_split,(희미한),faint,FALSE
+faint,faint,,adj.|n.|v.,기절하다,She fainted in the heat.,그녀는 더위에 기절했다.,polysemy_split,(기절하다),faint,FALSE
+ferry,ferry,,n.|v.,여객선 / 실어 나르다,We took the ferry to the island.,우리는 섬까지 여객선을 탔다.,normal,,,FALSE
+fog,fog,,n.,안개,There was thick fog this morning.,오늘 아침에 짙은 안개가 꼈다.,normal,,,FALSE
+frankly,frankly,,adv.,솔직히 말해서,"Frankly, I do not like it.","솔직히 말해서, 나는 그것이 마음에 들지 않는다.",normal,,,FALSE
+fright,fright,,n.,공포 / 놀람,The loud noise gave her a fright.,큰 소리가 그녀를 깜짝 놀라게 했다.,normal,,,FALSE
+frustrate,frustrate,,v.,답답하게 하다 / 좌절시키다,The long wait frustrated her.,긴 기다림이 그녀를 답답하게 했다.,normal,,,FALSE
+giraffe,giraffe,,n.,기린,The giraffe has a very long neck.,기린은 목이 매우 길다.,normal,,,FALSE
+glory,glory,,n.|v.,영광 / 자랑스러워하다,She won the race in glory.,그녀는 영광스럽게 경주에서 이겼다.,normal,,,FALSE
+glue,glue,,n.|v.,풀 / 붙이다,He glued the broken cup.,그는 깨진 컵을 풀로 붙였다.,normal,,,FALSE
+gorgeous,gorgeous,,adj.,아주 아름다운 / 멋진,She wore a gorgeous dress.,그녀는 아주 아름다운 드레스를 입었다.,normal,,,FALSE
+grace,grace,,n.|v.,우아함 / 우아하게 하다,She danced with great grace.,그녀는 매우 우아하게 춤을 췄다.,normal,,,FALSE
+graph,graph,,n.,그래프 / 도표,The teacher drew a graph.,선생님이 그래프를 그렸다.,normal,,,FALSE
+guilt,guilt,,n.,죄책감 / 유죄,He felt deep guilt after lying.,그는 거짓말 후에 깊은 죄책감을 느꼈다.,normal,,,FALSE
+handsome,handsome,,adj.,잘생긴,He is a handsome young man.,그는 잘생긴 청년이다.,normal,,,FALSE
+honey,honey,,n.,꿀 / 여보,She put honey on her bread.,그녀는 빵에 꿀을 발랐다.,normal,,,FALSE
+hug,hug,,n.|v.,포옹하다 / 포옹,She hugged her daughter tightly.,그녀는 딸을 꼭 껴안았다.,normal,,,FALSE
+inspect,inspect,,v.,검사하다 / 살펴보다,He inspected the new house.,그는 새 집을 꼼꼼히 살펴봤다.,normal,,,FALSE
+instant,instant,,adj.|n.,즉각적인 / 순간,She made instant noodles for lunch.,그녀는 점심으로 인스턴트 면을 만들었다.,normal,,,FALSE
+instruct,instruct,,v.,가르치다 / 지시하다,She instructed the class well.,그녀는 반을 잘 가르쳤다.,normal,,,FALSE
+intent,intent,,adj.|n.,의도 / 집중한,She was intent on her work.,그녀는 자신의 일에 집중하고 있었다.,normal,,,FALSE
+jaw,jaw,,n.,턱,Her jaw hurt after eating.,그녀는 먹고 난 후 턱이 아팠다.,normal,,,FALSE
+lamb,lamb,,n.,어린 양 / 양고기,The lamb played in the field.,어린 양이 들판에서 뛰어놀았다.,normal,,,FALSE
+lane,lane,,n.,차선 / 좁은 길,She drove in the left lane.,그녀는 왼쪽 차선으로 달렸다.,normal,,,FALSE
+lawn,lawn,,n.,잔디밭,He mowed the lawn on Sunday.,그는 일요일에 잔디를 깎았다.,normal,,,FALSE
+lid,lid,,n.,뚜껑,She put the lid on the pot.,그녀는 냄비에 뚜껑을 덮었다.,normal,,,FALSE
+living room,living room,,n.,거실,We watch TV in the living room.,우리는 거실에서 텔레비전을 본다.,normal,,,FALSE
+marvel,marvel,,n.|v.,경이로워하다 / 경이로운 것,She marveled at the beautiful sky.,그녀는 아름다운 하늘에 경이로워했다.,normal,,,FALSE
+mask,mask,,n.|v.,마스크 / 가리다,She wore a mask outside.,그녀는 밖에서 마스크를 썼다.,normal,,,FALSE
+melon,melon,,n.,멜론,She ate cold melon in summer.,그녀는 여름에 시원한 멜론을 먹었다.,normal,,,FALSE
+microwave,microwave,,n.|v.,전자레인지 / 전자레인지로 데우다,She microwaved the soup quickly.,그녀는 전자레인지로 수프를 빠르게 데웠다.,normal,,,FALSE
+mill,mill,,n.|v.,방앗간 / 갈다,He ground the grain at the mill.,그는 방앗간에서 곡식을 갈았다.,normal,,,FALSE
+mushroom,mushroom,,n.|v.,버섯 / 급성장하다,She cooked mushroom soup.,그녀는 버섯 수프를 만들었다.,normal,,,FALSE
+navy,navy,,n.,해군 / 남색,He served in the navy.,그는 해군에서 복무했다.,normal,,,FALSE
+nest,nest,,n.|v.,둥지 / 둥지를 틀다,A bird built a nest in the tree.,새 한 마리가 나무에 둥지를 틀었다.,normal,,,FALSE

@@ -1,0 +1,66 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+qualify,qualify,,v.,자격을 얻다 / 합격하다,She qualified as a nurse last year.,그녀는 작년에 간호사 자격을 얻었다.,normal,,,FALSE
+competitive,competitive,,adj.,경쟁적인 / 경쟁력 있는,He is very competitive in sports.,그는 스포츠에서 매우 경쟁적이다.,normal,,,FALSE
+appointment,appointment,,n.,약속 / 예약,She made an appointment with the doctor.,그녀는 의사와 예약을 잡았다.,normal,,,FALSE
+effectively,effectively,,adv.,효과적으로,She solved the problem effectively.,그녀는 문제를 효과적으로 해결했다.,normal,,,FALSE
+bother,bother,,v.,귀찮게 하다 / 신경 쓰다,Don't bother me while I am cooking.,내가 요리하는 동안 귀찮게 하지 마세요.,normal,,,FALSE
+sharp,sharp,,adj.,날카로운 / 예리한,Be careful with that sharp knife.,그 날카로운 칼을 조심하세요.,normal,,,FALSE
+freeze,freeze,,v.,얼다 / 얼리다,The water in the bottle froze last night.,병 속의 물이 어젯밤에 얼었다.,normal,,,FALSE
+repair,repair,,n.,수리 / 수선,The repair took two hours.,수리하는 데 두 시간이 걸렸다.,normal,,,FALSE
+perfectly,perfectly,,adv.,완벽하게 / 아주 잘,She sang the song perfectly.,그녀는 노래를 완벽하게 불렀다.,normal,,,FALSE
+proud,proud,,adj.,자랑스러운,She is proud of her daughter.,그녀는 딸이 자랑스럽다.,normal,,,FALSE
+emergency,emergency,,n.,응급 상황 / 비상사태,Call 119 in an emergency.,응급 상황에는 119에 전화하세요.,normal,,,FALSE
+educational,educational,,adj.,교육적인,That TV show is very educational for children.,그 TV 프로그램은 아이들에게 매우 교육적이다.,normal,,,FALSE
+valuable,valuable,,adj.,소중한 / 가치 있는,Time is very valuable to me.,시간은 나에게 매우 소중하다.,normal,,,FALSE
+personally,personally,,adv.,개인적으로 / 직접,I personally think she is right.,나는 개인적으로 그녀가 옳다고 생각한다.,normal,,,FALSE
+approximately,approximately,,adv.,약 / 대략,It takes approximately 30 minutes by bus.,버스로 대략 30분 걸린다.,normal,,,FALSE
+highlight,highlight,,n.|v.,(명사) 가장 좋은 부분 / 하이라이트,The highlight of the trip was the market.,여행의 하이라이트는 시장이었다.,polysemy_split,(명사: 하이라이트),,FALSE
+highlight,highlight,,n.|v.,(동사) 강조하다 / 두드러지게 하다,She highlighted the important words in the book.,그녀는 책에서 중요한 단어들을 강조했다.,polysemy_split,(동사: 강조하다),highlight,FALSE
+breathe,breathe,,v.,숨을 쉬다 / 호흡하다,Breathe slowly and stay calm.,천천히 숨을 쉬고 침착하세요.,normal,,,FALSE
+confuse,confuse,,v.,혼란스럽게 하다 / 헷갈리게 하다,The long directions confused the boy.,긴 설명이 그 소년을 헷갈리게 했다.,normal,,,FALSE
+southern,southern,,adj.,남쪽의 / 남부의,She lives in the southern part of Korea.,그녀는 한국 남부 지역에 살고 있다.,normal,,,FALSE
+beauty,beauty,,n.,아름다움 / 미,She admired the beauty of the garden.,그녀는 정원의 아름다움에 감탄했다.,normal,,,FALSE
+update,update,,n.|v.,(명사) 최신 정보 / 업데이트,She read the latest update about the weather.,그녀는 날씨에 대한 최신 정보를 읽었다.,polysemy_split,(명사: 최신 정보),,FALSE
+update,update,,n.|v.,(동사) 업데이트하다 / 최신 상태로 하다,He updated his phone yesterday.,그는 어제 휴대폰을 업데이트했다.,polysemy_split,(동사: 업데이트하다),update,FALSE
+sudden,sudden,,adj.,갑작스러운,There was a sudden noise outside.,밖에서 갑작스러운 소리가 났다.,normal,,,FALSE
+originally,originally,,adv.,원래 / 처음에는,She originally wanted to be a teacher.,그녀는 원래 선생님이 되고 싶었다.,normal,,,FALSE
+plot,plot,,n.,줄거리 / 구성,The plot of the movie was very exciting.,그 영화의 줄거리는 매우 흥미진진했다.,normal,,,FALSE
+volunteer,volunteer,,n.|v.,(명사) 자원봉사자,She works as a volunteer at the hospital.,그녀는 병원에서 자원봉사자로 일한다.,polysemy_split,(명사: 자원봉사자),,FALSE
+volunteer,volunteer,,n.|v.,(동사) 자원봉사를 하다,He volunteers at school every weekend.,그는 매주 주말에 학교에서 자원봉사를 한다.,polysemy_split,(동사: 자원봉사하다),volunteer,FALSE
+calm,calm,,adj.|n.|v.,(형용사) 침착한 / 조용한,She stayed calm during the storm.,그녀는 폭풍 속에서도 침착했다.,polysemy_split,(형용사: 침착한),,FALSE
+calm,calm,,adj.|n.|v.,(동사) 진정시키다,She calmed the crying baby.,그녀는 우는 아기를 진정시켰다.,polysemy_split,(동사: 진정시키다),calm,FALSE
+grateful,grateful,,adj.,감사하는 / 고마워하는,I am grateful for your help.,나는 당신의 도움에 감사합니다.,normal,,,FALSE
+unemployment,unemployment,,n.,실업 / 실직,Unemployment is a big problem in some cities.,실업은 일부 도시에서 큰 문제이다.,normal,,,FALSE
+gentleman,gentleman,,n.,신사 / 예의 바른 남자,He is a true gentleman.,그는 진정한 신사이다.,normal,,,FALSE
+educate,educate,,v.,교육하다 / 가르치다,Parents educate their children at home too.,부모님들은 집에서도 아이들을 교육한다.,normal,,,FALSE
+hunt,hunt,,v.,사냥하다 / 찾아다니다,The boy hunted for his lost key.,그 소년은 잃어버린 열쇠를 찾아다녔다.,normal,,,FALSE
+achievement,achievement,,n.,성취 / 업적,Passing the test was a great achievement.,시험에 합격하는 것은 큰 성취였다.,normal,,,FALSE
+typically,typically,,adv.,보통 / 일반적으로,She typically wakes up at six.,그녀는 보통 여섯 시에 일어난다.,normal,,,FALSE
+wing,wing,,n.,날개,The bird spread its wings and flew away.,새가 날개를 펴고 날아갔다.,normal,,,FALSE
+soil,soil,,n.,흙 / 토양,She planted flowers in the soft soil.,그녀는 부드러운 흙에 꽃을 심었다.,normal,,,FALSE
+layer,layer,,n.,층 / 겹,She put on another layer of clothes.,그녀는 옷을 한 겹 더 입었다.,normal,,,FALSE
+upset,upset,,adj.|v.,(형용사) 속상한 / 화가 난,The girl was upset about losing her bag.,그 소녀는 가방을 잃어버려서 속상했다.,polysemy_split,(형용사: 속상한),,FALSE
+upset,upset,,adj.|v.,(동사) 속상하게 하다 / 화나게 하다,His words upset her very much.,그의 말이 그녀를 매우 속상하게 했다.,polysemy_split,(동사: 속상하게 하다),upset,FALSE
+entertainment,entertainment,,n.,오락 / 즐길 거리,TV is a popular form of entertainment.,TV는 인기 있는 오락 수단이다.,normal,,,FALSE
+honest,honest,,adj.,정직한 / 솔직한,She is always honest with her friends.,그녀는 항상 친구들에게 정직하다.,normal,,,FALSE
+unlikely,unlikely,,adj.,가능성이 낮은 / ~할 것 같지 않은,It is unlikely to snow today.,오늘 눈이 올 것 같지 않다.,normal,,,FALSE
+solid,solid,,adj.|n.,단단한 / 견고한,The table is made of solid wood.,그 탁자는 단단한 나무로 만들어졌다.,normal,,,FALSE
+port,port,,n.,항구,The ship arrived at the port this morning.,배가 오늘 아침 항구에 도착했다.,normal,,,FALSE
+arrival,arrival,,n.,도착,We waited for her arrival at the station.,우리는 역에서 그녀의 도착을 기다렸다.,normal,,,FALSE
+mood,mood,,n.,기분 / 분위기,She is in a good mood today.,그녀는 오늘 기분이 좋다.,normal,,,FALSE
+episode,episode,,n.,(TV 드라마) 회 / 에피소드,I watched three episodes last night.,나는 어젯밤에 세 편을 봤다.,normal,,,FALSE
+symptom,symptom,,n.,증상 / 증세,A sore throat is a symptom of a cold.,목이 아픈 것은 감기의 증상이다.,normal,,,FALSE
+cable,cable,,n.,케이블 / 전선,She connected the cable to the TV.,그녀는 TV에 케이블을 연결했다.,normal,,,FALSE
+prisoner,prisoner,,n.,죄수 / 수감자,The prisoner was released after ten years.,그 죄수는 10년 후에 풀려났다.,normal,,,FALSE
+tight,tight,,adj.,꽉 끼는 / 단단한,These shoes are too tight for me.,이 신발은 나한테 너무 꽉 낀다.,normal,,,FALSE
+secondary,secondary,,adj.,중등의 / 부차적인,She teaches at a secondary school.,그녀는 중등학교에서 가르친다.,normal,,,FALSE
+string,string,,n.,끈 / 줄,She tied the box with a string.,그녀는 끈으로 상자를 묶었다.,normal,,,FALSE
+persuade,persuade,,v.,설득하다,She persuaded him to eat breakfast.,그녀는 그에게 아침을 먹도록 설득했다.,normal,,,FALSE
+assist,assist,,v.,돕다 / 지원하다,He assisted the old woman with her bag.,그는 노인 여성의 가방을 들어 도왔다.,normal,,,FALSE
+sink,sink,,v.,가라앉다 / 침몰하다,The small boat sank in the river.,작은 배가 강에서 가라앉았다.,normal,,,FALSE
+supporter,supporter,,n.,지지자 / 응원자,She is a strong supporter of the local team.,그녀는 지역 팀의 열렬한 지지자이다.,normal,,,FALSE
+sail,sail,,n.,돛 / 돛단배 여행,The white sail shone in the sun.,하얀 돛이 햇빛에 빛났다.,normal,,,FALSE
+heavily,heavily,,adv.,심하게 / 많이,It rained heavily all day.,하루 종일 비가 심하게 내렸다.,normal,,,FALSE
+whenever,whenever,,conj.,~할 때마다 / 언제든지,She smiles whenever she sees the baby.,그녀는 아기를 볼 때마다 미소 짓는다.,function_word,,,FALSE
+guilty,guilty,,adj.,죄책감이 드는 / 유죄의,She felt guilty about breaking the cup.,그녀는 컵을 깬 것에 대해 죄책감을 느꼈다.,normal,,,FALSE
+pour,pour,,v.,붓다 / 따르다,She poured water into the glass.,그녀는 컵에 물을 따랐다.,normal,,,FALSE

@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+performance,performance,,n.,공연 / 성과,She gave a great performance last night.,그녀는 어젯밤에 훌륭한 공연을 했어요.,normal,,,FALSE
+mention,mention,,n.,언급,There was no mention of his name.,그의 이름에 대한 언급이 없었어요.,normal,,,FALSE
+total,total,,adj.|n.,전체의 / 합계,The total price is fifty dollars.,총 가격은 50달러예요.,normal,,,FALSE
+limit,limit,,n.|v.,한계 / 제한하다,She limits her coffee to one cup a day.,그녀는 커피를 하루 한 잔으로 제한해요.,normal,,,FALSE
+due,due,,adj.,~때문에 / 기한이 된,The bill is due tomorrow.,청구서 납부 기한이 내일이에요.,normal,,,FALSE
+wrong,wrong,,adv.,잘못되게 / 틀리게,She got the answer wrong.,그녀는 답을 틀렸어요.,normal,,,FALSE
+effort,effort,,n.,노력,He put a lot of effort into his work.,그는 일에 많은 노력을 기울였어요.,normal,,,FALSE
+upon,upon,,prep.,~위에 / ~하자마자,She sat upon the chair.,그녀는 의자 위에 앉았어요.,function_word,,,FALSE
+lie,lie,,n.,거짓말,He told a lie to his mother.,그는 어머니에게 거짓말을 했어요.,normal,,,FALSE
+current,current,,adj.,현재의 / 최신의,What is your current address?,현재 주소가 어떻게 되세요?,normal,,,FALSE
+contact,contact,,n.|v.,연락 / 연락하다,Please contact me by phone.,전화로 연락해 주세요.,normal,,,FALSE
+particularly,particularly,,adv.,특히 / 특별히,"She likes fruit, particularly apples.","그녀는 과일을, 특히 사과를 좋아해요.",normal,,,FALSE
+court,court,,n.,법원 / 경기장,The boys played on the basketball court.,남자아이들이 농구장에서 놀았어요.,normal,,,FALSE
+store,store,,v.,저장하다 / 보관하다,She stores food in the freezer.,그녀는 냉동고에 음식을 보관해요.,normal,,,FALSE
+simply,simply,,adv.,단순히 / 그냥,She simply smiled and walked away.,그녀는 그냥 미소를 짓고 떠났어요.,normal,,,FALSE
+feature,feature,,v.,특별히 포함하다 / 특징으로 삼다,The show features young singers.,그 프로그램은 젊은 가수들을 특별히 출연시켜요.,normal,,,FALSE
+drop,drop,,n.,한 방울 / 하락,A drop of rain fell on her hand.,빗방울 한 방울이 그녀의 손에 떨어졌어요.,normal,,,FALSE
+relate,relate,,v.,관련되다 / 이해하다,I can relate to her feelings.,저는 그녀의 감정을 이해할 수 있어요.,normal,,,FALSE
+official,official,,adj.,공식적인,We got the official results today.,오늘 공식 결과를 받았어요.,normal,,,FALSE
+financial,financial,,adj.,재정적인 / 금융의,She has some financial problems.,그녀는 재정적인 문제가 좀 있어요.,normal,,,FALSE
+campaign,campaign,,n.|v.,캠페인 / 운동을 벌이다,She joined a health campaign in her town.,그녀는 마을의 건강 캠페인에 참여했어요.,normal,,,FALSE
+private,private,,adj.,개인적인 / 사적인,This is my private diary.,이것은 제 개인 일기예요.,normal,,,FALSE
+worry,worry,,n.,걱정,Her biggest worry is her son's health.,그녀의 가장 큰 걱정은 아들의 건강이에요.,normal,,,FALSE
+represent,represent,,v.,대표하다 / 나타내다,She represents her school at the contest.,그녀는 대회에서 학교를 대표해요.,normal,,,FALSE
+key,key,,v.,입력하다 / 키를 누르다,He keyed in his password slowly.,그는 천천히 비밀번호를 입력했어요.,normal,,,FALSE
+wonder,wonder,,n.|v.,놀라움 / 궁금해하다,I wonder what she is cooking.,그녀가 무엇을 요리하는지 궁금해요.,normal,,,FALSE
+press,press,,n.|v.,언론 / 누르다,Press the button to open the door.,문을 열려면 버튼을 누르세요.,polysemy_split,(누르다),press,FALSE
+press,press,,n.|v.,언론 / 신문,The story was in the press today.,그 이야기가 오늘 언론에 실렸어요.,polysemy_split,(언론),press,FALSE
+whatever,whatever,,det.|pron.,무엇이든 / 어떤 것이든,Eat whatever you like.,좋아하는 것은 무엇이든 드세요.,function_word,,,FALSE
+growth,growth,,n.,성장 / 증가,We can see the growth of the plant.,식물이 자라는 것을 볼 수 있어요.,normal,,,FALSE
+influence,influence,,n.|v.,영향 / 영향을 주다,Her mother influences her cooking style.,어머니가 그녀의 요리 스타일에 영향을 줘요.,normal,,,FALSE
+respect,respect,,n.|v.,존경 / 존중하다,We respect our teachers.,우리는 선생님들을 존경해요.,normal,,,FALSE
+various,various,,adj.,다양한 / 여러 가지의,She tried various foods at the market.,그녀는 시장에서 다양한 음식을 먹어봤어요.,normal,,,FALSE
+medium,medium,,adj.,중간의 / 보통의,She ordered a medium coffee.,그녀는 미디엄 사이즈 커피를 주문했어요.,normal,,,FALSE
+average,average,,v.,평균이 되다 / 평균을 내다,She averages eight hours of sleep.,그녀는 평균 8시간 잠을 자요.,normal,,,FALSE
+management,management,,n.,관리 / 경영,Good management helps the family budget.,잘 관리하면 가정 살림에 도움이 돼요.,normal,,,FALSE
+indeed,indeed,,adv.,정말로 / 실제로,She is indeed a kind woman.,그녀는 정말로 친절한 여성이에요.,normal,,,FALSE
+economy,economy,,n.,경제,The economy affects our daily life.,경제는 우리의 일상생활에 영향을 줘요.,normal,,,FALSE
+function,function,,n.,기능 / 역할,What is the function of this button?,이 버튼의 기능이 뭔가요?,normal,,,FALSE
+addition,addition,,n.,추가 / 덧셈,"In addition, she brought some cake.","게다가, 그녀는 케이크도 가져왔어요.",normal,,,FALSE
+determine,determine,,v.,결정하다 / 알아내다,She determined to learn English.,그녀는 영어를 배우기로 결심했어요.,normal,,,FALSE
+production,production,,n.,생산 / 제작,The factory increased food production.,공장에서 식품 생산을 늘렸어요.,normal,,,FALSE
+comment,comment,,v.,의견을 말하다 / 논평하다,She commented on the food.,그녀는 음식에 대해 의견을 말했어요.,normal,,,FALSE
+occur,occur,,v.,발생하다 / 일어나다,The accident occurred near our house.,사고가 우리 집 근처에서 발생했어요.,normal,,,FALSE
+direct,direct,,adv.|v.,직접 / 안내하다,He directed us to the right place.,그가 우리를 올바른 장소로 안내해 줬어요.,normal,,,FALSE
+lack,lack,,n.|v.,부족 / 부족하다,She lacks sleep these days.,그녀는 요즘 잠이 부족해요.,normal,,,FALSE
+board,board,,v.,탑승하다 / 올라타다,We boarded the bus at eight.,우리는 8시에 버스에 탔어요.,normal,,,FALSE
+prove,prove,,v.,증명하다 / 입증하다,She proved that she was right.,그녀는 자신이 옳다는 것을 증명했어요.,normal,,,FALSE
+stuff,stuff,,n.,물건 / 것,She put all her stuff in a bag.,그녀는 모든 물건을 가방에 넣었어요.,normal,,,FALSE
+analysis,analysis,,n.,분석,The doctor did an analysis of the blood.,의사가 혈액 분석을 했어요.,normal,,,FALSE
+election,election,,n.,선거,She voted in the election yesterday.,그녀는 어제 선거에서 투표했어요.,normal,,,FALSE
+challenge,challenge,,n.,도전 / 어려운 일,Learning English is a big challenge.,영어를 배우는 것은 큰 도전이에요.,normal,,,FALSE
+nation,nation,,n.,나라 / 국가,Our nation has a long history.,우리나라는 긴 역사를 가지고 있어요.,normal,,,FALSE
+despite,despite,,prep.,~에도 불구하고,She walked despite the rain.,그녀는 비가 오는데도 불구하고 걸었어요.,normal,,,FALSE
+agreement,agreement,,n.,합의 / 동의,We reached an agreement at last.,우리는 마침내 합의에 이르렀어요.,normal,,,FALSE
+release,release,,n.|v.,출시 / 풀어주다,They released a new song today.,그들은 오늘 새 노래를 발표했어요.,normal,,,FALSE
+tax,tax,,n.|v.,세금 / 세금을 부과하다,We pay tax every year.,우리는 매년 세금을 내요.,normal,,,FALSE
+fear,fear,,v.,두려워하다 / 무서워하다,The girl fears the dark.,그 여자아이는 어둠을 무서워해요.,normal,,,FALSE
+aim,aim,,n.|v.,목표 / 목표로 하다,Her aim is to travel the world.,그녀의 목표는 세계 여행이에요.,normal,,,FALSE
+pull,pull,,n.,당기기 / 끌어당김,Give the door a strong pull.,문을 세게 당겨 보세요.,normal,,,FALSE
+access,access,,n.|v.,접근 / 이용하다,She accessed the internet on her phone.,그녀는 휴대폰으로 인터넷에 접속했어요.,normal,,,FALSE

@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+feeling,feeling,,n.,느낌 / 감정,I have a good feeling today.,나는 오늘 기분이 좋아요.,normal,,,FALSE
+fifteen,fifteen,,number,열다섯 / 15,She is fifteen years old.,그녀는 열다섯 살이에요.,normal,,,FALSE
+fifth,fifth,,number,다섯 번째,My birthday is on the fifth.,내 생일은 5일이에요.,normal,,,FALSE
+fifty,fifty,,number,쉰 / 50,There are fifty chairs in the room.,방에 의자가 50개 있어요.,normal,,,FALSE
+forty,forty,,number,마흔 / 40,He is forty years old.,그는 마흔 살이에요.,normal,,,FALSE
+fourteen,fourteen,,number,열넷 / 14,The girl is fourteen years old.,그 소녀는 열네 살이에요.,normal,,,FALSE
+fourth,fourth,,number,네 번째,She sits in the fourth row.,그녀는 네 번째 줄에 앉아요.,normal,,,FALSE
+friday,Friday,,n.,금요일,We meet every Friday.,우리는 매주 금요일에 만나요.,normal,,,FALSE
+girlfriend,girlfriend,,n.,여자친구,He walks with his girlfriend.,그는 여자친구와 함께 걸어요.,normal,,,FALSE
+grandparent,grandparent,,n.,조부모 / 할아버지·할머니,My grandparents live in the country.,우리 조부모님은 시골에 살아요.,normal,,,FALSE
+have to,have to,,modal v.,~해야 하다,I have to go to school today.,나는 오늘 학교에 가야 해요.,function_word,,,FALSE
+her,her,,det.|pron.,그녀의 / 그녀를,I gave her a gift.,나는 그녀에게 선물을 줬어요.,function_word,,,FALSE
+him,him,,pron.,그를 / 그에게,She called him last night.,그녀는 어젯밤에 그에게 전화했어요.,function_word,,,FALSE
+his,his,,det.,그의,He forgot his bag at home.,그는 집에 가방을 두고 왔어요.,function_word,,,FALSE
+ice cream,ice cream,,n.,아이스크림,The girl loves chocolate ice cream.,그 소녀는 초콜릿 아이스크림을 좋아해요.,normal,,,FALSE
+interested,interested,,adj.,관심 있는 / 흥미를 느끼는,She is interested in cooking.,그녀는 요리에 관심이 있어요.,normal,,,FALSE
+interesting,interesting,,adj.,흥미로운 / 재미있는,This book is very interesting.,이 책은 매우 흥미로워요.,normal,,,FALSE
+its,its,,det.,그것의,The cat licked its paw.,고양이가 자신의 발을 핥았어요.,function_word,,,FALSE
+january,January,,n.,1월,My birthday is in January.,내 생일은 1월이에요.,normal,,,FALSE
+july,July,,n.,7월,It is very hot in July.,7월은 매우 더워요.,normal,,,FALSE
+june,June,,n.,6월,School ends in June.,학교는 6월에 끝나요.,normal,,,FALSE
+later,later,,adv.,나중에 / 이따가,I will call you later.,나중에 전화할게요.,normal,,,FALSE
+mall,mall,,n.,쇼핑몰,We went to the mall on Saturday.,우리는 토요일에 쇼핑몰에 갔어요.,normal,,,FALSE
+married,married,,adj.,결혼한,They got married last year.,그들은 작년에 결혼했어요.,normal,,,FALSE
+me,me,,pron.,나를 / 나에게,She gave me some cake.,그녀는 나에게 케이크를 줬어요.,function_word,,,FALSE
+meaning,meaning,,n.,의미 / 뜻,What is the meaning of this word?,이 단어의 뜻이 뭐예요?,normal,,,FALSE
+meeting,meeting,,n.,회의 / 모임,We have a meeting at ten.,우리는 10시에 회의가 있어요.,normal,,,FALSE
+midnight,midnight,,n.,자정 / 밤 12시,The party ended at midnight.,파티는 자정에 끝났어요.,normal,,,FALSE
+monday,Monday,,n.,월요일,She goes to work on Monday.,그녀는 월요일에 출근해요.,normal,,,FALSE
+my,my,,det.,나의,My mother makes great soup.,우리 엄마는 국을 잘 끓여요.,function_word,,,FALSE
+next to,next to,,prep.,~옆에,She sits next to me.,그녀는 내 옆에 앉아요.,normal,,,FALSE
+nineteen,nineteen,,number,열아홉 / 19,The boy is nineteen years old.,그 소년은 열아홉 살이에요.,normal,,,FALSE
+ninety,ninety,,number,아흔 / 90,My grandma is ninety years old.,우리 할머니는 아흔 살이에요.,normal,,,FALSE
+no one,no one,,pron.,아무도 ~않다,No one was home last night.,어젯밤에 아무도 집에 없었어요.,normal,,,FALSE
+november,November,,n.,11월,It gets cold in November.,11월에는 날씨가 추워져요.,normal,,,FALSE
+october,October,,n.,10월,The leaves fall in October.,10월에는 나뭇잎이 떨어져요.,normal,,,FALSE
+oh,oh,,exclam.,오! / 아!,"Oh, I forgot my keys!","아, 열쇠를 잊어버렸어요!",normal,,,FALSE
+onion,onion,,n.,양파,She puts onion in the soup.,그녀는 국에 양파를 넣어요.,normal,,,FALSE
+our,our,,det.,우리의,Our house is near the school.,우리 집은 학교 근처에 있어요.,function_word,,,FALSE
+o?™clock,o?™clock,,adv.,~시 (정각),We eat lunch at twelve o'clock.,우리는 12시 정각에 점심을 먹어요.,normal,,,TRUE
+painting,painting,,n.,그림 / 그림 그리기,She has a beautiful painting on the wall.,그녀는 벽에 아름다운 그림이 있어요.,normal,,,FALSE
+policeman,policeman,,n.,경찰관,The policeman helped the old woman.,경찰관이 할머니를 도와줬어요.,normal,,,FALSE
+reading,reading,,n.,읽기 / 독서,Reading is my favorite hobby.,독서는 내가 가장 좋아하는 취미예요.,normal,,,FALSE
+saturday,Saturday,,n.,토요일,We go shopping on Saturday.,우리는 토요일에 쇼핑하러 가요.,normal,,,FALSE
+september,September,,n.,9월,School starts again in September.,9월에 학교가 다시 시작해요.,normal,,,FALSE
+seventeen,seventeen,,number,열일곱 / 17,She is seventeen years old.,그녀는 열일곱 살이에요.,normal,,,FALSE
+seventy,seventy,,number,일흔 / 70,My grandfather is seventy years old.,우리 할아버지는 일흔 살이에요.,normal,,,FALSE
+shopping,shopping,,n.,쇼핑 / 장보기,I do my shopping on Sunday.,나는 일요일에 장을 봐요.,normal,,,FALSE
+sixteen,sixteen,,number,열여섯 / 16,The boy is sixteen years old.,그 소년은 열여섯 살이에요.,normal,,,FALSE
+sixty,sixty,,number,예순 / 60,She is sixty years old.,그녀는 예순 살이에요.,normal,,,FALSE
+spelling,spelling,,n.,철자 / 맞춤법,Please check the spelling of this word.,이 단어의 철자를 확인해 주세요.,normal,,,FALSE
+sunday,Sunday,,n.,일요일,We rest at home on Sunday.,우리는 일요일에 집에서 쉬어요.,normal,,,FALSE
+supermarket,supermarket,,n.,슈퍼마켓 / 마트,I buy food at the supermarket.,나는 슈퍼마켓에서 음식을 사요.,normal,,,FALSE
+swimming,swimming,,n.,수영 / 수영하기,She enjoys swimming in the pool.,그녀는 수영장에서 수영하는 것을 좋아해요.,normal,,,FALSE
+t-shirt,T-shirt,,n.,티셔츠,He wears a white T-shirt today.,그는 오늘 흰 티셔츠를 입어요.,normal,,,FALSE
+thanks,thanks,,exclam.|n.,감사합니다 / 고마워요,Thanks for your help!,도와줘서 고마워요!,normal,,,FALSE
+their,their,,det.,그들의,Their house is very big.,그들의 집은 매우 커요.,function_word,,,FALSE
+them,them,,pron.,그들을 / 그들에게,I see them every day.,나는 매일 그들을 봐요.,function_word,,,FALSE
+thirsty,thirsty,,adj.,목마른 / 갈증 나는,I am thirsty after my walk.,산책 후에 목이 말라요.,normal,,,FALSE
+thursday,Thursday,,n.,목요일,She has a class every Thursday.,그녀는 매주 목요일에 수업이 있어요.,normal,,,FALSE

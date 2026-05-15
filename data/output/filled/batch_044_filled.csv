@@ -1,0 +1,66 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+used,used,,adj.,중고의 / 사용된,She bought a used car.,그녀는 중고차를 샀어요.,normal,,,FALSE
+viewer,viewer,,n.,시청자 / 보는 사람,Many viewers watched the show.,많은 시청자들이 그 쇼를 봤어요.,normal,,,FALSE
+warning,warning,,n.,경고 / 주의,The teacher gave a warning to the boy.,선생님이 그 소년에게 경고를 했어요.,normal,,,FALSE
+worldwide,worldwide,,adj.|adv.,전 세계적인 / 전 세계적으로,The song is popular worldwide.,그 노래는 전 세계적으로 인기 있어요.,normal,,,FALSE
+written,written,,adj.,글로 쓰인 / 서면의,She got a written letter from her friend.,그녀는 친구에게서 손으로 쓴 편지를 받았어요.,normal,,,FALSE
+but,but,,prep.,~을 제외하고,Everyone but me was there.,나를 제외한 모두가 거기 있었어요.,function_word,,,FALSE
+make,make,,n.,제조사 / 브랜드,What make is your phone?,당신 전화기는 어떤 브랜드예요?,normal,,,FALSE
+time,time,,v.,시간을 재다,She timed the race with a watch.,그녀는 시계로 경주 시간을 쟀어요.,normal,,,FALSE
+very,very,,adj.,바로 그 / 정확히 그,This is the very book I wanted.,이것이 바로 제가 원하던 책이에요.,normal,,,FALSE
+way,way,,adv.,훨씬 / 많이,This bag is way too heavy.,이 가방은 훨씬 너무 무거워요.,normal,,,FALSE
+back,back,,v.,뒤로 가다 / 지지하다,She backed the car into the garage.,그녀는 차를 뒤로 몰아 차고에 넣었어요.,normal,,,FALSE
+even,even,,adj.,평평한 / 고른,The floor is flat and even.,바닥이 평평하고 고르네요.,normal,,,FALSE
+feel,feel,,n.,느낌 / 감촉,I love the feel of soft cloth.,저는 부드러운 천의 감촉을 좋아해요.,normal,,,FALSE
+try,try,,n.,시도,Give it another try!,한 번 더 시도해 보세요!,normal,,,FALSE
+leave,leave,,n.,휴가 / 휴직,She is on leave this week.,그녀는 이번 주에 휴가 중이에요.,normal,,,FALSE
+high,high,,n.,최고치 / 최고 기록,Prices reached a new high.,가격이 새로운 최고치에 달했어요.,normal,,,FALSE
+house,house,,v.,수용하다 / 거주시키다,The building houses many families.,그 건물은 많은 가족들을 수용해요.,normal,,,FALSE
+issue,issue,,v.,발급하다 / 발행하다,The office issued a new card.,사무실에서 새 카드를 발급해 줬어요.,normal,,,FALSE
+hold,hold,,n.,잡기 / 통제력,She kept a firm hold of the bag.,그녀는 가방을 꽉 잡고 있었어요.,normal,,,FALSE
+close,close,,n.,끝 / 마무리,The day came to a close.,그날이 끝을 맺었어요.,normal,,,FALSE
+level,level,,v.,평평하게 하다 / 고르다,He leveled the ground in the garden.,그는 정원의 땅을 평평하게 했어요.,normal,,,FALSE
+line,line,,v.,줄 세우다 / 늘어서다,People lined the street to watch.,사람들이 거리를 따라 줄지어 섰어요.,normal,,,FALSE
+term,term,,v.,~라고 부르다 / 칭하다,We term it a big success.,우리는 그것을 큰 성공이라고 불러요.,normal,,,FALSE
+low,low,,n.,최저치 / 낮은 수준,The temperature hit a new low.,기온이 새로운 최저치를 기록했어요.,normal,,,FALSE
+process,process,,v.,처리하다,The bank will process your form.,은행이 당신의 양식을 처리할 거예요.,normal,,,FALSE
+price,price,,v.,가격을 매기다,The bag is priced at ten dollars.,그 가방은 10달러로 가격이 매겨졌어요.,normal,,,FALSE
+concern,concern,,n.,걱정 / 관심사,She has concerns about her health.,그녀는 건강에 대해 걱정이 있어요.,polysemy_split,(걱정),concern,FALSE
+concern,concern,,v.,걱정시키다 / ~에 관한 것이다,The news concerned the whole family.,그 소식은 온 가족을 걱정시켰어요.,polysemy_split,(걱정시키다),concern,FALSE
+stand,stand,,n.,입장 / 가판대,He took a strong stand on the issue.,그는 그 문제에 대해 강한 입장을 취했어요.,normal,,,FALSE
+yet,yet,,conj.,그러나 / 그럼에도 불구하고,"She is tired, yet she keeps working.",그녀는 피곤하지만 계속 일해요.,function_word,,,FALSE
+rate,rate,,v.,평가하다 / 등급을 매기다,She rated the restaurant five stars.,그녀는 그 식당에 별 다섯 개를 줬어요.,normal,,,FALSE
+power,power,,v.,전력을 공급하다 / 작동시키다,The sun powers this small house.,태양이 이 작은 집에 전력을 공급해요.,normal,,,FALSE
+value,value,,v.,소중히 여기다 / 가치를 평가하다,She values her family very much.,그녀는 가족을 매우 소중히 여겨요.,normal,,,FALSE
+figure,figure,,v.,이해하다 / 생각하다,I can't figure out this problem.,저는 이 문제를 이해할 수가 없어요.,normal,,,FALSE
+subject,subject,,adj.,~의 영향을 받는 / ~에 따르는,The plan is subject to change.,그 계획은 변경될 수 있어요.,normal,,,FALSE
+reach,reach,,n.,닿는 범위 / 손이 미치는 곳,Keep medicine out of children's reach.,약은 아이들 손이 닿지 않는 곳에 두세요.,normal,,,FALSE
+free,free,,v.,자유롭게 하다 / 풀어주다,She freed the bird from the cage.,그녀는 새장에서 새를 풀어줬어요.,normal,,,FALSE
+sense,sense,,v.,느끼다 / 감지하다,She sensed that something was wrong.,그녀는 뭔가 잘못됐다는 것을 느꼈어요.,normal,,,FALSE
+produce,produce,,n.,농산물 / 신선 식품,She bought fresh produce at the market.,그녀는 시장에서 신선한 농산물을 샀어요.,normal,,,FALSE
+position,position,,v.,자리를 잡다 / 배치하다,She positioned the chair by the window.,그녀는 창문 옆에 의자를 배치했어요.,normal,,,FALSE
+account,account,,v.,설명하다 / 차지하다,Can you account for your actions?,당신의 행동을 설명할 수 있나요?,normal,,,FALSE
+major,major,,n.,전공 / 전공 과목,Her major is English at school.,그녀의 전공은 학교에서 영어예요.,normal,,,FALSE
+forward,forward,,adj.,앞쪽의 / 진취적인,She took a forward step with confidence.,그녀는 자신감 있게 앞으로 한 걸음 내디뎠어요.,normal,,,FALSE
+bear,bear,,v.,견디다 / 낳다,She could not bear the cold weather.,그녀는 추운 날씨를 견딜 수 없었어요.,normal,,,FALSE
+rise,rise,,n.,오름 / 상승,There was a rise in food prices.,식품 가격이 올랐어요.,normal,,,FALSE
+detail,detail,,v.,자세히 설명하다,She detailed her plan to the group.,그녀는 그룹에게 계획을 자세히 설명했어요.,normal,,,FALSE
+step,step,,v.,발을 내딛다 / 걷다,He stepped outside for some fresh air.,그는 신선한 공기를 마시러 밖으로 나갔어요.,normal,,,FALSE
+date,date,,v.,날짜를 기입하다 / 사귀다,Please date and sign this form.,이 양식에 날짜를 쓰고 서명해 주세요.,normal,,,FALSE
+model,model,,v.,본보기로 삼다 / 모델이 되다,She modeled her style on her mother.,그녀는 어머니를 본보기로 자신의 스타일을 만들었어요.,normal,,,FALSE
+approach,approach,,n.,접근 방법 / 다가옴,She has a kind approach to teaching.,그녀는 친절한 교육 방식을 가지고 있어요.,polysemy_split,(방법),approach,FALSE
+approach,approach,,v.,다가가다 / 접근하다,The dog approached the girl slowly.,개가 천천히 소녀에게 다가갔어요.,polysemy_split,(다가가다),approach,FALSE
+amount,amount,,v.,~에 달하다 / 합계가 되다,The bill amounted to fifty dollars.,청구서가 50달러에 달했어요.,normal,,,FALSE
+picture,picture,,v.,상상하다 / 마음속에 그리다,I can picture us on the beach.,저는 우리가 해변에 있는 모습을 상상할 수 있어요.,normal,,,FALSE
+regard,regard,,n.,존중 / 안부,Please give my regards to your mother.,어머니께 제 안부를 전해 주세요.,polysemy_split,(안부·존중),regard,FALSE
+regard,regard,,v.,여기다 / ~으로 간주하다,We regard her as a good friend.,우리는 그녀를 좋은 친구로 여겨요.,polysemy_split,(간주하다),regard,FALSE
+range,range,,v.,범위에 걸치다 / 다양하다,The prices range from ten to fifty.,가격은 10에서 50까지 다양해요.,normal,,,FALSE
+project,project,,v.,예상하다 / 투영하다,We project sales will grow next year.,우리는 내년에 매출이 늘어날 것으로 예상해요.,normal,,,FALSE
+round,round,,n.,한 차례 / 라운드,They played one round of the game.,그들은 게임을 한 차례 했어요.,normal,,,FALSE
+fund,fund,,n.,기금 / 자금,The school has a fund for students.,학교에는 학생들을 위한 기금이 있어요.,polysemy_split,(기금),fund,FALSE
+fund,fund,,v.,자금을 지원하다,The city funded a new playground.,시에서 새 놀이터에 자금을 지원했어요.,polysemy_split,(자금 지원하다),fund,FALSE
+national,national,,n.,국민 / 자국민,She is a national of this country.,그녀는 이 나라의 국민이에요.,normal,,,FALSE
+stage,stage,,v.,개최하다 / 무대에 올리다,The school staged a short play.,학교에서 짧은 연극을 무대에 올렸어요.,normal,,,FALSE
+address,address,,v.,다루다 / 연설하다,She addressed the problem right away.,그녀는 그 문제를 바로 다뤘어요.,normal,,,FALSE
+demand,demand,,n.,수요 / 요구,There is high demand for fresh food.,신선한 음식에 대한 수요가 높아요.,polysemy_split,(수요·요구),demand,FALSE
+demand,demand,,v.,요구하다,She demanded a clear answer.,그녀는 명확한 답변을 요구했어요.,polysemy_split,(요구하다),demand,FALSE

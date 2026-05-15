@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+painter,painter,,n.,화가 / 페인트공,The painter made a beautiful picture.,그 화가는 아름다운 그림을 그렸어요.,normal,,,FALSE
+parking,parking,,n.,주차 / 주차 공간,There is no parking near the school.,학교 근처에는 주차 공간이 없어요.,normal,,,FALSE
+penny,penny,,n.,페니 (1센트 동전),She found a penny on the floor.,그녀는 바닥에서 1센트 동전을 발견했어요.,normal,,,FALSE
+pleased,pleased,,adj.,기쁜 / 만족한,She was pleased with her test score.,그녀는 시험 점수에 만족했어요.,normal,,,FALSE
+railroad,railroad,,n.,철도 / 철로,The train runs on the railroad.,기차는 철도 위를 달려요.,normal,,,FALSE
+recording,recording,,n.,녹음 / 녹화,She listened to a recording of the song.,그녀는 그 노래의 녹음을 들었어요.,normal,,,FALSE
+runner,runner,,n.,달리는 사람 / 육상 선수,He is a fast runner.,그는 빠른 달리기 선수예요.,normal,,,FALSE
+running,running,,n.,달리기 / 뛰기,She goes running every morning.,그녀는 매일 아침 달리기를 해요.,normal,,,FALSE
+sadly,sadly,,adv.,슬프게 / 안타깝게도,She sadly said goodbye to her friend.,그녀는 슬프게 친구에게 작별 인사를 했어요.,normal,,,FALSE
+sailing,sailing,,n.,항해 / 요트 타기,We enjoyed sailing on the lake.,우리는 호수에서 요트 타기를 즐겼어요.,normal,,,FALSE
+scared,scared,,adj.,무서워하는 / 겁먹은,The girl was scared of the dog.,그 소녀는 개를 무서워했어요.,normal,,,FALSE
+scary,scary,,adj.,무서운 / 겁나는,That movie was very scary.,그 영화는 매우 무서웠어요.,normal,,,FALSE
+singing,singing,,n.,노래 / 노래하기,She loves singing in the shower.,그녀는 샤워할 때 노래하는 것을 좋아해요.,normal,,,FALSE
+skiing,skiing,,n.,스키 타기,He went skiing in the mountains.,그는 산에 스키 타러 갔어요.,normal,,,FALSE
+smartphone,smartphone,,n.,스마트폰,She uses her smartphone every day.,그녀는 매일 스마트폰을 사용해요.,normal,,,FALSE
+smoking,smoking,,n.,흡연 / 담배 피우기,Smoking is not allowed here.,이곳에서는 흡연이 금지되어 있어요.,normal,,,FALSE
+sneaker,sneaker,,n.,운동화,He bought new sneakers for school.,그는 학교에 신을 새 운동화를 샀어요.,normal,,,FALSE
+spider,spider,,n.,거미,She is scared of spiders.,그녀는 거미를 무서워해요.,normal,,,FALSE
+surprised,surprised,,adj.,놀란 / 깜짝 놀란,She was surprised by the gift.,그녀는 선물에 깜짝 놀랐어요.,normal,,,FALSE
+surprising,surprising,,adj.,놀라운 / 뜻밖의,The news was very surprising.,그 소식은 매우 놀라웠어요.,normal,,,FALSE
+tablet,tablet,,n.,태블릿 / 알약,She reads books on her tablet.,그녀는 태블릿으로 책을 읽어요.,normal,,,FALSE
+teaching,teaching,,n.,가르치기 / 교육,Teaching children is a great job.,아이들을 가르치는 것은 멋진 일이에요.,normal,,,FALSE
+thinking,thinking,,n.,생각 / 사고,She sat quietly in her thinking.,그녀는 생각에 잠겨 조용히 앉아 있었어요.,normal,,,FALSE
+thought,thought,,n.,생각 / 사고,He had a good thought about dinner.,그는 저녁 식사에 대해 좋은 생각이 떠올랐어요.,normal,,,FALSE
+training,training,,n.,훈련 / 교육,She is in training for the race.,그녀는 경주를 위해 훈련 중이에요.,normal,,,FALSE
+trash,trash,,n.,쓰레기,Please put the trash in the bin.,쓰레기를 통에 넣어 주세요.,normal,,,FALSE
+traveler,traveler,,n.,여행자 / 나그네,The traveler stayed at a small hotel.,그 여행자는 작은 호텔에 머물렀어요.,normal,,,FALSE
+understanding,understanding,,n.,이해 / 이해력,She has a good understanding of math.,그녀는 수학을 잘 이해해요.,normal,,,FALSE
+unhappy,unhappy,,adj.,불행한 / 슬픈,The boy looked unhappy after school.,그 소년은 방과 후 슬퍼 보였어요.,normal,,,FALSE
+united,united,,adj.,하나로 뭉친 / 연합한,The family was united and happy.,그 가족은 하나로 뭉쳐 행복했어요.,normal,,,FALSE
+used to,used to,,modal v.,(과거에) ~하곤 했다,She used to walk to school.,그녀는 예전에 걸어서 학교에 다니곤 했어요.,function_word,,,FALSE
+washing,washing,,n.,세탁 / 씻기,She did the washing after lunch.,그녀는 점심 후에 세탁을 했어요.,normal,,,FALSE
+whose,whose,,det.|pron.,누구의 / 누구 것,Whose bag is on the chair?,의자 위에 있는 가방은 누구 거예요?,function_word,,,FALSE
+working,working,,adj.,일하는 / 작동하는,He is a working father of two kids.,그는 두 아이를 둔 일하는 아버지예요.,normal,,,FALSE
+worried,worried,,adj.,걱정하는 / 불안한,She was worried about her mother.,그녀는 어머니를 걱정했어요.,normal,,,FALSE
+worse,worse,,adj.,더 나쁜 / 더 심한,His cold got worse yesterday.,그의 감기는 어제 더 심해졌어요.,normal,,,FALSE
+worst,worst,,adj.,가장 나쁜 / 최악의,That was the worst meal I had.,그것은 제가 먹어 본 최악의 식사였어요.,normal,,,FALSE
+wow,wow,,exclam.,와! / 우와!,"Wow, that cake looks delicious!","와, 저 케이크 정말 맛있어 보여요!",normal,,,FALSE
+yours,yours,,pron.,당신의 것 / 네 것,Is this bag yours?,이 가방이 당신 거예요?,function_word,,,FALSE
+it,IT,,n.,정보 기술 (IT),She works in IT at a big company.,그녀는 큰 회사에서 IT 분야에서 일해요.,normal,(정보기술),,FALSE
+that,that,,adv.,그렇게 / 그 정도로,I did not know it was that cold.,그렇게 추운 줄 몰랐어요.,function_word,,,FALSE
+this,this,,adv.,이렇게 / 이 정도로,I never walked this far before.,전에 이렇게 멀리 걸어본 적이 없어요.,function_word,,,FALSE
+by,by,,adv.,곁에 / 지나쳐서,A car drove by quickly.,차 한 대가 빠르게 지나쳐 갔어요.,function_word,,,FALSE
+will,will,,n.,의지 / 유언장,She has a strong will to study.,그녀는 공부하려는 강한 의지가 있어요.,polysemy_split,(의지),will,FALSE
+will,will,,n.,유언장,He wrote his will before the trip.,그는 여행 전에 유언장을 작성했어요.,polysemy_split,(유언장),will,FALSE
+go,go,,n.,시도 / 차례,It is your go now.,이제 네 차례예요.,normal,,,FALSE
+like,like,,n.,좋아요 / 비슷한 것,Her post got many likes.,그녀의 게시물에 좋아요가 많이 달렸어요.,normal,,,FALSE
+now,now,,conj.,이제 ~이니까 / ~한 이상,"Now that it is warm, we can go out.",이제 날이 따뜻해졌으니 밖에 나갈 수 있어요.,function_word,,,FALSE
+need,need,,modal v.,~할 필요가 있다,You need not worry about that.,그것에 대해 걱정할 필요 없어요.,function_word,,,FALSE
+place,place,,v.,놓다 / 두다,She placed the cup on the table.,그녀는 컵을 테이블 위에 놓았어요.,normal,,,FALSE
+still,still,,adj.,조용한 / 고요한,The lake was still in the morning.,아침에 호수는 고요했어요.,normal,,,FALSE
+point,point,,v.,가리키다 / 향하다,He pointed at the big tree.,그는 큰 나무를 가리켰어요.,normal,,,FALSE
+next,next,,n.,다음 사람 / 다음 것,Who is next in line?,줄에서 다음은 누구예요?,normal,,,FALSE
+live,live,,adj.,살아 있는 / 생방송의,We watched a live concert on TV.,우리는 TV에서 생방송 콘서트를 봤어요.,polysemy_split,(생방송/살아있는),live,FALSE
+live,live,,adv.,생방송으로 / 직접,The game was shown live on TV.,그 경기는 TV에서 생방송으로 보여졌어요.,polysemy_split,(생방송으로),live,FALSE
+while,while,,n.,잠깐 / 한동안,We waited for a while outside.,우리는 밖에서 잠깐 기다렸어요.,normal,,,FALSE
+kind,kind,,adj.,친절한 / 다정한,She is kind to everyone she meets.,그녀는 만나는 모든 사람에게 친절해요.,normal,,,FALSE
+set,set,,n.,세트 / 한 묶음,She bought a set of bowls.,그녀는 그릇 세트를 샀어요.,polysemy_split,(세트/묶음),set,FALSE
+set,set,,v.,놓다 / 설정하다,He set the alarm for seven.,그는 알람을 7시로 설정했어요.,polysemy_split,(놓다/설정하다),set,FALSE
+since,since,,adv.,그 이후로 / 그때부터,She moved away and I have not seen her since.,그녀는 이사를 갔고 그 이후로 만나지 못했어요.,function_word,,,FALSE
+hand,hand,,v.,건네다 / 전달하다,She handed the book to her friend.,그녀는 친구에게 책을 건네줬어요.,normal,,,FALSE

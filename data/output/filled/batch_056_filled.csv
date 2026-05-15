@@ -1,0 +1,65 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+realistic,realistic,,adj.,현실적인,She has a realistic plan for her future.,그녀는 미래에 대한 현실적인 계획이 있어요.,normal,,,FALSE
+satisfied,satisfied,,adj.,만족한,She was satisfied with her test result.,그녀는 시험 결과에 만족했어요.,normal,,,FALSE
+saving,saving,,n.,저축 / 절약,She put her savings in the bank.,그녀는 저축한 돈을 은행에 넣었어요.,normal,,,FALSE
+senate,senate,,n.,상원,The senate voted on the new law.,상원이 새 법안에 투표했어요.,normal,,,FALSE
+senator,senator,,n.,상원의원,The senator gave a speech today.,그 상원의원이 오늘 연설을 했어요.,normal,,,FALSE
+shocked,shocked,,adj.,충격받은,She was shocked by the bad news.,그녀는 나쁜 소식에 충격을 받았어요.,normal,,,FALSE
+shooting,shooting,,n.,총격 / 촬영,There was a shooting near the school.,학교 근처에서 총격 사건이 있었어요.,normal,,,FALSE
+silk,silk,,n.,비단 / 실크,She wore a beautiful silk dress.,그녀는 아름다운 실크 드레스를 입었어요.,normal,,,FALSE
+sincere,sincere,,adj.,진심 어린 / 성실한,He gave a sincere apology to her.,그는 그녀에게 진심 어린 사과를 했어요.,normal,,,FALSE
+spiritual,spiritual,,adj.,영적인 / 정신적인,She finds peace in spiritual practice.,그녀는 영적인 수행에서 평화를 찾아요.,normal,,,FALSE
+sticky,sticky,,adj.,끈적끈적한,The candy made her hands sticky.,사탕 때문에 그녀의 손이 끈적거렸어요.,normal,,,FALSE
+surrounding,surrounding,,adj.,주변의 / 인근의,The surrounding area is very quiet.,주변 지역은 매우 조용해요.,normal,,,FALSE
+tropical,tropical,,adj.,열대의,We saw tropical fish in the sea.,우리는 바다에서 열대어를 봤어요.,normal,,,FALSE
+unconscious,unconscious,,adj.,의식을 잃은 / 무의식적인,The man was unconscious on the floor.,그 남자는 바닥에서 의식을 잃고 있었어요.,normal,,,FALSE
+unexpected,unexpected,,adj.,예상치 못한,She got an unexpected gift from him.,그녀는 그에게서 예상치 못한 선물을 받았어요.,normal,,,FALSE
+venue,venue,,n.,장소 / 행사장,The wedding venue was very beautiful.,결혼식 장소가 매우 아름다웠어요.,normal,,,FALSE
+vitamin,vitamin,,n.,비타민,She takes a vitamin every morning.,그녀는 매일 아침 비타민을 먹어요.,normal,,,FALSE
+whom,whom,,pron.,누구를 / 누구에게 (목적격),To whom did you give the book?,누구에게 그 책을 주었나요?,function_word,,,FALSE
+wildlife,wildlife,,n.,야생 동물,We saw lots of wildlife in the forest.,우리는 숲에서 많은 야생 동물을 봤어요.,normal,,,FALSE
+willing,willing,,adj.,기꺼이 하는,He is willing to help his neighbor.,그는 기꺼이 이웃을 도우려 해요.,normal,,,FALSE
+accord,accord,,n.|v.,합의 / 일치하다,The two countries signed an accord.,두 나라가 합의문에 서명했어요.,normal,,,FALSE
+pause,pause,,n.|v.,잠시 멈추다 / 잠깐 쉬기,She paused before she answered.,그녀는 대답하기 전에 잠시 멈췄어요.,normal,,,FALSE
+unclear,unclear,,adj.,불분명한,His words were unclear to me.,그의 말이 나에게 불분명했어요.,normal,,,FALSE
+excite,excite,,v.,흥분시키다 / 설레게 하다,The trip excited the children a lot.,그 여행이 아이들을 매우 설레게 했어요.,normal,,,FALSE
+reform,reform,,n.|v.,개혁 / 개혁하다,The government wants to reform the system.,정부는 그 제도를 개혁하길 원해요.,normal,,,FALSE
+scheme,scheme,,n.|v.,계획 / 꾀하다,He made a scheme to save money.,그는 돈을 절약하기 위한 계획을 세웠어요.,normal,,,FALSE
+revenue,revenue,,n.,수입 / 세수,The shop's revenue grew this year.,그 가게의 수입이 올해 늘었어요.,normal,,,FALSE
+proceed,proceed,,v.,계속하다 / 나아가다,Please proceed to the next step.,다음 단계로 계속 나아가세요.,normal,,,FALSE
+manufacture,manufacture,,n.|v.,제조하다 / 제조,This factory manufactures shoes.,이 공장은 신발을 제조해요.,normal,,,FALSE
+moreover,moreover,,adv.,게다가 / 더욱이,"She cooks well; moreover, she bakes.",그녀는 요리를 잘해요. 게다가 빵도 잘 구워요.,normal,,,FALSE
+bind,bind,,v.,묶다 / 결속시키다,She bound the box with string.,그녀는 상자를 끈으로 묶었어요.,normal,,,FALSE
+troop,troop,,n.,군대 / 부대,The troops came home after the war.,전쟁이 끝난 후 군대가 집으로 돌아왔어요.,normal,,,FALSE
+asset,asset,,n.,자산 / 재산,Her house is her biggest asset.,그녀의 집은 가장 큰 자산이에요.,normal,,,FALSE
+amaze,amaze,,v.,놀라게 하다,The magic show amazed the children.,마술 쇼가 아이들을 놀라게 했어요.,normal,,,FALSE
+provision,provision,,n.,공급 / 준비물,We made provision for bad weather.,우리는 나쁜 날씨에 대비해 준비를 했어요.,normal,,,FALSE
+abuse,abuse,,n.|v.,학대 / 학대하다,No one should abuse a child.,어느 누구도 아이를 학대해서는 안 돼요.,polysemy_split,(학대),,FALSE
+abuse,abuse,,n.|v.,남용 / 남용하다,He abused his power at work.,그는 직장에서 자신의 권한을 남용했어요.,polysemy_split,(남용),abuse,FALSE
+wed,wed,,v.,결혼하다,They wed in a small church.,그들은 작은 교회에서 결혼했어요.,normal,,,FALSE
+investor,investor,,n.,투자자,She is a smart investor in stocks.,그녀는 주식에 대한 똑똑한 투자자예요.,normal,,,FALSE
+lovely,lovely,,adj.,사랑스러운 / 아름다운,She has a lovely smile.,그녀는 사랑스러운 미소를 가지고 있어요.,normal,,,FALSE
+peak,peak,,adj.|n.|v.,정점 / 절정,The mountain peak was covered in snow.,산 정상은 눈으로 덮여 있었어요.,normal,,,TRUE
+proportion,proportion,,n.,비율 / 비중,A large proportion of students passed.,많은 비율의 학생들이 합격했어요.,normal,,,FALSE
+considerable,considerable,,adj.,상당한,She spent a considerable amount of time cooking.,그녀는 요리하는 데 상당한 시간을 보냈어요.,normal,,,FALSE
+joint,joint,,adj.|n.,공동의 / 관절,They made a joint decision together.,그들은 함께 공동 결정을 내렸어요.,polysemy_split,(공동의),,FALSE
+joint,joint,,adj.|n.,관절,Her knee joint hurts when she walks.,그녀는 걸을 때 무릎 관절이 아파요.,polysemy_split,(관절),joint,FALSE
+poll,poll,,n.|v.,여론조사 / 투표하다,The poll showed she is very popular.,여론조사에서 그녀가 매우 인기 있는 것으로 나타났어요.,normal,,,FALSE
+bore,bore,,n.|v.,지루하게 하다 / 지루한 것,The long speech bored everyone.,긴 연설이 모두를 지루하게 했어요.,normal,,,FALSE
+somehow,somehow,,adv.,어떻게든 / 왠지,She somehow finished the work on time.,그녀는 어떻게든 제때 일을 끝냈어요.,normal,,,FALSE
+latter,latter,,adj.|n.,후자의 / 나중의,I like tea and coffee; I prefer the latter.,"나는 차와 커피를 좋아하는데, 후자를 더 좋아해요.",normal,,,FALSE
+index,index,,n.|v.,색인 / 지수,She looked up the word in the index.,그녀는 색인에서 그 단어를 찾았어요.,normal,,,FALSE
+besides,besides,,adv.|prep.,게다가 / ~외에도,"Besides rice, she cooked soup too.",밥 외에도 그녀는 국도 끓였어요.,normal,,,FALSE
+yield,yield,,n.|v.,생산하다 / 양보하다,The farm yielded a lot of rice.,그 농장은 쌀을 많이 생산했어요.,polysemy_split,(생산하다),,FALSE
+yield,yield,,n.|v.,양보하다 / 굴복하다,He yielded his seat to the old woman.,그는 노부인에게 자리를 양보했어요.,polysemy_split,(양보하다),yield,FALSE
+legislation,legislation,,n.,법률 / 입법,New legislation protects children's rights.,새 법률이 아이들의 권리를 보호해요.,normal,,,FALSE
+mobile,mobile,,adj.|n.,이동할 수 있는 / 휴대폰,She called me on her mobile phone.,그녀가 휴대폰으로 나에게 전화했어요.,normal,,,FALSE
+implement,implement,,n.|v.,실행하다 / 도구,The school implemented a new reading plan.,학교가 새 독서 계획을 실행했어요.,polysemy_split,(실행하다),,FALSE
+implement,implement,,n.|v.,도구 / 기구,She used a garden implement to dig.,그녀는 파기 위해 정원 도구를 사용했어요.,polysemy_split,(도구),implement,FALSE
+voter,voter,,n.,유권자,Many voters went to the polls today.,오늘 많은 유권자들이 투표소에 갔어요.,normal,,,FALSE
+absence,absence,,n.,부재 / 결석,Her absence made everyone worried.,그녀의 부재가 모두를 걱정하게 했어요.,normal,,,FALSE
+settlement,settlement,,n.,합의 / 정착,They reached a settlement after talks.,그들은 협의 후 합의에 이르렀어요.,normal,,,FALSE
+variable,variable,,adj.|n.,변하기 쉬운 / 변수,The weather here is very variable.,이곳 날씨는 매우 변하기 쉬워요.,normal,,,FALSE
+appoint,appoint,,v.,임명하다 / 지정하다,She was appointed as team leader.,그녀는 팀 리더로 임명되었어요.,normal,,,FALSE
+prior,prior,,adj.,이전의 / 사전의,You need prior approval to enter.,입장하려면 사전 승인이 필요해요.,normal,,,FALSE
+merely,merely,,adv.,단지 / 그저,I merely wanted to help her.,나는 단지 그녀를 돕고 싶었을 뿐이에요.,normal,,,FALSE

@@ -1,0 +1,65 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+purchase,purchase,,n.|v.,구매 / 구매하다,She purchased a new bag yesterday.,그녀는 어제 새 가방을 구매했어요.,normal,,,FALSE
+survey,survey,,v.,조사하다 / 살펴보다,We surveyed the people in our town.,우리는 우리 마을 사람들을 조사했어요.,normal,,,FALSE
+majority,majority,,n.,대다수 / 과반수,The majority of students like lunch.,대다수의 학생들은 점심을 좋아해요.,normal,,,FALSE
+wind,wind,,v.,감다 / 구불구불 가다,She wound the yarn into a ball.,그녀는 실을 공 모양으로 감았어요.,normal,,,FALSE
+budget,budget,,n.,예산 / 생활비,We have a small budget for food.,우리는 식비 예산이 적어요.,normal,,,FALSE
+appropriate,appropriate,,adj.,적절한 / 알맞은,This dress is appropriate for the party.,이 드레스는 파티에 알맞아요.,normal,,,FALSE
+beat,beat,,n.,박자 / 심장 박동,She danced to the beat of the music.,그녀는 음악의 박자에 맞춰 춤을 췄어요.,normal,,,FALSE
+committee,committee,,n.,위원회,The committee meets every Monday.,위원회는 매주 월요일에 모여요.,normal,,,FALSE
+handle,handle,,n.|v.,손잡이,The handle of the bag broke.,가방 손잡이가 망가졌어요.,polysemy_split,(손잡이),handle,FALSE
+handle,handle,,n.|v.,다루다 / 처리하다,She handles all the cooking at home.,그녀는 집에서 요리를 모두 담당해요.,polysemy_split,(처리하다),handle,FALSE
+trial,trial,,n.,재판 / 시험,The trial lasted three days.,재판은 3일 동안 계속됐어요.,normal,,,FALSE
+complex,complex,,n.,복합 건물 / 단지,We live in a large apartment complex.,우리는 큰 아파트 단지에 살아요.,normal,,,FALSE
+conduct,conduct,,n.,행동 / 품행,His conduct at school was very good.,학교에서 그의 행동은 매우 좋았어요.,normal,,,FALSE
+conduct,conduct,,v.,진행하다 / 실시하다,The teacher conducted a simple test.,선생님은 간단한 시험을 실시했어요.,normal,,,FALSE
+otherwise,otherwise,,adv.,그렇지 않으면 / 그 외에는,"Eat now, otherwise you will be hungry.","지금 드세요, 그렇지 않으면 배가 고플 거예요.",function_word,,,FALSE
+title,title,,v.,제목을 붙이다,She titled her book 'My Life'.,그녀는 자신의 책에 '나의 삶'이라는 제목을 붙였어요.,normal,,,FALSE
+executive,executive,,adj.|n.,임원 / 경영진,She is a top executive at her company.,그녀는 회사의 최고 임원이에요.,normal,,,FALSE
+chair,chair,,v.,의장을 맡다 / 회의를 진행하다,He chaired the meeting this morning.,그는 오늘 아침 회의를 진행했어요.,normal,,,FALSE
+sample,sample,,v.,맛보다 / 시험해 보다,We sampled many foods at the market.,우리는 시장에서 많은 음식을 맛봤어요.,normal,,,FALSE
+inform,inform,,v.,알리다 / 통보하다,Please inform me when she arrives.,그녀가 도착하면 저에게 알려주세요.,normal,,,FALSE
+principle,principle,,n.,원칙 / 신념,Honesty is her main principle in life.,정직은 그녀의 삶의 주요 원칙이에요.,normal,,,FALSE
+appeal,appeal,,n.|v.,호소 / 매력,The bright colors have great appeal.,밝은 색상은 큰 매력이 있어요.,polysemy_split,(매력/호소),appeal,FALSE
+appeal,appeal,,n.|v.,호소하다 / 마음에 들다,This cake appeals to everyone.,이 케이크는 모든 사람의 마음에 들어요.,polysemy_split,(호소하다/마음에 들다),appeal,FALSE
+trust,trust,,n.|v.,신뢰 / 믿다,I trust my mother completely.,저는 어머니를 완전히 믿어요.,normal,,,FALSE
+additional,additional,,adj.,추가적인 / 더 있는,Can I have one additional cup of tea?,차 한 잔 더 주실 수 있나요?,normal,,,FALSE
+negative,negative,,n.,부정적인 것 / 단점,Every plan has some negatives.,모든 계획에는 단점이 있어요.,normal,,,FALSE
+ship,ship,,v.,배송하다 / 보내다,The store shipped my order today.,가게에서 오늘 내 주문을 배송했어요.,normal,,,FALSE
+observe,observe,,v.,관찰하다 / 지켜보다,The girl observed the birds in the garden.,소녀는 정원에서 새들을 관찰했어요.,normal,,,FALSE
+sentence,sentence,,v.,판결을 내리다 / 형을 선고하다,The judge sentenced him to one year.,판사는 그에게 1년 형을 선고했어요.,normal,,,FALSE
+print,print,,n.,인쇄물 / 글자,The print on the label is too small.,라벨의 글자가 너무 작아요.,normal,,,FALSE
+progress,progress,,v.,나아가다 / 발전하다,She is progressing well in her studies.,그녀는 공부에서 잘 발전하고 있어요.,normal,,,FALSE
+speed,speed,,v.,빨리 가다 / 속도를 높이다,The car sped down the road.,차가 도로를 빠르게 달렸어요.,normal,,,FALSE
+display,display,,n.|v.,전시 / 보여주다,The shop displayed beautiful flowers.,가게는 아름다운 꽃을 전시했어요.,normal,,,FALSE
+transfer,transfer,,n.|v.,이동 / 옮기다,She transferred money to her daughter.,그녀는 딸에게 돈을 이체했어요.,normal,,,FALSE
+overall,overall,,adj.|adv.,전반적인 / 전반적으로,"Overall, the food was very good.","전반적으로, 음식이 매우 좋았어요.",normal,,,FALSE
+reveal,reveal,,v.,드러내다 / 밝히다,He revealed the surprise to his family.,그는 가족에게 깜짝 소식을 밝혔어요.,normal,,,FALSE
+status,status,,n.,상태 / 지위,Can you check the status of my order?,제 주문 상태를 확인해 주실 수 있나요?,normal,,,FALSE
+decline,decline,,n.|v.,감소 / 거절하다,She declined the invitation politely.,그녀는 정중하게 초대를 거절했어요.,polysemy_split,(거절하다),decline,FALSE
+decline,decline,,n.|v.,감소하다 / 줄어들다,Sales declined a lot this year.,올해 판매가 많이 줄었어요.,polysemy_split,(감소하다),decline,FALSE
+launch,launch,,n.|v.,출시 / 시작하다,The company launched a new product today.,회사가 오늘 새 제품을 출시했어요.,normal,,,FALSE
+favor,favor,favour,v.,선호하다 / 좋아하다,She favors green tea over coffee.,그녀는 커피보다 녹차를 선호해요.,normal,,,FALSE
+institution,institution,,n.,기관 / 제도,The school is an old institution.,그 학교는 오래된 기관이에요.,normal,,,FALSE
+spot,spot,,v.,발견하다 / 알아채다,She spotted her friend at the market.,그녀는 시장에서 친구를 발견했어요.,normal,,,FALSE
+grant,grant,,n.|v.,보조금 / 허락하다,She received a grant to study abroad.,그녀는 해외 공부를 위한 보조금을 받았어요.,polysemy_split,(보조금),grant,FALSE
+grant,grant,,n.|v.,허락하다 / 주다,The school granted her a day off.,학교는 그녀에게 하루 쉬는 것을 허락했어요.,polysemy_split,(허락하다),grant,FALSE
+feed,feed,,n.,먹이 / 사료,She bought some bird feed at the store.,그녀는 가게에서 새 먹이를 샀어요.,normal,,,FALSE
+sector,sector,,n.,분야 / 부문,She works in the health sector.,그녀는 보건 분야에서 일해요.,normal,,,FALSE
+mistake,mistake,,v.,잘못 알다 / 혼동하다,I mistook her for my old friend.,저는 그녀를 오래된 친구로 잘못 알았어요.,normal,,,FALSE
+ensure,ensure,,v.,확실히 하다 / 보장하다,Please ensure the door is locked.,문이 잠겼는지 꼭 확인해 주세요.,normal,,,FALSE
+satisfy,satisfy,,v.,만족시키다,This meal really satisfied my hunger.,이 식사가 배고픔을 완전히 채워줬어요.,normal,,,FALSE
+chief,chief,,adj.|n.,주요한 / 우두머리,He is the chief of our local group.,그는 우리 지역 모임의 우두머리예요.,normal,,,FALSE
+labor,labor,labour,n.,노동 / 일,Farming requires a lot of hard labor.,농사는 많은 힘든 노동이 필요해요.,normal,,,FALSE
+procedure,procedure,,n.,절차 / 방법,Follow the procedure to make the form.,서류를 만들려면 절차를 따르세요.,normal,,,FALSE
+struggle,struggle,,n.|v.,힘들어하다 / 애쓰다,She struggled to carry the heavy bags.,그녀는 무거운 가방을 들고 가느라 애썼어요.,normal,,,FALSE
+select,select,,v.,선택하다 / 고르다,She selected a red dress for the party.,그녀는 파티를 위해 빨간 드레스를 골랐어요.,normal,,,FALSE
+surround,surround,,v.,둘러싸다 / 에워싸다,Trees surround our house.,나무들이 우리 집을 둘러싸고 있어요.,normal,,,FALSE
+extent,extent,,n.,정도 / 범위,"To some extent, she was right.",어느 정도까지는 그녀가 맞았어요.,normal,,,FALSE
+annual,annual,,adj.,연례적인 / 매년의,We have an annual family dinner in spring.,우리는 봄에 연례 가족 만찬을 해요.,normal,,,FALSE
+fully,fully,,adv.,완전히 / 충분히,She fully understood the recipe.,그녀는 요리법을 완전히 이해했어요.,normal,,,FALSE
+conflict,conflict,,n.|v.,갈등 / 충돌하다,There was a small conflict in our family.,우리 가족 안에 작은 갈등이 있었어요.,normal,,,FALSE
+entire,entire,,adj.,전체의 / 온,She ate the entire bowl of soup.,그녀는 수프 한 그릇을 전부 먹었어요.,normal,,,FALSE
+presence,presence,,n.,존재 / 있음,Her presence made everyone feel happy.,그녀가 있으니 모두가 행복했어요.,normal,,,FALSE
+shift,shift,,v.,옮기다 / 바꾸다,She shifted the chair closer to the table.,그녀는 의자를 식탁 쪽으로 옮겼어요.,normal,,,FALSE
+defense,defense,defence,n.,방어 / 수비,The team had a strong defense.,그 팀은 강한 수비를 가졌어요.,normal,,,FALSE

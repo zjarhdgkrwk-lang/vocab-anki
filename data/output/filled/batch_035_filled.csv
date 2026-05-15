@@ -1,0 +1,64 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+confirm,confirm,,v.,확인하다 / 확정하다,She confirmed the meeting time.,그녀는 회의 시간을 확인했습니다.,normal,,,FALSE
+transport,transport,,v.,운반하다 / 수송하다,They transport food to the market.,그들은 시장으로 음식을 운반합니다.,normal,,,FALSE
+neither,neither,,adv.,(둘 다) ~도 아니다,Neither she nor he came home.,그녀도 그도 집에 오지 않았습니다.,function_word,,,FALSE
+survive,survive,,v.,살아남다 / 견뎌내다,The dog survived the cold winter.,그 개는 추운 겨울을 살아남았습니다.,normal,,,FALSE
+technique,technique,technic,n.,기술 / 방법,She learned a new cooking technique.,그녀는 새로운 요리 기술을 배웠습니다.,normal,,,FALSE
+improvement,improvement,,n.,향상 / 개선,I see a big improvement in her work.,나는 그녀의 실력이 많이 향상된 것을 봅니다.,normal,,,FALSE
+consequence,consequence,,n.,결과 / 영향,He felt the consequence of his choice.,그는 자신의 선택의 결과를 느꼈습니다.,normal,,,FALSE
+reaction,reaction,,n.,반응,Her reaction to the gift was happy.,선물에 대한 그녀의 반응은 기뻤습니다.,normal,,,FALSE
+combine,combine,,v.,결합하다 / 합치다,She combined milk and flour together.,그녀는 우유와 밀가루를 함께 합쳤습니다.,normal,,,FALSE
+waste,waste,,adj.|n.|v.,낭비하다,Don't waste food at dinner.,저녁 식사에서 음식을 낭비하지 마세요.,polysemy_split,(낭비하다),,FALSE
+waste,waste,,adj.|n.|v.,낭비 / 쓰레기,There is a lot of food waste here.,여기에는 음식 쓰레기가 많습니다.,polysemy_split,(낭비/쓰레기),waste,FALSE
+marriage,marriage,,n.,결혼 / 혼인,Their marriage was a happy one.,그들의 결혼은 행복했습니다.,normal,,,FALSE
+repeat,repeat,,n.,반복,Please do not repeat that mistake.,그 실수를 반복하지 마세요.,normal,,,FALSE
+equal,equal,,adj.|v.,같은 / 동등하다,We all have equal rights here.,우리는 모두 여기서 동등한 권리를 가집니다.,normal,,,FALSE
+plus,plus,,prep.,더하기 / ~에 더하여,Two plus three is five.,2 더하기 3은 5입니다.,function_word,,,FALSE
+commercial,commercial,,adj.|n.,상업적인,She watched a funny commercial on TV.,그녀는 TV에서 재미있는 광고를 봤습니다.,polysemy_split,(광고),,FALSE
+commercial,commercial,,adj.|n.,상업적인,This area is a commercial district.,이 지역은 상업 지구입니다.,polysemy_split,(상업적인),commercial,FALSE
+duty,duty,,n.,의무 / 임무,It is my duty to help my family.,가족을 돕는 것은 나의 의무입니다.,normal,,,FALSE
+strength,strength,,n.,힘 / 강점,She has great strength in her arms.,그녀의 팔에는 큰 힘이 있습니다.,normal,,,FALSE
+cultural,cultural,,adj.,문화적인,We went to a cultural event downtown.,우리는 시내에서 문화 행사에 갔습니다.,normal,,,FALSE
+payment,payment,,n.,지불 / 납부,She made the payment by card.,그녀는 카드로 지불했습니다.,normal,,,FALSE
+appreciate,appreciate,,v.,감사하다 / 고마워하다,I really appreciate your help today.,오늘 도움에 정말 감사합니다.,normal,,,FALSE
+chapter,chapter,,n.,(책의) 장,She read the first chapter of the book.,그녀는 책의 첫 번째 장을 읽었습니다.,normal,,,FALSE
+union,union,,n.,연합 / 노동조합,The workers joined the union together.,노동자들은 함께 노동조합에 가입했습니다.,normal,,,FALSE
+trend,trend,,n.,유행 / 추세,This style is the latest trend now.,이 스타일이 요즘 최신 유행입니다.,normal,,,FALSE
+pleasure,pleasure,,n.,기쁨 / 즐거움,It is a pleasure to meet you.,만나서 반갑습니다.,normal,,,FALSE
+gather,gather,,v.,모이다 / 모으다,The family gathered around the table.,가족이 식탁 주위에 모였습니다.,normal,,,FALSE
+essential,essential,,adj.,필수적인 / 꼭 필요한,Water is essential for our body.,물은 우리 몸에 꼭 필요합니다.,normal,,,FALSE
+promote,promote,,v.,홍보하다 / 승진시키다,She was promoted to manager last week.,그녀는 지난주에 매니저로 승진했습니다.,normal,,,FALSE
+currently,currently,,adv.,현재 / 지금,She is currently living with her family.,그녀는 현재 가족과 함께 살고 있습니다.,normal,,,FALSE
+path,path,,n.,길 / 오솔길,We walked along the path in the park.,우리는 공원의 오솔길을 따라 걸었습니다.,normal,,,FALSE
+attract,attract,,v.,끌어당기다 / 매료시키다,The flowers attracted many bees.,꽃들이 많은 벌을 끌어당겼습니다.,normal,,,FALSE
+powerful,powerful,,adj.,강력한 / 힘센,The wind was very powerful today.,오늘 바람이 매우 강력했습니다.,normal,,,FALSE
+safety,safety,,n.,안전,The safety of children is most important.,아이들의 안전이 가장 중요합니다.,normal,,,FALSE
+divide,divide,,v.,나누다 / 분리하다,She divided the cake into four pieces.,그녀는 케이크를 네 조각으로 나눴습니다.,normal,,,FALSE
+length,length,,n.,길이,The length of the table is one meter.,그 탁자의 길이는 1미터입니다.,normal,,,FALSE
+package,package,,n.,소포 / 꾸러미,A package arrived at our door today.,오늘 우리 집 문 앞에 소포가 도착했습니다.,normal,,,FALSE
+expand,expand,,v.,확장하다 / 넓히다,They plan to expand the small store.,그들은 작은 가게를 확장할 계획입니다.,normal,,,FALSE
+commit,commit,,v.,저지르다 / 헌신하다,He committed himself to helping others.,그는 다른 사람을 돕는 데 헌신했습니다.,normal,,,FALSE
+obvious,obvious,,adj.,명백한 / 분명한,It was obvious that she was tired.,그녀가 피곤하다는 것은 분명했습니다.,normal,,,FALSE
+weapon,weapon,,n.,무기,The police found a weapon in the bag.,경찰은 가방 안에서 무기를 발견했습니다.,normal,,,FALSE
+host,host,,n.,주인 / 진행자,The host welcomed all the guests warmly.,주인은 모든 손님을 따뜻하게 환영했습니다.,normal,,,FALSE
+district,district,,n.,지역 / 구역,She lives in a quiet school district.,그녀는 조용한 학교 구역에 살고 있습니다.,normal,,,FALSE
+tire,tire,,n.,타이어,The car has a flat tire today.,오늘 차의 타이어가 펑크 났습니다.,normal,,,FALSE
+spring,spring,,v.,뛰어오르다 / 튀어나오다,The cat sprang up onto the chair.,고양이가 의자 위로 뛰어올랐습니다.,normal,,,FALSE
+spirit,spirit,,n.,정신 / 영혼,She has a very kind spirit.,그녀는 매우 친절한 정신을 가지고 있습니다.,normal,,,FALSE
+battle,battle,,n.,전투 / 싸움,It was a long and hard battle.,그것은 길고 힘든 싸움이었습니다.,normal,,,FALSE
+hardly,hardly,,adv.,거의 ~않다,She could hardly hear the music.,그녀는 음악이 거의 들리지 않았습니다.,normal,,,FALSE
+award,award,,v.,수여하다 / 상을 주다,The teacher awarded her a gold star.,선생님은 그녀에게 금별을 수여했습니다.,normal,,,FALSE
+coach,coach,,v.,지도하다 / 코치하다,He coaches the children every Saturday.,그는 매주 토요일 아이들을 지도합니다.,normal,,,FALSE
+experiment,experiment,,v.,실험하다 / 시도해 보다,She experimented with new recipes at home.,그녀는 집에서 새로운 요리법을 시도해 봤습니다.,normal,,,FALSE
+possibly,possibly,,adv.,아마도 / 혹시,She will possibly come home late today.,그녀는 오늘 아마도 늦게 집에 올 것입니다.,normal,,,FALSE
+conclude,conclude,,v.,결론 내리다 / 끝내다,He concluded that the food was good.,그는 음식이 맛있다고 결론 내렸습니다.,normal,,,FALSE
+religious,religious,,adj.,종교적인,She goes to a religious service each week.,그녀는 매주 종교 예배에 갑니다.,normal,,,FALSE
+convince,convince,,v.,설득하다 / 납득시키다,She convinced her son to eat vegetables.,그녀는 아들이 채소를 먹도록 설득했습니다.,normal,,,FALSE
+environmental,environmental,,adj.,환경의 / 환경적인,We need to solve environmental problems now.,우리는 지금 환경 문제를 해결해야 합니다.,normal,,,FALSE
+location,location,,n.,위치 / 장소,The café has a great location downtown.,그 카페는 시내에 위치가 좋습니다.,normal,,,FALSE
+invest,invest,,v.,투자하다,He invested money in a small business.,그는 작은 사업에 돈을 투자했습니다.,normal,,,FALSE
+glad,glad,,adj.,기쁜 / 반가운,I am glad to see you again.,다시 만나서 반갑습니다.,normal,,,FALSE
+tape,tape,,n.,테이프,She fixed the box with some tape.,그녀는 테이프로 상자를 고정했습니다.,normal,,,FALSE
+murder,murder,,n.|v.,살인,The police investigated the murder case.,경찰은 살인 사건을 조사했습니다.,polysemy_split,(살인/명사),,FALSE
+murder,murder,,n.|v.,살인하다,He was arrested for murdering someone.,그는 누군가를 살인한 혐의로 체포되었습니다.,polysemy_split,(살인하다/동사),murder,FALSE
+hate,hate,,n.,증오 / 미움,She felt hate toward no one.,그녀는 아무도 미워하지 않았습니다.,normal,,,FALSE

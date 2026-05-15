@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+subway,subway,,n.,지하철,She takes the subway to work.,그녀는 지하철을 타고 출근해요.,normal,,,FALSE
+beef,beef,,n.,소고기,She cooked beef for dinner.,그녀는 저녁으로 소고기를 요리했어요.,normal,,,FALSE
+candy,candy,,n.,사탕,The girl ate a candy after lunch.,그 소녀는 점심 후에 사탕을 먹었어요.,normal,,,FALSE
+cookie,cookie,cooky,n.,쿠키,She baked cookies for her family.,그녀는 가족을 위해 쿠키를 구웠어요.,normal,,,FALSE
+fork,fork,,n.,포크,He put a fork on the table.,그는 식탁에 포크를 놓았어요.,normal,,,FALSE
+jam,jam,,n.,잼,She spread jam on her bread.,그녀는 빵에 잼을 발랐어요.,normal,,,FALSE
+math,math,,n.,수학,The boy is good at math.,그 소년은 수학을 잘해요.,normal,,,FALSE
+monkey,monkey,,n.,원숭이,The monkey climbed the tree.,원숭이가 나무에 올라갔어요.,normal,,,FALSE
+queen,queen,,n.,여왕,The queen lives in a big palace.,여왕은 큰 궁전에 살아요.,normal,,,FALSE
+soccer,soccer,,n.,축구,The boys play soccer every day.,그 소년들은 매일 축구를 해요.,normal,,,FALSE
+sock,sock,,n.,양말,She put on her socks.,그녀는 양말을 신었어요.,normal,,,FALSE
+spoon,spoon,,n.,숟가락,He stirred the soup with a spoon.,그는 숟가락으로 수프를 저었어요.,normal,,,FALSE
+wedding,wedding,,n.,결혼식,We went to a wedding yesterday.,우리는 어제 결혼식에 갔어요.,normal,,,FALSE
+asleep,asleep,,adj.,잠든,The baby is asleep now.,아기가 지금 잠들어 있어요.,normal,,,FALSE
+bean,bean,,n.,콩,She cooked beans for lunch.,그녀는 점심으로 콩을 요리했어요.,normal,,,FALSE
+billion,billion,,number,10억,There are eight billion people in the world.,세계에는 80억 명의 사람이 있어요.,normal,,,FALSE
+blank,blank,,adj.|n.,빈 / 빈칸,Write your name in the blank.,빈칸에 이름을 쓰세요.,normal,,,FALSE
+boil,boil,,v.,끓이다 / 삶다,She boiled water for tea.,그녀는 차를 위해 물을 끓였어요.,normal,,,FALSE
+clerk,clerk,,n.,점원 / 직원,The clerk helped me find the shoes.,점원이 신발 찾는 것을 도와줬어요.,normal,,,FALSE
+dentist,dentist,,n.,치과 의사,She went to the dentist today.,그녀는 오늘 치과에 갔어요.,normal,,,FALSE
+diary,diary,,n.,일기 / 일기장,She writes in her diary every night.,그녀는 매일 밤 일기를 써요.,normal,,,FALSE
+fever,fever,,n.,열 / 발열,The boy has a fever today.,그 소년은 오늘 열이 나요.,normal,,,FALSE
+frog,frog,,n.,개구리,A frog jumped into the pond.,개구리 한 마리가 연못으로 뛰어들었어요.,normal,,,FALSE
+grocery,grocery,,n.,식료품 / 식료품점,She bought groceries at the store.,그녀는 가게에서 식료품을 샀어요.,normal,,,FALSE
+lab,lab,,n.,실험실,The students worked in the lab.,학생들이 실험실에서 공부했어요.,normal,,,FALSE
+lamp,lamp,,n.,전등 / 램프,She turned on the lamp at night.,그녀는 밤에 전등을 켰어요.,normal,,,FALSE
+lemon,lemon,,n.,레몬,She put lemon in her tea.,그녀는 차에 레몬을 넣었어요.,normal,,,FALSE
+nut,nut,,n.,견과류,She ate nuts for a snack.,그녀는 간식으로 견과류를 먹었어요.,normal,,,FALSE
+oven,oven,,n.,오븐,She baked bread in the oven.,그녀는 오븐에서 빵을 구웠어요.,normal,,,FALSE
+palace,palace,,n.,궁전,We visited a beautiful palace.,우리는 아름다운 궁전을 방문했어요.,normal,,,FALSE
+pet,pet,,n.,반려동물,She has a pet cat at home.,그녀는 집에 고양이를 키워요.,normal,,,FALSE
+polite,polite,,adj.,예의 바른,The girl is always polite to others.,그 소녀는 항상 다른 사람에게 예의 발라요.,normal,,,FALSE
+pronounce,pronounce,,v.,발음하다,How do you pronounce this word?,이 단어를 어떻게 발음하나요?,normal,,,FALSE
+recipe,recipe,,n.,요리법 / 레시피,She followed a recipe for the cake.,그녀는 케이크 레시피를 따라 만들었어요.,normal,,,FALSE
+rude,rude,,adj.,무례한,It is rude to talk loudly here.,여기서 크게 말하는 것은 무례해요.,normal,,,FALSE
+sauce,sauce,,n.,소스,He put sauce on his pasta.,그는 파스타에 소스를 뿌렸어요.,normal,,,FALSE
+teenage,teenage,,adj.,십 대의,She has a teenage daughter.,그녀에게는 십 대 딸이 있어요.,normal,,,FALSE
+thief,thief,,n.,도둑,A thief stole her bag.,도둑이 그녀의 가방을 훔쳤어요.,normal,,,FALSE
+towel,towel,,n.,수건,She dried her hands with a towel.,그녀는 수건으로 손을 닦았어요.,normal,,,FALSE
+zero,zero,,number,영 / 0,The temperature is zero today.,오늘 기온이 0도예요.,normal,,,FALSE
+architect,architect,,n.,건축가,He is an architect who designs houses.,그는 집을 설계하는 건축가예요.,normal,,,FALSE
+biology,biology,,n.,생물학,She studies biology at school.,그녀는 학교에서 생물학을 공부해요.,normal,,,FALSE
+celebrity,celebrity,,n.,유명인 / 연예인,She saw a celebrity on TV.,그녀는 TV에서 유명인을 봤어요.,normal,,,FALSE
+chef,chef,,n.,요리사,The chef cooked a delicious meal.,요리사가 맛있는 음식을 만들었어요.,normal,,,FALSE
+continent,continent,,n.,대륙,Asia is the largest continent.,아시아는 가장 큰 대륙이에요.,normal,,,FALSE
+elevator,elevator,,n.,엘리베이터,We took the elevator to the fifth floor.,우리는 엘리베이터를 타고 5층에 갔어요.,normal,,,FALSE
+headache,headache,,n.,두통,She has a bad headache today.,그녀는 오늘 심한 두통이 있어요.,normal,,,FALSE
+incredible,incredible,,adj.,믿을 수 없는 / 놀라운,The view from the mountain is incredible.,산에서 보이는 경치가 정말 놀라워요.,normal,,,FALSE
+informal,informal,,adj.,격식 없는 / 비공식적인,We had an informal chat over coffee.,우리는 커피를 마시며 격식 없이 이야기했어요.,normal,,,FALSE
+insect,insect,,n.,곤충,She saw a small insect on the leaf.,그녀는 나뭇잎 위에서 작은 곤충을 봤어요.,normal,,,FALSE
+intelligent,intelligent,,adj.,똑똑한 / 지적인,She is a very intelligent student.,그녀는 매우 똑똑한 학생이에요.,normal,,,FALSE
+media,media,,n.,미디어 / 언론,She watches the news on social media.,그녀는 소셜 미디어에서 뉴스를 봐요.,normal,,,FALSE
+physics,physics,,n.,물리학,He studies physics at university.,그는 대학교에서 물리학을 공부해요.,normal,,,FALSE
+poster,poster,,n.,포스터,She put a poster on her wall.,그녀는 벽에 포스터를 붙였어요.,normal,,,FALSE
+publish,publish,,v.,출판하다 / 발표하다,She published a book last year.,그녀는 작년에 책을 출판했어요.,normal,,,FALSE
+reception,reception,,n.,안내 데스크 / 환영 행사,Please wait at the reception desk.,안내 데스크에서 기다려 주세요.,normal,,,FALSE
+recycle,recycle,,v.,재활용하다,She recycles bottles and cans.,그녀는 병과 캔을 재활용해요.,normal,,,FALSE
+refrigerator,refrigerator,,n.,냉장고,She put the milk in the refrigerator.,그녀는 우유를 냉장고에 넣었어요.,normal,,,FALSE
+soap,soap,,n.,비누,He washed his hands with soap.,그는 비누로 손을 씻었어요.,normal,,,FALSE
+stove,stove,,n.,가스레인지 / 난로,She cooked soup on the stove.,그녀는 가스레인지 위에서 수프를 끓였어요.,normal,,,FALSE

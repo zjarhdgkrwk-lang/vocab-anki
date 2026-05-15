@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+treat,treat,,v.,대하다 / 치료하다,The doctor treated her cold.,의사가 그녀의 감기를 치료했다.,normal,,,FALSE
+loss,loss,,n.,손실 / 잃음,She felt great loss after her cat died.,고양이가 죽은 후 그녀는 큰 상실감을 느꼈다.,normal,,,FALSE
+pressure,pressure,,n.,압박 / 압력,He felt pressure before the big test.,그는 중요한 시험 전에 압박을 느꼈다.,normal,,,FALSE
+treatment,treatment,,n.,치료 / 대우,She finished her treatment at the hospital.,그녀는 병원에서 치료를 마쳤다.,normal,,,FALSE
+supply,supply,,n.|v.,공급 / 공급하다,The store supplies fresh bread every day.,그 가게는 매일 신선한 빵을 공급한다.,normal,,,FALSE
+worth,worth,,adj.,~할 가치가 있는,This book is worth reading.,이 책은 읽을 가치가 있다.,normal,,,FALSE
+indicate,indicate,,v.,나타내다 / 가리키다,The sign indicates the way to the park.,그 표지판은 공원 가는 길을 가리킨다.,normal,,,FALSE
+relation,relation,,n.,관계 / 친척,She has a good relation with her sister.,그녀는 언니와 좋은 관계를 맺고 있다.,normal,,,FALSE
+touch,touch,,n.,접촉 / 감촉,The touch of her hand was warm.,그녀의 손의 감촉이 따뜻했다.,normal,,,FALSE
+file,file,,n.,파일 / 서류,She saved the file on her computer.,그녀는 컴퓨터에 파일을 저장했다.,normal,,,FALSE
+suffer,suffer,,v.,고통받다 / 겪다,He suffered from a bad headache.,그는 심한 두통으로 고통받았다.,normal,,,FALSE
+deep,deep,,adv.,깊이 / 깊게,She breathed deep and felt calm.,그녀는 깊게 숨을 쉬고 차분해졌다.,normal,,,FALSE
+except,except,,conj.,~을 제외하고,Everyone came except my brother.,남동생을 제외하고 모두 왔다.,function_word,,,FALSE
+tend,tend,,v.,~하는 경향이 있다,She tends to wake up early.,그녀는 일찍 일어나는 경향이 있다.,normal,,,FALSE
+generally,generally,,adv.,일반적으로 / 보통,She generally eats breakfast at home.,그녀는 보통 집에서 아침을 먹는다.,normal,,,FALSE
+operation,operation,,n.,수술 / 운영,He had an operation on his knee.,그는 무릎 수술을 받았다.,normal,,,FALSE
+normal,normal,,n.,보통 / 정상,Life returned to normal after the rain.,비가 온 후 생활이 정상으로 돌아왔다.,normal,,,FALSE
+push,push,,n.,밀기 / 노력,She gave the door a push and it opened.,그녀가 문을 밀자 문이 열렸다.,normal,,,FALSE
+doubt,doubt,,n.|v.,의심 / 의심하다,He had no doubt she was telling the truth.,그는 그녀가 진실을 말하고 있다는 것을 의심하지 않았다.,normal,,,FALSE
+theory,theory,,n.,이론 / 학설,The teacher explained a simple theory.,선생님이 간단한 이론을 설명했다.,normal,,,FALSE
+reference,reference,,n.,참고 / 언급,She used the book as a reference.,그녀는 그 책을 참고 자료로 사용했다.,normal,,,FALSE
+application,application,,n.,지원 / 신청,She sent her application to the school.,그녀는 학교에 지원서를 보냈다.,normal,,,FALSE
+obviously,obviously,,adv.,분명히 / 확실히,She was obviously very happy.,그녀는 분명히 매우 행복했다.,normal,,,FALSE
+separate,separate,,v.,분리하다 / 나누다,She separated the apples from the oranges.,그녀는 사과와 오렌지를 분리했다.,normal,,,FALSE
+central,central,,adj.,중심의 / 중요한,The market is in the central part of town.,시장은 마을 중심부에 있다.,normal,,,FALSE
+throughout,throughout,,adv.|prep.,~내내 / ~전체에,She smiled throughout the meal.,그녀는 식사 내내 웃었다.,normal,,,FALSE
+profit,profit,,n.,이익 / 수익,The small shop made a good profit.,그 작은 가게는 좋은 수익을 냈다.,normal,,,FALSE
+resource,resource,,n.,자원 / 재원,Water is an important resource for life.,물은 삶에 중요한 자원이다.,normal,,,FALSE
+balance,balance,,n.|v.,균형 / 균형을 잡다,She balanced a book on her head.,그녀는 머리 위에 책을 올려 균형을 잡았다.,normal,,,FALSE
+damage,damage,,n.|v.,피해 / 손상시키다,The storm caused damage to the roof.,폭풍이 지붕에 피해를 입혔다.,normal,,,FALSE
+basis,basis,,n.,기초 / 근거,We meet on a weekly basis.,우리는 매주 만난다.,normal,,,FALSE
+basic,basic,,adj.,기본적인 / 기초적인,She learned basic cooking at home.,그녀는 집에서 기초 요리를 배웠다.,normal,,,FALSE
+encourage,encourage,,v.,격려하다 / 용기를 북돋우다,She encouraged her daughter to try again.,그녀는 딸에게 다시 시도하도록 격려했다.,normal,,,FALSE
+reflect,reflect,,v.,반영하다 / 반사하다,The lake reflected the blue sky.,호수가 파란 하늘을 반사했다.,normal,,,FALSE
+property,property,,n.,재산 / 부동산,She bought a small property in the village.,그녀는 마을에 작은 부동산을 샀다.,normal,,,FALSE
+previous,previous,,adj.,이전의 / 앞서의,She learned from her previous mistake.,그녀는 이전의 실수에서 배웠다.,normal,,,FALSE
+define,define,,v.,정의하다 / 뜻을 설명하다,The teacher defined the new word clearly.,선생님이 새 단어를 명확하게 정의했다.,normal,,,FALSE
+conclusion,conclusion,,n.,결론 / 끝,She came to the conclusion that he was right.,그녀는 그가 옳다는 결론에 도달했다.,normal,,,FALSE
+mine,mine,,n.,광산 / 지뢰,The old mine is deep in the mountain.,오래된 광산은 산 깊숙이 있다.,normal,,,FALSE
+daily,daily,,adv.,매일 / 날마다,She walks to the park daily.,그녀는 매일 공원까지 걷는다.,normal,,,FALSE
+responsibility,responsibility,,n.,책임 / 의무,She takes responsibility for her children.,그녀는 자녀들에 대한 책임을 진다.,normal,,,FALSE
+original,original,,n.,원본 / 원작,She kept the original and made a copy.,그녀는 원본을 보관하고 사본을 만들었다.,normal,,,FALSE
+nor,nor,,adv.|conj.,~도 아니다,She has no time nor money to travel.,그녀는 여행할 시간도 돈도 없다.,function_word,,,FALSE
+ahead,ahead,,adv.,앞에 / 미리,She looked ahead at the road.,그녀는 길 앞을 내다봤다.,normal,,,FALSE
+candidate,candidate,,n.,후보자 / 지원자,She is a good candidate for the job.,그녀는 그 일에 좋은 지원자이다.,normal,,,FALSE
+legal,legal,,adj.,법적인 / 합법적인,He asked for legal help from a lawyer.,그는 변호사에게 법적 도움을 요청했다.,normal,,,FALSE
+version,version,,n.,버전 / 판,She downloaded the new version of the app.,그녀는 앱의 새 버전을 다운로드했다.,normal,,,FALSE
+communication,communication,,n.,소통 / 의사소통,Good communication helps the family.,좋은 소통은 가족에게 도움이 된다.,normal,,,FALSE
+agent,agent,,n.,대리인 / 요원,The travel agent helped us plan the trip.,여행사 직원이 우리의 여행 계획을 도와줬다.,normal,,,FALSE
+judge,judge,,n.|v.,판사 / 판단하다,The judge gave her final decision.,판사가 최종 결정을 내렸다.,polysemy_split,(판사),judge,FALSE
+judge,judge,,n.|v.,판단하다 / 평가하다,Don't judge a person by their looks.,외모로 사람을 판단하지 마세요.,polysemy_split,(판단하다),judge,FALSE
+generation,generation,,n.,세대 / 시대,My grandmother is from an older generation.,우리 할머니는 더 오래된 세대 출신이다.,normal,,,FALSE
+difficulty,difficulty,,n.,어려움 / 힘든 점,She had difficulty reading small letters.,그녀는 작은 글자를 읽는 데 어려움을 겪었다.,normal,,,FALSE
+shoot,shoot,,v.,쏘다 / 촬영하다,They shot the video in the garden.,그들은 정원에서 영상을 촬영했다.,normal,,,FALSE
+announce,announce,,v.,발표하다 / 알리다,She announced her wedding date to the family.,그녀는 가족에게 결혼 날짜를 발표했다.,normal,,,FALSE
+unless,unless,,conj.,~하지 않으면,She won't eat unless she is hungry.,그녀는 배가 고프지 않으면 먹지 않는다.,function_word,,,FALSE
+stick,stick,,n.,막대기 / 지팡이,The old man walked with a stick.,노인은 지팡이를 짚고 걸었다.,polysemy_split,(막대기),stick,FALSE
+stick,stick,,v.,붙이다 / 달라붙다,She stuck a photo on the wall.,그녀는 사진을 벽에 붙였다.,polysemy_split,(붙이다),stick,FALSE
+request,request,,v.,요청하다 / 부탁하다,She requested a window seat on the plane.,그녀는 비행기에서 창가 자리를 요청했다.,normal,,,FALSE
+exchange,exchange,,n.|v.,교환 / 교환하다,She exchanged gifts with her friend.,그녀는 친구와 선물을 교환했다.,normal,,,FALSE
+block,block,,v.,막다 / 차단하다,The big tree blocked the sunlight.,큰 나무가 햇빛을 막았다.,normal,,,FALSE

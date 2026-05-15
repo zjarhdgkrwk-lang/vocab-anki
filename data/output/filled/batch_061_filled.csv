@@ -1,0 +1,65 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+expenditure,expenditure,,n.,지출 / 비용,The family reduced their expenditure on food.,그 가족은 식비 지출을 줄였다.,normal,,,FALSE
+gear,gear,,n.|v.,장비 / 맞추다,She packed her camping gear.,그녀는 캠핑 장비를 챙겼다.,normal,,,FALSE
+scholar,scholar,,n.,학자 / 장학생,The scholar read many old books.,그 학자는 오래된 책을 많이 읽었다.,normal,,,FALSE
+psychological,psychological,,adj.,심리적인,She felt psychological stress at work.,그녀는 직장에서 심리적 스트레스를 느꼈다.,normal,,,FALSE
+dramatically,dramatically,,adv.,극적으로 / 크게,The price dropped dramatically last year.,가격이 작년에 크게 떨어졌다.,normal,,,FALSE
+stake,stake,,n.|v.,지분 / 말뚝,He has a big stake in that company.,그는 그 회사에 큰 지분을 가지고 있다.,polysemy_split,"(지분, 이해관계)",,FALSE
+stake,stake,,n.|v.,말뚝을 박다,He staked the tent in the ground.,그는 땅에 텐트 말뚝을 박았다.,polysemy_split,(말뚝/박다),stake,FALSE
+partnership,partnership,,n.,협력 관계 / 동업,The two shops formed a partnership.,두 가게가 동업 관계를 맺었다.,normal,,,FALSE
+participation,participation,,n.,참여 / 참가,Her participation made the event fun.,그녀의 참여가 행사를 즐겁게 만들었다.,normal,,,FALSE
+penalty,penalty,,n.,벌칙 / 처벌,He paid a penalty for being late.,그는 늦은 것에 대해 벌금을 냈다.,normal,,,FALSE
+chamber,chamber,,n.,방 / 의회,The judge entered the chamber.,판사가 방으로 들어갔다.,normal,,,FALSE
+evolve,evolve,,v.,진화하다 / 발전하다,The city evolved into a big town.,그 도시는 대도시로 발전했다.,normal,,,FALSE
+sake,sake,,n.,~을 위해서,She did it for her family's sake.,그녀는 가족을 위해 그것을 했다.,normal,,,FALSE
+boost,boost,,n.|v.,높이다 / 힘을 북돋우다,A warm drink boosted her energy.,따뜻한 음료가 그녀의 기운을 북돋워 주었다.,normal,,,FALSE
+abortion,abortion,,n.,낙태 / 임신 중절,They discussed the abortion law.,그들은 낙태 관련 법률에 대해 이야기했다.,normal,,,FALSE
+curious,curious,,adj.,궁금한 / 호기심 많은,The girl was curious about the box.,그 소녀는 상자에 대해 궁금해했다.,normal,,,FALSE
+boom,boom,,n.|v.,호황 / 붐,There was a big boom in house prices.,집값이 크게 오르는 호황이 있었다.,normal,,,FALSE
+democratic,democratic,,adj.,민주적인,They held a democratic vote at school.,그들은 학교에서 민주적인 투표를 했다.,normal,,,FALSE
+maintenance,maintenance,,n.,유지 / 관리,The maintenance of the garden takes time.,정원 관리에는 시간이 걸린다.,normal,,,FALSE
+consequently,consequently,,adv.,그 결과로 / 따라서,"She missed the bus; consequently, she was late.",그녀는 버스를 놓쳤다. 그 결과 늦고 말았다.,normal,,,FALSE
+strengthen,strengthen,,v.,강화하다 / 튼튼하게 하다,Exercise helps strengthen your body.,운동은 몸을 튼튼하게 하는 데 도움이 된다.,normal,,,FALSE
+whilst,whilst,,conj.,~하는 동안 / ~인 반면,She read whilst he cooked dinner.,그가 저녁을 요리하는 동안 그녀는 책을 읽었다.,function_word,,,FALSE
+constraint,constraint,,n.,제약 / 제한,Time is a big constraint for her.,시간은 그녀에게 큰 제약이다.,normal,,,FALSE
+bin,bin,,n.,쓰레기통 / 통,She threw the paper in the bin.,그녀는 종이를 쓰레기통에 버렸다.,normal,,,FALSE
+undergo,undergo,,v.,겪다 / 받다,He underwent an operation last week.,그는 지난주에 수술을 받았다.,normal,,,FALSE
+potentially,potentially,,adv.,잠재적으로 / 어쩌면,This food is potentially dangerous for babies.,이 음식은 아기에게 잠재적으로 위험할 수 있다.,normal,,,FALSE
+scope,scope,,n.,범위 / 여지,There is scope for improvement here.,여기에는 개선할 여지가 있다.,normal,,,FALSE
+diversity,diversity,,n.,다양성,Our school celebrates its diversity.,우리 학교는 다양성을 소중히 여긴다.,normal,,,FALSE
+allege,allege,,v.,주장하다 / ~라고 하다,She alleged that he took her bag.,그녀는 그가 자신의 가방을 가져갔다고 주장했다.,normal,,,FALSE
+pride,pride,,n.|v.,자부심 / 자랑스러워하다,She took pride in her cooking.,그녀는 자신의 요리를 자랑스럽게 여겼다.,normal,,,FALSE
+resign,resign,,v.,사임하다 / 그만두다,He resigned from his job today.,그는 오늘 직장을 그만뒀다.,normal,,,FALSE
+craft,craft,,n.|v.,공예 / 만들다,She loves to do paper craft at home.,그녀는 집에서 종이 공예하는 것을 좋아한다.,normal,,,FALSE
+concrete,concrete,,adj.|n.,구체적인 / 콘크리트,The floor is made of concrete.,바닥은 콘크리트로 만들어져 있다.,polysemy_split,(콘크리트/재료),,FALSE
+concrete,concrete,,adj.|n.,구체적인,"Give me a concrete example, please.",구체적인 예를 들어 주세요.,polysemy_split,(구체적인/형용사),concrete,FALSE
+damn,damn,,adj.|adv.|exclam.|n.|v.,빌어먹을 / 저주하다,He said damn when he dropped his cup.,"그는 컵을 떨어뜨렸을 때 ""빌어먹을""이라고 말했다.",normal,,,TRUE
+distinct,distinct,,adj.,뚜렷한 / 분명히 다른,The two sisters have distinct personalities.,두 자매는 뚜렷이 다른 성격을 가지고 있다.,normal,,,FALSE
+limitation,limitation,,n.,한계 / 제한,Everyone has their own limitations.,누구나 자신만의 한계가 있다.,normal,,,FALSE
+indication,indication,,n.,징후 / 나타냄,Dark clouds are an indication of rain.,검은 구름은 비가 올 징후다.,normal,,,FALSE
+stability,stability,,n.,안정 / 안정성,She values stability in her family life.,그녀는 가정생활의 안정을 소중히 여긴다.,normal,,,FALSE
+neglect,neglect,,n.|v.,소홀히 하다 / 방치하다,He neglected to water the plants.,그는 화분에 물 주는 것을 소홀히 했다.,normal,,,FALSE
+compose,compose,,v.,구성하다 / 작곡하다,She composed a short song for her mother.,그녀는 어머니를 위해 짧은 노래를 작곡했다.,normal,,,FALSE
+jail,jail,,n.|v.,감옥 / 수감하다,He was sent to jail for stealing.,그는 도둑질을 해서 감옥에 갔다.,normal,,,FALSE
+mere,mere,,adj.,단순한 / 불과한,She was a mere child then.,그녀는 그때 불과 어린아이였다.,normal,,,FALSE
+carbon,carbon,,n.,탄소,Cars produce a lot of carbon gas.,자동차는 탄소 가스를 많이 배출한다.,normal,,,FALSE
+regulate,regulate,,v.,규제하다 / 조절하다,The body regulates its own temperature.,신체는 스스로 체온을 조절한다.,normal,,,FALSE
+trigger,trigger,,n.|v.,유발하다 / 방아쇠,Cold weather can trigger a cold.,추운 날씨는 감기를 유발할 수 있다.,normal,,,FALSE
+destruction,destruction,,n.,파괴 / 소멸,The fire caused great destruction.,불은 엄청난 파괴를 일으켰다.,normal,,,FALSE
+rear,rear,,adj.|n.|v.,뒤쪽 / 기르다,She sat in the rear of the bus.,그녀는 버스 뒷좌석에 앉았다.,polysemy_split,(뒤쪽/명사·형용사),,FALSE
+rear,rear,,adj.|n.|v.,기르다 / 키우다,She reared three children on her own.,그녀는 혼자서 세 아이를 길렀다.,polysemy_split,(기르다/동사),rear,FALSE
+presumably,presumably,,adv.,아마 / 추정컨대,She is presumably at home now.,그녀는 아마 지금 집에 있을 것이다.,normal,,,FALSE
+bless,bless,,v.,축복하다,She blessed her children every morning.,그녀는 매일 아침 아이들을 축복했다.,normal,,,FALSE
+amendment,amendment,,n.,수정 / 개정,They made an amendment to the rule.,그들은 규칙을 수정했다.,normal,,,FALSE
+jury,jury,,n.,배심원단,The jury decided he was not guilty.,배심원단은 그가 무죄라고 결정했다.,normal,,,FALSE
+cooperation,cooperation,,n.,협력 / 협조,Good cooperation made the work easy.,좋은 협력이 일을 쉽게 만들었다.,normal,,,FALSE
+civilian,civilian,,adj.|n.,민간인 / 민간의,Many civilians were helped after the flood.,홍수 이후 많은 민간인이 도움을 받았다.,normal,,,FALSE
+composition,composition,,n.,구성 / 작곡,The composition of the team changed.,팀 구성이 바뀌었다.,normal,,,FALSE
+regardless,regardless,,adv.,그럼에도 불구하고 / 상관없이,She went out regardless of the rain.,그녀는 비에도 불구하고 외출했다.,normal,,,FALSE
+racial,racial,,adj.,인종의 / 인종적인,Everyone should have equal racial rights.,모든 사람은 평등한 인종적 권리를 가져야 한다.,normal,,,FALSE
+hopefully,hopefully,,adv.,바라건대 / 희망적으로,"Hopefully, the weather will be nice tomorrow.",바라건대 내일 날씨가 좋을 것이다.,normal,,,FALSE
+sanction,sanction,,n.|v.,제재 / 승인,The country faced trade sanctions.,그 나라는 무역 제재를 받았다.,polysemy_split,(제재/처벌),,FALSE
+sanction,sanction,,n.|v.,승인하다 / 허가하다,The school sanctioned the new club.,학교는 새 동아리를 승인했다.,polysemy_split,(승인하다/동사),sanction,FALSE
+maker,maker,,n.,만드는 사람 / 제조업체,She is a good dress maker.,그녀는 훌륭한 드레스 제작자다.,normal,,,FALSE
+stimulate,stimulate,,v.,자극하다 / 촉진하다,Reading stimulates the brain.,독서는 뇌를 자극한다.,normal,,,FALSE
+tissue,tissue,,n.,화장지 / 조직,She wiped her eyes with a tissue.,그녀는 화장지로 눈물을 닦았다.,normal,,,FALSE

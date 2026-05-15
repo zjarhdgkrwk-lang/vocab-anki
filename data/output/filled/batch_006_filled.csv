@@ -1,0 +1,63 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+real,real,,adj.,진짜의 / 실제의,Is this a real flower?,이것은 진짜 꽃인가요?,normal,,,FALSE
+answer,answer,,n.|v.,대답 / 대답하다,She answered my question.,그녀가 내 질문에 대답했어요.,normal,,,FALSE
+sit,sit,,v.,앉다,Please sit here.,여기 앉으세요.,normal,,,FALSE
+letter,letter,,n.,편지 / 글자,She wrote a letter to her mom.,그녀는 엄마에게 편지를 썼어요.,normal,,,FALSE
+decide,decide,,v.,결정하다,I decided to stay home.,나는 집에 있기로 결정했어요.,normal,,,FALSE
+language,language,,n.,언어,She learns a new language.,그녀는 새로운 언어를 배워요.,normal,,,FALSE
+subject,subject,,n.,과목 / 주제,My favorite subject is math.,내가 가장 좋아하는 과목은 수학이에요.,normal,,,FALSE
+class,class,,n.,수업 / 반,The class starts at nine.,수업은 9시에 시작해요.,normal,,,FALSE
+town,town,,n.,마을 / 읍내,We live in a small town.,우리는 작은 마을에 살아요.,normal,,,FALSE
+half,half,,det.|n.|pron.,절반,She drank half the water.,그녀는 물을 절반 마셨어요.,normal,,,FALSE
+minute,minute,,n.,분 (시간 단위),"Wait five minutes, please.",5분만 기다려 주세요.,normal,,,FALSE
+food,food,,n.,음식,The food was very good.,음식이 매우 맛있었어요.,normal,,,FALSE
+break,break,,n.|v.,휴식 / 부수다,Let's take a short break.,잠깐 휴식을 취해요.,polysemy_split,(휴식),,FALSE
+break,break,,n.|v.,부수다 / 깨다,He broke the glass.,그가 유리컵을 깼어요.,polysemy_split,(부수다),break,FALSE
+future,future,,n.,미래,She thinks about her future.,그녀는 자신의 미래에 대해 생각해요.,normal,,,FALSE
+ago,ago,,adv.,전에 (~시간 전),I ate two hours ago.,나는 두 시간 전에 밥을 먹었어요.,function_word,,,FALSE
+win,win,,v.,이기다 / 우승하다,Our team won the game.,우리 팀이 경기에서 이겼어요.,normal,,,FALSE
+color,color,colour,n.,색 / 색깔,What is your favorite color?,가장 좋아하는 색이 무엇인가요?,normal,,,FALSE
+period,period,,n.,기간 / 시기,She rested for a short period.,그녀는 짧은 기간 동안 쉬었어요.,normal,,,FALSE
+across,across,,adv.|prep.,건너편에 / 가로질러,The shop is across the street.,가게는 길 건너편에 있어요.,function_word,,,FALSE
+note,note,,n.,메모 / 쪽지,She left a note on the table.,그녀는 테이블에 메모를 남겼어요.,normal,,,FALSE
+history,history,,n.,역사,He likes history class.,그는 역사 수업을 좋아해요.,normal,,,FALSE
+create,create,,v.,만들다 / 창조하다,She created a beautiful picture.,그녀는 아름다운 그림을 만들었어요.,normal,,,FALSE
+drive,drive,,v.,운전하다,He drives to work every day.,그는 매일 차를 운전해서 출근해요.,normal,,,FALSE
+type,type,,n.,종류 / 유형,What type of food do you like?,어떤 종류의 음식을 좋아하세요?,normal,,,FALSE
+sound,sound,,n.|v.,소리 / ~처럼 들리다,That sounds good to me.,그것은 좋게 들려요.,polysemy_split,(~처럼 들리다),,FALSE
+sound,sound,,n.|v.,소리,I heard a loud sound.,나는 큰 소리를 들었어요.,polysemy_split,(소리),sound,FALSE
+eye,eye,,n.,눈 (신체),She has big brown eyes.,그녀는 큰 갈색 눈을 가지고 있어요.,normal,,,FALSE
+music,music,,n.,음악,She listens to music every day.,그녀는 매일 음악을 들어요.,normal,,,FALSE
+game,game,,n.,게임 / 경기,The boys played a game outside.,남자아이들이 밖에서 경기를 했어요.,normal,,,FALSE
+free,free,,adj.,무료의 / 자유로운,The coffee is free today.,오늘은 커피가 무료예요.,normal,,,FALSE
+moment,moment,,n.,순간 / 잠깐,"Wait a moment, please.",잠깐만 기다려 주세요.,normal,,,FALSE
+body,body,,n.,몸 / 신체,Exercise is good for your body.,운동은 몸에 좋아요.,normal,,,FALSE
+wait,wait,,v.,기다리다,I waited for the bus.,나는 버스를 기다렸어요.,normal,,,FALSE
+team,team,,n.,팀 / 모둠,We are on the same team.,우리는 같은 팀이에요.,normal,,,FALSE
+easy,easy,,adj.,쉬운,This question is very easy.,이 질문은 매우 쉬워요.,normal,,,FALSE
+full,full,,adj.,가득 찬 / 배부른,I am full after dinner.,저녁 식사 후 배가 불러요.,normal,,,FALSE
+black,black,,adj.|n.,검은색의 / 검은색,She wore a black coat.,그녀는 검은색 코트를 입었어요.,normal,,,FALSE
+add,add,,v.,더하다 / 추가하다,Add some sugar to the tea.,차에 설탕을 조금 넣으세요.,normal,,,FALSE
+rule,rule,,n.,규칙,Follow the rules at school.,학교에서 규칙을 따르세요.,normal,,,FALSE
+sell,sell,,v.,팔다,She sells flowers at the market.,그녀는 시장에서 꽃을 팔아요.,normal,,,FALSE
+short,short,,adj.,짧은 / 키가 작은,The girl has short hair.,그 여자아이는 머리카락이 짧아요.,normal,,,FALSE
+agree,agree,,v.,동의하다,I agree with you.,나는 당신에게 동의해요.,normal,,,FALSE
+everything,everything,,pron.,모든 것,She ate everything on her plate.,그녀는 접시에 있는 모든 것을 먹었어요.,normal,,,FALSE
+paper,paper,,n.,종이 / 신문,She wrote on the paper.,그녀는 종이에 글을 썼어요.,normal,,,FALSE
+near,near,,adj.|adv.|prep.,가까운 / 가까이에,The school is near my house.,학교는 우리 집 가까이에 있어요.,function_word,,,FALSE
+computer,computer,,n.,컴퓨터,She works on her computer.,그녀는 컴퓨터로 일해요.,normal,,,FALSE
+situation,situation,,n.,상황,The situation is difficult for us.,상황이 우리에게 어려워요.,normal,,,FALSE
+activity,activity,,n.,활동,Walking is a good activity.,걷기는 좋은 활동이에요.,normal,,,FALSE
+morning,morning,,n.,아침,She drinks tea every morning.,그녀는 매일 아침 차를 마셔요.,normal,,,FALSE
+shop,shop,,n.|v.,가게 / 쇼핑하다,We went shopping at the mall.,우리는 쇼핑몰에 쇼핑하러 갔어요.,normal,,,FALSE
+someone,someone,,pron.,누군가,Someone knocked on the door.,누군가 문을 두드렸어요.,normal,,,FALSE
+above,above,,adv.|prep.,위에 / ~보다 위에,The picture is above the bed.,그림은 침대 위에 걸려 있어요.,function_word,,,FALSE
+design,design,,n.|v.,디자인 / 설계하다,She designed a pretty dress.,그녀는 예쁜 드레스를 디자인했어요.,normal,,,FALSE
+event,event,,n.,행사 / 사건,We joined a family event.,우리는 가족 행사에 참여했어요.,normal,,,FALSE
+special,special,,adj.,특별한,Today is a special day for us.,오늘은 우리에게 특별한 날이에요.,normal,,,FALSE
+sometimes,sometimes,,adv.,때때로 / 가끔,I sometimes walk to the store.,나는 가끔 가게까지 걸어가요.,function_word,,,FALSE
+carry,carry,,v.,들고 가다 / 나르다,He carried the bag for her.,그가 그녀를 위해 가방을 들어줬어요.,normal,,,FALSE
+choose,choose,,v.,고르다 / 선택하다,She chose a red dress.,그녀는 빨간 드레스를 골랐어요.,normal,,,FALSE
+father,father,,n.,아버지,My father cooks on Sundays.,우리 아버지는 일요일에 요리해요.,normal,,,FALSE
+table,table,,n.,탁자 / 식탁,The food is on the table.,음식이 식탁 위에 있어요.,normal,,,FALSE
+main,main,,adj.,주요한 / 가장 중요한,Rice is the main food in Korea.,밥은 한국에서 주요 음식이에요.,normal,,,FALSE

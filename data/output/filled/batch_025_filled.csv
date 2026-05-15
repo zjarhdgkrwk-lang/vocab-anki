@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+instrument,instrument,,n.,악기 / 도구,She plays a musical instrument every day.,그녀는 매일 악기를 연주해요.,normal,,,FALSE
+soft,soft,,adj.,부드러운 / 푹신한,The baby's skin is very soft.,아기의 피부는 매우 부드러워요.,normal,,,FALSE
+lock,lock,,n.|v.,자물쇠 / 잠그다,She locked the door before bed.,그녀는 자기 전에 문을 잠갔어요.,normal,,,FALSE
+celebrate,celebrate,,v.,축하하다 / 기념하다,We celebrated her birthday at home.,우리는 집에서 그녀의 생일을 축하했어요.,normal,,,FALSE
+shoulder,shoulder,,n.,어깨,He carried the bag on his shoulder.,그는 어깨에 가방을 메었어요.,normal,,,FALSE
+ourselves,ourselves,,pron.,우리 자신,We made dinner ourselves.,우리는 직접 저녁을 만들었어요.,function_word,,,FALSE
+sheet,sheet,,n.,(침대) 시트 / 종이 한 장,She put clean sheets on the bed.,그녀는 침대에 깨끗한 시트를 깔았어요.,normal,,,FALSE
+engine,engine,,n.,엔진 / 기관,The car engine stopped suddenly.,자동차 엔진이 갑자기 멈췄어요.,normal,,,FALSE
+explanation,explanation,,n.,설명,The teacher gave a clear explanation.,선생님이 명확한 설명을 해주었어요.,normal,,,FALSE
+musical,musical,,adj.,음악의 / 음악적인,She has a great musical talent.,그녀는 뛰어난 음악적 재능이 있어요.,normal,,,FALSE
+careful,careful,,adj.,조심하는 / 신중한,Be careful on the wet floor.,젖은 바닥에서 조심하세요.,normal,,,FALSE
+analyze,analyze,,v.,분석하다,The doctor analyzed the test results.,의사가 검사 결과를 분석했어요.,normal,,,FALSE
+mail,mail,,n.|v.,우편 / 편지를 보내다,She mailed a letter to her friend.,그녀는 친구에게 편지를 보냈어요.,normal,,,FALSE
+researcher,researcher,,n.,연구자 / 연구원,The researcher studied healthy food.,그 연구원은 건강한 음식을 연구했어요.,normal,,,FALSE
+ordinary,ordinary,,adj.,평범한 / 보통의,It was just an ordinary day.,그것은 그냥 평범한 하루였어요.,normal,,,FALSE
+anywhere,anywhere,,adv.|pron.,어디든지 / 아무 곳에나,You can sit anywhere you like.,원하는 곳 어디든 앉으세요.,function_word,,,FALSE
+personality,personality,,n.,성격 / 개성,She has a very warm personality.,그녀는 매우 따뜻한 성격을 가지고 있어요.,normal,,,FALSE
+fat,fat,,n.,지방 / 기름기,This food has too much fat.,이 음식은 지방이 너무 많아요.,normal,,,FALSE
+tip,tip,,n.,조언 / 팁,She gave me a helpful cooking tip.,그녀가 유용한 요리 조언을 해주었어요.,normal,,,FALSE
+disappear,disappear,,v.,사라지다,The clouds disappeared after rain.,비가 온 후 구름이 사라졌어요.,normal,,,FALSE
+shout,shout,,n.|v.,소리치다 / 외치다,The boy shouted for help.,그 소년은 도움을 요청하며 소리쳤어요.,normal,,,FALSE
+hill,hill,,n.,언덕,We walked up the small hill.,우리는 작은 언덕을 걸어 올라갔어요.,normal,,,FALSE
+instruction,instruction,,n.,지시 / 사용 설명,Please read the instructions carefully.,설명서를 꼼꼼히 읽어 보세요.,normal,,,FALSE
+ideal,ideal,,adj.,이상적인 / 완벽한,This park is ideal for a picnic.,이 공원은 소풍하기에 이상적이에요.,normal,,,FALSE
+compete,compete,,v.,경쟁하다 / 겨루다,The girls competed in a race.,그 소녀들은 달리기 경주에서 겨루었어요.,normal,,,FALSE
+weak,weak,,adj.,약한 / 힘이 없는,She felt weak after her illness.,그녀는 아픈 후 힘이 없었어요.,normal,,,FALSE
+passenger,passenger,,n.,승객,The passengers waited at the bus stop.,승객들이 버스 정류장에서 기다렸어요.,normal,,,FALSE
+thin,thin,,adj.,얇은 / 날씬한,She cut the bread into thin slices.,그녀는 빵을 얇게 잘랐어요.,normal,,,FALSE
+formal,formal,,adj.,격식 있는 / 공식적인,He wore formal clothes to the meeting.,그는 회의에 격식 있는 옷을 입었어요.,normal,,,FALSE
+employer,employer,,n.,고용주 / 사장,Her employer gave her a day off.,그녀의 고용주가 하루 휴가를 주었어요.,normal,,,FALSE
+plate,plate,,n.,접시,He put rice on the plate.,그는 접시에 밥을 담았어요.,normal,,,FALSE
+steal,steal,,v.,훔치다,Someone stole her bag on the bus.,누군가 버스에서 그녀의 가방을 훔쳤어요.,normal,,,FALSE
+circle,circle,,n.|v.,원 / 동그라미,The children sat in a circle.,아이들이 동그랗게 앉았어요.,normal,,,FALSE
+helpful,helpful,,adj.,도움이 되는,The guide was very helpful to us.,그 안내자는 우리에게 매우 도움이 되었어요.,normal,,,FALSE
+attractive,attractive,,adj.,매력적인 / 아름다운,The garden looks very attractive in spring.,그 정원은 봄에 매우 아름다워요.,normal,,,FALSE
+joke,joke,,n.|v.,농담 / 농담하다,He told a funny joke at dinner.,그는 저녁 식사 때 재미있는 농담을 했어요.,normal,,,FALSE
+sky,sky,,n.,하늘,The sky is clear and blue today.,오늘 하늘은 맑고 파래요.,normal,,,FALSE
+column,column,,n.,기둥 / (신문) 칼럼,She writes a weekly column for the paper.,그녀는 신문에 주간 칼럼을 써요.,normal,,,FALSE
+electronic,electronic,,adj.,전자의 / 전자식의,He bought a new electronic device.,그는 새 전자 기기를 구입했어요.,normal,,,FALSE
+criminal,criminal,,n.,범죄자,The criminal was caught by the police.,범죄자가 경찰에 잡혔어요.,normal,,,FALSE
+ancient,ancient,,adj.,고대의 / 아주 오래된,We visited an ancient temple.,우리는 고대 사원을 방문했어요.,normal,,,FALSE
+coast,coast,,n.,해안 / 바닷가,They spent the weekend at the coast.,그들은 주말을 해안에서 보냈어요.,normal,,,FALSE
+ill,ill,,adj.,아픈 / 몸이 좋지 않은,She stayed home because she was ill.,그녀는 아파서 집에 있었어요.,normal,,,FALSE
+assistant,assistant,,adj.|n.,조수 / 보조원,The assistant helped the doctor all day.,그 보조원은 하루 종일 의사를 도왔어요.,normal,,,FALSE
+everywhere,everywhere,,adv.,어디에나 / 모든 곳에,She looked everywhere for her keys.,그녀는 열쇠를 찾으러 모든 곳을 뒤졌어요.,function_word,,,FALSE
+medicine,medicine,,n.,약 / 의학,She took medicine for her cold.,그녀는 감기약을 먹었어요.,normal,,,FALSE
+professor,professor,,n.,교수,The professor taught history at school.,그 교수는 학교에서 역사를 가르쳤어요.,normal,,,FALSE
+gap,gap,,n.,틈 / 차이,There is a gap between the two chairs.,두 의자 사이에 틈이 있어요.,normal,,,FALSE
+alive,alive,,adj.,살아 있는,The fish in the bowl are still alive.,어항 속 물고기들이 아직 살아 있어요.,normal,,,FALSE
+shut,shut,,adj.|v.,닫다 / 닫힌,Please shut the window. It is cold.,창문을 닫아 주세요. 추워요.,normal,,,FALSE
+enormous,enormous,,adj.,거대한 / 엄청난,The dog was enormous and very friendly.,그 개는 엄청나게 크고 매우 친근했어요.,normal,,,FALSE
+sweet,sweet,,adj.|n.,달콤한 / 사탕,This cake is very sweet and soft.,이 케이크는 매우 달콤하고 부드러워요.,normal,,,FALSE
+smell,smell,,n.|v.,냄새 / 냄새가 나다,The soup smells really good.,그 수프는 정말 좋은 냄새가 나요.,normal,,,FALSE
+pilot,pilot,,n.,조종사 / 파일럿,The pilot landed the plane safely.,조종사가 비행기를 안전하게 착륙시켰어요.,normal,,,FALSE
+communicate,communicate,,v.,소통하다 / 전달하다,We communicate with our family by phone.,우리는 전화로 가족과 소통해요.,normal,,,FALSE
+injury,injury,,n.,부상 / 상처,He got a leg injury playing soccer.,그는 축구를 하다가 다리를 다쳤어요.,normal,,,FALSE
+knock,knock,,v.,두드리다 / 노크하다,She knocked on the door and waited.,그녀는 문을 두드리고 기다렸어요.,normal,,,FALSE
+salary,salary,,n.,월급 / 급여,She gets her salary at the end of the month.,그녀는 월말에 월급을 받아요.,normal,,,FALSE
+lake,lake,,n.,호수,We swam in the lake last summer.,우리는 지난 여름에 호수에서 수영했어요.,normal,,,FALSE
+habit,habit,,n.,습관,She has a habit of drinking tea every morning.,그녀는 매일 아침 차를 마시는 습관이 있어요.,normal,,,FALSE

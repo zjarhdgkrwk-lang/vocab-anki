@@ -1,0 +1,63 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+characteristic,characteristic,,adj.|n.,특징적인 / 특징,She has a characteristic smile.,그녀는 특징적인 미소를 가지고 있어요.,normal,,,FALSE
+license,license,licence,n.,면허증 / 허가증,She got her driver's license today.,그녀는 오늘 운전 면허증을 받았어요.,normal,,,FALSE
+rely,rely,,v.,의지하다 / 믿다,She relies on her son for help.,그녀는 아들의 도움에 의지해요.,normal,,,FALSE
+narrow,narrow,,v.,좁아지다 / 줄이다,The road narrows near the school.,학교 근처에서 도로가 좁아져요.,normal,,,FALSE
+permit,permit,,n.,허가증,He needs a permit to park here.,그는 여기 주차하려면 허가증이 필요해요.,polysemy_split,(허가증),permit,FALSE
+permit,permit,,v.,허락하다 / 허용하다,The teacher did not permit phones in class.,선생님은 수업 중 휴대폰을 허용하지 않았어요.,polysemy_split,(허락하다),permit,FALSE
+commission,commission,,n.|v.,수수료 / 의뢰하다,She got a commission for selling the house.,그녀는 집을 팔고 수수료를 받았어요.,polysemy_split,(수수료),commission,FALSE
+commission,commission,,n.|v.,의뢰하다 / 주문하다,He commissioned a painting for his mother.,그는 어머니를 위해 그림을 의뢰했어요.,polysemy_split,(의뢰하다),commission,FALSE
+unique,unique,,adj.,독특한 / 유일한,Each child has a unique talent.,각 아이는 독특한 재능을 가지고 있어요.,normal,,,FALSE
+association,association,,n.,협회 / 연관,She joined a local women's association.,그녀는 지역 여성 협회에 가입했어요.,normal,,,FALSE
+fuel,fuel,,v.,부추기다 / 자극하다,The news fueled her anger.,그 소식은 그녀의 화를 부추겼어요.,normal,,,FALSE
+expectation,expectation,,n.,기대 / 예상,She met all her teacher's expectations.,그녀는 선생님의 모든 기대를 충족했어요.,normal,,,FALSE
+increasingly,increasingly,,adv.,점점 더,The weather is increasingly cold.,날씨가 점점 더 추워지고 있어요.,normal,,,FALSE
+cast,cast,,n.|v.,출연진,The cast of the movie was great.,그 영화의 출연진은 훌륭했어요.,polysemy_split,(출연진),cast,FALSE
+cast,cast,,n.|v.,던지다 / 드리우다,He cast a shadow on the wall.,그는 벽에 그림자를 드리웠어요.,polysemy_split,(던지다),cast,FALSE
+notion,notion,,n.,개념 / 생각,She had no notion of the time.,그녀는 시간 개념이 없었어요.,normal,,,FALSE
+conservative,conservative,,adj.|n.,보수적인 / 보수주의자,Her grandmother has very conservative ideas.,그녀의 할머니는 매우 보수적인 생각을 가지고 있어요.,normal,,,FALSE
+opposition,opposition,,n.,반대 / 저항,There was strong opposition to the new rule.,새 규칙에 대한 강한 반대가 있었어요.,normal,,,FALSE
+relief,relief,,n.,안도 / 위안,She felt great relief after the test.,그녀는 시험 후 큰 안도감을 느꼈어요.,normal,,,FALSE
+debt,debt,,n.,빚 / 부채,He paid off all his debt.,그는 빚을 모두 갚았어요.,normal,,,FALSE
+honor,honor,honour,n.|v.,명예 / 존경하다,It is an honor to meet you.,당신을 만나는 것은 영광이에요.,normal,,,FALSE
+outcome,outcome,,n.,결과 / 결말,We were happy with the outcome.,우리는 결과에 만족했어요.,normal,,,FALSE
+blame,blame,,n.|v.,비난 / 탓하다,She blamed the rain for being late.,그녀는 늦은 것을 비에 돌렸어요.,normal,,,FALSE
+arise,arise,,v.,생기다 / 발생하다,A problem arose at school today.,오늘 학교에서 문제가 생겼어요.,normal,,,FALSE
+recover,recover,,v.,회복하다 / 되찾다,She recovered quickly from her cold.,그녀는 감기에서 빨리 회복했어요.,normal,,,FALSE
+stretch,stretch,,n.|v.,스트레칭 / 늘이다,She stretches every morning before breakfast.,그녀는 매일 아침 식사 전에 스트레칭을 해요.,normal,,,FALSE
+declare,declare,,v.,선언하다 / 발표하다,He declared that he loved her.,그는 그녀를 사랑한다고 선언했어요.,normal,,,FALSE
+witness,witness,,n.|v.,목격자 / 목격하다,She witnessed the accident on the street.,그녀는 길에서 사고를 목격했어요.,normal,,,FALSE
+selection,selection,,n.,선택 / 선발,The store has a wide selection of food.,그 가게는 다양한 음식을 갖추고 있어요.,normal,,,FALSE
+participant,participant,,n.,참가자 / 참여자,Each participant got a small gift.,참가자마다 작은 선물을 받았어요.,normal,,,FALSE
+vision,vision,,n.,시력 / 비전,Her vision is not good without glasses.,안경 없이는 그녀의 시력이 좋지 않아요.,normal,,,FALSE
+fellow,fellow,,adj.,동료의 / 같은 처지의,She talked to her fellow students.,그녀는 동료 학생들과 이야기했어요.,normal,,,FALSE
+capture,capture,,n.|v.,포착하다 / 사로잡다,He captured a beautiful photo of the sunset.,그는 아름다운 일몰 사진을 포착했어요.,normal,,,FALSE
+discount,discount,,v.,무시하다 / 할인하다,Don't discount her idea so quickly.,그녀의 생각을 그렇게 빨리 무시하지 마세요.,normal,,,FALSE
+chairman,chairman,,n.,의장 / 회장,The chairman opened the meeting.,의장이 회의를 시작했어요.,normal,,,FALSE
+constant,constant,,adj.,끊임없는 / 변함없는,The baby needs constant attention.,아기는 끊임없는 관심이 필요해요.,normal,,,FALSE
+significantly,significantly,,adv.,상당히 / 크게,Her health improved significantly.,그녀의 건강이 상당히 좋아졌어요.,normal,,,FALSE
+ideal,ideal,,n.,이상 / 이상적인 것,She always held high ideals.,그녀는 항상 높은 이상을 품고 있었어요.,normal,,,FALSE
+somewhat,somewhat,,adv.,어느 정도 / 다소,The soup is somewhat salty.,국이 다소 짜요.,normal,,,FALSE
+faith,faith,,n.,믿음 / 신뢰,She has great faith in her doctor.,그녀는 의사를 매우 신뢰해요.,normal,,,FALSE
+reduction,reduction,,n.,감소 / 줄임,There was a reduction in the price.,가격이 내렸어요.,normal,,,FALSE
+reserve,reserve,,n.|v.,예약하다 / 비축량,She reserved a table at the restaurant.,그녀는 식당 자리를 예약했어요.,normal,,,FALSE
+mission,mission,,n.,임무 / 사명,Her mission was to help the children.,그녀의 임무는 아이들을 돕는 것이었어요.,normal,,,FALSE
+tone,tone,,n.,어조 / 분위기,She spoke in a kind tone.,그녀는 친절한 어조로 말했어요.,normal,,,FALSE
+justice,justice,,n.,정의 / 공정함,She believes in justice for everyone.,그녀는 모두를 위한 정의를 믿어요.,normal,,,FALSE
+phase,phase,,n.,단계 / 시기,She is in a new phase of her life.,그녀는 삶의 새로운 단계에 있어요.,normal,,,FALSE
+rush,rush,,n.|v.,서두르다 / 급함,She rushed to catch the bus.,그녀는 버스를 잡으려고 서둘렀어요.,normal,,,FALSE
+command,command,,n.|v.,명령 / 명령하다,The general gave a command to his soldiers.,장군은 병사들에게 명령을 내렸어요.,normal,,,FALSE
+impose,impose,,v.,부과하다 / 강요하다,The teacher imposed new rules in class.,선생님이 수업에 새 규칙을 부과했어요.,normal,,,FALSE
+closely,closely,,adv.,가까이 / 자세히,She looked closely at the picture.,그녀는 그림을 자세히 살펴봤어요.,normal,,,FALSE
+multiple,multiple,,adj.,여러 개의 / 다수의,She has multiple bags in her room.,그녀의 방에는 가방이 여러 개 있어요.,normal,,,FALSE
+via,via,,prep.,~을 통해 / ~경유로,She sent a message via phone.,그녀는 전화를 통해 메시지를 보냈어요.,function_word,,,FALSE
+county,county,,n.,군 / 지역,She lives in a small county.,그녀는 작은 군 지역에 살아요.,normal,,,FALSE
+chart,chart,,v.,기록하다 / 도표로 나타내다,The doctor charted her progress each week.,의사는 매주 그녀의 경과를 기록했어요.,normal,,,FALSE
+hell,hell,,n.,지옥 / 매우 힘든 상황,The hot summer felt like hell.,무더운 여름은 지옥 같았어요.,normal,,,FALSE
+household,household,,n.,가정 / 세대,She manages all the household tasks.,그녀는 모든 집안일을 관리해요.,normal,,,FALSE
+acknowledge,acknowledge,,v.,인정하다 / 감사를 표하다,He acknowledged his mistake right away.,그는 즉시 자신의 실수를 인정했어요.,normal,,,FALSE
+reward,reward,,n.|v.,보상 / 보상하다,She got a reward for her hard work.,그녀는 열심히 일한 것에 대한 보상을 받았어요.,normal,,,FALSE
+furthermore,furthermore,,adv.,게다가 / 더욱이,"The food was good. Furthermore, it was cheap.",음식이 맛있었어요. 게다가 가격도 쌌어요.,normal,,,FALSE
+accuse,accuse,,v.,비난하다 / 고발하다,She accused him of breaking the cup.,그녀는 그가 컵을 깼다고 비난했어요.,normal,,,FALSE
+wage,wage,,n.,임금 / 급여,He earns a good wage at his job.,그는 직장에서 좋은 임금을 받아요.,normal,,,FALSE
+construct,construct,,v.,건설하다 / 만들다,They constructed a new school in town.,그들은 마을에 새 학교를 건설했어요.,normal,,,FALSE

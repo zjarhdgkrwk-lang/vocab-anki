@@ -1,0 +1,63 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+seriously,seriously,,adv.,진지하게 / 심각하게,She is seriously ill.,그녀는 심각하게 아프다.,normal,,,FALSE
+empty,empty,,v.,비우다,She emptied her bag on the table.,그녀는 가방을 테이블 위에 비웠다.,normal,,,FALSE
+practical,practical,,adj.,실용적인 / 현실적인,This bag is very practical.,이 가방은 매우 실용적이다.,normal,,,FALSE
+row,row,,n.,줄 / 열,We sat in the front row.,우리는 앞줄에 앉았다.,normal,,,FALSE
+youth,youth,,n.,청소년 / 젊음,She works with local youth.,그녀는 지역 청소년들과 함께 일한다.,normal,,,FALSE
+fuel,fuel,,n.,연료,The car needs more fuel.,차에 연료가 더 필요하다.,normal,,,FALSE
+employment,employment,,n.,취업 / 고용,She found employment at a hospital.,그녀는 병원에서 일자리를 구했다.,normal,,,FALSE
+sexual,sexual,,adj.,성적인,Sexual harassment is not allowed.,성희롱은 허용되지 않는다.,normal,,,FALSE
+breath,breath,,n.,숨 / 호흡,He took a deep breath.,그는 깊게 숨을 들이쉬었다.,normal,,,FALSE
+import,import,,n.|v.,수입품,These fruits are imports from Spain.,이 과일들은 스페인에서 온 수입품이다.,polysemy_split,(수입품),,FALSE
+import,import,,n.|v.,수입하다,We import coffee from Brazil.,우리는 브라질에서 커피를 수입한다.,polysemy_split,(수입하다),import,FALSE
+journey,journey,,n.,여행 / 여정,The journey took three hours.,여정은 세 시간이 걸렸다.,normal,,,FALSE
+musical,musical,,n.,뮤지컬,We saw a musical last night.,우리는 어젯밤에 뮤지컬을 보았다.,normal,,,FALSE
+retire,retire,,v.,은퇴하다,He retired at the age of 65.,그는 65세에 은퇴했다.,normal,,,FALSE
+tiny,tiny,,adj.,아주 작은,The baby has tiny hands.,아기의 손이 아주 작다.,normal,,,FALSE
+suitable,suitable,,adj.,적합한 / 어울리는,This dress is suitable for the party.,이 드레스는 파티에 적합하다.,normal,,,FALSE
+native,native,,adj.|n.,출신의 / 원주민,She is a native of Seoul.,그녀는 서울 출신이다.,normal,,,FALSE
+mental,mental,,adj.,정신적인,Exercise is good for mental health.,운동은 정신 건강에 좋다.,normal,,,FALSE
+specifically,specifically,,adv.,특별히 / 구체적으로,She specifically asked for tea.,그녀는 구체적으로 차를 요청했다.,normal,,,FALSE
+entry,entry,,n.,입장 / 입구,Entry to the park is free.,공원 입장은 무료이다.,normal,,,FALSE
+chemical,chemical,,adj.|n.,화학적인 / 화학물질,Do not mix these chemicals.,이 화학물질들을 섞지 마세요.,normal,,,FALSE
+tip,tip,,v.,기울이다 / 팁을 주다,He tipped the waiter after dinner.,그는 저녁 식사 후 웨이터에게 팁을 주었다.,normal,,,FALSE
+discount,discount,,n.,할인,I got a discount at the store.,나는 가게에서 할인을 받았다.,normal,,,FALSE
+intelligence,intelligence,,n.,지능 / 정보,The boy shows great intelligence.,그 소년은 뛰어난 지능을 보인다.,normal,,,FALSE
+folk,folk,,adj.|n.,민속의 / 사람들,She sings folk songs beautifully.,그녀는 민속 노래를 아름답게 부른다.,normal,,,FALSE
+surely,surely,,adv.,분명히 / 틀림없이,Surely she will come today.,그녀는 분명히 오늘 올 것이다.,normal,,,FALSE
+guard,guard,,n.|v.,경비원,A guard stood at the door.,경비원이 문 앞에 서 있었다.,polysemy_split,(경비원),,FALSE
+guard,guard,,n.|v.,지키다 / 보호하다,He guards the building at night.,그는 밤에 건물을 지킨다.,polysemy_split,(지키다),guard,FALSE
+kiss,kiss,,n.|v.,키스 / 입맞추다,She gave her child a kiss.,그녀는 아이에게 입맞춤을 해주었다.,normal,,,FALSE
+presentation,presentation,,n.,발표 / 프레젠테이션,She gave a presentation at school.,그녀는 학교에서 발표를 했다.,normal,,,FALSE
+complaint,complaint,,n.,불평 / 항의,He made a complaint to the manager.,그는 매니저에게 항의를 했다.,normal,,,FALSE
+religion,religion,,n.,종교,She respects all religions.,그녀는 모든 종교를 존중한다.,normal,,,FALSE
+reject,reject,,v.,거절하다 / 거부하다,He rejected the offer politely.,그는 정중하게 제안을 거절했다.,normal,,,FALSE
+ban,ban,,n.|v.,금지 / 금지하다,There is a ban on smoking here.,여기서는 흡연이 금지되어 있다.,normal,,,FALSE
+protest,protest,,n.,시위 / 항의,There was a protest in the street.,거리에서 시위가 있었다.,polysemy_split,(시위),,FALSE
+protest,protest,,v.,항의하다 / 시위하다,People protested in front of city hall.,사람들이 시청 앞에서 시위했다.,polysemy_split,(항의하다),protest,FALSE
+frequently,frequently,,adv.,자주 / 빈번하게,She frequently visits her parents.,그녀는 자주 부모님을 방문한다.,normal,,,FALSE
+impression,impression,,n.,인상 / 느낌,She made a good impression.,그녀는 좋은 인상을 남겼다.,normal,,,FALSE
+unable,unable,,adj.,~할 수 없는,He was unable to sleep last night.,그는 어젯밤에 잠을 잘 수 없었다.,normal,,,FALSE
+criminal,criminal,,adj.,범죄의,The police caught the criminal group.,경찰이 범죄 집단을 잡았다.,normal,,,FALSE
+properly,properly,,adv.,제대로 / 올바르게,Please wash your hands properly.,손을 제대로 씻으세요.,normal,,,FALSE
+kick,kick,,n.|v.,차기 / 차다,The boy kicked the ball hard.,소년이 공을 세게 찼다.,normal,,,FALSE
+unlike,unlike,,prep.,~와 달리,"Unlike her sister, she likes cats.",언니와 달리 그녀는 고양이를 좋아한다.,function_word,,,FALSE
+attach,attach,,v.,붙이다 / 첨부하다,She attached a photo to the letter.,그녀는 편지에 사진을 첨부했다.,normal,,,FALSE
+advise,advise,,v.,조언하다,The doctor advised her to rest.,의사는 그녀에게 쉬라고 조언했다.,normal,,,FALSE
+academic,academic,,adj.,학문적인 / 학업의,She has a strong academic record.,그녀는 우수한 학업 기록을 가지고 있다.,normal,,,FALSE
+meanwhile,meanwhile,,adv.,그 사이에 / 한편,"I cooked. Meanwhile, she set the table.",나는 요리했다. 그 사이에 그녀는 식탁을 차렸다.,normal,,,FALSE
+scientific,scientific,,adj.,과학적인,We did a scientific experiment.,우리는 과학적인 실험을 했다.,normal,,,FALSE
+rare,rare,,adj.,드문 / 희귀한,Snow is rare in this city.,이 도시에서 눈은 드물다.,normal,,,FALSE
+intention,intention,,n.,의도 / 목적,She had no intention to be rude.,그녀는 무례하게 굴 의도가 없었다.,normal,,,FALSE
+northern,northern,,adj.,북쪽의,They live in northern Canada.,그들은 캐나다 북쪽에 산다.,normal,,,FALSE
+equally,equally,,adv.,똑같이 / 공평하게,She treats all her children equally.,그녀는 모든 자녀를 똑같이 대한다.,normal,,,FALSE
+emotion,emotion,,n.,감정,She hid her emotions very well.,그녀는 자신의 감정을 잘 숨겼다.,normal,,,FALSE
+enemy,enemy,,n.,적 / 원수,He has no enemies at school.,그는 학교에 적이 없다.,normal,,,FALSE
+talent,talent,,n.,재능 / 재주,The girl has a talent for singing.,그 소녀는 노래에 재능이 있다.,normal,,,FALSE
+exhibition,exhibition,,n.,전시회,We visited an art exhibition.,우리는 미술 전시회를 방문했다.,normal,,,FALSE
+producer,producer,,n.,제작자 / 생산자,He is a producer of a TV show.,그는 TV 프로그램의 제작자이다.,normal,,,FALSE
+immediate,immediate,,adj.,즉각적인,We need immediate help.,우리는 즉각적인 도움이 필요하다.,normal,,,FALSE
+childhood,childhood,,n.,어린 시절,She had a happy childhood.,그녀는 행복한 어린 시절을 보냈다.,normal,,,FALSE
+politician,politician,,n.,정치인,The politician spoke on TV.,정치인이 TV에서 연설했다.,normal,,,FALSE
+knock,knock,,n.,노크 / 두드리는 소리,There was a knock at the door.,문에서 노크 소리가 났다.,normal,,,FALSE
+seed,seed,,n.,씨앗,She planted seeds in the garden.,그녀는 정원에 씨앗을 심었다.,normal,,,FALSE

@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+inspire,inspire,,v.,영감을 주다 / 고무하다,Her story inspired me.,그녀의 이야기가 나에게 영감을 주었어요.,normal,,,FALSE
+grand,grand,,adj.,웅장한 / 훌륭한,The palace is very grand.,그 궁전은 매우 웅장해요.,normal,,,FALSE
+crew,crew,,n.,승무원 / 팀원들,The crew served food on the plane.,승무원들이 비행기에서 음식을 제공했어요.,normal,,,FALSE
+phenomenon,phenomenon,,n.,현상,Rain is a natural phenomenon.,비는 자연 현상이에요.,normal,,,FALSE
+alter,alter,,v.,바꾸다 / 변경하다,She altered her dress a little.,그녀는 드레스를 조금 수선했어요.,normal,,,FALSE
+routine,routine,,adj.,일상적인 / 평범한,It was a routine check at the hospital.,그것은 병원에서의 일상적인 검사였어요.,normal,,,FALSE
+stare,stare,,v.,빤히 쳐다보다,The boy stared at the big dog.,그 남자아이는 큰 개를 빤히 쳐다봤어요.,normal,,,FALSE
+convert,convert,,v.,변환하다 / 바꾸다,She converted the room into a study.,그녀는 방을 서재로 바꿨어요.,normal,,,FALSE
+steady,steady,,adj.,안정된 / 꾸준한,He has a steady job.,그는 안정된 직업을 가지고 있어요.,normal,,,FALSE
+pace,pace,,n.|v.,속도 / 걸음,She walked at a slow pace.,그녀는 느린 속도로 걸었어요.,normal,,,FALSE
+justify,justify,,v.,정당화하다,He could not justify his actions.,그는 자신의 행동을 정당화할 수 없었어요.,normal,,,FALSE
+vital,vital,,adj.,매우 중요한 / 필수적인,Water is vital for life.,물은 생명에 필수적이에요.,normal,,,FALSE
+external,external,,adj.,외부의 / 바깥의,The external walls of the house are white.,그 집의 외벽은 흰색이에요.,normal,,,FALSE
+sweep,sweep,,v.,쓸다 / 휩쓸다,She swept the floor every morning.,그녀는 매일 아침 바닥을 쓸었어요.,normal,,,FALSE
+obligation,obligation,,n.,의무 / 책임,We have an obligation to help others.,우리는 다른 사람들을 도울 의무가 있어요.,normal,,,FALSE
+evaluate,evaluate,,v.,평가하다,The teacher evaluated each student's work.,선생님은 각 학생의 과제를 평가했어요.,normal,,,FALSE
+anger,anger,,n.,화 / 분노,She felt anger when he lied.,그가 거짓말을 했을 때 그녀는 화가 났어요.,normal,,,FALSE
+initially,initially,,adv.,처음에 / 처음에는,"Initially, she was very shy.",처음에 그녀는 매우 부끄러워했어요.,normal,,,FALSE
+stream,stream,,n.,개울 / 흐름,The children played by the stream.,아이들이 개울가에서 놀았어요.,normal,,,FALSE
+apparent,apparent,,adj.,명백한 / 분명한,It was apparent that she was tired.,그녀가 피곤하다는 것이 분명했어요.,normal,,,FALSE
+constantly,constantly,,adv.,끊임없이 / 항상,He constantly checks his phone.,그는 끊임없이 휴대폰을 확인해요.,normal,,,FALSE
+scream,scream,,n.|v.,비명을 지르다 / 비명,The girl screamed when she saw a spider.,그 여자아이는 거미를 보고 비명을 질렀어요.,normal,,,FALSE
+steel,steel,,n.,강철,The bridge is made of steel.,그 다리는 강철로 만들어졌어요.,normal,,,FALSE
+transform,transform,,v.,변화시키다 / 탈바꿈하다,She transformed the old house into a nice home.,그녀는 낡은 집을 멋진 보금자리로 바꾸었어요.,normal,,,FALSE
+wound,wound,,n.|v.,상처 / 다치게 하다,He had a deep wound on his arm.,그는 팔에 깊은 상처가 있었어요.,polysemy_split,(상처),wound,FALSE
+wound,wound,,n.|v.,다치게 하다 / 부상을 입히다,The dog was wounded in the leg.,그 개는 다리에 부상을 입었어요.,polysemy_split,(다치게 하다),wound,FALSE
+loose,loose,,adj.,헐렁한 / 느슨한,This shirt is a little loose on me.,이 셔츠는 나에게 조금 헐렁해요.,normal,,,FALSE
+wealth,wealth,,n.,부 / 재산,He shared his wealth with his family.,그는 가족과 재산을 나눴어요.,normal,,,FALSE
+gradually,gradually,,adv.,점차 / 서서히,The weather gradually got warmer.,날씨가 서서히 따뜻해졌어요.,normal,,,FALSE
+tank,tank,,n.,탱크 / 통,The fish tank is very clean.,그 어항은 매우 깨끗해요.,normal,,,FALSE
+evil,evil,,adj.|n.,악한 / 악,The story is about good and evil.,그 이야기는 선과 악에 관한 것이에요.,normal,,,FALSE
+tune,tune,,n.,곡 / 멜로디,She sang a happy tune.,그녀는 신나는 곡을 불렀어요.,normal,,,FALSE
+transition,transition,,n.,전환 / 변화,The transition from winter to spring is nice.,겨울에서 봄으로의 변화는 좋아요.,normal,,,FALSE
+extraordinary,extraordinary,,adj.,놀라운 / 특별한,She has an extraordinary memory.,그녀는 놀라운 기억력을 가지고 있어요.,normal,,,FALSE
+pose,pose,,v.,포즈를 취하다 / 문제를 제기하다,She posed for a photo with her family.,그녀는 가족과 함께 사진을 위해 포즈를 취했어요.,normal,,,FALSE
+van,van,,n.,승합차 / 밴,We traveled in a big van.,우리는 큰 승합차를 타고 여행했어요.,normal,,,FALSE
+curve,curve,,n.|v.,곡선 / 구부러지다,The road has a sharp curve.,그 도로에는 급커브가 있어요.,normal,,,FALSE
+depth,depth,,n.,깊이,The depth of the lake surprised us.,그 호수의 깊이가 우리를 놀라게 했어요.,normal,,,FALSE
+interpret,interpret,,v.,해석하다 / 통역하다,She interpreted the old letter for us.,그녀는 우리를 위해 오래된 편지를 해석해 주었어요.,normal,,,FALSE
+inner,inner,,adj.,내부의 / 안쪽의,The inner room was warm and quiet.,안쪽 방은 따뜻하고 조용했어요.,normal,,,FALSE
+harm,harm,,n.|v.,해 / 해치다,She did not want to harm anyone.,그녀는 아무도 해치고 싶지 않았어요.,normal,,,FALSE
+shadow,shadow,,n.,그림자,The tree made a long shadow.,그 나무가 긴 그림자를 만들었어요.,normal,,,FALSE
+impress,impress,,v.,감동을 주다 / 인상을 주다,Her cooking impressed all of us.,그녀의 요리는 우리 모두를 감동시켰어요.,normal,,,FALSE
+infection,infection,,n.,감염 / 전염,The doctor treated the infection quickly.,의사가 감염을 빨리 치료했어요.,normal,,,FALSE
+resort,resort,,n.,리조트 / 휴양지,We stayed at a beach resort.,우리는 해변 리조트에 머물렀어요.,normal,,,FALSE
+broadcast,broadcast,,n.|v.,방송 / 방송하다,The game was broadcast live on TV.,그 경기는 TV로 생중계되었어요.,normal,,,FALSE
+blind,blind,,adj.,눈이 먼 / 앞을 못 보는,The blind man used a white cane.,그 시각장애인은 흰 지팡이를 사용했어요.,normal,,,FALSE
+pure,pure,,adj.,순수한 / 깨끗한,The water from the spring is pure.,샘에서 나오는 물은 깨끗해요.,normal,,,FALSE
+alarm,alarm,,v.,놀라게 하다 / 불안하게 하다,The loud noise alarmed the children.,큰 소리가 아이들을 놀라게 했어요.,normal,,,FALSE
+cite,cite,,v.,인용하다 / 언급하다,She cited a famous saying in her speech.,그녀는 연설에서 유명한 말을 인용했어요.,normal,,,FALSE
+sponsor,sponsor,,n.|v.,후원자 / 후원하다,The company sponsored the school event.,그 회사가 학교 행사를 후원했어요.,normal,,,FALSE
+accurate,accurate,,adj.,정확한,Her answer was accurate and clear.,그녀의 답변은 정확하고 명확했어요.,normal,,,FALSE
+desert,desert,,v.,버리고 떠나다 / 저버리다,He deserted his friends in need.,그는 어려울 때 친구들을 저버렸어요.,normal,,,FALSE
+occasionally,occasionally,,adv.,가끔 / 때때로,We occasionally eat out together.,우리는 가끔 함께 외식해요.,normal,,,FALSE
+frequency,frequency,,n.,빈도 / 자주 일어나는 정도,The frequency of her calls increased.,그녀의 전화 빈도가 늘었어요.,normal,,,FALSE
+criticize,criticize,criticise,v.,비판하다 / 비난하다,She criticized his cooking politely.,그녀는 정중하게 그의 요리를 비판했어요.,normal,,,FALSE
+philosophy,philosophy,,n.,철학 / 인생관,Her philosophy is to be kind every day.,그녀의 철학은 매일 친절하게 사는 것이에요.,normal,,,FALSE
+approval,approval,,n.,승인 / 찬성,She needed her mother's approval.,그녀는 어머니의 승인이 필요했어요.,normal,,,FALSE
+grab,grab,,v.,잡아채다 / 움켜잡다,He grabbed his bag and ran.,그는 가방을 잡아채고 뛰었어요.,normal,,,FALSE
+edit,edit,,v.,편집하다 / 수정하다,She edited the photos on her phone.,그녀는 휴대폰으로 사진을 편집했어요.,normal,,,FALSE
+dig,dig,,v.,파다 / 땅을 파다,The boy dug a hole in the garden.,그 남자아이는 정원에 구멍을 팠어요.,normal,,,FALSE

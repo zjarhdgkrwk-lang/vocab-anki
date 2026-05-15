@@ -1,0 +1,63 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+wait,wait,,n.,기다림 / 대기,The wait was very long.,기다리는 시간이 매우 길었어요.,normal,,,FALSE
+general,general,,adj.,일반적인 / 전반적인,She has a general idea of cooking.,그녀는 요리에 대해 대략적인 생각이 있어요.,normal,,,FALSE
+appear,appear,,v.,나타나다 / ~처럼 보이다,The sun appeared from behind the clouds.,태양이 구름 뒤에서 나타났어요.,normal,,,FALSE
+toward,toward,towards,prep.,~쪽으로 / ~을 향해,She walked toward the door.,그녀는 문 쪽으로 걸어갔어요.,function_word,,,FALSE
+individual,individual,,adj.|n.,개인적인 / 개인,Each individual has a different story.,각 개인은 다른 이야기를 가지고 있어요.,normal,,,FALSE
+sense,sense,,n.,감각 / 느낌,She has a good sense of smell.,그녀는 후각이 좋아요.,normal,,,FALSE
+perhaps,perhaps,,adv.,아마도 / 혹시,Perhaps she will come tomorrow.,아마도 그녀는 내일 올 거예요.,normal,,,FALSE
+pass,pass,,v.,지나가다 / 건네주다,He passed me the bread.,그가 나에게 빵을 건네줬어요.,normal,,,FALSE
+produce,produce,,v.,만들어내다 / 생산하다,The farmer produces fresh vegetables.,그 농부는 신선한 채소를 생산해요.,normal,,,FALSE
+law,law,,n.,법 / 법률,We must follow the law.,우리는 법을 따라야 해요.,normal,,,FALSE
+research,research,,n.|v.,연구 / 조사하다,She did research on healthy food.,그녀는 건강한 음식에 대해 조사했어요.,normal,,,FALSE
+cover,cover,,v.,덮다 / 가리다,She covered the baby with a blanket.,그녀는 아기를 담요로 덮어줬어요.,normal,,,FALSE
+position,position,,n.,위치 / 자리,He sat in the front position.,그는 앞자리에 앉았어요.,normal,,,FALSE
+human,human,,adj.|n.,인간의 / 인간,We are all human beings.,우리는 모두 인간이에요.,normal,,,FALSE
+film,film,,n.|v.,영화 / 촬영하다,We watched a film together.,우리는 함께 영화를 봤어요.,polysemy_split,(영화),film,FALSE
+film,film,,n.|v.,촬영하다 / 찍다,She filmed her daughter's birthday.,그녀는 딸의 생일을 촬영했어요.,polysemy_split,(촬영하다),film,FALSE
+war,war,,n.,전쟁,War makes many people sad.,전쟁은 많은 사람들을 슬프게 해요.,normal,,,FALSE
+major,major,,adj.,주요한 / 중요한,She made a major decision today.,그녀는 오늘 중요한 결정을 했어요.,normal,,,FALSE
+condition,condition,,n.,상태 / 조건,The room is in good condition.,그 방은 상태가 좋아요.,normal,,,FALSE
+decision,decision,,n.,결정 / 결심,She made a big decision.,그녀는 큰 결정을 내렸어요.,normal,,,FALSE
+certain,certain,,adj.,확실한 / 특정한,I am certain she is at home.,나는 그녀가 집에 있다고 확신해요.,normal,,,FALSE
+forward,forward,,adv.,앞으로 / 전방으로,He took one step forward.,그는 한 걸음 앞으로 나아갔어요.,function_word,,,FALSE
+bear,bear,,n.,곰,The bear is big and strong.,그 곰은 크고 강해요.,normal,,,FALSE
+himself,himself,,pron.,그 자신 / 스스로,He cooked dinner himself.,그는 스스로 저녁을 요리했어요.,function_word,,,FALSE
+available,available,,adj.,이용할 수 있는 / 구할 수 있는,Is this room available today?,이 방은 오늘 이용할 수 있나요?,normal,,,FALSE
+especially,especially,,adv.,특히 / 특별히,"She loves fruit, especially apples.","그녀는 과일, 특히 사과를 좋아해요.",normal,,,FALSE
+rise,rise,,v.,오르다 / 상승하다,The sun rises in the morning.,태양은 아침에 떠올라요.,normal,,,FALSE
+community,community,,n.,지역사회 / 공동체,She helps her community every week.,그녀는 매주 지역사회를 돕고 있어요.,normal,,,FALSE
+particular,particular,,adj.,특정한 / 특별한,Do you have a particular food you like?,특별히 좋아하는 음식이 있나요?,normal,,,FALSE
+role,role,,n.,역할 / 임무,She plays an important role in her family.,그녀는 가족 안에서 중요한 역할을 해요.,normal,,,FALSE
+please,please,,v.,기쁘게 하다 / 만족시키다,She always tries to please her family.,그녀는 항상 가족을 기쁘게 하려고 노력해요.,normal,,,FALSE
+step,step,,n.,걸음 / 단계,Take one step at a time.,한 번에 한 걸음씩 나아가세요.,normal,,,FALSE
+themselves,themselves,,pron.,그들 자신 / 스스로,They cooked the meal themselves.,그들은 스스로 음식을 요리했어요.,function_word,,,FALSE
+raise,raise,,v.,올리다 / 키우다,She raised her hand in class.,그녀는 수업 중에 손을 들었어요.,normal,,,FALSE
+outside,outside,,adj.|n.|prep.,바깥의 / 밖에서,The children are playing outside.,아이들이 밖에서 놀고 있어요.,normal,,,FALSE
+site,site,,n.,장소 / 현장,This is a good site for a picnic.,이곳은 소풍하기 좋은 장소예요.,normal,,,FALSE
+land,land,,v.,착륙하다 / 내리다,The plane landed safely.,비행기가 안전하게 착륙했어요.,normal,,,FALSE
+finally,finally,,adv.,마침내 / 드디어,She finally found her keys.,그녀는 마침내 열쇠를 찾았어요.,normal,,,FALSE
+sign,sign,,n.|v.,표지판 / 서명하다,Please sign your name here.,여기에 이름을 서명해 주세요.,polysemy_split,(서명하다),sign,FALSE
+sign,sign,,n.|v.,표지판 / 신호,She saw a sign on the road.,그녀는 도로에서 표지판을 봤어요.,polysemy_split,(표지판),sign,FALSE
+relationship,relationship,,n.,관계 / 사이,She has a good relationship with her sister.,그녀는 언니와 사이가 좋아요.,normal,,,FALSE
+death,death,,n.,죽음 / 사망,The death of her cat made her sad.,고양이의 죽음이 그녀를 슬프게 했어요.,normal,,,FALSE
+amount,amount,,n.,양 / 금액,She used a small amount of sugar.,그녀는 설탕을 조금만 사용했어요.,normal,,,FALSE
+organization,organization,,n.,단체 / 조직,She joined a community organization.,그녀는 지역 단체에 가입했어요.,normal,,,FALSE
+couple,couple,,n.,두 개 / 커플,The couple walked in the park.,그 커플은 공원을 걸었어요.,normal,,,FALSE
+act,act,,v.,행동하다 / 연기하다,She acted very kindly at the party.,그녀는 파티에서 매우 친절하게 행동했어요.,normal,,,FALSE
+quality,quality,,n.,품질 / 질,This bread is very good quality.,이 빵은 품질이 매우 좋아요.,normal,,,FALSE
+round,round,,adj.|adv.|prep.,둥근 / 주변에,The table is round and big.,그 테이블은 둥글고 커요.,normal,,,FALSE
+opportunity,opportunity,,n.,기회,She had a great opportunity to learn.,그녀는 배울 수 있는 좋은 기회가 있었어요.,normal,,,FALSE
+wish,wish,,n.|v.,소원 / 바라다,She wished for good health.,그녀는 건강을 바랐어요.,normal,,,FALSE
+rest,rest,,n.,휴식 / 나머지,She needs some rest after work.,그녀는 일 후에 휴식이 필요해요.,polysemy_split,(휴식),rest,FALSE
+rest,rest,,v.,쉬다 / 휴식하다,She rested on the sofa all afternoon.,그녀는 오후 내내 소파에서 쉬었어요.,polysemy_split,(쉬다),rest,FALSE
+kid,kid,,n.,아이 / 어린이,The kids are playing in the yard.,아이들이 마당에서 놀고 있어요.,normal,,,FALSE
+industry,industry,,n.,산업 / 업계,She works in the food industry.,그녀는 식품 산업에서 일해요.,normal,,,FALSE
+education,education,,n.,교육 / 학습,Education is important for children.,교육은 아이들에게 중요해요.,normal,,,FALSE
+kill,kill,,v.,죽이다,The cold weather killed the flowers.,추운 날씨가 꽃을 죽였어요.,normal,,,FALSE
+serve,serve,,v.,제공하다 / 섬기다,She served soup to her family.,그녀는 가족에게 수프를 제공했어요.,normal,,,FALSE
+likely,likely,,adj.,~할 것 같은 / 가능성이 높은,It is likely to rain today.,오늘 비가 올 것 같아요.,normal,,,FALSE
+certainly,certainly,,adv.,확실히 / 틀림없이,She will certainly come to dinner.,그녀는 틀림없이 저녁 식사에 올 거예요.,normal,,,FALSE
+national,national,,adj.,국가의 / 전국적인,Today is a national holiday.,오늘은 국가 공휴일이에요.,normal,,,FALSE
+itself,itself,,pron.,그것 자체 / 저절로,The door opened by itself.,문이 저절로 열렸어요.,function_word,,,FALSE
+field,field,,n.,들판 / 분야,The children ran across the field.,아이들이 들판을 가로질러 달렸어요.,normal,,,FALSE

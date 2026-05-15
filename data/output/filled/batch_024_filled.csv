@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+code,code,,n.,코드 / 규칙,What is the zip code here?,여기 우편번호가 뭐예요?,normal,,,FALSE
+accident,accident,,n.,사고 / 실수,She had a car accident yesterday.,그녀는 어제 교통사고를 당했어요.,normal,,,FALSE
+impossible,impossible,,adj.,불가능한,That task is impossible for me.,그 일은 저에게 불가능해요.,normal,,,FALSE
+active,active,,adj.,활동적인 / 적극적인,She is very active every morning.,그녀는 매일 아침 매우 활동적이에요.,normal,,,FALSE
+blow,blow,,v.,불다 / 날리다,The wind blows hard today.,오늘 바람이 세게 불어요.,normal,,,FALSE
+wash,wash,,n.,세탁 / 씻기,She gave the car a wash.,그녀는 차를 세차했어요.,normal,,,FALSE
+stone,stone,,n.,돌 / 돌멩이,The boy threw a stone into the river.,그 소년은 강에 돌을 던졌어요.,normal,,,FALSE
+soldier,soldier,,n.,군인,He became a soldier at twenty.,그는 스무 살에 군인이 되었어요.,normal,,,FALSE
+comfortable,comfortable,,adj.,편안한,This sofa is very comfortable.,이 소파는 매우 편안해요.,normal,,,FALSE
+usual,usual,,adj.,평소의 / 보통의,She woke up at her usual time.,그녀는 평소 시간에 일어났어요.,normal,,,FALSE
+carefully,carefully,,adv.,조심스럽게 / 신중하게,She carefully crossed the road.,그녀는 조심스럽게 길을 건넜어요.,normal,,,FALSE
+pack,pack,,v.,짐을 싸다 / 포장하다,I need to pack my bag now.,저는 지금 가방을 싸야 해요.,normal,,,FALSE
+cycle,cycle,,n.|v.,순환 / 자전거를 타다,He cycles to school every day.,그는 매일 자전거를 타고 학교에 가요.,normal,,,FALSE
+onto,onto,,prep.,~위로 / ~쪽으로,The cat jumped onto the table.,고양이가 탁자 위로 뛰어올랐어요.,function_word,,,FALSE
+vehicle,vehicle,,n.,차량 / 탈것,A big vehicle stopped on the road.,큰 차량이 길 위에 멈췄어요.,normal,,,FALSE
+route,route,,n.,길 / 경로,We took a short route home.,우리는 집으로 가는 짧은 길을 택했어요.,normal,,,FALSE
+belong,belong,,v.,~에 속하다 / ~의 것이다,This bag belongs to my mother.,이 가방은 우리 어머니 것이에요.,normal,,,FALSE
+taste,taste,,n.|v.,맛 / 맛이 나다,This soup tastes very good.,이 수프는 맛이 아주 좋아요.,normal,,,FALSE
+fashion,fashion,,n.,유행 / 패션,She always follows the latest fashion.,그녀는 항상 최신 유행을 따라요.,normal,,,FALSE
+danger,danger,,n.,위험,The child was in danger outside.,그 아이는 밖에서 위험에 처해 있었어요.,normal,,,FALSE
+army,army,,n.,군대,Her son joined the army last year.,그녀의 아들은 작년에 군대에 입대했어요.,normal,,,FALSE
+hurt,hurt,,adj.|v.,다친 / 다치게 하다,She hurt her hand in the kitchen.,그녀는 부엌에서 손을 다쳤어요.,normal,,,FALSE
+normally,normally,,adv.,보통 / 평소에,I normally wake up at six.,저는 보통 여섯 시에 일어나요.,normal,,,FALSE
+gift,gift,,n.,선물 / 재능,She gave me a nice gift today.,그녀는 오늘 저에게 멋진 선물을 줬어요.,normal,,,FALSE
+guest,guest,,n.,손님,We have a guest for dinner tonight.,오늘 저녁 손님이 오세요.,normal,,,FALSE
+anybody,anybody,,pron.,누구든지 / 아무도,Is anybody home right now?,지금 집에 누구 있나요?,function_word,,,FALSE
+noise,noise,,n.,소음 / 시끄러운 소리,The children made a lot of noise.,아이들이 소음을 많이 냈어요.,normal,,,FALSE
+manner,manner,,n.,태도 / 예절,He spoke in a polite manner.,그는 예의 바른 태도로 말했어요.,normal,,,FALSE
+gun,gun,,n.,총,The soldier held a gun carefully.,그 군인은 총을 조심스럽게 들었어요.,normal,,,FALSE
+square,square,,adj.|n.,정사각형의 / 광장,We met at the town square.,우리는 마을 광장에서 만났어요.,polysemy_split,(광장),square,FALSE
+square,square,,adj.|n.,정사각형의,She drew a square shape on paper.,그녀는 종이에 정사각형 모양을 그렸어요.,polysemy_split,(모양),square,FALSE
+destroy,destroy,,v.,파괴하다 / 망치다,The fire destroyed the old house.,화재가 오래된 집을 파괴했어요.,normal,,,FALSE
+temperature,temperature,,n.,온도 / 체온,The temperature is very low today.,오늘 기온이 매우 낮아요.,normal,,,FALSE
+gold,gold,,adj.|n.,금 / 금색의,She wore a gold ring on her finger.,그녀는 손가락에 금반지를 끼고 있었어요.,normal,,,FALSE
+arrangement,arrangement,,n.,준비 / 배열,She made all the arrangements for the trip.,그녀가 여행 준비를 모두 했어요.,normal,,,FALSE
+skin,skin,,n.,피부 / 껍질,She takes good care of her skin.,그녀는 피부 관리를 잘 해요.,normal,,,FALSE
+prison,prison,,n.,교도소 / 감옥,He was sent to prison for three years.,그는 3년간 교도소에 보내졌어요.,normal,,,FALSE
+wood,wood,,n.,나무 / 목재,This table is made of wood.,이 탁자는 나무로 만들어졌어요.,normal,,,FALSE
+shake,shake,,v.,흔들다 / 떨다,She shook her head slowly.,그녀는 천천히 고개를 흔들었어요.,normal,,,FALSE
+hall,hall,,n.,복도 / 홀,The children ran down the hall.,아이들이 복도를 달려 내려갔어요.,normal,,,FALSE
+lawyer,lawyer,,n.,변호사,She called her lawyer right away.,그녀는 바로 변호사에게 전화했어요.,normal,,,FALSE
+complain,complain,,v.,불평하다 / 항의하다,He always complains about the food.,그는 항상 음식에 대해 불평해요.,normal,,,FALSE
+error,error,,n.,실수 / 오류,She made an error on the form.,그녀는 서류에서 실수를 했어요.,normal,,,FALSE
+finger,finger,,n.,손가락,She cut her finger while cooking.,그녀는 요리하다가 손가락을 베었어요.,normal,,,FALSE
+bright,bright,,adj.,밝은 / 똑똑한,The sun is very bright today.,오늘 햇빛이 매우 밝아요.,normal,,,FALSE
+slowly,slowly,,adv.,천천히,She walked slowly along the street.,그녀는 길을 따라 천천히 걸었어요.,normal,,,FALSE
+hole,hole,,n.,구멍,There is a hole in my sock.,제 양말에 구멍이 있어요.,normal,,,FALSE
+tie,tie,,n.|v.,묶다 / 넥타이,He tied his shoes before going out.,그는 나가기 전에 신발 끈을 묶었어요.,normal,,,FALSE
+device,device,,n.,기기 / 장치,She uses this device every morning.,그녀는 매일 아침 이 기기를 사용해요.,normal,,,FALSE
+birth,birth,,n.,출생 / 탄생,The birth of her baby was in May.,그녀의 아기 탄생은 5월이었어요.,normal,,,FALSE
+forest,forest,,n.,숲,We walked through a quiet forest.,우리는 조용한 숲을 걸었어요.,normal,,,FALSE
+factory,factory,,n.,공장,My father works in a factory.,우리 아버지는 공장에서 일하세요.,normal,,,FALSE
+typical,typical,,adj.,전형적인 / 보통의,This is a typical Korean breakfast.,이것은 전형적인 한국 아침 식사예요.,normal,,,FALSE
+bridge,bridge,,n.,다리,We crossed the bridge together.,우리는 함께 다리를 건넜어요.,normal,,,FALSE
+definitely,definitely,,adv.,분명히 / 확실히,She will definitely come tomorrow.,그녀는 내일 분명히 올 거예요.,normal,,,FALSE
+predict,predict,,v.,예측하다,He predicted rain for tomorrow.,그는 내일 비가 올 것이라고 예측했어요.,normal,,,FALSE
+appearance,appearance,,n.,외모 / 모습,She cares about her appearance.,그녀는 자신의 외모에 신경을 써요.,normal,,,FALSE
+narrow,narrow,,adj.,좁은,The road was very narrow here.,이곳의 길은 매우 좁았어요.,normal,,,FALSE
+succeed,succeed,,v.,성공하다,She worked hard and succeeded.,그녀는 열심히 노력해서 성공했어요.,normal,,,FALSE
+wild,wild,,adj.,야생의 / 거친,We saw wild animals in the park.,우리는 공원에서 야생 동물을 봤어요.,normal,,,FALSE
+empty,empty,,adj.,비어 있는,The glass on the table is empty.,탁자 위의 잔이 비어 있어요.,normal,,,FALSE

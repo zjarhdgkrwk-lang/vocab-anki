@@ -1,0 +1,70 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+material,material,,adj.,물질적인 / 중요한,She has all her material needs.,그녀는 물질적인 필요를 모두 갖추고 있어요.,normal,,,FALSE
+wrong,wrong,,n.,잘못 / 나쁜 행동,He knows right from wrong.,그는 옳고 그름을 알아요.,normal,,,FALSE
+pick,pick,,n.,선택 / 고르기,Take your pick from the basket.,바구니에서 원하는 것을 고르세요.,normal,,,FALSE
+patient,patient,,adj.,참을성 있는 / 인내심 있는,She is very patient with children.,그녀는 아이들에게 매우 인내심이 있어요.,normal,,,FALSE
+current,current,,n.,흐름 / 전류,The river has a strong current.,그 강은 물살이 세요.,normal,,,FALSE
+former,former,,adj.,이전의 / 예전의,She met her former teacher today.,그녀는 오늘 예전 선생님을 만났어요.,normal,,,FALSE
+firm,firm,,n.,회사 / 사업체,He works at a law firm.,그는 법률 회사에서 일해요.,normal,,,FALSE
+official,official,,n.,공무원 / 관리,The official signed the paper.,그 공무원이 서류에 서명했어요.,normal,,,FALSE
+structure,structure,,v.,구성하다 / 체계적으로 짜다,She structured her day carefully.,그녀는 하루를 꼼꼼하게 계획했어요.,normal,,,FALSE
+catch,catch,,n.,잡기 / 함정,He made a great catch in the game.,그는 경기에서 멋진 포구를 했어요.,normal,,,FALSE
+thus,thus,,adv.,따라서 / 그러므로,She was tired and thus went to bed.,그녀는 피곤해서 따라서 잠자리에 들었어요.,normal,,,FALSE
+attempt,attempt,,n.,시도,She made an attempt to run.,그녀는 달리기를 시도했어요.,polysemy_split,"(시도, 명사)",attempt,FALSE
+attempt,attempt,,v.,시도하다,He attempted to cook dinner.,그는 저녁을 요리하려고 시도했어요.,polysemy_split,"(시도하다, 동사)",attempt,FALSE
+medium,medium,,n.,중간 / 매체,She ordered a medium coffee.,그녀는 미디엄 커피를 주문했어요.,normal,,,FALSE
+stock,stock,,n.,재고 / 주식,The shop has no stock left.,그 가게에 재고가 없어요.,normal,,,FALSE
+establish,establish,,v.,설립하다 / 확립하다,They established a new school.,그들은 새 학교를 설립했어요.,normal,,,FALSE
+function,function,,v.,작동하다 / 기능하다,The old TV still functions well.,오래된 TV가 아직도 잘 작동해요.,normal,,,FALSE
+contract,contract,,n.,계약 / 계약서,She signed a work contract.,그녀는 근로 계약서에 서명했어요.,polysemy_split,"(계약서, 명사)",contract,FALSE
+contract,contract,,v.,계약하다 / 줄어들다,The muscle contracts when it is cold.,근육은 추울 때 수축해요.,polysemy_split,"(수축하다/계약하다, 동사)",contract,FALSE
+significant,significant,,adj.,중요한 / 상당한,She made a significant change.,그녀는 중요한 변화를 만들었어요.,normal,,,FALSE
+gain,gain,,n.,이익 / 증가,She had a weight gain this month.,그녀는 이번 달에 체중이 늘었어요.,polysemy_split,"(이익/증가, 명사)",gain,FALSE
+gain,gain,,v.,얻다 / 늘다,He gained more confidence each day.,그는 매일 자신감을 더 얻었어요.,polysemy_split,"(얻다, 동사)",gain,FALSE
+stuff,stuff,,v.,가득 채우다 / 쑤셔 넣다,She stuffed the bag with clothes.,그녀는 가방에 옷을 가득 채웠어요.,normal,,,FALSE
+military,military,,adj.,군사의 / 군대의,His son joined the military service.,그의 아들은 군 복무를 시작했어요.,polysemy_split,"(군사의, 형용사)",military,FALSE
+military,military,,n.,군대,She works for the military.,그녀는 군대에서 일해요.,polysemy_split,"(군대, 명사)",military,FALSE
+challenge,challenge,,v.,도전하다 / 이의를 제기하다,He challenged himself to walk daily.,그는 매일 걷기에 도전했어요.,normal,,,FALSE
+strike,strike,,n.,파업 / 치기,The workers went on strike today.,노동자들이 오늘 파업에 들어갔어요.,polysemy_split,"(파업/치기, 명사)",strike,FALSE
+strike,strike,,v.,치다 / 부딪히다,He struck the ball very hard.,그는 공을 매우 세게 쳤어요.,polysemy_split,"(치다, 동사)",strike,FALSE
+seek,seek,,v.,찾다 / 구하다,She seeks help from her family.,그녀는 가족에게 도움을 구해요.,normal,,,FALSE
+target,target,,v.,목표로 삼다 / 겨냥하다,The ad targets older women.,그 광고는 나이 든 여성을 겨냥해요.,normal,,,FALSE
+shall,shall,,modal v.,~할 것이다 / ~할까요,Shall we eat together today?,오늘 같이 밥 먹을까요?,function_word,,,FALSE
+worth,worth,,n.,가치 / 값어치,She knows the worth of hard work.,그녀는 열심히 일하는 것의 가치를 알아요.,normal,,,FALSE
+investment,investment,,n.,투자,She made a good investment this year.,그녀는 올해 좋은 투자를 했어요.,normal,,,FALSE
+trip,trip,,v.,걸려 넘어지다 / 발이 걸리다,She tripped on the stairs and fell.,그녀는 계단에서 걸려 넘어졌어요.,normal,,,FALSE
+beyond,beyond,,adv.|prep.,~너머에 / ~을 넘어서,The park is just beyond the hill.,공원은 언덕 너머에 있어요.,function_word,,,FALSE
+potential,potential,,adj.,잠재적인 / 가능성 있는,She is a potential leader.,그녀는 잠재적인 리더예요.,polysemy_split,"(잠재적인, 형용사)",potential,FALSE
+potential,potential,,n.,잠재력 / 가능성,The boy has great potential.,그 소년은 큰 잠재력이 있어요.,polysemy_split,"(잠재력, 명사)",potential,FALSE
+trouble,trouble,,v.,괴롭히다 / 걱정하게 하다,His health troubles his family.,그의 건강이 가족을 걱정하게 해요.,normal,,,FALSE
+file,file,,v.,서류를 제출하다 / 정리하다,She filed the papers at the office.,그녀는 사무실에서 서류를 제출했어요.,normal,,,FALSE
+bar,bar,,v.,막다 / 금지하다,The door was barred from inside.,문이 안에서 막혀 있었어요.,normal,,,FALSE
+advance,advance,,adj.,미리 하는 / 사전의,Please give advance notice.,미리 알려 주세요.,polysemy_split,"(사전의, 형용사)",advance,FALSE
+advance,advance,,n.,진전 / 전진,We made a big advance this week.,우리는 이번 주에 큰 진전을 이루었어요.,polysemy_split,"(진전, 명사)",advance,FALSE
+advance,advance,,v.,나아가다 / 발전하다,She advanced to the next level.,그녀는 다음 단계로 나아갔어요.,polysemy_split,"(나아가다, 동사)",advance,FALSE
+seat,seat,,v.,앉히다 / 자리에 앉게 하다,The waiter seated us by the window.,웨이터가 우리를 창가에 앉혔어요.,normal,,,FALSE
+associate,associate,,v.,연관 짓다 / 교제하다,She associates summer with the sea.,그녀는 여름을 바다와 연관 지어요.,normal,,,FALSE
+positive,positive,,n.,긍정적인 면 / 양성 반응,Try to focus on the positives.,긍정적인 면에 집중하려고 노력하세요.,normal,,,FALSE
+instance,instance,,n.,예 / 사례,"For instance, she walks every morning.","예를 들어, 그녀는 매일 아침 걸어요.",normal,,,FALSE
+assume,assume,,v.,추측하다 / 당연하게 여기다,I assumed she was at home.,나는 그녀가 집에 있다고 생각했어요.,normal,,,FALSE
+propose,propose,,v.,제안하다 / 청혼하다,He proposed a new plan to us.,그는 우리에게 새 계획을 제안했어요.,normal,,,FALSE
+document,document,,v.,기록하다 / 문서화하다,She documented her trip with photos.,그녀는 사진으로 여행을 기록했어요.,normal,,,FALSE
+bill,bill,,v.,청구하다 / 고지서를 보내다,The hospital billed her for the visit.,병원이 그녀에게 진료비를 청구했어요.,normal,,,FALSE
+operate,operate,,v.,작동하다 / 수술하다,The doctor operated on his knee.,의사가 그의 무릎을 수술했어요.,normal,,,FALSE
+income,income,,n.,수입 / 소득,Her income increased this year.,그녀의 소득이 올해 늘었어요.,normal,,,FALSE
+professional,professional,,n.,전문가 / 프로,She is a health professional.,그녀는 건강 전문가예요.,normal,,,FALSE
+debate,debate,,n.,토론 / 논쟁,There was a debate at school today.,오늘 학교에서 토론이 있었어요.,polysemy_split,"(토론, 명사)",debate,FALSE
+debate,debate,,v.,토론하다 / 논의하다,They debated what to cook for dinner.,그들은 저녁에 무엇을 요리할지 토론했어요.,polysemy_split,"(토론하다, 동사)",debate,FALSE
+object,object,,v.,반대하다 / 이의를 제기하다,She objected to the new rule.,그녀는 새 규칙에 반대했어요.,normal,,,FALSE
+maintain,maintain,,v.,유지하다 / 주장하다,She maintains her garden every week.,그녀는 매주 정원을 관리해요.,normal,,,FALSE
+credit,credit,,v.,인정하다 / 입금하다,The bank credited her account.,은행이 그녀의 계좌에 입금했어요.,normal,,,FALSE
+extend,extend,,v.,늘리다 / 연장하다,She extended her vacation by one week.,그녀는 휴가를 일주일 연장했어요.,normal,,,FALSE
+facility,facility,,n.,시설 / 설비,The school has great sports facilities.,그 학교는 훌륭한 운동 시설이 있어요.,normal,,,FALSE
+screen,screen,,v.,검사하다 / 가리다,The doctor screened her for illness.,의사가 그녀를 질병 검사했어요.,normal,,,FALSE
+track,track,,v.,추적하다 / 기록하다,She tracks her steps every day.,그녀는 매일 걸음 수를 기록해요.,normal,,,FALSE
+agency,agency,,n.,대행사 / 기관,She found a job at a travel agency.,그녀는 여행사에서 일자리를 찾았어요.,normal,,,FALSE
+fix,fix,,n.,해결책 / 곤경,We need a quick fix for this problem.,우리는 이 문제에 대한 빠른 해결책이 필요해요.,normal,,,FALSE
+proposal,proposal,,n.,제안 / 청혼,He made a marriage proposal last night.,그는 어젯밤에 청혼을 했어요.,normal,,,FALSE
+shape,shape,,v.,형성하다 / 만들다,She shaped the dough into a ball.,그녀는 반죽을 공 모양으로 만들었어요.,normal,,,FALSE
+estimate,estimate,,n.,추정 / 견적,The builder gave us a cost estimate.,건축업자가 우리에게 비용 견적을 주었어요.,polysemy_split,"(추정/견적, 명사)",estimate,FALSE
+estimate,estimate,,v.,추정하다 / 어림잡다,She estimated the price of the coat.,그녀는 코트 가격을 어림잡았어요.,polysemy_split,"(추정하다, 동사)",estimate,FALSE

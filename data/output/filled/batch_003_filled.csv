@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+still,still,,adv.,아직도 / 여전히,She is still sleeping.,그녀는 아직도 자고 있어요.,normal,,,FALSE
+problem,problem,,n.,문제 / 어려움,We have a big problem.,우리에게 큰 문제가 생겼어요.,normal,,,FALSE
+write,write,,v.,쓰다 / 적다,She writes a letter every week.,그녀는 매주 편지를 써요.,normal,,,FALSE
+same,same,,adj.|adv.|pron.,같은 / 똑같이,We go to the same school.,우리는 같은 학교에 다녀요.,normal,,,FALSE
+lot,lot,,adv.|det.|pron.,많이 / 많은,She drinks a lot of water.,그녀는 물을 많이 마셔요.,normal,,,FALSE
+great,great,,adj.,훌륭한 / 멋진,She is a great cook.,그녀는 훌륭한 요리사예요.,normal,,,FALSE
+try,try,,v.,해보다 / 노력하다,He tries to wake up early.,그는 일찍 일어나려고 노력해요.,normal,,,FALSE
+leave,leave,,v.,떠나다 / 남겨두다,She leaves home at seven.,그녀는 일곱 시에 집을 나서요.,normal,,,FALSE
+number,number,,n.,숫자 / 번호,What is your phone number?,전화번호가 어떻게 되세요?,normal,,,FALSE
+both,both,,det.|pron.,둘 다 / 양쪽 모두,Both children are very happy.,두 아이 모두 매우 행복해요.,function_word,,,FALSE
+own,own,,adj.|pron.,자신의 / 자기 것,She has her own room.,그녀는 자신만의 방이 있어요.,normal,,,FALSE
+part,part,,n.,부분 / 일부,He ate part of the cake.,그는 케이크의 일부를 먹었어요.,normal,,,FALSE
+point,point,,n.,요점 / 점수,The girl got ten points.,그 소녀는 10점을 받았어요.,polysemy_split,(점수),point,FALSE
+point,point,,n.,요점 / 핵심,I don't understand your point.,당신의 요점을 이해하지 못하겠어요.,polysemy_split,(요점),point,FALSE
+little,little,,adj.|det.|pron.,작은 / 조금,She drinks a little milk.,그녀는 우유를 조금 마셔요.,normal,,,FALSE
+help,help,,n.|v.,돕다 / 도움,She helps her mom every day.,그녀는 매일 엄마를 도와요.,normal,,,FALSE
+ask,ask,,v.,묻다 / 부탁하다,He asks a question in class.,그는 수업 시간에 질문을 해요.,normal,,,FALSE
+meet,meet,,v.,만나다,We meet at the park.,우리는 공원에서 만나요.,normal,,,FALSE
+start,start,,v.,시작하다,School starts at nine.,학교는 아홉 시에 시작해요.,normal,,,FALSE
+talk,talk,,v.,이야기하다 / 말하다,She talks with her friend.,그녀는 친구와 이야기해요.,normal,,,FALSE
+something,something,,pron.,무언가 / 어떤 것,I want to eat something warm.,저는 따뜻한 무언가를 먹고 싶어요.,normal,,,FALSE
+put,put,,v.,놓다 / 두다,She puts the book on the table.,그녀는 책을 탁자 위에 놓아요.,normal,,,FALSE
+another,another,,det.|pron.,또 다른 / 하나 더,Can I have another cup of tea?,차 한 잔 더 마셔도 될까요?,function_word,,,FALSE
+become,become,,v.,~이 되다,She wants to become a teacher.,그녀는 선생님이 되고 싶어요.,normal,,,FALSE
+interest,interest,,n.|v.,관심 / 흥미롭게 하다,She has an interest in cooking.,그녀는 요리에 관심이 있어요.,normal,,,FALSE
+country,country,,n.,나라 / 시골,She lives in a small country.,그녀는 작은 나라에 살아요.,normal,,,FALSE
+old,old,,adj.,나이 든 / 오래된,She has an old cat.,그녀는 나이 든 고양이가 있어요.,normal,,,FALSE
+each,each,,adv.|det.|pron.,각각 / 저마다,Each child has a bag.,각각의 아이들은 가방이 있어요.,function_word,,,FALSE
+school,school,,n.,학교,The boy walks to school.,그 남자아이는 학교까지 걸어가요.,normal,,,FALSE
+late,late,,adj.|adv.,늦은 / 늦게,He came home late.,그는 집에 늦게 왔어요.,normal,,,FALSE
+high,high,,adj.,높은,The mountain is very high.,그 산은 매우 높아요.,normal,,,FALSE
+different,different,,adj.,다른 / 서로 다른,We like different foods.,우리는 서로 다른 음식을 좋아해요.,normal,,,FALSE
+off,off,,adv.|prep.,떨어져서 / 꺼진,Please turn off the light.,불을 꺼 주세요.,normal,,,FALSE
+next,next,,adj.|adv.,다음의 / 바로 옆의,She sits next to me.,그녀는 내 옆에 앉아요.,normal,,,FALSE
+end,end,,n.|v.,끝 / 끝나다,The movie ends at nine.,영화는 아홉 시에 끝나요.,normal,,,FALSE
+live,live,,v.,살다 / 거주하다,She lives with her family.,그녀는 가족과 함께 살아요.,normal,,,FALSE
+why,why,,adv.,왜 / 이유,Why are you sad today?,오늘 왜 슬퍼요?,normal,,,FALSE
+world,world,,n.,세계 / 세상,She wants to see the world.,그녀는 세상을 보고 싶어해요.,normal,,,FALSE
+week,week,,n.,주 / 일주일,I exercise three times a week.,저는 일주일에 세 번 운동해요.,normal,,,FALSE
+play,play,,n.|v.,놀다 / 연주하다,The children play in the yard.,아이들은 마당에서 놀아요.,normal,,,FALSE
+must,must,,modal v.,~해야 한다 / 틀림없다,You must wash your hands.,손을 씻어야 해요.,function_word,,,FALSE
+home,home,,adv.|n.,집 / 집으로,She goes home after work.,그녀는 일이 끝난 후 집에 가요.,normal,,,FALSE
+never,never,,adv.,절대 ~하지 않다,He never eats fast food.,그는 패스트푸드를 절대 먹지 않아요.,normal,,,FALSE
+include,include,,v.,포함하다,The meal includes soup and rice.,식사에는 국과 밥이 포함되어 있어요.,normal,,,FALSE
+course,course,,n.,강좌 / 과정,She takes a cooking course.,그녀는 요리 강좌를 들어요.,normal,,,FALSE
+house,house,,n.,집 / 주택,They have a big house.,그들은 큰 집이 있어요.,normal,,,FALSE
+report,report,,n.,보고서 / 보도,She reads the weather report.,그녀는 날씨 보도를 읽어요.,normal,,,FALSE
+group,group,,n.,그룹 / 무리,We work in a small group.,우리는 작은 그룹으로 일해요.,normal,,,FALSE
+woman,woman,,n.,여성 / 여자,The woman smiles at me.,그 여성이 저에게 미소를 지어요.,normal,,,FALSE
+around,around,,adv.|prep.,주변에 / 대략,She walks around the park.,그녀는 공원 주변을 걸어요.,normal,,,FALSE
+book,book,,n.,책 / 예약하다,She reads a book every night.,그녀는 매일 밤 책을 읽어요.,normal,,,FALSE
+family,family,,adj.|n.,가족,We eat dinner as a family.,우리는 가족이 함께 저녁을 먹어요.,normal,,,FALSE
+let,let,,v.,~하게 하다 / 허락하다,She lets her son play outside.,그녀는 아들이 밖에서 놀게 해줘요.,normal,,,FALSE
+again,again,,adv.,다시 / 또,Please say that again.,다시 한번 말해 주세요.,normal,,,FALSE
+kind,kind,,n.,종류 / 친절한,What kind of food do you like?,어떤 종류의 음식을 좋아하세요?,normal,,,FALSE
+keep,keep,,v.,유지하다 / 계속하다,She keeps her room clean.,그녀는 방을 깨끗하게 유지해요.,normal,,,FALSE
+hear,hear,,v.,듣다 / 들리다,I can hear the birds singing.,새들이 노래하는 소리가 들려요.,normal,,,FALSE
+every,every,,det.,모든 / 매~,She calls her mom every day.,그녀는 매일 엄마에게 전화해요.,function_word,,,FALSE
+question,question,,n.,질문 / 문제,She asks a simple question.,그녀는 간단한 질문을 해요.,normal,,,FALSE
+during,during,,prep.,~하는 동안,She sleeps during the day.,그녀는 낮 동안 잠을 자요.,normal,,,FALSE
+always,always,,adv.,항상 / 언제나,He always eats breakfast.,그는 항상 아침을 먹어요.,normal,,,FALSE

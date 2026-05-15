@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+benefit,benefit,,n.,혜택 / 이점,Exercise has many health benefits.,운동은 건강에 많은 혜택이 있어요.,normal,,,FALSE
+percent,percent,,adj.|adv.|n.,퍼센트 / 백분율,I got 90 percent on the test.,나는 시험에서 90퍼센트를 받았어요.,normal,,,FALSE
+focus,focus,,n.|v.,집중하다 / 초점,She focused on her homework.,그녀는 숙제에 집중했어요.,normal,,,FALSE
+stage,stage,,n.,단계 / 무대,We are in the last stage of the plan.,우리는 계획의 마지막 단계에 있어요.,normal,,,FALSE
+instead,instead,,adv.,대신에,She had tea instead of coffee.,그녀는 커피 대신 차를 마셨어요.,function_word,,,FALSE
+realize,realize,realise,v.,깨닫다 / 알아차리다,I realized I forgot my bag.,나는 가방을 잊어버렸다는 것을 깨달았어요.,normal,,,FALSE
+data,data,,n.,자료 / 데이터,The doctor checked her data carefully.,의사는 그녀의 자료를 꼼꼼히 확인했어요.,normal,,,FALSE
+single,single,,adj.|n.,하나의 / 독신의,She lives in a single room.,그녀는 1인실에 살아요.,normal,,,FALSE
+chance,chance,,n.,기회 / 가능성,She got a chance to travel abroad.,그녀는 해외여행을 할 기회를 얻었어요.,normal,,,FALSE
+accept,accept,,v.,받아들이다 / 수락하다,She accepted his kind offer.,그녀는 그의 친절한 제안을 받아들였어요.,normal,,,FALSE
+society,society,,n.,사회,We all live together in society.,우리는 모두 사회 속에서 함께 살아요.,normal,,,FALSE
+technology,technology,,n.,기술 / 과학기술,New technology makes life easier.,새로운 기술은 삶을 더 편리하게 해줘요.,normal,,,FALSE
+mention,mention,,v.,언급하다 / 말하다,He mentioned her name in class.,그는 수업에서 그녀의 이름을 언급했어요.,normal,,,FALSE
+choice,choice,,n.,선택 / 선택권,She made a good choice at the store.,그녀는 가게에서 좋은 선택을 했어요.,normal,,,FALSE
+save,save,,v.,저축하다 / 구하다,He saved money every month.,그는 매달 돈을 저축했어요.,normal,(돈·시간),,FALSE
+save,save,,v.,구하다,The doctor saved the girl's life.,의사가 그 소녀의 생명을 구했어요.,polysemy_split,(생명·위험),save,FALSE
+material,material,,n.,재료 / 소재,She bought material to make a dress.,그녀는 원피스를 만들 재료를 샀어요.,normal,,,FALSE
+attention,attention,,exclam.|n.,주의 / 집중,Please pay attention to the teacher.,선생님께 주의를 기울여 주세요.,normal,,,FALSE
+check,check,,n.,확인 / 점검,She did a quick check of her bag.,그녀는 가방을 빠르게 확인했어요.,normal,,,FALSE
+pick,pick,,v.,고르다 / 따다,He picked a red apple from the tree.,그는 나무에서 빨간 사과를 땄어요.,normal,,,FALSE
+reduce,reduce,,v.,줄이다 / 낮추다,She reduced the amount of sugar.,그녀는 설탕의 양을 줄였어요.,normal,,,FALSE
+ground,ground,,n.,땅 / 바닥,The boy sat on the ground.,그 소년은 땅에 앉았어요.,normal,,,FALSE
+patient,patient,,n.,환자,The nurse helped the patient eat.,간호사가 환자가 먹는 것을 도왔어요.,normal,,,FALSE
+century,century,,n.,세기 / 100년,She was born in the last century.,그녀는 지난 세기에 태어났어요.,normal,,,FALSE
+evidence,evidence,,n.,증거,The police found clear evidence.,경찰이 명확한 증거를 발견했어요.,normal,,,FALSE
+exist,exist,,v.,존재하다,Many animals exist in the forest.,숲에는 많은 동물들이 존재해요.,normal,,,FALSE
+fight,fight,,n.|v.,싸움 / 싸우다,The boys had a fight at school.,그 소년들은 학교에서 싸움을 했어요.,normal,,,FALSE
+leader,leader,,n.,지도자 / 리더,She is a great leader of the group.,그녀는 그 모임의 훌륭한 지도자예요.,normal,,,FALSE
+response,response,,n.,대답 / 반응,His response made her happy.,그의 대답이 그녀를 기쁘게 했어요.,normal,,,FALSE
+voice,voice,,n.,목소리,She has a very sweet voice.,그녀는 매우 부드러운 목소리를 가지고 있어요.,normal,,,FALSE
+finish,finish,,n.,끝 / 마무리,The race had an exciting finish.,그 경주는 흥미진진한 마무리였어요.,normal,,,FALSE
+suppose,suppose,,v.,생각하다 / 추측하다,I suppose she is at home now.,나는 그녀가 지금 집에 있다고 생각해요.,normal,,,FALSE
+apply,apply,,v.,신청하다 / 적용하다,She applied for a new job.,그녀는 새 일자리에 지원했어요.,normal,,,FALSE
+president,president,,n.,대통령 / 회장,The president spoke on TV.,대통령이 TV에서 연설했어요.,normal,,,FALSE
+fire,fire,,v.,해고하다 / 발사하다,The manager fired two workers.,관리자가 직원 두 명을 해고했어요.,normal,,,FALSE
+knowledge,knowledge,,n.,지식,She has good knowledge of cooking.,그녀는 요리에 대한 지식이 풍부해요.,normal,,,FALSE
+heart,heart,,n.,심장 / 마음,She felt warm in her heart.,그녀는 마음이 따뜻해졌어요.,normal,,,FALSE
+source,source,,n.,출처 / 근원,The sun is a source of energy.,태양은 에너지의 근원이에요.,normal,,,FALSE
+employee,employee,,n.,직원 / 고용인,The employee came to work early.,그 직원은 일찍 출근했어요.,normal,,,FALSE
+manage,manage,,v.,해내다 / 관리하다,She managed to finish her work.,그녀는 자신의 일을 해냈어요.,normal,,,FALSE
+cell,cell,,n.,세포 / 방,Our body is made of many cells.,우리 몸은 많은 세포로 이루어져 있어요.,normal,,,FALSE
+attack,attack,,n.|v.,공격 / 공격하다,The dog attacked the boy.,개가 그 소년을 공격했어요.,normal,,,FALSE
+foreign,foreign,,adj.,외국의,She is studying a foreign language.,그녀는 외국어를 공부하고 있어요.,normal,,,FALSE
+surprise,surprise,,n.|v.,놀라움 / 놀라게 하다,He gave her a surprise gift.,그는 그녀에게 깜짝 선물을 줬어요.,normal,,,FALSE
+feature,feature,,n.,특징 / 특성,The best feature of this phone is the camera.,이 전화기의 가장 좋은 특징은 카메라예요.,normal,,,FALSE
+factor,factor,,n.,요인 / 요소,Food is an important factor in health.,음식은 건강에 중요한 요인이에요.,normal,,,FALSE
+recently,recently,,adv.,최근에,She recently moved to a new house.,그녀는 최근에 새 집으로 이사했어요.,normal,,,FALSE
+affect,affect,,v.,영향을 주다,Cold weather affects her health.,추운 날씨는 그녀의 건강에 영향을 줘요.,normal,,,FALSE
+drop,drop,,v.,떨어뜨리다 / 내리다,She dropped her cup on the floor.,그녀는 컵을 바닥에 떨어뜨렸어요.,normal,,,FALSE
+recent,recent,,adj.,최근의,I read a recent news article.,나는 최근 뉴스 기사를 읽었어요.,normal,,,FALSE
+worry,worry,,v.,걱정하다,She worries about her children every day.,그녀는 매일 자녀들을 걱정해요.,normal,,,FALSE
+inside,inside,,adj.|adv.|n.|prep.,안에 / 내부,The children played inside the house.,아이들은 집 안에서 놀았어요.,function_word,,,FALSE
+manager,manager,,n.,관리자 / 매니저,The manager helped the new employee.,관리자가 새 직원을 도왔어요.,normal,,,FALSE
+international,international,,adj.,국제적인,She went to an international school.,그녀는 국제학교에 다녔어요.,normal,,,FALSE
+contain,contain,,v.,포함하다 / 들어 있다,This soup contains a lot of salt.,이 수프에는 소금이 많이 들어 있어요.,normal,,,FALSE
+notice,notice,,n.|v.,알아차리다 / 공지,She noticed a new sign on the door.,그녀는 문에 새 공지가 붙은 것을 알아차렸어요.,normal,,,FALSE
+nature,nature,,n.,자연 / 본성,She loves walking in nature.,그녀는 자연 속에서 걷는 것을 좋아해요.,normal,,,FALSE
+structure,structure,,n.,구조 / 구성,The structure of the old building is strong.,그 오래된 건물의 구조는 튼튼해요.,normal,,,FALSE
+myself,myself,,pron.,나 자신,I made this cake myself.,나는 이 케이크를 직접 만들었어요.,function_word,,,FALSE
+exactly,exactly,,adv.,정확히 / 바로,She arrived at exactly nine o'clock.,그녀는 정확히 9시에 도착했어요.,normal,,,FALSE
+plant,plant,,v.,심다,She planted flowers in her garden.,그녀는 정원에 꽃을 심었어요.,normal,,,FALSE

@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+tuesday,Tuesday,,n.,화요일,She goes to school on Tuesday.,그녀는 화요일에 학교에 갑니다.,normal,,,FALSE
+tv,TV,,n.,텔레비전,We watch TV after dinner.,우리는 저녁 식사 후 텔레비전을 봅니다.,normal,,,FALSE
+upstairs,upstairs,,adv.,위층으로 / 위층에,She went upstairs to sleep.,그녀는 자러 위층으로 올라갔습니다.,normal,,,FALSE
+us,us,,pron.,우리를 / 우리에게,He helped us carry the bags.,그는 우리가 가방을 나르는 것을 도와줬습니다.,function_word,,,FALSE
+waiter,waiter,,n.,웨이터 / 종업원,The waiter brought our food.,웨이터가 우리 음식을 가져왔습니다.,normal,,,FALSE
+wednesday,Wednesday,,n.,수요일,We meet every Wednesday morning.,우리는 매주 수요일 아침에 만납니다.,normal,,,FALSE
+writing,writing,,n.,글쓰기 / 글,She likes writing in her notebook.,그녀는 공책에 글쓰기를 좋아합니다.,normal,,,FALSE
+your,your,,det.,당신의 / 너의,Is this your bag?,이것이 당신의 가방인가요?,function_word,,,FALSE
+have,have,,auxiliary v.,~했다 (완료 표현),I have eaten breakfast already.,저는 이미 아침을 먹었습니다.,function_word,,,FALSE
+as,as,,adv.|conj.,~처럼 / ~할 때,She sang as she cooked dinner.,그녀는 저녁을 요리하면서 노래했습니다.,function_word,,,FALSE
+all,all,,adv.,완전히 / 모두,The children were all very happy.,아이들은 모두 매우 행복했습니다.,function_word,,,FALSE
+can,can,,n.,캔 / 통조림,She opened a can of soup.,그녀는 수프 캔을 열었습니다.,normal,(용기),,FALSE
+good,good,,n.,선 / 이로움,She does good for her family.,그녀는 가족을 위해 좋은 일을 합니다.,normal,(추상명사),,FALSE
+use,use,,n.,사용 / 쓸모,This tool has many uses at home.,이 도구는 집에서 쓸모가 많습니다.,normal,(명사),,FALSE
+look,look,,n.,표정 / 모습,She had a happy look on her face.,그녀의 얼굴에 행복한 표정이 있었습니다.,normal,(명사),,FALSE
+first,first,,n.,처음 / 첫 번째,She was the first to arrive home.,그녀가 집에 처음 도착했습니다.,normal,(명사),,FALSE
+any,any,,adv.,조금도 / 전혀,I don't feel any better today.,저는 오늘 조금도 나아진 것 같지 않아요.,function_word,,,FALSE
+after,after,,adv.|conj.,~후에 / 나중에,We went home after dinner.,우리는 저녁 식사 후에 집에 갔습니다.,function_word,,,FALSE
+need,need,,n.,필요 / 필요성,There is a need for more food.,더 많은 음식이 필요합니다.,normal,(명사),,FALSE
+back,back,,adj.,뒤의 / 뒤쪽의,We sat in the back row together.,우리는 함께 뒷줄에 앉았습니다.,normal,(형용사),,FALSE
+may,May,,modal v.,~해도 된다 / ~일지도 모른다,It may rain this afternoon.,오늘 오후에 비가 올지도 모릅니다.,function_word,,,FALSE
+such,such,,det.|pron.,그런 / 그와 같은,I have never seen such a big cake.,저는 그런 큰 케이크를 본 적이 없어요.,function_word,,,FALSE
+last,last,,adv.,마지막으로,She arrived last at the party.,그녀는 파티에 마지막으로 도착했습니다.,normal,(부사),,FALSE
+last,last,,n.,마지막 (사람/것),She was the last to leave school.,그녀는 학교에서 마지막으로 떠난 사람이었습니다.,polysemy_split,(명사),last,FALSE
+last,last,,v.,지속되다 / 계속되다,The rain lasted all day long.,비가 하루 종일 계속되었습니다.,polysemy_split,(동사),last,FALSE
+before,before,,adv.|conj.,~전에 / 이전에,She washed her hands before eating.,그녀는 먹기 전에 손을 씻었습니다.,function_word,,,FALSE
+between,between,,adv.,사이에,The cat sat between the two chairs.,고양이가 두 의자 사이에 앉았습니다.,function_word,,,FALSE
+number,number,,v.,번호를 매기다 / 수가 ~이다,She numbered the pages in her book.,그녀는 책의 페이지에 번호를 매겼습니다.,normal,(동사),,FALSE
+own,own,,v.,소유하다 / 가지고 있다,She owns a small house in the village.,그녀는 마을에 작은 집을 소유하고 있습니다.,normal,(동사),,FALSE
+little,little,,adv.,조금 / 거의 ~않게,She sleeps a little after lunch.,그녀는 점심 후에 조금 잡니다.,normal,(부사),,FALSE
+start,start,,n.,시작 / 출발,The start of the class was at nine.,수업의 시작은 9시였습니다.,normal,(명사),,FALSE
+talk,talk,,n.,대화 / 이야기,We had a long talk over tea.,우리는 차를 마시며 긴 대화를 나눴습니다.,normal,(명사),,FALSE
+high,high,,adv.,높이 / 높게,The bird flew high in the sky.,새가 하늘 높이 날았습니다.,normal,(부사),,FALSE
+while,while,,conj.,~하는 동안,He read a book while she cooked.,그녀가 요리하는 동안 그는 책을 읽었습니다.,function_word,,,FALSE
+might,might,,modal v.,~일지도 모른다 / ~할 수도 있다,She might come home late tonight.,그녀는 오늘 밤 늦게 집에 올지도 모릅니다.,function_word,,,FALSE
+home,home,,adj.,집의 / 가정의,She made a home meal for us.,그녀는 우리를 위해 집밥을 만들었습니다.,normal,(형용사),,FALSE
+report,report,,v.,보고하다 / 알리다,He reported the news to his family.,그는 가족에게 소식을 알렸습니다.,normal,(동사),,FALSE
+case,case,,n.,경우 / 사례,"In this case, she stayed at home.","이 경우에, 그녀는 집에 머물렀습니다.",normal,,,FALSE
+book,book,,v.,예약하다,She booked a table at the restaurant.,그녀는 식당에 자리를 예약했습니다.,normal,(동사),,FALSE
+seem,seem,,v.,~처럼 보이다 / ~인 것 같다,She seems very tired today.,그녀는 오늘 매우 피곤해 보입니다.,normal,,,FALSE
+system,system,,n.,체계 / 시스템,The school has a good lunch system.,그 학교는 좋은 점심 급식 시스템이 있습니다.,normal,,,FALSE
+question,question,,v.,질문하다 / 의문을 품다,She questioned the boy about his homework.,그녀는 그 남자아이에게 숙제에 대해 질문했습니다.,normal,(동사),,FALSE
+since,since,,conj.|prep.,~이후로 / ~때문에,She has lived here since last year.,그녀는 작년부터 여기에 살고 있습니다.,function_word,,,FALSE
+run,run,,n.,달리기 / 한 번 달림,She went for a run in the morning.,그녀는 아침에 달리기를 하러 나갔습니다.,normal,(명사),,FALSE
+state,state,,n.,상태 / 나라,The house is in a bad state now.,그 집은 지금 상태가 좋지 않습니다.,normal,,,FALSE
+provide,provide,,v.,제공하다 / 공급하다,She provided food for the whole family.,그녀는 온 가족에게 음식을 제공했습니다.,normal,,,FALSE
+government,government,,n.,정부,The government built a new school here.,정부가 여기에 새 학교를 지었습니다.,normal,,,FALSE
+pay,pay,,n.,급여 / 임금,She got her pay at the end of the month.,그녀는 월말에 급여를 받았습니다.,normal,(명사),,FALSE
+hold,hold,,v.,잡다 / 열다,She held her daughter's hand tightly.,그녀는 딸의 손을 꼭 잡았습니다.,normal,,,FALSE
+service,service,,n.,서비스 / 봉사,The service at the restaurant was great.,그 식당의 서비스는 훌륭했습니다.,normal,,,FALSE
+against,against,,prep.,~에 반대하여 / ~에 기대어,She leaned against the wall to rest.,그녀는 쉬려고 벽에 기댔습니다.,normal,,,FALSE
+second,second,,adv.,두 번째로,He finished second in the race.,그는 경주에서 두 번째로 들어왔습니다.,normal,(부사),,FALSE
+increase,increase,,n.,증가 / 늘어남,There was an increase in food prices.,음식 가격이 증가했습니다.,normal,(명사),,FALSE
+increase,increase,,v.,증가하다 / 늘리다,Her weight increased this winter.,이번 겨울에 그녀의 체중이 늘었습니다.,polysemy_split,(동사),increase,FALSE
+offer,offer,,n.|v.,제안 / 제안하다,He offered her a cup of tea.,그는 그녀에게 차 한 잔을 권했습니다.,normal,,,FALSE
+close,close,,adj.,가까운 / 친밀한,She is very close to her mother.,그녀는 어머니와 매우 가깝습니다.,normal,(형용사),,FALSE
+lead,lead,,v.,이끌다 / 앞서다,She led the children to the classroom.,그녀는 아이들을 교실로 이끌었습니다.,normal,(동사),,FALSE
+hope,hope,,n.,희망 / 바람,She has hope for a better tomorrow.,그녀는 더 나은 내일에 대한 희망을 가지고 있습니다.,normal,(명사),,FALSE
+less,less,,adv.|det.|pron.,더 적게 / 더 적은,She eats less sugar every day now.,그녀는 요즘 매일 설탕을 더 적게 먹습니다.,function_word,,,FALSE
+level,level,,n.,수준 / 단계,Her English level is getting higher.,그녀의 영어 수준이 점점 높아지고 있습니다.,normal,,,FALSE

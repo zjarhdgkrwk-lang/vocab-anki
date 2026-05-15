@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+big,big,,adj.,큰 / 중요한,She has a big dog.,그녀는 큰 개를 키워요.,normal,,,FALSE
+small,small,,adj.,작은,He has a small bag.,그는 작은 가방을 가지고 있어요.,normal,,,FALSE
+study,study,,n.|v.,공부하다 / 공부,I study English every day.,저는 매일 영어를 공부해요.,normal,,,FALSE
+follow,follow,,v.,따라가다 / 따르다,The girl followed her mom.,그 소녀는 엄마를 따라갔어요.,normal,,,FALSE
+begin,begin,,v.,시작하다,The class begins at nine.,수업은 9시에 시작해요.,normal,,,FALSE
+important,important,,adj.,중요한,Water is important for us.,물은 우리에게 중요해요.,normal,,,FALSE
+run,run,,v.,달리다 / 운영하다,The boy runs in the park.,그 소년은 공원에서 달려요.,normal,,,FALSE
+under,under,,adv.|prep.,아래에 / ~보다 적은,The cat is under the table.,고양이가 탁자 아래에 있어요.,function_word,,,FALSE
+turn,turn,,n.|v.,돌다 / 차례,She turned left at the corner.,그녀는 모퉁이에서 왼쪽으로 돌았어요.,polysemy_split,(돌다),turn,FALSE
+turn,turn,,n.|v.,차례 / 순서,It is my turn now.,지금은 제 차례예요.,polysemy_split,(차례),turn,FALSE
+few,few,,adj.|det.|pron.,거의 없는 / 몇 안 되는,I have a few friends here.,저는 여기에 친구가 몇 명 있어요.,function_word,,,FALSE
+bring,bring,,v.,가져오다 / 데려오다,He brought flowers for me.,그가 저를 위해 꽃을 가져왔어요.,normal,,,FALSE
+early,early,,adj.|adv.,이른 / 일찍,She wakes up early every day.,그녀는 매일 일찍 일어나요.,normal,,,FALSE
+hand,hand,,n.,손,She washed her hands.,그녀는 손을 씻었어요.,normal,,,FALSE
+move,move,,v.,움직이다 / 이사하다,We moved to a new house.,저희는 새 집으로 이사했어요.,normal,,,FALSE
+money,money,,n.,돈,I need money to buy food.,저는 음식을 사려고 돈이 필요해요.,normal,,,FALSE
+fact,fact,,n.,사실,That is a simple fact.,그것은 간단한 사실이에요.,normal,,,FALSE
+however,however,,adv.,그러나 / 하지만,"I was tired. However, I cooked dinner.",저는 피곤했어요. 그러나 저녁을 요리했어요.,function_word,,,FALSE
+area,area,,n.,지역 / 구역,She lives in a quiet area.,그녀는 조용한 지역에 살아요.,normal,,,FALSE
+name,name,,n.|v.,이름 / 이름을 짓다,My name is Mina.,제 이름은 미나예요.,normal,,,FALSE
+read,read,,v.,읽다,I read a book every night.,저는 매일 밤 책을 읽어요.,normal,,,FALSE
+friend,friend,,n.,친구,She called her old friend.,그녀는 오랜 친구에게 전화했어요.,normal,,,FALSE
+month,month,,n.,달 / 한 달,I visit my mom every month.,저는 매달 엄마를 방문해요.,normal,,,FALSE
+large,large,,adj.,큰 / 넓은,They live in a large house.,그들은 큰 집에 살아요.,normal,,,FALSE
+business,business,,n.,사업 / 업무,She runs a small business.,그녀는 작은 사업을 운영해요.,normal,,,FALSE
+without,without,,prep.,~없이,I drink coffee without sugar.,저는 설탕 없이 커피를 마셔요.,function_word,,,FALSE
+information,information,,n.,정보,She found useful information online.,그녀는 온라인에서 유용한 정보를 찾았어요.,normal,,,FALSE
+open,open,,adj.|v.,열다 / 열린,He opened the window.,그가 창문을 열었어요.,normal,,,FALSE
+order,order,,n.,순서 / 명령,Please stand in order.,순서대로 서 주세요.,polysemy_split,(순서·명령),order,FALSE
+order,order,,v.,주문하다 / 명령하다,She ordered soup and bread.,그녀는 수프와 빵을 주문했어요.,polysemy_split,(주문하다),order,FALSE
+word,word,,n.,단어 / 말,I learned a new word today.,오늘 새 단어를 배웠어요.,normal,,,FALSE
+market,market,,n.,시장,We buy fruit at the market.,저희는 시장에서 과일을 사요.,normal,,,FALSE
+pay,pay,,v.,돈을 내다 / 지불하다,I paid for the food.,저는 음식값을 냈어요.,normal,,,FALSE
+build,build,,v.,짓다 / 만들다,They built a new school.,그들은 새 학교를 지었어요.,normal,,,FALSE
+believe,believe,,v.,믿다 / 생각하다,I believe she is kind.,저는 그녀가 친절하다고 믿어요.,normal,,,FALSE
+second,second,,det.,두 번째의,She lives on the second floor.,그녀는 2층에 살아요.,polysemy_split,(두 번째),second,FALSE
+second,second,,n.,초 (시간 단위),"Wait just one second, please.","잠깐만요, 1초만 기다려 주세요.",polysemy_split,(시간: 초),second,FALSE
+second,second,,number,2번 / 두 번째,He finished in second place.,그는 2등으로 들어왔어요.,polysemy_split,(순위: 2등),second,FALSE
+yes,yes,,exclam.,네 / 그렇습니다,"Yes, I like this food.","네, 저는 이 음식이 좋아요.",function_word,,,FALSE
+love,love,,n.|v.,사랑하다 / 사랑,I love my family.,저는 가족을 사랑해요.,normal,,,FALSE
+job,job,,n.,직업 / 일,She has a new job.,그녀는 새 직업이 생겼어요.,normal,,,FALSE
+plan,plan,,n.|v.,계획 / 계획하다,We have a plan for the trip.,저희는 여행 계획이 있어요.,normal,,,FALSE
+result,result,,n.,결과,The test result was good.,시험 결과가 좋았어요.,normal,,,FALSE
+away,away,,adv.,떨어져 / 멀리,She walked away slowly.,그녀는 천천히 멀어졌어요.,function_word,,,FALSE
+example,example,,n.,예 / 예시,"Give me an example, please.",예시를 하나 들어 주세요.,normal,,,FALSE
+happen,happen,,v.,일어나다 / 발생하다,What happened this morning?,오늘 아침에 무슨 일이 있었나요?,normal,,,FALSE
+young,young,,adj.,젊은 / 어린,She looks very young.,그녀는 매우 젊어 보여요.,normal,,,FALSE
+close,close,,v.,닫다,Please close the door.,문을 닫아 주세요.,normal,,,FALSE
+program,program,,n.,프로그램 / 방송,I watched a cooking program.,저는 요리 프로그램을 봤어요.,normal,,,FALSE
+buy,buy,,v.,사다 / 구입하다,She bought new shoes.,그녀는 새 신발을 샀어요.,normal,,,FALSE
+understand,understand,,v.,이해하다,I understand your question.,저는 당신의 질문을 이해해요.,normal,,,FALSE
+thank,thank,,v.,감사하다 / 고마워하다,I thanked her for the gift.,저는 선물에 대해 그녀에게 감사했어요.,normal,,,FALSE
+far,far,,adv.,멀리 / 훨씬,The school is not far away.,학교는 멀지 않아요.,normal,,,FALSE
+today,today,,adv.|n.,오늘,Today is my birthday.,오늘은 제 생일이에요.,function_word,,,FALSE
+hour,hour,,n.,시간 (1시간),I wait for one hour.,저는 한 시간을 기다려요.,normal,,,FALSE
+student,student,,n.,학생,She is a good student.,그녀는 훌륭한 학생이에요.,normal,,,FALSE
+face,face,,n.,얼굴,She has a kind face.,그녀는 친절한 얼굴을 가지고 있어요.,normal,,,FALSE
+hope,hope,,v.,바라다 / 희망하다,I hope you feel better.,빨리 나으시길 바라요.,normal,,,FALSE
+idea,idea,,n.,생각 / 아이디어,She had a great idea.,그녀는 멋진 생각이 떠올랐어요.,normal,,,FALSE
+cost,cost,,n.|v.,비용 / 값이 나가다,How much does it cost?,이것은 얼마예요?,normal,,,FALSE
+room,room,,n.,방 / 공간,My room is clean and bright.,제 방은 깨끗하고 밝아요.,normal,,,FALSE

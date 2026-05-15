@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+until,until,,conj.|prep.,~까지,She waited until her mom came home.,그녀는 엄마가 집에 올 때까지 기다렸어요.,function_word,,,FALSE
+reason,reason,,n.,이유 / 이유,What is the reason you are late?,늦은 이유가 뭔가요?,normal,,,FALSE
+form,form,,n.|v.,양식 / 만들다,Please fill out this form.,이 양식을 작성해 주세요.,polysemy_split,"(양식, 서류)",,FALSE
+form,form,,n.|v.,만들다 / 형성하다,The children formed a circle.,아이들이 원을 만들었어요.,polysemy_split,(만들다),form,FALSE
+spend,spend,,v.,(돈을) 쓰다 / (시간을) 보내다,She spends a lot of money on food.,그녀는 음식에 돈을 많이 써요.,normal,,,FALSE
+head,head,,n.,머리,He has a pain in his head.,그는 머리가 아파요.,normal,,,FALSE
+car,car,,n.,자동차,My dad drives a red car.,우리 아빠는 빨간 자동차를 운전해요.,normal,,,FALSE
+learn,learn,,v.,배우다,She is learning English every day.,그녀는 매일 영어를 배우고 있어요.,normal,,,FALSE
+person,person,,n.,사람,She is a kind person.,그녀는 친절한 사람이에요.,normal,,,FALSE
+once,once,,adv.,한 번 / 한때,I go to the gym once a week.,저는 일주일에 한 번 헬스장에 가요.,normal,,,FALSE
+member,member,,n.,회원 / 구성원,She is a member of our club.,그녀는 우리 클럽 회원이에요.,normal,,,FALSE
+enough,enough,,adv.|det.|pron.,충분히 / 충분한,I have enough money to buy food.,저는 음식을 살 충분한 돈이 있어요.,function_word,,,FALSE
+bad,bad,,adj.,나쁜 / 안 좋은,Today was a bad day for me.,오늘은 저에게 안 좋은 날이었어요.,normal,,,FALSE
+city,city,,n.,도시,She lives in a big city.,그녀는 큰 도시에 살아요.,normal,,,FALSE
+night,night,,n.,밤,We had dinner together last night.,우리는 어젯밤에 함께 저녁을 먹었어요.,normal,,,FALSE
+line,line,,n.,줄 / 선,Please stand in line here.,여기 줄을 서 주세요.,normal,,,FALSE
+present,present,,adj.,참석한 / 현재의,All the students are present today.,오늘 학생들이 모두 참석했어요.,polysemy_split,"(참석한, 현재의)",,FALSE
+present,present,,n.,선물,She gave me a nice present.,그녀가 저에게 멋진 선물을 줬어요.,polysemy_split,(선물),present,FALSE
+quite,quite,,adv.,꽤 / 상당히,This bag is quite heavy.,이 가방은 꽤 무거워요.,normal,,,FALSE
+sure,sure,,adj.,확신하는 / 확실한,I am sure she will come.,저는 그녀가 올 거라고 확신해요.,normal,,,FALSE
+age,age,,n.,나이 / 시대,What is your age?,나이가 어떻게 되세요?,normal,,,FALSE
+speak,speak,,v.,말하다,She speaks English very well.,그녀는 영어를 아주 잘 말해요.,normal,,,FALSE
+often,often,,adv.,자주 / 종종,We often eat together at home.,우리는 집에서 자주 함께 식사해요.,normal,,,FALSE
+train,train,,n.,기차,We took the train to the city.,우리는 도시까지 기차를 탔어요.,normal,,,FALSE
+possible,possible,,adj.,가능한,Is it possible to meet tomorrow?,내일 만나는 것이 가능한가요?,normal,,,FALSE
+together,together,,adv.,함께,The family eats together every evening.,가족이 매일 저녁 함께 식사해요.,function_word,,,FALSE
+price,price,,n.,가격,The price of this dress is high.,이 드레스의 가격이 높아요.,normal,,,FALSE
+parent,parent,,n.,부모,Her parents live in Seoul.,그녀의 부모님은 서울에 살아요.,normal,,,FALSE
+hard,hard,,adj.|adv.,어려운 / 열심히,She studies hard every day.,그녀는 매일 열심히 공부해요.,normal,,,FALSE
+party,party,,n.,파티 / 모임,We had a birthday party at home.,우리는 집에서 생일 파티를 열었어요.,normal,,,FALSE
+local,local,,adj.,지역의 / 동네의,I buy food at the local market.,저는 동네 시장에서 음식을 사요.,normal,,,FALSE
+product,product,,n.,제품,This product is very good.,이 제품은 아주 좋아요.,normal,,,FALSE
+lose,lose,,v.,잃다 / 지다,He lost his keys this morning.,그는 오늘 아침 열쇠를 잃어버렸어요.,normal,,,FALSE
+story,story,,n.,이야기,The girl read a funny story.,그 소녀는 재미있는 이야기를 읽었어요.,normal,,,FALSE
+stand,stand,,v.,서다 / 서 있다,Please stand up and say your name.,일어서서 이름을 말해 주세요.,normal,,,FALSE
+ever,ever,,adv.,한 번이라도 / 언제나,Have you ever eaten sushi?,초밥을 한 번이라도 먹어 본 적 있어요?,normal,,,FALSE
+anything,anything,,pron.,무엇이든 / 아무것도,Do you need anything from the store?,가게에서 필요한 것이 있나요?,function_word,,,FALSE
+fall,fall,,n.,가을,The leaves are beautiful in fall.,가을에는 나뭇잎이 아름다워요.,polysemy_split,(가을),,FALSE
+fall,fall,,v.,떨어지다 / 넘어지다,The boy fell on the wet floor.,그 소년은 젖은 바닥에서 넘어졌어요.,polysemy_split,(넘어지다),fall,FALSE
+water,water,,n.,물,She drinks a glass of water every morning.,그녀는 매일 아침 물 한 잔을 마셔요.,normal,,,FALSE
+send,send,,v.,보내다,She sent a letter to her mother.,그녀는 엄마에게 편지를 보냈어요.,normal,,,FALSE
+soon,soon,,adv.,곧,Dinner will be ready soon.,저녁이 곧 준비될 거예요.,normal,,,FALSE
+watch,watch,,n.,손목시계,He got a new watch for his birthday.,그는 생일에 새 손목시계를 받았어요.,polysemy_split,(손목시계),,FALSE
+watch,watch,,v.,보다 / 지켜보다,We watched a movie last night.,우리는 어젯밤에 영화를 봤어요.,polysemy_split,(보다),watch,FALSE
+probably,probably,,adv.,아마도,She will probably come tomorrow.,그녀는 아마도 내일 올 거예요.,normal,,,FALSE
+past,past,,adj.|n.|prep.,과거의 / 지나서,"In the past, she lived in Busan.",과거에 그녀는 부산에 살았어요.,normal,,,TRUE
+test,test,,n.|v.,시험 / 시험을 보다,The girl passed her English test.,그 소녀는 영어 시험에 합격했어요.,normal,,,FALSE
+visit,visit,,n.|v.,방문하다 / 방문,We visited my grandmother last Sunday.,우리는 지난 일요일에 할머니를 방문했어요.,normal,,,FALSE
+center,center,,n.,중심 / 센터,The school is in the center of town.,학교는 마을 중심에 있어요.,normal,,,FALSE
+grow,grow,,v.,자라다 / 키우다,The boy grew very fast this year.,그 소년은 올해 아주 빨리 자랐어요.,normal,,,FALSE
+nothing,nothing,,pron.,아무것도 없다,There is nothing in the bag.,가방 안에 아무것도 없어요.,function_word,,,FALSE
+return,return,,n.|v.,돌아오다 / 돌아옴,She returned home after dinner.,그녀는 저녁 식사 후 집에 돌아왔어요.,normal,,,FALSE
+mother,mother,,n.,어머니 / 엄마,My mother cooks every morning.,우리 어머니는 매일 아침 요리를 해요.,normal,,,FALSE
+walk,walk,,n.|v.,걷다 / 산책,She walks to the market every day.,그녀는 매일 시장까지 걸어가요.,normal,,,FALSE
+office,office,,n.,사무실,He works in a small office.,그는 작은 사무실에서 일해요.,normal,,,FALSE
+stay,stay,,v.,머무르다 / 있다,She stayed home all day.,그녀는 하루 종일 집에 있었어요.,normal,,,FALSE
+stop,stop,,n.|v.,멈추다 / 정류장,The bus stopped in front of my house.,버스가 우리 집 앞에서 멈췄어요.,normal,,,FALSE
+light,light,,adj.,가벼운 / 밝은,This bag is very light.,이 가방은 아주 가벼워요.,polysemy_split,"(가벼운, 밝은)",,FALSE
+light,light,,n.,빛 / 불,Please turn on the light.,불을 켜 주세요.,polysemy_split,"(빛, 불)",light,FALSE
+remember,remember,,v.,기억하다,I remember her phone number.,저는 그녀의 전화번호를 기억해요.,normal,,,FALSE
+share,share,,v.,나누다 / 공유하다,The children shared food at lunch.,아이들이 점심에 음식을 나눠 먹었어요.,normal,,,FALSE

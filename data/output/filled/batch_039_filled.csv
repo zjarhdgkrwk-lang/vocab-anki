@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+naturally,naturally,,adv.,자연스럽게 / 당연히,She naturally smiled at the baby.,그녀는 자연스럽게 아기에게 미소를 지었어요.,normal,,,FALSE
+currency,currency,,n.,화폐 / 통화,The currency of Japan is the yen.,일본의 화폐는 엔이에요.,normal,,,FALSE
+rarely,rarely,,adv.,거의 ~하지 않다,She rarely eats fast food.,그녀는 패스트푸드를 거의 먹지 않아요.,normal,,,FALSE
+western,western,,adj.,서쪽의 / 서양의,He likes western food very much.,그는 서양 음식을 아주 좋아해요.,normal,,,FALSE
+muscle,muscle,,n.,근육,His arms have big muscles.,그의 팔에는 근육이 커요.,normal,,,FALSE
+album,album,,n.,앨범 / 사진첩,She showed me her photo album.,그녀는 나에게 사진첩을 보여줬어요.,normal,,,FALSE
+frighten,frighten,,v.,겁주다 / 무섭게 하다,The loud noise frightened the girl.,큰 소리가 그 소녀를 겁먹게 했어요.,normal,,,FALSE
+poem,poem,,n.,시,She wrote a short poem for her mom.,그녀는 엄마를 위해 짧은 시를 썼어요.,normal,,,FALSE
+competitor,competitor,,n.,경쟁자 / 경쟁 상대,He beat his main competitor in the race.,그는 경주에서 주요 경쟁자를 이겼어요.,normal,,,FALSE
+alcohol,alcohol,,n.,술 / 알코올,She does not drink alcohol.,그녀는 술을 마시지 않아요.,normal,,,FALSE
+confident,confident,,adj.,자신감 있는,She felt confident before the test.,그녀는 시험 전에 자신감을 느꼈어요.,normal,,,FALSE
+entrance,entrance,,n.,입구 / 들어가기,We waited at the entrance of the school.,우리는 학교 입구에서 기다렸어요.,normal,,,FALSE
+giant,giant,,adj.|n.,거대한 / 거인,There is a giant tree in the garden.,정원에 거대한 나무가 있어요.,normal,,,FALSE
+substance,substance,,n.,물질,Water is a clear substance.,물은 투명한 물질이에요.,normal,,,FALSE
+smooth,smooth,,adj.,매끄러운 / 부드러운,The baby's skin is very smooth.,아기의 피부는 아주 매끄러워요.,normal,,,FALSE
+similarly,similarly,,adv.,비슷하게 / 마찬가지로,She cooks similarly to her mother.,그녀는 어머니와 비슷하게 요리해요.,normal,,,FALSE
+statistic,statistic,,n.,통계 / 수치,The statistics show that prices went up.,통계에 따르면 물가가 올랐어요.,normal,,,FALSE
+regularly,regularly,,adv.,규칙적으로 / 정기적으로,She exercises regularly every morning.,그녀는 매일 아침 규칙적으로 운동해요.,normal,,,FALSE
+iron,iron,,n.|v.,다리미질하다,She irons her shirt every morning.,그녀는 매일 아침 셔츠를 다림질해요.,polysemy_split,(다림질하다),iron,FALSE
+iron,iron,,n.|v.,철 / 다리미,The gate is made of iron.,그 문은 철로 만들어졌어요.,polysemy_split,(철/다리미),iron,FALSE
+bend,bend,,n.|v.,구부리다 / 굽다,She bent down to pick up the bag.,그녀는 가방을 집으려고 몸을 구부렸어요.,normal,,,FALSE
+alarm,alarm,,n.,경보 / 자명종,The alarm woke me up at six.,자명종이 여섯 시에 나를 깨웠어요.,normal,,,FALSE
+flood,flood,,n.|v.,홍수 / 넘치다,Heavy rain caused a big flood.,폭우가 큰 홍수를 일으켰어요.,normal,,,FALSE
+poverty,poverty,,n.,가난 / 빈곤,Many families live in poverty.,많은 가족들이 가난 속에 살아요.,normal,,,FALSE
+lip,lip,,n.,입술,She put on pink lip color.,그녀는 분홍색 립 색상을 발랐어요.,normal,,,FALSE
+apologize,apologize,,v.,사과하다,He apologized to his friend.,그는 친구에게 사과했어요.,normal,,,FALSE
+translate,translate,,v.,번역하다,She translated the letter into Korean.,그녀는 편지를 한국어로 번역했어요.,normal,,,FALSE
+pleasant,pleasant,,adj.,즐거운 / 기분 좋은,We had a pleasant walk in the park.,우리는 공원에서 즐거운 산책을 했어요.,normal,,,FALSE
+overseas,overseas,,adj.,해외의 / 외국의,She has an overseas trip next month.,그녀는 다음 달에 해외여행이 있어요.,normal,,,FALSE
+summary,summary,,n.,요약 / 정리,He wrote a short summary of the book.,그는 책의 짧은 요약을 썼어요.,normal,,,FALSE
+rough,rough,,adj.,거친 / 험한,The road was rough and bumpy.,그 길은 거칠고 울퉁불퉁했어요.,normal,,,FALSE
+tube,tube,,n.,관 / 튜브,She put the cream in a small tube.,그녀는 크림을 작은 튜브에 넣었어요.,normal,,,FALSE
+admire,admire,,v.,감탄하다 / 존경하다,I admire my grandmother very much.,나는 할머니를 아주 존경해요.,normal,,,FALSE
+illegal,illegal,,adj.,불법의,It is illegal to park here.,여기에 주차하는 것은 불법이에요.,normal,,,FALSE
+eastern,eastern,,adj.,동쪽의 / 동양의,She loves eastern food like sushi.,그녀는 초밥 같은 동양 음식을 좋아해요.,normal,,,FALSE
+custom,custom,,n.,풍습 / 관습,It is a custom to bow in Korea.,한국에서는 절하는 것이 관습이에요.,normal,,,FALSE
+sand,sand,,n.,모래,The children played in the sand.,아이들이 모래에서 놀았어요.,normal,,,FALSE
+cap,cap,,n.,모자 / 뚜껑,He wore a blue cap outside.,그는 밖에서 파란 모자를 썼어요.,normal,,,FALSE
+mess,mess,,n.,엉망 / 어지러움,The kitchen was a big mess.,부엌이 아주 엉망이었어요.,normal,,,FALSE
+cream,cream,,adj.,크림색의,She wore a cream dress to the party.,그녀는 파티에 크림색 드레스를 입었어요.,normal,,,FALSE
+bury,bury,,v.,묻다 / 매장하다,The dog buried the bone in the garden.,개가 정원에 뼈를 묻었어요.,normal,,,FALSE
+mad,mad,,adj.,화난 / 미친,She was mad at her brother.,그녀는 남동생에게 화가 났어요.,normal,,,FALSE
+impressive,impressive,,adj.,인상적인 / 감동적인,The view from the top was impressive.,꼭대기에서의 경치는 인상적이었어요.,normal,,,FALSE
+violent,violent,,adj.,폭력적인 / 난폭한,The storm was sudden and violent.,폭풍은 갑작스럽고 난폭했어요.,normal,,,FALSE
+slave,slave,,n.,노예,History class taught us about slaves.,역사 수업에서 노예에 대해 배웠어요.,normal,,,FALSE
+journal,journal,,n.,일기 / 잡지,She writes in her journal every night.,그녀는 매일 밤 일기를 써요.,normal,,,FALSE
+coal,coal,,n.,석탄,They used coal to heat the house.,그들은 집을 데우기 위해 석탄을 사용했어요.,normal,,,FALSE
+successfully,successfully,,adv.,성공적으로,She successfully passed the test.,그녀는 시험을 성공적으로 통과했어요.,normal,,,FALSE
+laboratory,laboratory,,n.,실험실,The students worked in the laboratory.,학생들이 실험실에서 작업했어요.,normal,,,FALSE
+passion,passion,,n.,열정 / 열망,She has a great passion for cooking.,그녀는 요리에 대한 열정이 커요.,normal,,,FALSE
+champion,champion,,n.,챔피언 / 우승자,He became the swimming champion.,그는 수영 챔피언이 됐어요.,normal,,,FALSE
+dust,dust,,n.,먼지,There is a lot of dust on the shelf.,선반에 먼지가 많이 있어요.,normal,,,FALSE
+announcement,announcement,,n.,공지 / 발표,The teacher made an announcement.,선생님이 공지를 했어요.,normal,,,FALSE
+chest,chest,,n.,가슴 / 상자,He felt pain in his chest.,그는 가슴에 통증을 느꼈어요.,normal,,,FALSE
+silent,silent,,adj.,조용한 / 침묵의,The house was silent at night.,밤에 집이 조용했어요.,normal,,,FALSE
+celebration,celebration,,n.,축하 / 기념행사,We had a big celebration for her birthday.,우리는 그녀의 생일을 위해 성대한 축하 행사를 했어요.,normal,,,FALSE
+weigh,weigh,,v.,무게를 재다 / 무게가 나가다,She weighs the fruit at the market.,그녀는 시장에서 과일의 무게를 재요.,normal,,,FALSE
+friendship,friendship,,n.,우정 / 친분,Their friendship started in school.,그들의 우정은 학교에서 시작됐어요.,normal,,,FALSE
+profession,profession,,n.,직업 / 전문직,Teaching is a respected profession.,가르치는 일은 존경받는 직업이에요.,normal,,,FALSE
+entertain,entertain,,v.,즐겁게 하다 / 대접하다,She entertained the children with songs.,그녀는 노래로 아이들을 즐겁게 했어요.,normal,,,FALSE
+historic,historic,,adj.,역사적인,We visited a historic place in the city.,우리는 도시의 역사적인 장소를 방문했어요.,normal,,,FALSE

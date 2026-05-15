@@ -1,0 +1,66 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+install,install,,v.,설치하다,He installed a new app on his phone.,그는 휴대폰에 새 앱을 설치했다.,normal,,,FALSE
+calculate,calculate,,v.,계산하다,She calculated the price of the food.,그녀는 음식 가격을 계산했다.,normal,,,FALSE
+upper,upper,,adj.,위쪽의 / 상부의,She sleeps in the upper bed.,그녀는 위쪽 침대에서 잔다.,normal,,,FALSE
+creation,creation,,n.,창조 / 만들어낸 것,The cake was her own creation.,그 케이크는 그녀만의 창작품이었다.,normal,,,FALSE
+outline,outline,,n.|v.,(명사) 윤곽 / 개요,She drew the outline of a house.,그녀는 집의 윤곽을 그렸다.,polysemy_split,(윤곽/개요),,FALSE
+outline,outline,,n.|v.,(동사) 요약하다 / 개요를 설명하다,He outlined his plan to the family.,그는 가족에게 자신의 계획을 요약해서 설명했다.,polysemy_split,(요약하다),outline,FALSE
+preserve,preserve,,v.,보존하다 / 지키다,We must preserve this old building.,우리는 이 오래된 건물을 보존해야 한다.,normal,,,FALSE
+split,split,,n.|v.,(동사) 나누다 / 쪼개다,They split the cake into four pieces.,그들은 케이크를 네 조각으로 나눴다.,polysemy_split,(나누다),,FALSE
+split,split,,n.|v.,(명사) 분리 / 갈라짐,There was a split in the wood.,나무에 갈라진 틈이 생겼다.,polysemy_split,(갈라짐),split,FALSE
+consistent,consistent,,adj.,한결같은 / 일관된,She is consistent in her work every day.,그녀는 매일 일에서 한결같다.,normal,,,FALSE
+aside,aside,,adv.,옆으로 / 따로,He stepped aside to let her pass.,그는 그녀가 지나가도록 옆으로 비켜섰다.,normal,,,FALSE
+comfort,comfort,,n.|v.,(명사) 편안함 / 위로,She finds comfort in a warm cup of tea.,그녀는 따뜻한 차 한 잔에서 위로를 얻는다.,polysemy_split,(편안함/위로),,FALSE
+comfort,comfort,,n.|v.,(동사) 위로하다,She comforted her crying child.,그녀는 우는 아이를 위로했다.,polysemy_split,(위로하다),comfort,FALSE
+severe,severe,,adj.,심각한 / 극심한,He had a severe pain in his back.,그는 등에 극심한 통증이 있었다.,normal,,,FALSE
+prospect,prospect,,n.,전망 / 가능성,She has good prospects for her future.,그녀는 미래에 좋은 전망이 있다.,normal,,,FALSE
+plot,plot,,v.,꾸미다 / 계획하다,The boys plotted a surprise for their mom.,남자아이들은 엄마를 위한 깜짝 이벤트를 꾸몄다.,normal,,,FALSE
+criticism,criticism,,n.,비판 / 비난,She accepted his criticism with a smile.,그녀는 그의 비판을 미소로 받아들였다.,normal,,,FALSE
+bet,bet,,n.|v.,(동사) 내기하다 / 확신하다,I bet she will come to the party.,나는 그녀가 파티에 올 거라고 확신한다.,polysemy_split,(내기하다/확신하다),,FALSE
+bet,bet,,n.|v.,(명사) 내기,We made a bet on the game.,우리는 그 경기에 내기를 했다.,polysemy_split,(내기),bet,FALSE
+retain,retain,,v.,유지하다 / 보유하다,She retained her calm during the storm.,그녀는 폭풍 속에서도 침착함을 유지했다.,normal,,,FALSE
+sequence,sequence,,n.,순서 / 연속,She followed the sequence of steps carefully.,그녀는 단계 순서를 주의 깊게 따랐다.,normal,,,FALSE
+plain,plain,,adj.,수수한 / plain한,She wore a plain white shirt today.,그녀는 오늘 수수한 흰 셔츠를 입었다.,normal,,,FALSE
+rural,rural,,adj.,시골의 / 농촌의,She grew up in a rural village.,그녀는 시골 마을에서 자랐다.,normal,,,FALSE
+abandon,abandon,,v.,버리다 / 포기하다,He abandoned his old bicycle by the road.,그는 낡은 자전거를 길가에 버렸다.,normal,,,FALSE
+examination,examination,,n.,시험 / 검사,She passed her English examination easily.,그녀는 영어 시험을 쉽게 통과했다.,normal,,,FALSE
+silence,silence,,n.,침묵 / 고요함,There was silence in the house at night.,밤에 집 안은 고요했다.,normal,,,FALSE
+rapidly,rapidly,,adv.,빠르게 / 급격히,The girl rapidly finished her homework.,그 소녀는 숙제를 빠르게 끝냈다.,normal,,,FALSE
+efficient,efficient,,adj.,효율적인,She found a more efficient way to cook.,그녀는 요리하는 더 효율적인 방법을 찾았다.,normal,,,FALSE
+revolution,revolution,,n.,혁명 / 큰 변화,The new machine caused a revolution in farming.,새 기계는 농업에 큰 변화를 일으켰다.,normal,,,FALSE
+lean,lean,,v.,기대다 / 기울다,She leaned against the wall to rest.,그녀는 쉬려고 벽에 기댔다.,normal,,,FALSE
+dramatic,dramatic,,adj.,극적인 / 인상적인,There was a dramatic change in the weather.,날씨에 극적인 변화가 있었다.,normal,,,FALSE
+distribute,distribute,,v.,나눠주다 / 배포하다,The teacher distributed books to the students.,선생님은 학생들에게 책을 나눠줬다.,normal,,,FALSE
+crucial,crucial,,adj.,매우 중요한 / 결정적인,Sleep is crucial for good health.,수면은 건강에 매우 중요하다.,normal,,,FALSE
+crop,crop,,n.,농작물 / 수확물,The farmers had a good crop this year.,농부들은 올해 농작물이 풍작이었다.,normal,,,FALSE
+minority,minority,,n.,소수 / 소수 집단,Only a minority of students chose that class.,소수의 학생들만 그 수업을 선택했다.,normal,,,FALSE
+origin,origin,,n.,기원 / 출신,She is curious about the origin of this dish.,그녀는 이 음식의 기원이 궁금하다.,normal,,,FALSE
+landscape,landscape,,n.,풍경 / 경치,The rural landscape was beautiful in spring.,봄의 시골 풍경은 아름다웠다.,normal,,,FALSE
+fault,fault,,n.,잘못 / 결함,It was his fault that the door was broken.,문이 부서진 것은 그의 잘못이었다.,normal,,,FALSE
+exhibit,exhibit,,n.|v.,(동사) 전시하다 / 보여주다,She exhibited her paintings at the gallery.,그녀는 갤러리에서 자신의 그림을 전시했다.,polysemy_split,(전시하다),,FALSE
+exhibit,exhibit,,n.|v.,(명사) 전시물 / 전시품,The children loved the new exhibit at the museum.,아이들은 박물관의 새 전시물을 매우 좋아했다.,polysemy_split,(전시물),exhibit,FALSE
+minor,minor,,adj.,작은 / 사소한,She had a minor cold last week.,그녀는 지난주에 가벼운 감기에 걸렸다.,normal,,,FALSE
+hunt,hunt,,n.,사냥 / 수색,The children went on a treasure hunt.,아이들은 보물 찾기를 하러 갔다.,normal,,,FALSE
+dominate,dominate,,v.,지배하다 / 압도하다,She dominated the cooking class with her skills.,그녀는 자신의 실력으로 요리 수업을 압도했다.,normal,,,FALSE
+deeply,deeply,,adv.,깊이 / 매우,She was deeply moved by the story.,그녀는 그 이야기에 깊이 감동받았다.,normal,,,FALSE
+ultimately,ultimately,,adv.,결국 / 마침내,He ultimately decided to stay at home.,그는 결국 집에 있기로 결정했다.,normal,,,FALSE
+proof,proof,,n.,증거 / 증명,She showed proof that she paid the bill.,그녀는 청구서를 지불했다는 증거를 보여줬다.,normal,,,FALSE
+preparation,preparation,,n.,준비 / 대비,She finished her preparation for dinner early.,그녀는 저녁 식사 준비를 일찍 끝냈다.,normal,,,FALSE
+agenda,agenda,,n.,의제 / 일정,The meeting agenda was shared with everyone.,회의 의제가 모든 사람에게 공유되었다.,normal,,,FALSE
+emphasis,emphasis,,n.,강조 / 중점,She put emphasis on eating healthy food.,그녀는 건강한 음식 먹기를 강조했다.,normal,,,FALSE
+edition,edition,,n.,판 / 호,She bought the new edition of the cookbook.,그녀는 요리책의 새 판을 구매했다.,normal,,,FALSE
+wire,wire,,n.,전선 / 철사,The boy fixed the broken wire at home.,그 남자아이는 집에서 끊어진 전선을 고쳤다.,normal,,,FALSE
+publication,publication,,n.,출판 / 출판물,Her first publication was a small cookbook.,그녀의 첫 출판물은 작은 요리책이었다.,normal,,,FALSE
+slight,slight,,adj.,약간의 / 미미한,She felt a slight pain in her leg.,그녀는 다리에 약간의 통증을 느꼈다.,normal,,,FALSE
+unknown,unknown,,adj.,알려지지 않은 / 미지의,The origin of the dish is still unknown.,그 음식의 기원은 아직도 알려지지 않았다.,normal,,,FALSE
+zone,zone,,n.,구역 / 지역,Children must stay in the safe zone.,아이들은 안전 구역 안에 있어야 한다.,normal,,,FALSE
+inch,inch,,n.,인치 (약 2.5cm),The baby grew two inches in one month.,아기는 한 달에 2인치가 자랐다.,normal,,,FALSE
+elderly,elderly,,adj.,나이 드신 / 노년의,She helps elderly people in her neighborhood.,그녀는 동네의 노인들을 돕는다.,normal,,,FALSE
+owe,owe,,v.,빚지다 / 신세지다,He owes his friend ten dollars.,그는 친구에게 10달러를 빚지고 있다.,normal,,,FALSE
+governor,governor,,n.,주지사 / 총독,The governor visited our school last week.,주지사가 지난주에 우리 학교를 방문했다.,normal,,,FALSE
+pitch,pitch,,n.,음높이 / 경기장,Her voice has a high pitch when she sings.,그녀가 노래할 때 목소리의 음높이가 높다.,normal,,,TRUE
+contemporary,contemporary,,adj.,현대의 / 동시대의,She likes contemporary music and dance.,그녀는 현대 음악과 춤을 좋아한다.,normal,,,FALSE
+specialist,specialist,,adj.|n.,전문가 / 전문적인,She visited a specialist for her back pain.,그녀는 허리 통증으로 전문의를 찾아갔다.,normal,,,FALSE
+numerous,numerous,,adj.,수많은 / 다수의,She has numerous photos of her family.,그녀는 가족 사진이 수없이 많다.,normal,,,FALSE
+submit,submit,,v.,제출하다 / 내다,She submitted her homework to the teacher.,그녀는 선생님께 숙제를 제출했다.,normal,,,FALSE
+sensitive,sensitive,,adj.,예민한 / 민감한,She has sensitive skin in cold weather.,그녀는 추운 날씨에 피부가 민감하다.,normal,,,FALSE

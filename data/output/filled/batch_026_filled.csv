@@ -1,0 +1,61 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+metal,metal,,n.,금속,The chair is made of metal.,그 의자는 금속으로 만들어졌어요.,normal,,,FALSE
+bone,bone,,n.,뼈,She broke a bone in her arm.,그녀는 팔 뼈가 부러졌어요.,normal,,,FALSE
+plastic,plastic,,adj.|n.,플라스틱 / 플라스틱으로 만든,The bottle is made of plastic.,그 병은 플라스틱으로 만들어졌어요.,normal,,,FALSE
+boss,boss,,n.,상사 / 사장,My boss is very kind.,제 상사는 매우 친절해요.,normal,,,FALSE
+extreme,extreme,,adj.,극도의 / 심한,We had extreme cold this winter.,이번 겨울에는 극심한 추위가 있었어요.,normal,,,FALSE
+pocket,pocket,,n.,주머니,He put his keys in his pocket.,그는 열쇠를 주머니에 넣었어요.,normal,,,FALSE
+lucky,lucky,,adj.,운이 좋은,She is lucky to have a good family.,그녀는 좋은 가족이 있어서 운이 좋아요.,normal,,,FALSE
+unusual,unusual,,adj.,특이한 / 흔치 않은,The weather is unusual today.,오늘 날씨가 특이해요.,normal,,,FALSE
+king,king,,n.,왕,The king lived in a big castle.,왕은 큰 성에 살았어요.,normal,,,FALSE
+repair,repair,,v.,고치다 / 수리하다,He repaired the old bike.,그는 오래된 자전거를 고쳤어요.,normal,,,FALSE
+borrow,borrow,,v.,빌리다,Can I borrow your pen?,펜을 빌릴 수 있을까요?,normal,,,FALSE
+reporter,reporter,,n.,기자,The reporter asked many questions.,기자는 많은 질문을 했어요.,normal,,,FALSE
+climate,climate,,n.,기후,Korea has four seasons in its climate.,한국은 기후에 사계절이 있어요.,normal,,,FALSE
+chip,chip,,n.,칩 / 조각,She ate a bag of chips.,그녀는 감자칩 한 봉지를 먹었어요.,normal,,,FALSE
+winner,winner,,n.,우승자 / 승리자,She was the winner of the race.,그녀가 그 경주의 우승자였어요.,normal,,,FALSE
+mathematics,mathematics,,n.,수학,She is good at mathematics.,그녀는 수학을 잘해요.,normal,,,FALSE
+luck,luck,,n.,운 / 행운,Good luck on your exam!,시험 잘 보세요!,normal,,,FALSE
+illness,illness,,n.,병 / 질병,She stayed home because of illness.,그녀는 병 때문에 집에 있었어요.,normal,,,FALSE
+journalist,journalist,,n.,기자 / 언론인,The journalist wrote a long story.,그 기자는 긴 기사를 썼어요.,normal,,,FALSE
+advertisement,advertisement,,n.,광고,I saw an advertisement on TV.,저는 TV에서 광고를 봤어요.,normal,,,FALSE
+neck,neck,,n.,목,She wore a scarf around her neck.,그녀는 목에 스카프를 둘렀어요.,normal,,,FALSE
+wheel,wheel,,n.,바퀴,The wheel of the car is flat.,자동차 바퀴가 펑크났어요.,normal,,,FALSE
+drama,drama,,n.,드라마 / 연극,She watches a Korean drama every night.,그녀는 매일 밤 한국 드라마를 봐요.,normal,,,FALSE
+toy,toy,,adj.|n.,장난감,The boy played with his toy car.,남자아이가 장난감 자동차로 놀았어요.,normal,,,FALSE
+storm,storm,,n.|v.,폭풍 / 폭풍이 몰아치다,A big storm hit our town last night.,어젯밤 큰 폭풍이 우리 마을을 덮쳤어요.,normal,,,FALSE
+thick,thick,,adj.,두꺼운 / 짙은,She wore a thick coat in winter.,그녀는 겨울에 두꺼운 코트를 입었어요.,normal,,,FALSE
+prize,prize,,n.,상 / 상품,She won first prize in the contest.,그녀는 대회에서 1등 상을 받았어요.,normal,,,FALSE
+laughter,laughter,,n.,웃음 / 웃음소리,I heard laughter from the next room.,옆방에서 웃음소리가 들렸어요.,normal,,,FALSE
+electricity,electricity,,n.,전기,We use electricity every day at home.,우리는 집에서 매일 전기를 사용해요.,normal,,,FALSE
+roof,roof,,n.,지붕,The roof of the house is red.,그 집의 지붕은 빨간색이에요.,normal,,,FALSE
+silver,silver,,adj.|n.,은 / 은색의,She has a beautiful silver ring.,그녀는 아름다운 은반지를 가지고 있어요.,normal,,,FALSE
+uniform,uniform,,n.,제복 / 교복,The students wear a blue uniform.,학생들은 파란 교복을 입어요.,normal,,,FALSE
+gate,gate,,n.,문 / 출입문,Please close the gate when you leave.,나가실 때 문을 닫아 주세요.,normal,,,FALSE
+profile,profile,,n.,프로필 / 옆모습,She updated her profile on the app.,그녀는 앱에서 프로필을 업데이트했어요.,normal,,,FALSE
+nervous,nervous,,adj.,긴장한 / 불안한,She felt nervous before the test.,그녀는 시험 전에 긴장했어요.,normal,,,FALSE
+wet,wet,,adj.,젖은,My hair is wet from the rain.,비를 맞아 머리가 젖었어요.,normal,,,FALSE
+cloud,cloud,,n.,구름,There are many clouds in the sky today.,오늘 하늘에 구름이 많아요.,normal,,,FALSE
+anymore,anymore,,adv.,더 이상 (~않다),She does not eat meat anymore.,그녀는 더 이상 고기를 먹지 않아요.,function_word,,,FALSE
+hero,hero,,n.,영웅,The boy wants to be a hero.,그 남자아이는 영웅이 되고 싶어해요.,normal,,,FALSE
+sail,sail,,v.,항해하다 / 배를 타다,We sailed across the sea last summer.,우리는 지난여름 바다를 항해했어요.,normal,,,FALSE
+disaster,disaster,,n.,재난 / 재해,The flood was a big disaster.,홍수는 큰 재난이었어요.,normal,,,FALSE
+sir,sir,,n.,선생님 / 어르신 (남성 존칭),"Excuse me, sir. Can you help me?",실례합니다. 좀 도와주실 수 있나요?,normal,,,FALSE
+height,height,,n.,키 / 높이,His height is 170 centimeters.,그의 키는 170센티미터예요.,normal,,,FALSE
+badly,badly,,adv.,심하게 / 나쁘게,She was badly hurt in the fall.,그녀는 넘어져서 심하게 다쳤어요.,normal,,,FALSE
+everyday,everyday,,adj.,일상적인 / 매일의,Cooking is part of my everyday life.,요리는 제 일상생활의 일부예요.,normal,,,FALSE
+essay,essay,,n.,에세이 / 글,She wrote an essay about her family.,그녀는 가족에 대한 에세이를 썼어요.,normal,,,FALSE
+pollution,pollution,,n.,오염,Air pollution is bad for our health.,대기 오염은 건강에 나빠요.,normal,,,FALSE
+furniture,furniture,,n.,가구,We bought new furniture for the living room.,우리는 거실에 새 가구를 샀어요.,normal,,,FALSE
+symbol,symbol,,n.,상징 / 기호,The dove is a symbol of peace.,비둘기는 평화의 상징이에요.,normal,,,FALSE
+platform,platform,,n.,플랫폼 / 승강장,We waited on the platform for the train.,우리는 기차를 기다리며 승강장에 있었어요.,normal,,,FALSE
+designer,designer,,n.,디자이너,She works as a fashion designer.,그녀는 패션 디자이너로 일해요.,normal,,,FALSE
+grass,grass,,n.,풀 / 잔디,The children played on the green grass.,아이들이 푸른 잔디 위에서 놀았어요.,normal,,,FALSE
+invitation,invitation,,n.,초대 / 초대장,She got an invitation to the party.,그녀는 파티 초대장을 받았어요.,normal,,,FALSE
+brilliant,brilliant,,adj.,훌륭한 / 뛰어난,She had a brilliant idea for dinner.,그녀는 저녁 식사를 위한 훌륭한 아이디어가 있었어요.,normal,,,FALSE
+mirror,mirror,,n.,거울,She looked at herself in the mirror.,그녀는 거울을 보았어요.,normal,,,FALSE
+awful,awful,,adj.,끔찍한 / 형편없는,The food at that place was awful.,그곳 음식은 형편없었어요.,normal,,,FALSE
+creative,creative,,adj.,창의적인,She is a very creative girl.,그녀는 매우 창의적인 여자아이예요.,normal,,,FALSE
+planet,planet,,n.,행성,Earth is the third planet from the sun.,지구는 태양에서 세 번째 행성이에요.,normal,,,FALSE
+knee,knee,,n.,무릎,He hurt his knee while playing soccer.,그는 축구를 하다가 무릎을 다쳤어요.,normal,,,FALSE
+web,web,,n.,거미줄 / 웹,I found the answer on the web.,저는 웹에서 답을 찾았어요.,normal,,,FALSE

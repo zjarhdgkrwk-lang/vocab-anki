@@ -1,0 +1,62 @@
+lemma,display_word,variant,oxford_pos,meaning_ko,example_en,example_ko,card_type,sense_hint,split_from,needs_review
+warm,warm,,v.,따뜻하게 하다,She warmed the soup on the stove.,그녀는 스토브에서 수프를 데웠어요.,normal,,,FALSE
+count,count,,n.,수 / 셈,The count of students is twenty.,학생 수는 스물이에요.,normal,,,FALSE
+content,content,,n.,내용 / 내용물,She read the content of the letter.,그녀는 편지의 내용을 읽었어요.,normal,,,FALSE
+mix,mix,,n.|v.,섞다 / 혼합물,She mixed flour and sugar together.,그녀는 밀가루와 설탕을 함께 섞었어요.,normal,,,FALSE
+element,element,,n.,요소 / 성분,Water is an important element of life.,물은 생활의 중요한 요소예요.,normal,,,FALSE
+effective,effective,,adj.,효과적인,This medicine is very effective.,이 약은 매우 효과적이에요.,normal,,,FALSE
+admit,admit,,v.,인정하다 / 들어오게 하다,He admitted that he was wrong.,그는 자신이 틀렸다고 인정했어요.,normal,,,FALSE
+aware,aware,,adj.,알고 있는 / 인식하는,She was aware of the danger.,그녀는 위험을 알고 있었어요.,normal,,,FALSE
+administration,administration,,n.,행정 / 관리,She works in school administration.,그녀는 학교 행정 일을 해요.,normal,,,FALSE
+complex,complex,,adj.,복잡한,The math problem was very complex.,그 수학 문제는 매우 복잡했어요.,normal,,,FALSE
+directly,directly,,adv.,직접 / 바로,She went directly to the market.,그녀는 바로 시장으로 갔어요.,normal,,,FALSE
+extra,extra,,adv.|n.,추가로 / 여분의 것,She paid a little extra for the bag.,그녀는 가방에 조금 더 돈을 냈어요.,normal,,,FALSE
+sample,sample,,n.,견본 / 샘플,She got a free sample at the store.,그녀는 가게에서 무료 샘플을 받았어요.,normal,,,FALSE
+deliver,deliver,,v.,배달하다 / 전달하다,He delivered the package to our home.,그는 우리 집에 택배를 배달했어요.,normal,,,FALSE
+connection,connection,,n.,연결 / 관계,There is a strong connection between them.,그들 사이에는 강한 연결이 있어요.,normal,,,FALSE
+primary,primary,,adj.,주요한 / 첫 번째의,Her primary goal is to be healthy.,그녀의 주요 목표는 건강해지는 거예요.,normal,,,FALSE
+highly,highly,,adv.,매우 / 높이,She is highly respected by everyone.,그녀는 모든 사람에게 매우 존경받아요.,normal,,,FALSE
+absolutely,absolutely,,adv.,완전히 / 절대적으로,I absolutely love this food.,저는 이 음식이 완전히 좋아요.,normal,,,FALSE
+flow,flow,,n.|v.,흐르다 / 흐름,The river flows slowly today.,강이 오늘 천천히 흘러요.,normal,,,FALSE
+responsible,responsible,,adj.,책임이 있는,She is responsible for the children.,그녀는 아이들을 책임지고 있어요.,normal,,,FALSE
+collection,collection,,n.,수집 / 모음,She has a big collection of cups.,그녀는 컵을 많이 모아 두었어요.,normal,,,FALSE
+hang,hang,,v.,걸다 / 매달다,She hung her coat on the door.,그녀는 문에 코트를 걸었어요.,normal,,,FALSE
+relative,relative,,adj.|n.,친척 / 상대적인,She visited a relative in Seoul.,그녀는 서울에 있는 친척을 방문했어요.,polysemy_split,(친척),,FALSE
+relative,relative,,adj.|n.,상대적인,Everything is relative to your situation.,모든 것은 상황에 따라 상대적이에요.,polysemy_split,(상대적인),relative,FALSE
+tour,tour,,v.,여행하다 / 둘러보다,We toured the old village last week.,우리는 지난주에 오래된 마을을 둘러봤어요.,normal,,,FALSE
+alternative,alternative,,adj.,대안적인 / 다른,She chose an alternative way home.,그녀는 집에 가는 다른 길을 골랐어요.,normal,,,FALSE
+software,software,,n.,소프트웨어 / 프로그램,He installed new software on the computer.,그는 컴퓨터에 새 프로그램을 설치했어요.,normal,,,FALSE
+attitude,attitude,,n.,태도 / 마음가짐,She has a positive attitude every day.,그녀는 매일 긍정적인 태도를 가져요.,normal,,,FALSE
+cheap,cheap,,adv.,싸게,She bought the dress very cheap.,그녀는 드레스를 매우 싸게 샀어요.,normal,,,FALSE
+double,double,,adv.,두 배로,The price has doubled this year.,올해 가격이 두 배가 되었어요.,normal,,,FALSE
+truth,truth,,n.,진실 / 사실,She always tells the truth.,그녀는 항상 진실을 말해요.,normal,,,FALSE
+examine,examine,,v.,살펴보다 / 검사하다,The doctor examined her carefully.,의사가 그녀를 꼼꼼히 검사했어요.,normal,,,FALSE
+lay,lay,,v.,놓다 / 눕히다,She laid the baby on the bed.,그녀는 아기를 침대에 눕혔어요.,normal,,,FALSE
+politics,politics,,n.,정치,He is not interested in politics.,그는 정치에 관심이 없어요.,normal,,,FALSE
+slightly,slightly,,adv.,약간 / 조금,The soup is slightly too salty.,수프가 약간 너무 짜요.,normal,,,FALSE
+intend,intend,,v.,~할 작정이다 / 의도하다,I intend to visit my friend tomorrow.,나는 내일 친구를 방문할 작정이에요.,normal,,,FALSE
+slow,slow,,v.,느리게 하다 / 속도를 줄이다,She slowed down near the school.,그녀는 학교 근처에서 속도를 줄였어요.,normal,,,FALSE
+apart,apart,,adv.,떨어져 / 따로,The two houses are far apart.,두 집은 서로 멀리 떨어져 있어요.,normal,,,FALSE
+suit,suit,,v.,어울리다 / 맞다,That color suits you very well.,그 색이 당신에게 매우 잘 어울려요.,normal,,,FALSE
+federal,federal,,adj.,연방의,It is a federal law in the country.,그것은 그 나라의 연방 법이에요.,normal,,,FALSE
+percentage,percentage,,n.,비율 / 퍼센트,A large percentage of women walk daily.,많은 비율의 여성들이 매일 걸어요.,normal,,,FALSE
+decade,decade,,n.,10년,She lived in Japan for a decade.,그녀는 10년 동안 일본에서 살았어요.,normal,,,FALSE
+warn,warn,,v.,경고하다,She warned him about the icy road.,그녀는 그에게 빙판길에 대해 경고했어요.,normal,,,FALSE
+consumer,consumer,,n.,소비자,The consumer bought a new phone.,소비자가 새 휴대폰을 샀어요.,normal,,,FALSE
+favor,favor,favour,n.,호의 / 부탁,"Can you do me a favor, please?",저에게 부탁 하나 들어줄 수 있어요?,normal,,,FALSE
+spot,spot,,n.,장소 / 자리,We found a nice spot for lunch.,우리는 점심 먹기 좋은 장소를 찾았어요.,normal,,,FALSE
+eventually,eventually,,adv.,결국 / 마침내,She eventually found her lost key.,그녀는 결국 잃어버린 열쇠를 찾았어요.,normal,,,FALSE
+importance,importance,,n.,중요성,She knows the importance of sleep.,그녀는 잠의 중요성을 알아요.,normal,,,FALSE
+cool,cool,,v.,식히다 / 차갑게 하다,She cooled the soup before eating.,그녀는 먹기 전에 수프를 식혔어요.,normal,,,FALSE
+wave,wave,,v.,손을 흔들다 / 흔들다,She waved goodbye to her friend.,그녀는 친구에게 손을 흔들며 작별 인사를 했어요.,normal,,,FALSE
+surface,surface,,n.,표면 / 겉면,The surface of the table is clean.,탁자의 표면이 깨끗해요.,normal,,,FALSE
+edge,edge,,n.,끝 / 가장자리,She sat at the edge of the bed.,그녀는 침대 끝에 앉았어요.,normal,,,FALSE
+global,global,,adj.,전 세계적인,Global weather is changing every year.,전 세계 날씨가 매년 변하고 있어요.,normal,,,FALSE
+contrast,contrast,,n.|v.,대조 / 대비하다,She contrasted the two dresses carefully.,그녀는 두 드레스를 꼼꼼히 비교했어요.,normal,,,FALSE
+roll,roll,,n.|v.,굴리다 / 구르다,The ball rolled down the hill.,공이 언덕 아래로 굴러갔어요.,normal,,,FALSE
+reality,reality,,n.,현실,She faced the reality of her life.,그녀는 자신의 삶의 현실을 받아들였어요.,normal,,,FALSE
+shift,shift,,n.,변화 / 교대 근무,She works the night shift at the hospital.,그녀는 병원에서 밤 교대 근무를 해요.,normal,,,FALSE
+net,net,,n.,그물 / 네트,He caught a fish with a net.,그는 그물로 물고기를 잡았어요.,normal,,,FALSE
+category,category,,n.,범주 / 종류,This book is in the cooking category.,이 책은 요리 종류에 속해요.,normal,,,FALSE
+spread,spread,,v.,펴다 / 퍼지다,She spread butter on the bread.,그녀는 빵에 버터를 발랐어요.,normal,,,FALSE
+nuclear,nuclear,,adj.,핵의 / 원자력의,The country uses nuclear energy.,그 나라는 원자력 에너지를 사용해요.,normal,,,FALSE
